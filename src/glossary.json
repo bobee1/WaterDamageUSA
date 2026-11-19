@@ -1,0 +1,685 @@
+[
+ {
+  "term": "ACV (actual cash value)",
+  "slug": "acv",
+  "def": "What an item was worth when it was damaged: replacement cost minus wear and age. Many policies pay ACV unless you have replacement cost cover.",
+  "link": [
+   "Homeowners insurance and water damage",
+   "/blog/does-homeowners-insurance-cover-water-damage/"
+  ],
+  "match": [
+   "actual cash value"
+  ]
+ },
+ {
+  "term": "Air mover",
+  "slug": "air-mover",
+  "def": "A high-speed fan that blows air across wet floors and walls to speed up evaporation. Restoration crews place them in a pattern around the room.",
+  "link": [
+   "Water mitigation and drying",
+   "/services/water-mitigation/"
+  ],
+  "match": [
+   "air movers",
+   "air mover"
+  ]
+ },
+ {
+  "term": "Air scrubber",
+  "slug": "air-scrubber",
+  "def": "A portable machine that pulls room air through a HEPA filter to catch mold spores and dust during cleanup.",
+  "link": [
+   "Mold remediation",
+   "/services/mold-remediation/"
+  ],
+  "match": [
+   "air scrubbers",
+   "air scrubber"
+  ]
+ },
+ {
+  "term": "Anode rod",
+  "slug": "anode-rod",
+  "def": "A metal rod inside a tank water heater that corrodes in place of the tank. A worn-out rod lets the tank rust and leak.",
+  "link": [
+   "Water heater leaking from the bottom",
+   "/blog/water-heater-leaking-from-bottom/"
+  ],
+  "match": [
+   "anode rod"
+  ]
+ },
+ {
+  "term": "Antimicrobial",
+  "slug": "antimicrobial",
+  "def": "A cleaner that kills or slows bacteria and mold on surfaces after water damage.",
+  "link": [
+   "Sewage cleanup",
+   "/services/sewage-cleanup/"
+  ],
+  "match": [
+   "antimicrobial"
+  ]
+ },
+ {
+  "term": "Backwater valve",
+  "slug": "backwater-valve",
+  "def": "A one-way valve on a home's sewer line that lets waste flow out but closes if sewage tries to flow back in.",
+  "link": [
+   "Sewage backup in the basement",
+   "/blog/sewage-backup-in-basement/"
+  ],
+  "match": [
+   "backwater valve",
+   "backflow valve"
+  ]
+ },
+ {
+  "term": "Black water",
+  "slug": "black-water",
+  "def": "Category 3 water: highly contaminated water such as sewage or floodwater from rivers. It needs protective gear and disinfection.",
+  "link": [
+   "Sewage cleanup",
+   "/services/sewage-cleanup/"
+  ],
+  "match": [
+   "black water"
+  ]
+ },
+ {
+  "term": "Category 1 water",
+  "slug": "category-1-water",
+  "def": "Clean water from a sanitary source, such as a broken supply line. It can turn into Category 2 or 3 if it sits.",
+  "link": [
+   "Water damage restoration process",
+   "/blog/water-damage-restoration-process/"
+  ],
+  "match": [
+   "Category 1"
+  ]
+ },
+ {
+  "term": "Category 2 water",
+  "slug": "category-2-water",
+  "def": "Gray water that holds some contamination, such as washing machine or dishwasher discharge.",
+  "link": [
+   "Water damage restoration process",
+   "/blog/water-damage-restoration-process/"
+  ],
+  "match": [
+   "Category 2"
+  ]
+ },
+ {
+  "term": "Category 3 water",
+  "slug": "category-3-water",
+  "def": "Black water that is grossly contaminated, such as sewage, toilet backflow with feces, or floodwater from outside.",
+  "link": [
+   "Sewage cleanup",
+   "/services/sewage-cleanup/"
+  ],
+  "match": [
+   "Category 3"
+  ]
+ },
+ {
+  "term": "Class of water damage",
+  "slug": "class-of-water-damage",
+  "def": "A scale from Class 1 to 4 in the IICRC S500 standard. It rates how much of a room got wet and how much water soaked in. It sets how much drying gear a job needs.",
+  "link": [
+   "Water mitigation",
+   "/services/water-mitigation/"
+  ],
+  "match": [
+   "Class 1",
+   "Class 4"
+  ]
+ },
+ {
+  "term": "Containment",
+  "slug": "containment",
+  "def": "Plastic sheeting and air pressure control that keep dust, mold or sewage inside the work area.",
+  "link": [
+   "Mold remediation",
+   "/services/mold-remediation/"
+  ],
+  "match": [
+   "containment"
+  ]
+ },
+ {
+  "term": "Crawl space",
+  "slug": "crawl-space",
+  "def": "The shallow space under a home with a raised floor. It traps moisture and is a common place for hidden water damage.",
+  "link": [
+   "Water mitigation",
+   "/services/water-mitigation/"
+  ],
+  "match": [
+   "crawl space",
+   "crawl spaces"
+  ]
+ },
+ {
+  "term": "Deductible",
+  "slug": "deductible",
+  "def": "The amount you pay on a claim before insurance pays. Many policies have a separate, higher deductible for wind, hail or hurricanes.",
+  "link": [
+   "Homeowners insurance and water damage",
+   "/blog/does-homeowners-insurance-cover-water-damage/"
+  ],
+  "match": [
+   "deductible"
+  ]
+ },
+ {
+  "term": "Dehumidifier",
+  "slug": "dehumidifier",
+  "def": "A machine that removes moisture from the air. Restoration crews use low-grain refrigerant (LGR) or desiccant units that dry air far more than household models.",
+  "link": [
+   "Dehumidifiers for water damage",
+   "/blog/dehumidifier-for-water-damage/"
+  ],
+  "match": [
+   "dehumidifiers",
+   "dehumidifier"
+  ]
+ },
+ {
+  "term": "Desiccant dehumidifier",
+  "slug": "desiccant-dehumidifier",
+  "def": "A dehumidifier that pulls water from the air with a drying material instead of cold coils. It works well in cold spaces and dense materials.",
+  "link": [
+   "Dehumidifiers for water damage",
+   "/blog/dehumidifier-for-water-damage/"
+  ],
+  "match": [
+   "desiccant"
+  ]
+ },
+ {
+  "term": "Dry standard",
+  "slug": "dry-standard",
+  "def": "The moisture reading of a dry, unaffected material in the same building. Drying is done when wet materials match it.",
+  "link": [
+   "Water damage restoration process",
+   "/blog/water-damage-restoration-process/"
+  ],
+  "match": [
+   "dry standard"
+  ]
+ },
+ {
+  "term": "Drywall",
+  "slug": "drywall",
+  "def": "Gypsum board used for most walls and ceilings. It wicks water upward and often has to be cut out after a leak.",
+  "link": [
+   "Water damage repair",
+   "/services/water-damage-repair/"
+  ],
+  "match": [
+   "drywall"
+  ]
+ },
+ {
+  "term": "Efflorescence",
+  "slug": "efflorescence",
+  "def": "White, chalky mineral deposits left on concrete or brick when water passes through and evaporates. It is a sign of moisture.",
+  "link": [
+   "Sump pump failure",
+   "/blog/sump-pump-failure/"
+  ],
+  "match": [
+   "efflorescence"
+  ]
+ },
+ {
+  "term": "Expansion tank",
+  "slug": "expansion-tank",
+  "def": "A small tank on the water heater line that absorbs pressure as water heats. A failed one can make the relief valve drip.",
+  "link": [
+   "Water heater leaking from the bottom",
+   "/blog/water-heater-leaking-from-bottom/"
+  ],
+  "match": [
+   "expansion tank"
+  ]
+ },
+ {
+  "term": "Flood (insurance)",
+  "slug": "flood",
+  "def": "For insurance, flood means water covering normally dry land, such as a river rising or storm surge. Standard home policies leave it out.",
+  "link": [
+   "Flood damage restoration",
+   "/services/flood-damage-restoration/"
+  ],
+  "match": [
+   "flood insurance"
+  ]
+ },
+ {
+  "term": "Flood zone",
+  "slug": "flood-zone",
+  "def": "An area FEMA maps for flood risk. High-risk zones start with A or V, and lenders require flood insurance there for federally backed mortgages.",
+  "link": [
+   "Flood damage restoration",
+   "/services/flood-damage-restoration/"
+  ],
+  "match": [
+   "flood zone",
+   "flood zones"
+  ]
+ },
+ {
+  "term": "Frozen pipe",
+  "slug": "frozen-pipe",
+  "def": "A water line that has iced up. The pressure that builds between the ice and a closed faucet is what usually splits the pipe.",
+  "link": [
+   "What to do when a pipe bursts",
+   "/blog/what-to-do-when-a-pipe-bursts/"
+  ],
+  "match": [
+   "frozen pipe",
+   "frozen pipes"
+  ]
+ },
+ {
+  "term": "Gray water",
+  "slug": "gray-water",
+  "def": "Category 2 water with some contamination, such as washer or dishwasher discharge or a toilet overflow with urine only.",
+  "link": [
+   "Water damage restoration process",
+   "/blog/water-damage-restoration-process/"
+  ],
+  "match": [
+   "gray water"
+  ]
+ },
+ {
+  "term": "HEPA filter",
+  "slug": "hepa-filter",
+  "def": "A high-efficiency air filter. It traps at least 99.97% of particles 0.3 microns in size. Air scrubbers and HEPA vacuums use it.",
+  "link": [
+   "Mold remediation",
+   "/services/mold-remediation/"
+  ],
+  "match": [
+   "HEPA"
+  ]
+ },
+ {
+  "term": "HO-3 policy",
+  "slug": "ho-3-policy",
+  "def": "The most common home insurance form. It covers the house against any risk that isn't excluded, and your things against listed risks.",
+  "link": [
+   "Homeowners insurance and water damage",
+   "/blog/does-homeowners-insurance-cover-water-damage/"
+  ],
+  "match": [
+   "HO-3"
+  ]
+ },
+ {
+  "term": "HO-4 policy",
+  "slug": "ho-4-policy",
+  "def": "Renters insurance. It covers the tenant's belongings and liability, not the building.",
+  "link": [
+   "Renters insurance and water damage",
+   "/blog/does-renters-insurance-cover-water-damage/"
+  ],
+  "match": [
+   "HO-4",
+   "renters insurance"
+  ]
+ },
+ {
+  "term": "HO-6 policy",
+  "slug": "ho-6-policy",
+  "def": "Condo insurance. It covers the inside of the unit, improvements and belongings, while the HOA's master policy covers the building.",
+  "link": [
+   "Ceiling water damage repair",
+   "/services/ceiling-water-damage/"
+  ],
+  "match": [
+   "HO-6"
+  ]
+ },
+ {
+  "term": "Hydrostatic pressure",
+  "slug": "hydrostatic-pressure",
+  "def": "The force of groundwater pushing against basement walls and floors. It drives water through cracks and joints.",
+  "link": [
+   "Sump pump failure",
+   "/blog/sump-pump-failure/"
+  ],
+  "match": [
+   "hydrostatic pressure"
+  ]
+ },
+ {
+  "term": "Ice dam",
+  "slug": "ice-dam",
+  "def": "A ridge of ice at the roof edge that traps melting snow. The water backs up under shingles and leaks into ceilings and walls.",
+  "link": [
+   "Ceiling water damage repair",
+   "/services/ceiling-water-damage/"
+  ],
+  "match": [
+   "ice dam",
+   "ice dams"
+  ]
+ },
+ {
+  "term": "IICRC S500",
+  "slug": "iicrc-s500",
+  "def": "The ANSI/IICRC standard for professional water damage restoration. It defines water categories, damage classes and drying practice.",
+  "link": [
+   "Water damage restoration process",
+   "/blog/water-damage-restoration-process/"
+  ],
+  "match": [
+   "S500"
+  ]
+ },
+ {
+  "term": "Infrared camera",
+  "slug": "infrared-camera",
+  "def": "A thermal camera that shows heat differences. Wet spots read cooler, so it helps find hidden water in walls.",
+  "link": [
+   "Water damage restoration process",
+   "/blog/water-damage-restoration-process/"
+  ],
+  "match": [
+   "infrared camera",
+   "thermal camera",
+   "thermal imaging"
+  ]
+ },
+ {
+  "term": "LGR dehumidifier",
+  "slug": "lgr-dehumidifier",
+  "def": "A low-grain refrigerant dehumidifier. It can dry air to much lower humidity than a household unit, which speeds up structural drying.",
+  "link": [
+   "Dehumidifiers for water damage",
+   "/blog/dehumidifier-for-water-damage/"
+  ],
+  "match": [
+   "LGR"
+  ]
+ },
+ {
+  "term": "Mitigation",
+  "slug": "mitigation",
+  "def": "The emergency steps that stop damage from getting worse: stopping the water, extraction, tear-out and drying.",
+  "link": [
+   "Water mitigation",
+   "/services/water-mitigation/"
+  ],
+  "match": [
+   "mitigation"
+  ]
+ },
+ {
+  "term": "Moisture meter",
+  "slug": "moisture-meter",
+  "def": "A tool that measures how much water is in wood, drywall or concrete. Readings show where water spread and when drying is done.",
+  "link": [
+   "Water damage restoration process",
+   "/blog/water-damage-restoration-process/"
+  ],
+  "match": [
+   "moisture meter",
+   "moisture meters",
+   "moisture readings"
+  ]
+ },
+ {
+  "term": "Mold",
+  "slug": "mold",
+  "def": "A fungus that grows on damp materials. Indoor mold can start within 24 to 48 hours after water damage if materials stay wet.",
+  "link": [
+   "Mold remediation",
+   "/services/mold-remediation/"
+  ],
+  "match": [
+   "mold growth"
+  ]
+ },
+ {
+  "term": "NFIP",
+  "slug": "nfip",
+  "def": "The National Flood Insurance Program, run by FEMA. It sells flood policies through insurers and agents, usually with a 30-day wait.",
+  "link": [
+   "Flood damage restoration",
+   "/services/flood-damage-restoration/"
+  ],
+  "match": [
+   "NFIP",
+   "National Flood Insurance Program"
+  ]
+ },
+ {
+  "term": "Personal property coverage",
+  "slug": "personal-property-coverage",
+  "def": "The part of a home or renters policy that pays for your things, like furniture, clothes and electronics.",
+  "link": [
+   "Renters insurance and water damage",
+   "/blog/does-renters-insurance-cover-water-damage/"
+  ],
+  "match": [
+   "personal property coverage"
+  ]
+ },
+ {
+  "term": "Pressure reducing valve",
+  "slug": "pressure-reducing-valve",
+  "def": "A valve where the water main enters the home that lowers street pressure. High pressure strains pipes, hoses and water heaters.",
+  "link": [
+   "What to do when a pipe bursts",
+   "/blog/what-to-do-when-a-pipe-bursts/"
+  ],
+  "match": [
+   "pressure reducing valve",
+   "pressure-reducing valve"
+  ]
+ },
+ {
+  "term": "Relative humidity",
+  "slug": "relative-humidity",
+  "def": "How much moisture the air holds, compared with the most it could hold. The EPA advises keeping it below 60%, ideally 30 to 50%.",
+  "link": [
+   "Dehumidifiers for water damage",
+   "/blog/dehumidifier-for-water-damage/"
+  ],
+  "match": [
+   "relative humidity"
+  ]
+ },
+ {
+  "term": "Remediation",
+  "slug": "remediation",
+  "def": "Removing and cleaning up a hazard, such as mold or sewage, after the cause is fixed.",
+  "link": [
+   "Mold remediation",
+   "/services/mold-remediation/"
+  ],
+  "match": [
+   "remediation"
+  ]
+ },
+ {
+  "term": "Replacement cost",
+  "slug": "replacement-cost",
+  "def": "Insurance that pays to replace a damaged item with a new one of similar kind, without taking off for age.",
+  "link": [
+   "Homeowners insurance and water damage",
+   "/blog/does-homeowners-insurance-cover-water-damage/"
+  ],
+  "match": [
+   "replacement cost"
+  ]
+ },
+ {
+  "term": "Sewer lateral",
+  "slug": "sewer-lateral",
+  "def": "The pipe that carries waste from a house to the city sewer main. In many cities the owner is responsible for it.",
+  "link": [
+   "Sewage backup in the basement",
+   "/blog/sewage-backup-in-basement/"
+  ],
+  "match": [
+   "sewer lateral",
+   "lateral"
+  ]
+ },
+ {
+  "term": "Slab leak",
+  "slug": "slab-leak",
+  "def": "A leak in a water line under a concrete slab foundation. It can wet flooring for weeks before anyone notices.",
+  "link": [
+   "Water damage repair",
+   "/services/water-damage-repair/"
+  ],
+  "match": [
+   "slab leak",
+   "slab leaks"
+  ]
+ },
+ {
+  "term": "Structural drying",
+  "slug": "structural-drying",
+  "def": "Drying the building itself, such as framing, subfloor and concrete, with air movers, dehumidifiers and monitoring.",
+  "link": [
+   "Water mitigation and structural drying",
+   "/services/water-mitigation/"
+  ],
+  "match": [
+   "structural drying"
+  ]
+ },
+ {
+  "term": "Subfloor",
+  "slug": "subfloor",
+  "def": "The plywood or board layer under finished flooring. It can trap water and swell after a leak.",
+  "link": [
+   "Water damage repair",
+   "/services/water-damage-repair/"
+  ],
+  "match": [
+   "subfloor"
+  ]
+ },
+ {
+  "term": "Sudden and accidental",
+  "slug": "sudden-and-accidental",
+  "def": "Insurance wording for damage that happens fast and by surprise, like a burst pipe. Slow leaks and wear usually don't count.",
+  "link": [
+   "Homeowners insurance and water damage",
+   "/blog/does-homeowners-insurance-cover-water-damage/"
+  ],
+  "match": [
+   "sudden and accidental"
+  ]
+ },
+ {
+  "term": "Sump pump",
+  "slug": "sump-pump",
+  "def": "A pump in a basement pit that sends groundwater away from the home before it rises over the floor.",
+  "link": [
+   "Sump pump failure",
+   "/blog/sump-pump-failure/"
+  ],
+  "match": [
+   "sump pump",
+   "sump pumps"
+  ]
+ },
+ {
+  "term": "T&P valve",
+  "slug": "t-p-valve",
+  "def": "The temperature and pressure relief valve on a water heater. It opens to release water if tank heat or pressure gets too high.",
+  "link": [
+   "Water heater leaking from the bottom",
+   "/blog/water-heater-leaking-from-bottom/"
+  ],
+  "match": [
+   "T&P valve",
+   "relief valve"
+  ]
+ },
+ {
+  "term": "Tear-out",
+  "slug": "tear-out",
+  "def": "Removing wet materials that can't be dried, such as soaked drywall, insulation and carpet pad, so the structure can dry.",
+  "link": [
+   "Water damage restoration process",
+   "/blog/water-damage-restoration-process/"
+  ],
+  "match": [
+   "tear-out"
+  ]
+ },
+ {
+  "term": "Water backup coverage",
+  "slug": "water-backup-coverage",
+  "def": "An add-on (endorsement) to a home policy that pays for damage from water or sewage backing up through drains or a failed sump pump.",
+  "link": [
+   "Sewage backup in the basement",
+   "/blog/sewage-backup-in-basement/"
+  ],
+  "match": [
+   "water backup coverage",
+   "water backup endorsement",
+   "sewer backup coverage"
+  ]
+ },
+ {
+  "term": "Water extraction",
+  "slug": "water-extraction",
+  "def": "Removing standing water with pumps and extractors. It is the fastest way to cut drying time.",
+  "link": [
+   "Water removal and extraction",
+   "/services/water-extraction/"
+  ],
+  "match": [
+   "water extraction"
+  ]
+ },
+ {
+  "term": "Water mitigation",
+  "slug": "water-mitigation",
+  "def": "Stopping water damage from spreading: extraction, removing wet materials and drying, before repairs start.",
+  "link": [
+   "Water mitigation",
+   "/services/water-mitigation/"
+  ],
+  "match": [
+   "water mitigation"
+  ]
+ },
+ {
+  "term": "Wicking",
+  "slug": "wicking",
+  "def": "How water climbs up porous materials like drywall and carpet pad, spreading damage above the waterline.",
+  "link": [
+   "Water stain on the ceiling",
+   "/blog/water-stain-on-ceiling/"
+  ],
+  "match": [
+   "wicking",
+   "wicks"
+  ]
+ },
+ {
+  "term": "Xactimate",
+  "slug": "xactimate",
+  "def": "Estimating software many insurers and contractors use to price repair work line by line.",
+  "link": [
+   "Water damage restoration cost",
+   "/blog/water-damage-restoration-cost/"
+  ],
+  "match": [
+   "Xactimate"
+  ]
+ }
+]

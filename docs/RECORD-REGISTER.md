@@ -44,7 +44,15 @@ A dated log of every step. Newest entries at the bottom of each build. Status: D
 | 38 | 2026-11-19 | 4 | 51 hand-written state content files + `/locations/` hub | Done | Verified local events only; no invented statutes |
 | 39 | 2026-11-19 | 4 | Local notes and "near you" links on 10 service pages; state links on home, menu, footer | Done | Each state has 3+ in-text inbound links |
 | 40 | 2026-11-19 | 4 | Audit 0 issues; readability ≤ 9; uniqueness 71–79% (rule ≥ 60%); responsive clean | Done | New `scripts/uniqueness.py` |
-| 41 | — | 5 | Glossary + guides hub + first 10 guides | Planned | Next build |
+| 41 | 2026-11-19 | 5 | Semrush questions + top-8 SERPs for 10 guide keywords | Done | ~4,100 API units; `research/07-guide-briefs.csv` |
+| 42 | 2026-11-19 | 5 | Primary sources gathered (NAIC, FloodSmart, CDC, EPA lead/mold/flood, Red Cross, A. O. Smith) | Done | Competitor pages blocked from fetch; lengths set from Build 3 benchmarks |
+| 43 | 2026-11-19 | 5 | Generator: `blog.py` (post layout, cards, author box, BlogPosting, glossary, auto-links) | Done | |
+| 44 | 2026-11-19 | 5 | 10 guides written (1,230–1,642 words, FK 5.0–7.2) + guides hub | Done | No prices published (approved plan) |
+| 45 | 2026-11-19 | 5 | 10 branded 1200×630 featured images (WebP + JPG) | Done | `scripts/make_post_images.py` |
+| 46 | 2026-11-19 | 5 | Glossary: 55 terms, DefinedTermSet, auto-links (max 4 per page) | Done | |
+| 47 | 2026-11-19 | 5 | Helpful guides on 10 service pages; home page guide links | Done | Every guide has 4+ in-text inbound links |
+| 48 | 2026-11-19 | 5 | Audit 0 issues (84 pages); readability, duplicates, responsive clean | Done | |
+| 49 | — | 6 | Semrush city scoring + first 50 metro pages | Planned | Next build |
 
 ## Image register
 | File | Source | Used on |
@@ -60,6 +68,7 @@ A dated log of every step. Newest entries at the bottom of each build. Status: D
 | storm-damaged-roof-and-window(.webp, -800) | Pexels photo 36237047 | Storm damage restoration |
 | commercial-office-floor(.webp, -800) | Pexels photo 5483233 | Commercial water damage |
 | Inline SVG: drying setup, water categories | Original illustrations | Water mitigation, sewage cleanup |
+| blog/*.webp, blog/*.jpg (10 guides) | Original branded graphics | Guide featured images and social cards |
 | Existing photos reused on state pages | Same Pexels IDs as above | Chosen by each state's main risk, with state-specific alt text and captions |
 
 Pexels license: free to use, no attribution required. Credits are not shown on the site.

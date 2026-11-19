@@ -33,6 +33,9 @@ def main():
         body = re.sub(r'<ul class="state-grid[\s\S]*?</ul>', " ", body)
         body = re.sub(r'<div class="card">[\s\S]*?</div>', " ", body)
         body = re.sub(r'<ul class="sources">[\s\S]*?</ul>', " ", body)
+        # fixed components: guide cards (navigation) and the standard author box
+        body = re.sub(r'<article class="post-card">[\s\S]*?</article>', " ", body)
+        body = re.sub(r'<aside class="author-box">[\s\S]*?</aside>', " ", body)
         for p in re.findall(r"<(?:p|li)(?![^>]*class=\"reviewed\")[^>]*>(.*?)</(?:p|li)>", body, re.S):
             t = re.sub(r"<[^>]+>", "", p).strip()
             if len(t.split()) >= 14: paras[t].add(rel)

@@ -6,6 +6,7 @@ Plan: "Nationwide Water Damage Local Services Site — Build Plan" (Claude doc).
 Last updated: 2026-11-19
 
 ## Previous
+- Build 4 — Locations hub + 51 state pages (Census ACS + FEMA data, insurance and licensing notes, 71–79% unique); service-page local notes and near-you links.
 - Build 1 — Foundation, trust and legal pages: generator (`build.py`), design system, header/footer, mobile call bar, breadcrumbs, base JSON-LD; About, Contact (form → Pages Function → Resend), Privacy, Terms, Disclaimer, Editorial Policy, Accessibility, 404; robots, sitemap, `_headers`, `_redirects`, manifest, icons; 4 Pexels WebP photos; audit 0 issues.
 - Build 1b — Logo set and design system (Design System artifact "DryBeacon"); contrast fixes.
 - Build 1c — Palette B "Graphite + Signal Orange" (brand-dark #1d2329, beacon orange #ff7a1a, accent text #c2410c) to set DryBeacon apart from the owner's city sites.
@@ -14,19 +15,19 @@ Last updated: 2026-11-19
 - Plan approved: one national brand, state → metro → city structure, all 50 states + DC, one toll-free number, Cloudflare free plan.
 - Owner decisions: brand DryBeacon; own-business call routing; 24/7; 10+ years in business; legal owner Anjam Javed; toll-free 1-800-555-0199; email added after the domain is bought.
 
-## Current — Build 4: Locations hub + 51 state pages (done)
-- `/locations/` hub (state cards grouped by Census region) and 51 state pages at `/locations/<state>/` (50 states + DC), 950–1,150 words each.
-- Each state page: hand-written lead, "why water damage here is different" (verified local events), local problems table linked to services, homeowner tips, insurance and licensing notes, areas served, 4 FAQs, service cards, nearby-state links, sources.
-- Data on every page ("at a glance" table): Census ACS 2020–2024 housing figures (homes built before 1980/1940, median build year, ownership, mobile homes), top places, and FEMA major disaster declarations 2000–Nov 2026. Raw data in `research/06-state-data.json`.
-- Agencies: state insurance regulator, contractor licensing board (or "no statewide license" where true), and mold licensing in TX, FL, NY, LA and DC (`src/states/meta.json`).
-- Generator: `states.py` builds the pages from `src/states/content/<AB>.json`; schema adds Service with `areaServed` State, FAQPage, BreadcrumbList.
-- Internal links: "Locations" in the menu and footer, state links on the home page, a "Local note" plus "near you" state links on every service page; every state page has 3+ in-text links from other pages.
-- Checks: audit 0 issues (72 pages); reading grade ≤ 9 on every page; uniqueness 71–79% per state page vs its closest page (rule ≥ 60%, `scripts/uniqueness.py`); no horizontal scroll at 360/768/1280 on all 54 checked pages; no console errors.
+## Current — Build 5: Guides hub, first 10 guides and glossary (done)
+- `/blog/` guides hub (cards grouped by 5 categories, Blog schema) and 10 guides from the approved plan, 1,230–1,642 words each, reading grade 5.0–7.2.
+- Each guide: SERP brief (Semrush questions + top 8 rankers, `research/07-guide-briefs.csv`), short-answer box, money-page link in the first 150 words, question H2s, comparison tables, numbered steps, CTA, prevention, Local note (4–5 state links), Related reading, "When should you call…" close, 4 FAQs, 4–5 primary sources (EPA, CDC, FEMA/FloodSmart, NAIC, Red Cross; one manufacturer figure credited by name), author box, 2 related guide cards.
+- Branded 1200×630 featured images (WebP on page, JPG for social), rendered from the post titles by `scripts/make_post_images.py`.
+- Schema: BlogPosting (headline, dates, wordCount, citation), WebPage about/mentions, FAQPage, BreadcrumbList (Home › Guides › post).
+- `/glossary/`: 55 terms, A–Z jump links, DefinedTermSet schema; each term links to its best guide or service. First mention of up to 4 terms auto-links on service, state and guide pages.
+- Internal links: "Helpful guides" (3 cards) on every service page, guide links in the home page process and cost sections, Guides and Glossary in the menu/footer; every guide has 4+ in-text links from other pages.
+- Checks: audit 0 issues (84 pages); readability ≤ 9 everywhere; no repeated paragraphs; responsive clean at 360/768/1280; no console errors.
+- Note: competitor pages couldn't be opened from this workspace for exact word counts, so lengths were set against the Build 3 benchmarks (SERVPRO ~1,250, BELFOR ~600, 1-800 Water Damage ~1,400). Dehumidifier SERP is shopping-heavy, so that guide targets the question searches.
 
 ## Coming
 | Build | Scope | Needs from owner |
 | --- | --- | --- |
-| 5 | Glossary (50+ terms) + Guides hub + first 10 guides | — |
 | 6 | Master city dataset (Census, NOAA, FEMA, EPA) + 50 metro hub pages | Data files (the workspace can't reach Census/NOAA directly) |
 | 7 | First 100 city pages | — |
 | Launch | Buy domain, Cloudflare Pages project, env vars, real toll-free number, email, Search Console + analytics | Domain, number, email, Resend key |
@@ -42,5 +43,6 @@ python3 build.py          # writes public/
 python3 scripts/audit.py  # must print "PASS: 0 issues"
 python3 scripts/readability.py   # reading grade <= 9, no repeated paragraphs
 python3 scripts/uniqueness.py    # state pages >= 60% unique
+python3 scripts/make_post_images.py  # after adding or retitling a guide
 ```
 Cloudflare Pages: build output directory `public`, no build command needed (output is committed); `functions/` holds the form endpoint.

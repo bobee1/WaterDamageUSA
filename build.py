@@ -19,6 +19,7 @@ BASE = SITE["base_url"]
 SERVICES = json.loads((SRC / "services.json").read_text())
 SVC = {x["slug"]: x for x in SERVICES}
 import states  # noqa: E402  state hub pages
+import blog  # noqa: E402  guides and glossary
 
 # ---------------------------------------------------------------- helpers
 
@@ -97,6 +98,8 @@ def sources_html(meta):
     if not src:
         return ""
     lis = "".join(f'<li><a href="{u}" target="_blank" rel="noopener">{esc(t)}</a></li>' for t, u in src)
+    if meta.get("type") == "post":
+        return f'<h2 id="sources">Sources</h2><ul class="sources">{lis}</ul>'
     return (f'<h2 id="sources">Sources</h2><ul class="sources">{lis}</ul>'
             f'<p class="reviewed">Last reviewed {esc(meta.get("reviewed", SITE["legal_effective_date"]))} by {SITE["editorial_byline"]}. '
             f'General information, not legal, insurance or professional advice. '
@@ -112,6 +115,13 @@ def expand_components(body, meta, pages_by_path):
     body = body.replace("{{state_pills}}", states.state_pills())
     if "{{near_you}}" in body:
         body = body.replace("{{near_you}}", f'<h2>{esc(meta["service"]["name"])} near you</h2>\n' + states.state_pills())
+    if "{{" in body:
+        body = body.replace("{{author_box}}", blog.author_box(meta, SITE["brand"]) if meta.get("type") == "post" else "")
+        body = body.replace("{{related_posts}}", blog.cards(meta.get("related", []), pages_by_path))
+        body = re.sub(r"\{\{helpful_guides:([\w,-]+)\}\}",
+                      lambda m: "<h2>Helpful guides</h2>\n" + blog.cards(m.group(1).split(","), pages_by_path), body)
+        body = body.replace("{{blog_grid}}", blog.blog_grid(list(pages_by_path.values())))
+        body = body.replace("{{glossary}}", blog.glossary_html())
     body = body.replace("{{faq}}", faq_html(meta))
     body = body.replace("{{sources}}", sources_html(meta))
     return body
@@ -264,7 +274,16 @@ def page_html(meta, pages_by_path, css):
     url = BASE + meta["path"]
     robots = "noindex,follow" if meta.get("noindex") else "index,follow,max-image-preview:large"
     og_img = BASE + (meta["hero"]["src_og"] if meta.get("hero", {}).get("src_og") else "/img/og-default.jpg")
-    body = tokens(expand_components(tokens(meta["body"]), meta, pages_by_path))
+    if meta.get("type") == "post":
+        og_img = BASE + meta["image"]["jpg"]
+    raw_body = tokens(meta["body"])
+    if meta.get("type") in ("service", "state", "post"):
+        # link glossary terms in the page's own prose only (before cards and components are added)
+        raw_body = blog.autolink_glossary(raw_body, meta["path"])
+    body = tokens(expand_components(raw_body, meta, pages_by_path))
+    head_html = blog.post_header(meta, SITE["brand"]) if meta.get("type") == "post" else hero_html(meta)
+    article_meta = (f'<meta property="article:published_time" content="{meta["published"]}">\n'
+                    f'<meta property="article:modified_time" content="{meta["updated"]}">\n') if meta.get("type") == "post" else ""
     return f"""<!DOCTYPE html>
 <html lang="en-US">
 <head>
@@ -276,7 +295,8 @@ def page_html(meta, pages_by_path, css):
 <meta name="robots" content="{robots}">
 <meta name="theme-color" content="{SITE['theme_color']}">
 <meta name="x-page-type" content="{meta.get('type', 'other')}">
-<meta property="og:type" content="{meta.get('og_type', 'website')}">
+<meta property="og:type" content="{'article' if meta.get('type') == 'post' else meta.get('og_type', 'website')}">
+{article_meta}
 <meta property="og:site_name" content="{SITE['brand']}">
 <meta property="og:title" content="{esc(meta['title'])}">
 <meta property="og:description" content="{esc(meta['description'])}">
@@ -304,7 +324,7 @@ def page_html(meta, pages_by_path, css):
 </div></header>
 <main id="main">
 {crumbs and f'<div class="wrap">{crumbs}</div>'}
-{hero_html(meta)}
+{head_html}
 <div class="wrap content {meta.get('content_class', 'prose')}">
 {body}
 </div>
@@ -335,6 +355,17 @@ def build():
     pages = [read_page(p) for p in sorted((SRC / "pages").rglob("*.html"))]
     pages += states.all_state_pages()
     by_path = {p["path"]: p for p in pages}
+    org_id = BASE + "/#organization"
+    for meta in pages:
+        if meta.get("type") == "post":
+            meta.setdefault("parents", [["Guides", "/blog/"]])
+            meta["extra_schema"] = [blog.blogposting(meta, BASE, SITE["brand"], org_id)]
+        elif meta["path"] == "/glossary/":
+            meta["extra_schema"] = [blog.glossary_schema(BASE)]
+        elif meta["path"] == "/blog/":
+            meta["extra_schema"] = [{"@type": "Blog", "@id": BASE + "/blog/#blog", "name": SITE["brand"] + " water damage guides",
+                                     "publisher": {"@id": org_id},
+                                     "blogPost": [{"@id": BASE + p["path"] + "#article"} for p in blog.posts_of(pages)]}]
     for meta in pages:
         if meta["path"] == "/404.html":
             dest = OUT / "404.html"
