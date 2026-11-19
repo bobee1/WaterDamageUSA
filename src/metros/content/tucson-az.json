@@ -1,0 +1,45 @@
+{
+ "lead": "Tucson's monsoon storms fill washes in minutes, and older homes leak from roofs and pipes. DryBeacon helps owners from Sam Hughes to the Foothills get water out and dry.",
+ "risk": "monsoon flooding from washes, flat roof leaks and slab leaks",
+ "risk_short": "monsoon floods, roof leaks, slab leaks",
+ "why": [
+  "Tucson's washes and rivers, like the Rillito, Santa Cruz and Pantano, run dry most of the year and fill fast in monsoon storms. The 2021 monsoon was Tucson's wettest on record and flooded streets and homes across the city. Low-water crossings close often in summer.",
+  "Older Tucson homes in Barrio Viejo, Sam Hughes and Midtown often have flat roofs, parapets and adobe or block walls. Clogged canales and cracked roof coatings let water in. More than half of Tucson's homes were built before 1980, and 6% are mobile homes, which soak up water fast."
+ ],
+ "image": "floodyard",
+ "image_alt": "Water surrounding a desert home after a monsoon storm",
+ "image_caption": "Tucson's washes can turn from dry sand to rushing water in a single storm.",
+ "problems": [
+  [
+   "Wash and street flooding",
+   "Homes near the Rillito, Pantano and Santa Cruz",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Flat roof leaks",
+   "Barrio Viejo, Midtown and older homes",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling water damage repair</a>"
+  ],
+  [
+   "Slab leaks",
+   "Pre-1980 homes on slabs",
+   "<a href=\"/services/water-damage-repair/\">Leak repair</a>"
+  ],
+  [
+   "Mobile home water damage",
+   "Parks across the metro",
+   "<a href=\"/services/water-mitigation/\">Floor and subfloor drying</a>"
+  ]
+ ],
+ "tips": [
+  "Clean canales and roof drains before July.",
+  "Recoat flat roofs on schedule.",
+  "Never drive around barricades at flooded washes.",
+  "Mobile home owners should check skirting and plumbing each spring."
+ ],
+ "areas": "Calls come from Downtown, Sam Hughes, the Catalina Foothills, Midtown, Rita Ranch and Tanque Verde, plus Oro Valley, Marana, Sahuarita and Vail.",
+ "faq": {
+  "q": "Why do flat roofs leak so often in Tucson?",
+  "a": "Flat roofs rely on coatings and drains. Sun breaks down the coating, and dust and debris clog canales. When a monsoon storm hits, water pools and finds cracks. Recoating and clearing drains each spring helps."
+ }
+}

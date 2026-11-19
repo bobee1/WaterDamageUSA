@@ -1,0 +1,45 @@
+{
+ "lead": "Greenville homes face storm-downed trees, Reedy River flooding and damp crawl spaces. DryBeacon helps owners from North Main to Augusta Road get water out and dry.",
+ "risk": "storm and tree damage, river flooding and crawl space moisture",
+ "risk_short": "storms, tree falls, crawl spaces",
+ "why": [
+  "In September 2024, Helene brought down thousands of trees across the Upstate, leaving holes in roofs and long power outages. The Reedy River and its creeks flood in heavy rain, and downtown's Falls Park sits right on the river. Ice storms bring down limbs in winter.",
+  "Many Greenville homes sit on crawl spaces over red clay, which holds water. Older homes on North Main and Augusta Road have original plumbing and plaster. Humid summers let mold grow quickly on wet wood and drywall."
+ ],
+ "image": "storm",
+ "image_alt": "House roof and window damaged by a storm",
+ "image_caption": "Helene toppled trees onto homes across the Upstate in 2024.",
+ "problems": [
+  [
+   "Tree damage",
+   "North Main, Augusta Road, Parkins Mill",
+   "<a href=\"/services/storm-damage-restoration/\">Storm tarping and drying</a>"
+  ],
+  [
+   "River and creek flooding",
+   "Near the Reedy River",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Wet crawl spaces",
+   "Homes on red clay",
+   "<a href=\"/services/water-mitigation/\">Crawl space drying</a>"
+  ],
+  [
+   "Mold after leaks",
+   "Humid months",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Have big trees near the house checked after storms.",
+  "Seal and dehumidify your crawl space.",
+  "Keep gutters clear in fall.",
+  "Check flood maps before buying near the Reedy River."
+ ],
+ "areas": "Calls come from Downtown, North Main, Augusta Road, Overbrook, Parkins Mill, Haywood and the West End, plus Greer, Simpsonville, Mauldin, Taylors and Spartanburg.",
+ "faq": {
+  "q": "What should I do if a tree falls on my Greenville home?",
+  "a": "Get everyone out of the damaged area and call 911 if lines are down. Once safe, photograph the damage and have the roof tarped to stop rain. Your homeowners insurer usually handles the claim."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Nashville has seen record floods and tornadoes in the last 15 years. DryBeacon helps homes and businesses from East Nashville to Bellevue get water out and dry.",
+ "risk": "flash flooding, tornadoes and severe storms, and winter freezes",
+ "risk_short": "flash floods, tornadoes, freezes",
+ "why": [
+  "In May 2010, two days of rain sent the Cumberland River into downtown, Opryland and thousands of homes. In March 2021, flash floods killed several people in Antioch and south Nashville. On March 3, 2020, a tornado tore through North Nashville, Germantown, East Nashville and Donelson.",
+  "Many homes sit along creeks like Mill Creek, Richland Creek and Browns Creek, which rise fast. Winter cold snaps, like December 2022, burst pipes in homes built for mild weather. Humid summers mean wet drywall and crawl spaces can grow mold quickly."
+ ],
+ "image": "floodyard",
+ "image_alt": "House surrounded by floodwater after heavy rain",
+ "image_caption": "Nashville's 2010 and 2021 floods reached homes far outside mapped flood zones.",
+ "problems": [
+  [
+   "Creek and river flooding",
+   "Antioch, Bellevue, Donelson, Mill Creek",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Tornado and wind damage",
+   "North and East Nashville, Donelson",
+   "<a href=\"/services/storm-damage-restoration/\">Storm tarping and repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Crawl spaces and exterior walls",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Wet crawl spaces",
+   "Older homes citywide",
+   "<a href=\"/services/water-mitigation/\">Crawl space drying</a>"
+  ]
+ ],
+ "tips": [
+  "Buy flood insurance even outside mapped zones; many 2010 losses were outside them.",
+  "Keep a weather radio for tornado and flood warnings.",
+  "Insulate crawl space pipes before winter.",
+  "Never drive into flooded roads."
+ ],
+ "areas": "Calls come from East Nashville, the Gulch, 12 South, Germantown, Green Hills, Bellevue, Donelson and Antioch, plus Franklin, Brentwood, Hendersonville, Murfreesboro and Mt. Juliet.",
+ "faq": {
+  "q": "Was the 2010 Nashville flood covered by insurance?",
+  "a": "Only for people with flood insurance. Standard homeowners policies exclude rising water. Many homes that flooded were outside high-risk zones and had no flood policy."
+ }
+}

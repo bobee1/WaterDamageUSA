@@ -1,0 +1,45 @@
+{
+ "lead": "Pittsburgh's hills, rivers and century-old homes make water damage common. DryBeacon helps homes from Lawrenceville to Brookline get water out and dry properly.",
+ "risk": "flash floods, hillside seepage and leaks in old homes",
+ "risk_short": "flash floods, hillsides, old homes",
+ "why": [
+  "Pittsburgh sits where three rivers meet, but flash floods in small valleys are often the bigger danger. On August 19, 2011, a flash flood on Washington Boulevard trapped cars and killed four people. In 2004, the remnants of Hurricane Ivan flooded Millvale, Etna and river towns.",
+  "Nearly half of Pittsburgh homes were built before 1940. Hillside homes have stone or brick foundations that seep, and old clay sewer lines crack. 2018 was the city's wettest year on record, and landslides damaged homes and roads. Winter freezes burst old pipes."
+ ],
+ "image": "floodroom",
+ "image_alt": "Water on a basement floor in an older home",
+ "image_caption": "Hillside homes in Pittsburgh often take on water through old stone foundations.",
+ "problems": [
+  [
+   "Flash flooding",
+   "Washington Blvd, Millvale, Etna",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Basement seepage",
+   "Hillside homes citywide",
+   "<a href=\"/services/water-extraction/\">Basement water removal</a>"
+  ],
+  [
+   "Sewer backups",
+   "Older neighborhoods",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Older homes in winter",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Seal cracks in basement walls and extend downspouts.",
+  "Have old clay sewer lines scoped.",
+  "Watch for cracks or movement on steep lots after heavy rain.",
+  "Keep heat on in vacant homes."
+ ],
+ "areas": "Calls come from Lawrenceville, Shadyside, Squirrel Hill, Mount Washington, the Strip District, Bloomfield and Brookline, plus Mt. Lebanon, Bethel Park, Monroeville, Penn Hills and Cranberry.",
+ "faq": {
+  "q": "Why do Pittsburgh basements leak so often?",
+  "a": "Many homes are old and built into hillsides, with stone or brick foundations. Groundwater and runoff push through cracks and joints. Gutters, downspouts and drainage fixes help, along with a sump pump where needed."
+ }
+}

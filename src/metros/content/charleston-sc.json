@@ -1,0 +1,45 @@
+{
+ "lead": "Charleston floods from tides, rain and hurricanes, and its historic homes need careful drying. DryBeacon helps owners from South of Broad to Daniel Island dry out fast.",
+ "risk": "tidal flooding, hurricane surge and heavy rain",
+ "risk_short": "tidal floods, surge, heavy rain",
+ "why": [
+  "The peninsula sits barely above sea level. King tides flood streets near the Market, Lockwood Drive and the Battery many times a year. The October 2015 flood dropped more than 20 inches of rain in places, and Hurricanes Hugo in 1989, Matthew in 2016 and Irma in 2017 pushed surge into the city.",
+  "Historic homes South of Broad and in Ansonborough have crawl spaces, plaster and old wood floors that need slow, careful drying. Newer homes in West Ashley, James Island and Daniel Island are often raised or slab-built. Humidity makes mold a risk within a day or two."
+ ],
+ "image": "flood",
+ "image_alt": "Flooded street in a historic coastal city",
+ "image_caption": "King tides flood parts of Charleston's peninsula even on sunny days.",
+ "problems": [
+  [
+   "Tidal flooding",
+   "The peninsula, the Market, Lockwood Drive",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Historic home drying",
+   "South of Broad, Ansonborough",
+   "<a href=\"/services/water-mitigation/\">Careful structural drying</a>"
+  ],
+  [
+   "Hurricane surge",
+   "James Island, Johns Island, West Ashley",
+   "<a href=\"/services/water-extraction/\">Water removal</a>"
+  ],
+  [
+   "Mold in crawl spaces",
+   "Older and raised homes",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Check tide forecasts before parking on low peninsula streets.",
+  "Buy flood insurance even if your lender doesn't require it.",
+  "Dehumidify crawl spaces under historic homes.",
+  "Raise HVAC and water heaters if you renovate."
+ ],
+ "areas": "Calls come from the Peninsula, South of Broad, West Ashley, James Island, Daniel Island, Johns Island and Wagener Terrace, plus Mount Pleasant, North Charleston, Summerville and Folly Beach.",
+ "faq": {
+  "q": "How do you dry a historic Charleston home?",
+  "a": "Slowly and carefully. Plaster, heart pine floors and old millwork can crack if dried too fast. Crews control heat and humidity, check moisture daily and save original materials where they can."
+ }
+}

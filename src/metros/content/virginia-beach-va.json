@@ -1,0 +1,45 @@
+{
+ "lead": "Virginia Beach floods from tides, nor'easters and hurricanes. DryBeacon helps homes from the Oceanfront to Pungo get water out and dry quickly.",
+ "risk": "tidal and storm flooding, nor'easters and hurricane rain",
+ "risk_short": "tidal floods, nor'easters, hurricanes",
+ "why": [
+  "Hampton Roads has some of the fastest relative sea-level rise on the East Coast, and Virginia Beach feels it. Neighborhoods near Lynnhaven, Back Bay and Windsor Woods flood in storms and high tides. Hurricane Matthew's rain in 2016 flooded thousands of homes, and nor'easters push water into low streets most winters.",
+  "Many homes were built in the 1970s and 1980s on low, flat ground with slab foundations. Sandbridge and Oceanfront homes face wind and salt spray. High groundwater means crawl spaces and slabs stay damp, so drying needs dehumidifiers."
+ ],
+ "image": "flood",
+ "image_alt": "Floodwater on a street near homes after a coastal storm",
+ "image_caption": "Nor'easters and high tides flood low Virginia Beach neighborhoods most winters.",
+ "problems": [
+  [
+   "Tidal and storm flooding",
+   "Windsor Woods, Lynnhaven, Back Bay",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Nor'easter damage",
+   "Oceanfront and Sandbridge",
+   "<a href=\"/services/storm-damage-restoration/\">Storm repair</a>"
+  ],
+  [
+   "Damp crawl spaces",
+   "Older homes on high groundwater",
+   "<a href=\"/services/water-mitigation/\">Crawl space drying</a>"
+  ],
+  [
+   "Mold after floods",
+   "Any home left wet",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Check tide forecasts before nor'easters.",
+  "Buy flood insurance even outside high-risk zones.",
+  "Raise HVAC and water heaters when you renovate.",
+  "Run a dehumidifier in crawl spaces."
+ ],
+ "areas": "Calls come from the Oceanfront, Sandbridge, Great Neck, Kempsville, Pungo, Bayside and Princess Anne, plus Chesapeake, Norfolk, Portsmouth and Suffolk.",
+ "faq": {
+  "q": "Why does Virginia Beach flood so often?",
+  "a": "Low ground, high groundwater and rising seas mean tides and rain have little room to drain. Nor'easters and hurricanes make it worse. Flood insurance covers tidal and surge flooding; home policies don't."
+ }
+}

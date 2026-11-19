@@ -1,0 +1,45 @@
+{
+ "lead": "Boston's triple-deckers, brownstones and coastal storms make water damage common. DryBeacon helps homes and condos from Back Bay to Dorchester dry out properly.",
+ "risk": "ice dams, frozen pipes, coastal flooding and old plumbing",
+ "risk_short": "ice dams, frozen pipes, coastal floods",
+ "why": [
+  "Almost half of Boston's homes were built before 1940, more than almost any big city. Triple-deckers in Dorchester and Jamaica Plain and brownstones in the South End have old pipes, slate and flat roofs, and units stacked on top of each other. The record snow of 2015 caused ice dams across the city.",
+  "Coastal storms push the harbor into streets. On January 4, 2018, a nor'easter brought a record tide that flooded Long Wharf, the Seaport and parts of Fort Point. Another storm flooded the waterfront that March. Winter cold freezes pipes in older homes."
+ ],
+ "image": "ceiling",
+ "image_alt": "Ceiling damaged by a leak in an older building",
+ "image_caption": "Ice dams and leaks from the unit above are common in Boston's older buildings.",
+ "problems": [
+  [
+   "Ice dams",
+   "Triple-deckers and older homes",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling water damage repair</a>"
+  ],
+  [
+   "Unit-to-unit leaks",
+   "Condos and brownstones",
+   "<a href=\"/services/water-mitigation/\">Drying and repair</a>"
+  ],
+  [
+   "Coastal flooding",
+   "Seaport, Long Wharf, East Boston",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Older homes in winter",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Seal attic air leaks and add insulation to cut ice dams.",
+  "In a condo, know which pipes the association covers.",
+  "Check flood risk near the harbor before buying.",
+  "Keep heat on and know your shut-off in winter."
+ ],
+ "areas": "Calls come from Back Bay, the South End, Dorchester, Jamaica Plain, South Boston, Charlestown and Allston-Brighton, plus Cambridge, Somerville, Brookline, Quincy and Newton.",
+ "faq": {
+  "q": "Who pays for a leak between Boston condo units?",
+  "a": "It depends on where the leak started and the condo documents. The association's master policy often covers common pipes and structure, and your HO-6 covers your unit's interior and belongings. Report it fast."
+ }
+}

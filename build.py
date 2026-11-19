@@ -20,6 +20,7 @@ SERVICES = json.loads((SRC / "services.json").read_text())
 SVC = {x["slug"]: x for x in SERVICES}
 import states  # noqa: E402  state hub pages
 import blog  # noqa: E402  guides and glossary
+import metros  # noqa: E402  metro hub pages
 
 # ---------------------------------------------------------------- helpers
 
@@ -113,6 +114,10 @@ def expand_components(body, meta, pages_by_path):
     body = re.sub(r"\{\{cta:(.+?)\}\}", lambda m: cta_box(m.group(1)), body)
     body = body.replace("{{states_grid}}", states.states_grid())
     body = body.replace("{{state_pills}}", states.state_pills())
+    if "{{metro_pills}}" in body:
+        mp = "".join(f'<li><a href="{metros.mpath(k)}">{metros.MMETA[k]["city"]}, {metros.MMETA[k]["st"]}</a></li>'
+                     for k in sorted(metros.MMETA, key=lambda k: metros.MMETA[k]["city"]) if (metros.CDIR / f"{k}.json").exists())
+        body = body.replace("{{metro_pills}}", f'<ul class="pills pills-sm">{mp}</ul>')
     if "{{near_you}}" in body:
         body = body.replace("{{near_you}}", f'<h2>{esc(meta["service"]["name"])} near you</h2>\n' + states.state_pills())
     if "{{" in body:
@@ -277,7 +282,7 @@ def page_html(meta, pages_by_path, css):
     if meta.get("type") == "post":
         og_img = BASE + meta["image"]["jpg"]
     raw_body = tokens(meta["body"])
-    if meta.get("type") in ("service", "state", "post"):
+    if meta.get("type") in ("service", "state", "post", "city"):
         # link glossary terms in the page's own prose only (before cards and components are added)
         raw_body = blog.autolink_glossary(raw_body, meta["path"])
     body = tokens(expand_components(raw_body, meta, pages_by_path))
@@ -354,6 +359,7 @@ def build():
 
     pages = [read_page(p) for p in sorted((SRC / "pages").rglob("*.html"))]
     pages += states.all_state_pages()
+    pages += metros.all_pages()
     by_path = {p["path"]: p for p in pages}
     org_id = BASE + "/#organization"
     for meta in pages:

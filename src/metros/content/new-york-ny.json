@@ -1,0 +1,45 @@
+{
+ "lead": "New York's old buildings, basement apartments and flash floods make water damage a daily problem. DryBeacon helps homes and businesses across the five boroughs dry out.",
+ "risk": "flash flooding, leaks in old apartment buildings and coastal storms",
+ "risk_short": "flash floods, old buildings, coastal storms",
+ "why": [
+  "Nearly four in five New York City homes were built before 1980. Old risers, steam heat and cast-iron drains leak in co-ops, rentals and brownstones, and one leak can soak every apartment below. In the Rockaways, Red Hook and Lower Manhattan, Sandy's surge in 2012 flooded thousands of buildings.",
+  "Flash floods are a growing risk. In September 2021, the remnants of Ida flooded basement apartments in Queens, and people died. On September 29, 2023, a record rainstorm flooded subways and streets in Brooklyn and Queens. Storm drains can't keep up when several inches fall in an hour."
+ ],
+ "image": "ceiling",
+ "image_alt": "Collapsed ceiling in an apartment after a leak from above",
+ "image_caption": "In New York's older buildings, one leak can damage several apartments below.",
+ "problems": [
+  [
+   "Unit-to-unit leaks",
+   "Co-ops and rentals citywide",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling water damage repair</a>"
+  ],
+  [
+   "Basement flooding",
+   "Queens, Brooklyn and the Bronx",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Burst risers and pipes",
+   "Pre-war buildings",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Sewer backups",
+   "Low-lying blocks",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Basement tenants should have a plan to get out fast in flash floods.",
+  "Know which pipes belong to your unit and which to the building.",
+  "Sign up for Notify NYC alerts.",
+  "Keep valuables off the floor in ground-floor units."
+ ],
+ "areas": "Calls come from Manhattan's Upper West Side and Harlem, Brooklyn's Park Slope and Williamsburg, Queens' Astoria and the Rockaways, the Bronx's Riverdale and Staten Island, plus Yonkers, Jersey City and Hoboken.",
+ "faq": {
+  "q": "Are basement apartments in New York safe from flooding?",
+  "a": "Not always. Ida in 2021 showed that basement units can flood within minutes in extreme rain. Tenants should know two ways out, move valuables up and consider NFIP contents coverage."
+ }
+}

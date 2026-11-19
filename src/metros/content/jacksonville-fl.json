@@ -1,0 +1,45 @@
+{
+ "lead": "Jacksonville faces hurricanes, St. Johns River flooding and humid summers. DryBeacon helps homes from Riverside to the Beaches get water out and dry fast.",
+ "risk": "hurricane surge and river flooding, nor'easters and humidity",
+ "risk_short": "hurricanes, river floods, humidity",
+ "why": [
+  "In September 2017, Hurricane Irma pushed the St. Johns River to record levels in downtown Jacksonville, flooding San Marco, Riverside and the Southbank. Hurricane Matthew in 2016 flooded the Beaches and St. Augustine to the south. Nor'easters also push water up the river and into low streets.",
+  "Jacksonville is huge, covering all of Duval County. Older homes in Riverside, Avondale and Springfield have crawl spaces and older plumbing, while Mandarin and the Southside are mostly slab homes. Summer humidity makes mold a risk within a day or two of a leak."
+ ],
+ "image": "flood",
+ "image_alt": "Flooded street near homes after a hurricane",
+ "image_caption": "Irma showed how far the St. Johns River can reach into Jacksonville neighborhoods.",
+ "problems": [
+  [
+   "River and surge flooding",
+   "San Marco, Riverside, Southbank, the Beaches",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Storm roof damage",
+   "Citywide after hurricanes",
+   "<a href=\"/services/storm-damage-restoration/\">Storm tarping</a>"
+  ],
+  [
+   "Mold after leaks",
+   "Any home in humid months",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ],
+  [
+   "AC condensate leaks",
+   "Attic air handlers",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling repair</a>"
+  ]
+ ],
+ "tips": [
+  "Buy flood insurance near the St. Johns, not just at the beach.",
+  "Clear the AC condensate line every few months.",
+  "Photograph every room before hurricane season.",
+  "Run a dehumidifier after any leak."
+ ],
+ "areas": "Calls come from Riverside, San Marco, Avondale, Mandarin, Arlington, the Southside, Northside and Jacksonville Beach, plus Orange Park, Fernandina Beach, Ponte Vedra and St. Augustine.",
+ "faq": {
+  "q": "Can the St. Johns River flood my Jacksonville home?",
+  "a": "Yes. During Irma in 2017, the river reached record levels and flooded neighborhoods far from the ocean. Homes near the river or its creeks should carry flood insurance."
+ }
+}

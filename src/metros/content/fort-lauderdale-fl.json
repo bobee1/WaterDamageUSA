@@ -1,0 +1,45 @@
+{
+ "lead": "Fort Lauderdale's canals, king tides and record rainstorms all push water into homes. DryBeacon helps homes and condos from Las Olas to Galt Ocean Mile dry out fast.",
+ "risk": "extreme rain, tidal flooding along canals and hurricane damage",
+ "risk_short": "extreme rain, king tides, hurricanes",
+ "why": [
+  "On April 12, 2023, Fort Lauderdale got about 26 inches of rain in a day, flooding homes, roads and the airport. The city is laced with canals, and king tides push seawater over seawalls in Las Olas Isles and Rio Vista. Hurricanes like Wilma in 2005 brought wind and roof damage.",
+  "About 65% of Fort Lauderdale homes were built before 1980, many on low ground near canals. Condo towers along Galt Ocean Mile and the beach see leaks that travel between floors. Humidity means wet drywall grows mold quickly."
+ ],
+ "image": "floodroom",
+ "image_alt": "Standing water inside a room after record rainfall",
+ "image_caption": "The April 2023 rainstorm flooded homes across Fort Lauderdale in a single day.",
+ "problems": [
+  [
+   "Rainstorm flooding",
+   "Edgewood, Riverland and low streets",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Tidal flooding",
+   "Las Olas Isles, Rio Vista, Harbor Beach",
+   "<a href=\"/services/water-extraction/\">Water removal</a>"
+  ],
+  [
+   "Condo leaks",
+   "Beachfront towers",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling repair</a>"
+  ],
+  [
+   "Mold after leaks",
+   "Any wet home",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Check seawall height and condition if you live on a canal.",
+  "Buy flood insurance even outside high-risk zones.",
+  "Clear the AC condensate line every few months.",
+  "Move valuables off the floor when big rain is forecast."
+ ],
+ "areas": "Calls come from Las Olas, Victoria Park, Rio Vista, Coral Ridge, Harbor Beach, Galt Ocean Mile and Flagler Village, plus Hollywood, Pompano Beach, Plantation, Davie and Wilton Manors.",
+ "faq": {
+  "q": "Was the April 2023 Fort Lauderdale flood covered by insurance?",
+  "a": "Only for owners with flood insurance. Rain that rises from outside counts as flood, which standard home policies exclude. Many homes outside high-risk zones flooded that day."
+ }
+}

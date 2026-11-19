@@ -1,0 +1,45 @@
+{
+ "lead": "Colorado Springs homes face hail, frozen pipes and flash floods off burn scars. DryBeacon helps owners from Old Colorado City to Briargate dry out fast.",
+ "risk": "hail, frozen pipes and flash floods from burn scars",
+ "risk_short": "hail, frozen pipes, flash floods",
+ "why": [
+  "After the 2012 Waldo Canyon fire, rain on the burn scar sent flash floods and debris through Manitou Springs and west Colorado Springs in 2013. Fountain Creek and its tributaries can rise fast in summer storms. Hail is frequent along the Front Range, and roof leaks follow the big storms.",
+  "Winters bring sudden cold that freezes pipes, and many homes have basements. Homes on the north side, like Briargate and Northgate, are newer, while Old Colorado City and the Broadmoor area have older homes and plumbing. Dry air helps drying, but cold basements still need dehumidifiers."
+ ],
+ "image": "storm",
+ "image_alt": "House with hail and wind damage to the roof and window",
+ "image_caption": "Front Range hail often leads to attic and ceiling leaks in Colorado Springs.",
+ "problems": [
+  [
+   "Hail roof leaks",
+   "Citywide, especially the north side",
+   "<a href=\"/services/storm-damage-restoration/\">Storm repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Basements and exterior walls",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Flash floods",
+   "West side and near Fountain Creek",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Basement water",
+   "Homes with finished basements",
+   "<a href=\"/services/water-extraction/\">Basement water removal</a>"
+  ]
+ ],
+ "tips": [
+  "If you live below a burn scar, sign up for El Paso County alerts.",
+  "Inspect the roof after hail season.",
+  "Insulate pipes in garages and crawl spaces.",
+  "Test your sump pump each spring."
+ ],
+ "areas": "Calls come from Old Colorado City, the Broadmoor, Briargate, Northgate, Rockrimmon, Powers and Downtown, plus Manitou Springs, Fountain, Monument and Security-Widefield.",
+ "faq": {
+  "q": "Why do burn scars cause floods in Colorado Springs?",
+  "a": "Fire leaves bare ground that sheds rain instead of soaking it in. Runoff carries ash, mud and debris downhill fast. Homes below the Waldo Canyon burn scar saw flash floods for years after the 2012 fire."
+ }
+}

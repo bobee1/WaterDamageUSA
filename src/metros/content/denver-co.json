@@ -1,0 +1,45 @@
+{
+ "lead": "Denver homes deal with big hail, frozen pipes and flooded basements. DryBeacon helps owners from the Highlands to Hampden get water out and dry properly.",
+ "risk": "hail-damaged roofs, frozen pipes and basement flooding",
+ "risk_short": "hail, frozen pipes, basement floods",
+ "why": [
+  "The Denver metro is one of the most hail-prone urban areas in the country. The May 8, 2017 hailstorm was the costliest insurance event in Colorado history, cracking roofs, skylights and windows across west Denver and Lakewood. Damaged roofs leak into attics and ceilings long after the storm.",
+  "Winter brings fast temperature drops that freeze pipes in walls, garages and crawl spaces. More than half of Denver homes were built before 1980, and many have basements. When a pipe bursts or a sump pump fails, finished basements fill fast. The South Platte River and Cherry Creek can flood in big storms, as the South Platte did in 1965."
+ ],
+ "image": "pipe",
+ "image_alt": "Water dripping from a frozen and split pipe in a Denver basement",
+ "image_caption": "A sudden Denver cold snap can split pipes in walls and basements overnight.",
+ "problems": [
+  [
+   "Hail roof damage",
+   "West Denver, Lakewood, Arvada",
+   "<a href=\"/services/storm-damage-restoration/\">Storm damage restoration</a>"
+  ],
+  [
+   "Frozen and burst pipes",
+   "Basements, garages, exterior walls",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Finished basement flooding",
+   "Older homes citywide",
+   "<a href=\"/services/water-extraction/\">Basement water removal</a>"
+  ],
+  [
+   "Sewer backups",
+   "Older homes on clay lines",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Have your roof checked after any hailstorm.",
+  "Disconnect hoses and shut off outdoor spigots before October.",
+  "Add a battery backup to your sump pump.",
+  "Have older sewer lines scoped for roots."
+ ],
+ "areas": "Calls come from LoDo, Capitol Hill, the Highlands, Wash Park, Cherry Creek, Central Park and Hampden, plus Aurora, Lakewood, Arvada, Littleton, Englewood and Westminster.",
+ "faq": {
+  "q": "How do I keep pipes from freezing in Denver?",
+  "a": "Keep the heat on, open cabinet doors on cold nights, and insulate pipes in garages and crawl spaces. Drip faucets on outside walls when it drops well below freezing. Know where your main shut-off is."
+ }
+}

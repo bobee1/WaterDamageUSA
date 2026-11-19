@@ -1,0 +1,45 @@
+{
+ "lead": "Fort Myers is still rebuilding from Hurricane Ian's surge. DryBeacon helps homes and condos from McGregor to Gateway with flooding, leaks and mold.",
+ "risk": "hurricane storm surge, heavy summer rain and fast mold growth",
+ "risk_short": "storm surge, heavy rain, mold",
+ "why": [
+  "Hurricane Ian made landfall in Lee County in September 2022. Its storm surge flooded Fort Myers Beach, downtown along the Caloosahatchee, and McGregor and Iona. Thousands of homes took in saltwater, and many had to be gutted. Helene and Milton brought more surge and wind in 2024.",
+  "Fort Myers is a newer city, with a median build year of 2001. Most homes are concrete block on slabs, with drywall that wicks water up quickly. Condo and seasonal homes sit empty for months, so leaks can go unnoticed. Humidity makes mold a risk within a day or two."
+ ],
+ "image": "flood",
+ "image_alt": "Flooded street and homes after hurricane surge",
+ "image_caption": "Ian's surge in 2022 flooded homes far up the Caloosahatchee River.",
+ "problems": [
+  [
+   "Storm surge",
+   "Fort Myers Beach, McGregor, Iona",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Leaks in seasonal homes",
+   "Condos and winter homes",
+   "<a href=\"/services/water-extraction/\">Water removal</a>"
+  ],
+  [
+   "Wicking drywall",
+   "Block homes after flooding",
+   "<a href=\"/services/water-mitigation/\">Drying and tear-out</a>"
+  ],
+  [
+   "Mold growth",
+   "Any wet home",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Install a smart leak sensor and shut-off in seasonal homes.",
+  "Know your evacuation zone and elevation.",
+  "Keep flood insurance active year-round.",
+  "Have someone check your home after storms while you're away."
+ ],
+ "areas": "Calls come from the Downtown River District, McGregor, Whiskey Creek, Iona, Gateway and Cypress Lake, plus Cape Coral, Estero, Lehigh Acres, Bonita Springs and Fort Myers Beach.",
+ "faq": {
+  "q": "How do I protect a Fort Myers seasonal home from water damage?",
+  "a": "Shut off the main water when you leave, or install an automatic shut-off with leak sensors. Set the AC to control humidity and ask someone to check the home after storms. Keep flood insurance active even when you're away."
+ }
+}

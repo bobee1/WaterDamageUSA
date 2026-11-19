@@ -1,0 +1,45 @@
+{
+ "lead": "Chicago basements flood from storms that overload the sewers, and old two-flats freeze in polar cold. DryBeacon helps homes from Rogers Park to Bridgeport get water out fast.",
+ "risk": "basement flooding and sewer backups, frozen pipes and old plumbing",
+ "risk_short": "basement floods, sewer backups, frozen pipes",
+ "why": [
+  "Chicago's combined sewers carry both rain and sewage. In a big storm, they fill up and push water back through basement floor drains. The Deep Tunnel project stores billions of gallons, but storms still overwhelm it. In July 2023, record rain flooded thousands of basements on the West Side and in Cicero.",
+  "Nearly 40% of Chicago homes were built before 1940. Bungalows and two-flats have old cast-iron drains and pipes on outside walls. During the January 2019 polar vortex, temperatures fell far below zero and burst pipes across the city."
+ ],
+ "image": "floodroom",
+ "image_alt": "Water covering a basement floor after heavy rain",
+ "image_caption": "Heavy rain can push sewage and storm water up through Chicago basement drains.",
+ "problems": [
+  [
+   "Sewer backups",
+   "Bungalows and two-flats citywide",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Basement flooding",
+   "West Side, Southwest Side, Portage Park",
+   "<a href=\"/services/water-extraction/\">Basement water removal</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Outside walls and porches",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Leaks in vintage buildings",
+   "Courtyard buildings and condos",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling repair</a>"
+  ]
+ ],
+ "tips": [
+  "Install a backflow valve or overhead sewer if your basement floods.",
+  "Add water backup coverage to your home policy.",
+  "Keep heat on and drip faucets during polar cold.",
+  "Keep stored items off the basement floor."
+ ],
+ "areas": "Calls come from Lincoln Park, Lakeview, Logan Square, Wicker Park, Bridgeport, Hyde Park, Rogers Park and Portage Park, plus Evanston, Oak Park, Cicero, Berwyn and Skokie.",
+ "faq": {
+  "q": "What is an overhead sewer in Chicago?",
+  "a": "It's a plumbing setup where basement drains flow to an ejector pump that lifts waste up to a sewer line near the ceiling. Sewage from the city main can't flow back into the basement. It's a common fix for repeat backups."
+ }
+}

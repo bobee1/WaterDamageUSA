@@ -1,0 +1,45 @@
+{
+ "lead": "Cincinnati's hills, old homes and the Ohio River all cause water damage. DryBeacon helps homes from Over-the-Rhine to Anderson get water out and dry properly.",
+ "risk": "basement sewer backups, Ohio River flooding and hillside runoff",
+ "risk_short": "sewer backups, river floods, hillsides",
+ "why": [
+  "The Ohio River set its record at Cincinnati in 1937. It crested near 60 feet in February 2018. Low areas like the East End flood in wet years. Old sewers back up in storms, and the sewer district runs a backup program for homes that flood.",
+  "About 40% of Cincinnati homes were built before 1940. Hillside homes in Clifton, Mount Adams and Westwood have stone walls and basements that seep. In 2019, landslides closed Columbia Parkway after a very wet year."
+ ],
+ "image": "floodroom",
+ "image_alt": "Water on the floor of an older stone basement",
+ "image_caption": "Older Cincinnati basements take on water from sewers and hillsides during storms.",
+ "problems": [
+  [
+   "Sewer backups",
+   "Older neighborhoods citywide",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "River flooding",
+   "East End and Ohio River areas",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Hillside seepage",
+   "Clifton, Westwood, Mount Adams",
+   "<a href=\"/services/water-extraction/\">Basement water removal</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Older homes in winter",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Ask MSD about its sewer backup program if your basement floods.",
+  "Extend downspouts away from hillside foundations.",
+  "Watch for cracks and tilting walls on steep lots.",
+  "Keep basement storage off the floor."
+ ],
+ "areas": "Calls come from Over-the-Rhine, Hyde Park, Clifton, Mount Adams, Oakley, Westwood and Northside, plus Norwood, Blue Ash, West Chester, Covington and Newport.",
+ "faq": {
+  "q": "What should I do if sewage backs up into my Cincinnati basement?",
+  "a": "Stop using water, stay out of the sewage and call MSD to report it. Take photos for your insurer. Sewage is black water, so cleanup needs protective gear and disinfection."
+ }
+}

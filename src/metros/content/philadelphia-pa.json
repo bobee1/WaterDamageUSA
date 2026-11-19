@@ -1,0 +1,45 @@
+{
+ "lead": "Philadelphia's rowhomes, old sewers and creek floods all cause water damage. DryBeacon helps homes from Fishtown to Chestnut Hill get water out fast.",
+ "risk": "rowhome leaks, basement backups and river and creek flooding",
+ "risk_short": "rowhome leaks, backups, flooding",
+ "why": [
+  "About 40% of Philadelphia homes were built before 1940, and most are rowhomes. Shared walls let leaks spread next door. Flat roofs leak into top floors. Old sewers back up into basements in heavy storms.",
+  "In September 2021, the remnants of Ida pushed the Schuylkill River over its banks. It flooded the Vine Street Expressway and Manayunk. Eastwick floods often along Cobbs and Darby creeks. Winter cold freezes pipes in old homes and vacant units."
+ ],
+ "image": "floodroom",
+ "image_alt": "Water covering the basement floor of a rowhome",
+ "image_caption": "Basements under Philadelphia rowhomes often flood when storms overload the sewers.",
+ "problems": [
+  [
+   "Rowhome roof and wall leaks",
+   "South Philly, Fishtown and Kensington",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling water damage repair</a>"
+  ],
+  [
+   "Basement backups",
+   "Older neighborhoods citywide",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "River and creek flooding",
+   "Manayunk, Eastwick",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Older homes and vacant units",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Have flat rowhome roofs coated and checked every few years.",
+  "Tell neighbors about leaks in shared walls right away.",
+  "Install a backwater valve if your basement floods.",
+  "Keep heat on in vacant rental units."
+ ],
+ "areas": "Calls come from Center City, Fishtown, South Philly, Manayunk, Northern Liberties, Fairmount and Chestnut Hill, plus Cherry Hill, Upper Darby, Bensalem, King of Prussia and Norristown.",
+ "faq": {
+  "q": "Who pays when a neighbor's rowhome leaks into mine?",
+  "a": "Usually your own home policy covers your damage first. If the neighbor was careless, your insurer may seek repayment from theirs. Report it fast, take photos and keep records."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Houston floods from hurricanes, stalled storms and overflowing bayous. DryBeacon helps homes and businesses across Harris County get water out and dry fast.",
+ "risk": "hurricane and rain flooding, bayou overflows and summer humidity",
+ "risk_short": "hurricanes, flooding, humidity",
+ "why": [
+  "Houston is flat, low and built on clay that drains slowly. When storms stall, bayous like Buffalo, Brays and White Oak overflow into neighborhoods. Tropical Storm Allison in 2001, the Memorial Day flood of 2015 and the Tax Day flood of 2016 all flooded thousands of homes. Then Hurricane Harvey in 2017 dropped more than 50 inches of rain in some spots.",
+  "Harvey also brought controlled releases from the Addicks and Barker reservoirs, which flooded west Houston homes for days. Meyerland has flooded again and again. In 2024, a May derecho blew out downtown windows and Hurricane Beryl left much of the city without power. Year-round humidity means wet drywall can grow mold quickly."
+ ],
+ "image": "flood",
+ "image_alt": "Flooded Houston-area street with water reaching homes",
+ "image_caption": "Houston's bayous can overflow into neighborhoods far from the mapped flood zones.",
+ "problems": [
+  [
+   "Bayou and street flooding",
+   "Meyerland, Kingwood, Westbury, near Brays Bayou",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Hurricane wind and roof damage",
+   "Citywide after tropical storms",
+   "<a href=\"/services/storm-damage-restoration/\">Storm tarping and drying</a>"
+  ],
+  [
+   "Mold after leaks",
+   "Any wet home in humid months",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ],
+  [
+   "Slab leaks",
+   "Homes on shifting clay",
+   "<a href=\"/services/water-damage-repair/\">Leak repair</a>"
+  ]
+ ],
+ "tips": [
+  "Buy flood insurance even outside high-risk zones; Harvey flooded many homes outside them.",
+  "Sign up for Harris County flood warning alerts.",
+  "Raise furniture and electronics off the floor before big storms.",
+  "Run AC and a dehumidifier after any leak to slow mold."
+ ],
+ "areas": "Calls come from Montrose, the Heights, River Oaks, Meyerland, Midtown, Westchase, Kingwood and Clear Lake, plus Katy, Sugar Land, Pearland, Cypress and The Woodlands.",
+ "faq": {
+  "q": "Should I buy flood insurance in Houston if I'm not in a flood zone?",
+  "a": "Many Houston homes that flooded in Harvey were outside high-risk zones. Standard home policies exclude flood, and NFIP policies usually take 30 days to start. Buying before storm season is the safe move."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "St. Louis has some of the oldest brick housing in the country, plus flash floods and river floods. DryBeacon helps homes from Soulard to Carondelet dry out properly.",
+ "risk": "flash flooding, basement backups and leaks in century-old homes",
+ "risk_short": "flash floods, backups, old homes",
+ "why": [
+  "On July 26, 2022, about nine inches of rain fell on St. Louis in a few hours, a record that flooded homes, highways and basements across the city and county. The River Des Peres overflowed in south St. Louis. In 1993, the downtown floodwall held back a record Mississippi crest.",
+  "Nearly 58% of St. Louis homes were built before 1940, more than any other big U.S. city. Brick homes and flats have stone foundations, old cast-iron drains and plaster walls. Old combined sewers back up in storms, and winter cold bursts old pipes."
+ ],
+ "image": "floodroom",
+ "image_alt": "Water covering the floor of an old brick basement",
+ "image_caption": "Century-old St. Louis basements took in water across the city in the 2022 flood.",
+ "problems": [
+  [
+   "Flash flooding",
+   "River Des Peres and low areas",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Basement backups",
+   "Brick homes citywide",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Old pipe failures",
+   "Soulard, Benton Park, Tower Grove",
+   "<a href=\"/services/burst-pipe-water-damage/\">Pipe leak cleanup</a>"
+  ],
+  [
+   "Plaster and brick drying",
+   "Historic homes",
+   "<a href=\"/services/water-mitigation/\">Careful structural drying</a>"
+  ]
+ ],
+ "tips": [
+  "Install a backwater valve if your basement has a drain.",
+  "Ask MSD about backup prevention programs.",
+  "Keep storage off basement floors.",
+  "Have old cast-iron drains scoped."
+ ],
+ "areas": "Calls come from Soulard, the Central West End, Tower Grove, the Hill, Lafayette Square, Dogtown and Carondelet, plus Clayton, Kirkwood, Webster Groves, Florissant and St. Charles.",
+ "faq": {
+  "q": "How did the 2022 St. Louis flood happen?",
+  "a": "Storms trained over the city on July 26, 2022, dropping about nine inches of rain in a few hours. Sewers and creeks couldn't keep up, and water flooded homes and roads. Flood insurance covers that kind of rising water."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Cleveland homes face lake-effect snow, ice dams, frozen pipes and wet basements. DryBeacon helps owners from Ohio City to Collinwood get water out and dry.",
+ "risk": "basement backups, frozen pipes and ice dams from lake-effect snow",
+ "risk_short": "basement backups, frozen pipes, ice dams",
+ "why": [
+  "Nearly half of Cleveland homes were built before 1940. Many are wood-frame doubles with stone or block basements, old drains and thin insulation. Lake-effect snow piles up on roofs, ice dams form, and meltwater leaks into walls.",
+  "The Northeast Ohio Regional Sewer District is building giant tunnels under Project Clean Lake to cut combined sewer overflows, but heavy storms still back water up into basements. Winter cold snaps off Lake Erie freeze pipes on outside walls."
+ ],
+ "image": "ceiling",
+ "image_alt": "Ceiling damaged after an ice dam leak",
+ "image_caption": "Lake-effect snow and ice dams drive winter ceiling leaks in Cleveland.",
+ "problems": [
+  [
+   "Basement backups",
+   "Older neighborhoods citywide",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Ice dams",
+   "Doubles and older homes",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling water damage repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Outside walls and porches",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Basement seepage",
+   "Stone and block foundations",
+   "<a href=\"/services/water-extraction/\">Basement water removal</a>"
+  ]
+ ],
+ "tips": [
+  "Install a backwater valve on the basement floor drain.",
+  "Rake snow off the lower roof after lake-effect storms.",
+  "Insulate pipes and keep heat on in vacant units.",
+  "Add water backup coverage to your policy."
+ ],
+ "areas": "Calls come from Ohio City, Tremont, Detroit-Shoreway, University Circle, Old Brooklyn, Slavic Village and Collinwood, plus Lakewood, Parma, Cleveland Heights, Euclid and Strongsville.",
+ "faq": {
+  "q": "What is Project Clean Lake in Cleveland?",
+  "a": "It's the sewer district's long-term plan to cut combined sewer overflows into Lake Erie, mostly with large storage tunnels. It reduces overflows, but heavy storms can still cause basement backups."
+ }
+}

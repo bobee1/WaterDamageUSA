@@ -1,0 +1,45 @@
+{
+ "lead": "San Diego's water damage comes from aging plumbing, sudden winter storms and sea-air corrosion. DryBeacon helps homes from Pacific Beach to Rancho Bernardo dry out right.",
+ "risk": "aging plumbing, sudden winter flooding and coastal moisture",
+ "risk_short": "old pipes, winter floods, coastal damp",
+ "why": [
+  "San Diego rarely gets heavy rain, so when it comes, drains can't keep up. On January 22, 2024, a record downpour flooded homes in Southcrest, Shelltown and Mountain View along Chollas Creek, and hundreds of families were displaced. The San Diego River can flood parts of Mission Valley in big storms.",
+  "Many homes in North Park, Clairemont and Point Loma date to the 1950s through the 1970s, with original copper or galvanized pipes. Near the coast, salt air corrodes fittings and the marine layer keeps humidity up, which slows drying. Condo buildings in Downtown and La Jolla see leaks that move between units."
+ ],
+ "image": "floodroom",
+ "image_alt": "Standing water across a room after a winter flood",
+ "image_caption": "A rare heavy storm in 2024 flooded hundreds of San Diego homes in a single morning.",
+ "problems": [
+  [
+   "Storm flooding",
+   "Southcrest, Shelltown and creek areas",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Pinhole pipe leaks",
+   "Mid-century homes in North Park and Clairemont",
+   "<a href=\"/services/burst-pipe-water-damage/\">Pipe leak cleanup</a>"
+  ],
+  [
+   "Condo leaks",
+   "Downtown and La Jolla buildings",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling repair</a>"
+  ],
+  [
+   "Mold from slow leaks",
+   "Coastal homes with damp air",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Clear storm drains near your home before winter storms.",
+  "Have older copper pipes checked for pinhole leaks.",
+  "Run bath fans and a dehumidifier in coastal homes.",
+  "Know your condo association's rules for leaks between units."
+ ],
+ "areas": "Calls come from Downtown, North Park, Pacific Beach, Clairemont, La Jolla, Mira Mesa, Rancho Bernardo and Point Loma, plus Chula Vista, El Cajon, Escondido, Oceanside and Carlsbad.",
+ "faq": {
+  "q": "Why did San Diego flood in January 2024?",
+  "a": "A slow-moving storm dropped record rain in a few hours. Storm drains and creeks like Chollas Creek overflowed, flooding homes in southeast neighborhoods. Flood insurance is the only policy that covers rising water like that."
+ }
+}

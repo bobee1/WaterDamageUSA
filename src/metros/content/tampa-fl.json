@@ -1,0 +1,45 @@
+{
+ "lead": "Tampa sits on a shallow bay that funnels storm surge, and summer rain is heavy. DryBeacon helps homes from South Tampa to New Tampa get water out and dry.",
+ "risk": "storm surge in Tampa Bay, hurricane wind and summer flooding",
+ "risk_short": "storm surge, hurricanes, flooding",
+ "why": [
+  "Tampa Bay is shallow, which makes storm surge dangerous. In September 2024, Hurricane Helene's surge flooded South Tampa, Davis Islands and Bayshore, and two weeks later Milton brought wind, tornadoes and record rain. Low streets in Hyde Park and along the bay flood in heavy rain even without a hurricane.",
+  "Bungalows in Seminole Heights and older homes in Hyde Park have raised floors and older plumbing. Newer homes in Westchase and New Tampa are slab-built with attic AC units. Humidity means wet drywall can grow mold in a day or two."
+ ],
+ "image": "flood",
+ "image_alt": "Flooded waterfront street after hurricane surge",
+ "image_caption": "Helene's surge flooded South Tampa and Davis Islands in 2024.",
+ "problems": [
+  [
+   "Storm surge",
+   "South Tampa, Davis Islands, Bayshore",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Hurricane roof damage",
+   "Citywide",
+   "<a href=\"/services/storm-damage-restoration/\">Storm tarping</a>"
+  ],
+  [
+   "Street flooding in downpours",
+   "Hyde Park and low areas",
+   "<a href=\"/services/water-extraction/\">Water removal</a>"
+  ],
+  [
+   "Mold after leaks",
+   "Humid months",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Know your evacuation zone and your flood zone.",
+  "Video every room before hurricane season.",
+  "Clear storm drains near your home.",
+  "Run a dehumidifier and AC after any leak."
+ ],
+ "areas": "Calls come from South Tampa, Hyde Park, Davis Islands, Seminole Heights, Westchase, New Tampa, Ybor City and Carrollwood, plus St. Petersburg, Clearwater, Brandon, Riverview and Wesley Chapel.",
+ "faq": {
+  "q": "Why is storm surge so dangerous in Tampa?",
+  "a": "Tampa Bay is shallow and funnel-shaped, so wind can pile up water fast as a storm approaches. Helene's surge in 2024 flooded neighborhoods along the bay. Flood insurance is the only policy that covers surge."
+ }
+}

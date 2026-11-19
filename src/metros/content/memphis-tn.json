@@ -1,0 +1,45 @@
+{
+ "lead": "Memphis faces severe storms, river and creek flooding, and winter freezes that strain old pipes. DryBeacon helps homes from Midtown to Cordova dry out fast.",
+ "risk": "severe storms, creek flooding and freeze-burst pipes",
+ "risk_short": "storms, creek floods, frozen pipes",
+ "why": [
+  "In December 2022, a deep freeze burst pipes across Memphis, and water pressure dropped so far that the city issued a boil-water notice. The Mississippi River crested near record levels in 2011. Nonconnah Creek and the Wolf River flood neighborhoods in heavy rain.",
+  "Two-thirds of Memphis homes were built before 1980. Many older homes in Midtown and Cooper-Young have crawl spaces, older pipes and plaster. Tornadoes and straight-line winds bring down trees, and ice storms like the one in February 2023 cut power for days."
+ ],
+ "image": "pipe",
+ "image_alt": "Water leaking from a frozen pipe joint",
+ "image_caption": "The December 2022 freeze burst pipes in homes across Memphis.",
+ "problems": [
+  [
+   "Frozen and burst pipes",
+   "Crawl spaces and older homes",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Creek flooding",
+   "Near Nonconnah Creek and the Wolf River",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Storm and tree damage",
+   "Midtown and East Memphis",
+   "<a href=\"/services/storm-damage-restoration/\">Storm repair</a>"
+  ],
+  [
+   "Wet crawl spaces",
+   "Older homes citywide",
+   "<a href=\"/services/water-mitigation/\">Crawl space drying</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate crawl space pipes before winter.",
+  "Drip faucets during hard freezes.",
+  "Trim trees near the house before storm season.",
+  "Check flood maps near creeks."
+ ],
+ "areas": "Calls come from Midtown, Cooper-Young, East Memphis, Downtown, Whitehaven, Hickory Hill, Cordova and Raleigh, plus Germantown, Collierville, Bartlett, Southaven and West Memphis.",
+ "faq": {
+  "q": "Why did so many pipes burst in Memphis in 2022?",
+  "a": "A long, deep freeze hit a city where many homes have pipes in crawl spaces and outside walls. Pipes froze and split, and leaks drained the water system. Insulating pipes and dripping faucets lower the risk."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "West Palm Beach faces hurricanes, king tides and heavy summer rain. DryBeacon helps homes and condos from Flamingo Park to Ibis get water out and dry fast.",
+ "risk": "hurricanes, tidal flooding along the lagoon and heavy rain",
+ "risk_short": "hurricanes, king tides, heavy rain",
+ "why": [
+  "Hurricanes Frances and Jeanne hit Palm Beach County three weeks apart in 2004, and Wilma followed in 2005. King tides push the Lake Worth Lagoon onto Flagler Drive and low streets. Heavy summer storms drop several inches in an hour and overwhelm drains.",
+  "Historic neighborhoods like El Cid and Flamingo Park have 1920s homes with older plumbing. Downtown has many condo towers, where leaks travel between units. Humidity means mold can grow quickly, so drying has to start fast."
+ ],
+ "image": "flood",
+ "image_alt": "Flooded street near the waterfront after a storm",
+ "image_caption": "King tides and storms push the Lake Worth Lagoon onto West Palm Beach streets.",
+ "problems": [
+  [
+   "Tidal and storm flooding",
+   "Flagler Drive and low streets",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Condo unit-to-unit leaks",
+   "Downtown towers",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling repair</a>"
+  ],
+  [
+   "Hurricane roof damage",
+   "Historic neighborhoods",
+   "<a href=\"/services/storm-damage-restoration/\">Storm tarping</a>"
+  ],
+  [
+   "Mold after leaks",
+   "Any wet home",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Check tide charts before parking on low streets.",
+  "Condo owners should keep their HO-6 policy current.",
+  "Clear the AC condensate line regularly.",
+  "Video your home before hurricane season."
+ ],
+ "areas": "Calls come from Downtown, El Cid, Flamingo Park, Northwood, Grandview Heights, SoSo and Ibis, plus Palm Beach, Lake Worth Beach, Jupiter, Boca Raton and Wellington.",
+ "faq": {
+  "q": "Who pays for a leak from the condo above in West Palm Beach?",
+  "a": "It depends on the cause and the association's rules. Often the unit owner's HO-6 covers the inside of their unit and belongings, and the association covers common elements. Florida condo law and your documents set the details."
+ }
+}

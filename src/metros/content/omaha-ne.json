@@ -1,0 +1,45 @@
+{
+ "lead": "Omaha homes face river floods, hail and long, cold winters. DryBeacon helps owners from Dundee to Elkhorn get water out and dry fast.",
+ "risk": "hail damage, river and creek flooding and frozen pipes",
+ "risk_short": "hail, river floods, frozen pipes",
+ "why": [
+  "In March 2019, the Missouri River and Platte River flooded after a bomb cyclone dropped rain on frozen ground. Offutt Air Force Base south of Omaha was badly flooded. The Papillion Creek system can rise fast in heavy rain and flood nearby neighborhoods.",
+  "Hail damages Omaha roofs most summers. About 60% of homes were built before 1980, and many older homes in Dundee, Benson and Midtown have basements and old sewer lines. Deep winter cold freezes pipes on outside walls and in garages."
+ ],
+ "image": "flood",
+ "image_alt": "Flood barrier holding back water near homes",
+ "image_caption": "The 2019 Missouri River floods reached communities around Omaha.",
+ "problems": [
+  [
+   "Hail roof damage",
+   "Citywide",
+   "<a href=\"/services/storm-damage-restoration/\">Storm repair</a>"
+  ],
+  [
+   "Creek and river flooding",
+   "Papillion Creek and river areas",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Basement backups",
+   "Older homes in Dundee and Benson",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Garages and outside walls",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Inspect your roof after every hailstorm.",
+  "Buy flood insurance before spring; NFIP has a 30-day wait.",
+  "Install a backwater valve on the basement drain.",
+  "Insulate pipes in garages and outside walls."
+ ],
+ "areas": "Calls come from Dundee, Benson, the Old Market, Aksarben, Millard, Elkhorn and Florence, plus Bellevue, Papillion, La Vista, Ralston and Council Bluffs. Homes near Papillion Creek and the Missouri River get extra attention for flood risk.",
+ "faq": {
+  "q": "Does homeowners insurance cover hail damage in Omaha?",
+  "a": "Usually yes, though many policies have a separate wind and hail deductible. Photograph the damage, cover openings and report the claim quickly."
+ }
+}

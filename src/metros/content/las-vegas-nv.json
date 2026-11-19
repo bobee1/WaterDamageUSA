@@ -1,0 +1,45 @@
+{
+ "lead": "Las Vegas looks dry, but flash floods, hard water and slab leaks keep water damage common. DryBeacon helps homes and businesses across the valley dry out fast.",
+ "risk": "monsoon flash floods, slab leaks and hard-water plumbing failures",
+ "risk_short": "flash floods, slab leaks, hard water",
+ "why": [
+  "Summer monsoon storms drop heavy rain on desert ground that doesn't soak it in. Water rushes through washes and streets toward the Las Vegas Wash. The Clark County Regional Flood Control District has built hundreds of miles of channels and detention basins since 1985, but streets and low homes still flood in big storms.",
+  "Water from Lake Mead is hard. Minerals shorten the life of water heaters, supply lines and fittings, so appliance leaks are common. Most homes are newer and sit on slabs, so a leak under the floor can run for weeks. Evaporative coolers on roofs can leak into ceilings too."
+ ],
+ "image": "drywall",
+ "image_alt": "Water-damaged drywall at the base of a wall from a slab leak",
+ "image_caption": "Slab and supply line leaks often show first as swollen baseboards in Las Vegas homes.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Summerlin, Spring Valley and older valley homes",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and floor drying</a>"
+  ],
+  [
+   "Water heater failures",
+   "Garages and closets",
+   "<a href=\"/services/water-extraction/\">Water removal</a>"
+  ],
+  [
+   "Flash flooding",
+   "Homes near washes and channels",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Cooler and roof leaks",
+   "Homes with roof units",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling repair</a>"
+  ]
+ ],
+ "tips": [
+  "Replace water heater supply lines every few years.",
+  "Consider a water softener to slow wear on pipes.",
+  "Never cross a flooded wash or channel.",
+  "Watch for warm spots on tile floors, a sign of a slab leak."
+ ],
+ "areas": "Calls come from Summerlin, Downtown, Centennial Hills, Spring Valley, The Lakes, Desert Shores, Paradise and Enterprise, plus Henderson, North Las Vegas and Boulder City.",
+ "faq": {
+  "q": "How common are slab leaks in Las Vegas?",
+  "a": "Fairly common. Hard water, temperature swings and corrosion wear on pipes under slab foundations. Warm floors, running-water sounds and a higher bill are signs. A plumber finds the leak, then the floor and walls are dried."
+ }
+}

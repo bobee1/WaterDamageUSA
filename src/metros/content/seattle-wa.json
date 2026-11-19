@@ -1,0 +1,45 @@
+{
+ "lead": "Seattle's long rainy season, steep hills and older homes make leaks and wet basements common. DryBeacon helps homes from Ballard to Columbia City dry out properly.",
+ "risk": "months of heavy rain, landslides on steep lots and damp basements",
+ "risk_short": "heavy rain, landslides, damp",
+ "why": [
+  "Seattle gets steady rain from October to April, and atmospheric rivers can drop days of heavy rain on soaked ground. Steep hillsides in West Seattle, Magnolia and along Lake Washington can slide, pushing mud and water into homes. Basements in older homes take on groundwater through cracks and joints.",
+  "More than half of Seattle's homes were built before 1980, and almost a quarter before 1940. Craftsman homes often have old side sewers, which owners are responsible for. Moss holds water on roofs, and cool, damp air causes condensation and mold in poorly vented rooms."
+ ],
+ "image": "mold",
+ "image_alt": "Mold spots spreading on a damp wall in an older home",
+ "image_caption": "Seattle's damp months let mold grow fast on any wet wall.",
+ "problems": [
+  [
+   "Basement seepage",
+   "Older homes in Ballard, Wallingford, Queen Anne",
+   "<a href=\"/services/water-extraction/\">Basement water removal</a>"
+  ],
+  [
+   "Roof leaks from moss and rain",
+   "Homes citywide",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling water damage repair</a>"
+  ],
+  [
+   "Landslides and mud",
+   "Steep lots in West Seattle and Magnolia",
+   "<a href=\"/services/flood-damage-restoration/\">Mud and water cleanup</a>"
+  ],
+  [
+   "Mold from damp",
+   "Bathrooms and basements",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Clean moss off roofs and gutters every fall.",
+  "Have your side sewer scoped; owners are usually responsible for it.",
+  "Run bath fans and a dehumidifier in basements.",
+  "Watch for cracks or tilting on steep lots after heavy rain."
+ ],
+ "areas": "Calls come from Capitol Hill, Ballard, Fremont, Queen Anne, West Seattle, Columbia City, Wallingford and Northgate, plus Bellevue, Everett, Shoreline, Renton and Kent.",
+ "faq": {
+  "q": "Who is responsible for a side sewer in Seattle?",
+  "a": "In Seattle, property owners are usually responsible for the side sewer from the house to the city main. Roots and cracks in old clay lines cause backups. A camera inspection shows its condition."
+ }
+}

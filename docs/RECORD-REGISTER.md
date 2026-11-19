@@ -52,7 +52,14 @@ A dated log of every step. Newest entries at the bottom of each build. Status: D
 | 46 | 2026-11-19 | 5 | Glossary: 55 terms, DefinedTermSet, auto-links (max 4 per page) | Done | |
 | 47 | 2026-11-19 | 5 | Helpful guides on 10 service pages; home page guide links | Done | Every guide has 4+ in-text inbound links |
 | 48 | 2026-11-19 | 5 | Audit 0 issues (84 pages); readability, duplicates, responsive clean | Done | |
-| 49 | — | 6 | Semrush city scoring + first 50 metro pages | Planned | Next build |
+| 49 | 2026-11-19 | 6 | Semrush: 80 more city keywords (820 units) | Done | `research/08-city-demand-batch2.csv` |
+| 50 | 2026-11-19 | 6 | Top 50 metros ranked by searches × CPC; suburbs held for Build 7 | Done | Dallas, Austin and LA lead |
+| 51 | 2026-11-19 | 6 | Census ACS housing data for 50 principal cities | Done | `research/09-metro-acs.json` |
+| 52 | 2026-11-19 | 6 | Generator `metros.py`; metro metadata (county, ZIPs, neighborhoods, nearby) | Done | `src/metros/meta.json` |
+| 53 | 2026-11-19 | 6 | 50 hand-written metro content files | Done | Verified local events only |
+| 54 | 2026-11-19 | 6 | State pages, Locations hub, guides and storm page link to metros | Done | |
+| 55 | 2026-11-19 | 6 | Audit 0 issues (134 pages); FK ≤ 9; uniqueness 75–80%; responsive clean | Done | |
+| 56 | — | 7 | First 100 city pages (suburbs + next metros) | Planned | Next build |
 
 ## Image register
 | File | Source | Used on |

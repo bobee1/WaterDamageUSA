@@ -1,0 +1,45 @@
+{
+ "lead": "San Francisco's old Victorians, hills and winter storms make water damage a common problem. DryBeacon helps homes and flats from the Mission to the Sunset dry out properly.",
+ "risk": "old plumbing in pre-war buildings, winter storm flooding and damp fog",
+ "risk_short": "old pipes, winter storms, damp",
+ "why": [
+  "About 45% of San Francisco homes were built before 1940, more than almost any big city. Victorians and Edwardians have old drain lines, lath-and-plaster walls and shared walls between flats. A leak upstairs often ends up in the unit below.",
+  "Winter storms flood low spots. On New Year's Eve 2022, heavy rain flooded parts of the Mission and SoMa, an area the city has worked on for years with storm sewer projects. Fog keeps west-side neighborhoods like the Sunset and Richmond damp, which slows drying and feeds mold."
+ ],
+ "image": "ceiling",
+ "image_alt": "Collapsed ceiling in an older flat after a leak from above",
+ "image_caption": "In SF's stacked flats, a leak upstairs often brings down a ceiling below.",
+ "problems": [
+  [
+   "Unit-to-unit leaks",
+   "Victorian flats and condos",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling water damage repair</a>"
+  ],
+  [
+   "Storm flooding",
+   "Low areas in the Mission and SoMa",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Sewer backups",
+   "Garages and basements in low areas",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Mold from damp",
+   "The Sunset and Richmond",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Install a backwater valve if your garage or basement has a drain.",
+  "In a TIC or condo, know which pipes belong to you.",
+  "Run a dehumidifier in foggy west-side homes.",
+  "Clear the drain in front of your garage before storms."
+ ],
+ "areas": "Calls come from the Mission, Noe Valley, the Sunset, the Richmond, Haight-Ashbury, Bernal Heights, Pacific Heights and SoMa, plus Daly City, South San Francisco, Oakland and San Mateo.",
+ "faq": {
+  "q": "Who pays when water leaks from the flat above in San Francisco?",
+  "a": "Usually your own policy covers your unit and belongings first, and the building's policy covers shared pipes. If the upstairs owner was careless, insurers may sort out payment later. Report it quickly and take photos."
+ }
+}

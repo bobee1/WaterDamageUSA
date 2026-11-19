@@ -6,6 +6,7 @@ Plan: "Nationwide Water Damage Local Services Site — Build Plan" (Claude doc).
 Last updated: 2026-11-19
 
 ## Previous
+- Build 5 — Guides hub, 10 guides (1,230–1,642 words, FK 5.0–7.2), 55-term glossary with auto-links, branded featured images, helpful guides on service pages.
 - Build 4 — Locations hub + 51 state pages (Census ACS + FEMA data, insurance and licensing notes, 71–79% unique); service-page local notes and near-you links.
 - Build 1 — Foundation, trust and legal pages: generator (`build.py`), design system, header/footer, mobile call bar, breadcrumbs, base JSON-LD; About, Contact (form → Pages Function → Resend), Privacy, Terms, Disclaimer, Editorial Policy, Accessibility, 404; robots, sitemap, `_headers`, `_redirects`, manifest, icons; 4 Pexels WebP photos; audit 0 issues.
 - Build 1b — Logo set and design system (Design System artifact "DryBeacon"); contrast fixes.
@@ -15,20 +16,17 @@ Last updated: 2026-11-19
 - Plan approved: one national brand, state → metro → city structure, all 50 states + DC, one toll-free number, Cloudflare free plan.
 - Owner decisions: brand DryBeacon; own-business call routing; 24/7; 10+ years in business; legal owner Anjam Javed; toll-free 1-800-555-0199; email added after the domain is bought.
 
-## Current — Build 5: Guides hub, first 10 guides and glossary (done)
-- `/blog/` guides hub (cards grouped by 5 categories, Blog schema) and 10 guides from the approved plan, 1,230–1,642 words each, reading grade 5.0–7.2.
-- Each guide: SERP brief (Semrush questions + top 8 rankers, `research/07-guide-briefs.csv`), short-answer box, money-page link in the first 150 words, question H2s, comparison tables, numbered steps, CTA, prevention, Local note (4–5 state links), Related reading, "When should you call…" close, 4 FAQs, 4–5 primary sources (EPA, CDC, FEMA/FloodSmart, NAIC, Red Cross; one manufacturer figure credited by name), author box, 2 related guide cards.
-- Branded 1200×630 featured images (WebP on page, JPG for social), rendered from the post titles by `scripts/make_post_images.py`.
-- Schema: BlogPosting (headline, dates, wordCount, citation), WebPage about/mentions, FAQPage, BreadcrumbList (Home › Guides › post).
-- `/glossary/`: 55 terms, A–Z jump links, DefinedTermSet schema; each term links to its best guide or service. First mention of up to 4 terms auto-links on service, state and guide pages.
-- Internal links: "Helpful guides" (3 cards) on every service page, guide links in the home page process and cost sections, Guides and Glossary in the menu/footer; every guide has 4+ in-text links from other pages.
-- Checks: audit 0 issues (84 pages); readability ≤ 9 everywhere; no repeated paragraphs; responsive clean at 360/768/1280; no console errors.
-- Note: competitor pages couldn't be opened from this workspace for exact word counts, so lengths were set against the Build 3 benchmarks (SERVPRO ~1,250, BELFOR ~600, 1-800 Water Damage ~1,400). Dehumidifier SERP is shopping-heavy, so that guide targets the question searches.
+## Current — Build 6: City scoring + first 50 metro pages (done)
+- Semrush: 80 more city keywords scored (820 units; 39,180 left), merged with the Build 2 sample of 100 (`research/02-city-demand.csv`, `research/08-city-demand-batch2.csv`). Ranked by value score = searches × CPC (floor $20); suburbs held for Build 7 city pages.
+- 50 metro pages at `/locations/<state>/<city>/` (Dallas, Austin, LA, Las Vegas, San Diego, Atlanta, Houston … Omaha, San Francisco), 800–1,050 words each.
+- Each page: Census ACS housing table for the city (`research/09-metro-acs.json`), county and sample ZIP codes, hand-written "why water damage here is different" with verified local events and landmarks, local problems table linked to services, tips, neighborhoods and suburbs, insurance note linked to the state page, 4 FAQs, service cards, nearby metros.
+- Schema: Service with areaServed City (sameAs Wikipedia, containedInPlace county), FAQPage, BreadcrumbList (Home › Locations › State › City).
+- Links: state pages list their metro pages in text; Locations hub has a "Top metro areas" list; each metro links 3 nearby metros in text; every metro has 2+ in-text inbound links plus its state page.
+- Checks: audit 0 issues (134 pages); readability ≤ 9; uniqueness 75–80% per metro page vs its closest (rule ≥ 60%); responsive clean on all 52 checked pages.
 
 ## Coming
 | Build | Scope | Needs from owner |
 | --- | --- | --- |
-| 6 | Master city dataset (Census, NOAA, FEMA, EPA) + 50 metro hub pages | Data files (the workspace can't reach Census/NOAA directly) |
 | 7 | First 100 city pages | — |
 | Launch | Buy domain, Cloudflare Pages project, env vars, real toll-free number, email, Search Console + analytics | Domain, number, email, Resend key |
 

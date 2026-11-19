@@ -235,8 +235,11 @@ def state_page(ab):
     if ab == "DC":
         areas_p = c["areas"] + nb_line
     else:
+        import metros as _M
+        mm = _M.metros_in_state(ab)
+        metro_line = (" Local pages: " + join_list([_M.mlink(x) for x in mm]) + ".") if mm else ""
         areas_p = (f"DryBeacon handles water damage calls across {name}. The largest communities are "
-                   f"{join_list(cities)}. " + c.get("areas", "") + nb_line)
+                   f"{join_list(cities)}. " + c.get("areas", "") + metro_line + nb_line)
     body = f"""<p class="quick"><strong>Quick answer:</strong> {quick_answer(ab, c)}</p>
 
 <h2>{short} water damage at a glance</h2>

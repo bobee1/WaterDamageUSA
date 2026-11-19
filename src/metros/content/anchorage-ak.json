@@ -1,0 +1,45 @@
+{
+ "lead": "Anchorage water damage often starts with frozen pipes, ice dams or spring melt. DryBeacon helps owners from South Addition to Eagle River dry out properly.",
+ "risk": "frozen and burst pipes, ice dams and spring snowmelt",
+ "risk_short": "frozen pipes, ice dams, snowmelt",
+ "why": [
+  "Cold snaps in Anchorage can freeze pipes in outside walls, crawl spaces and arctic entries within hours of a heat failure. Homes left empty for a trip are at high risk. Ice dams form on roofs that lose heat into the attic, and meltwater drips into ceilings.",
+  "The November 30, 2018 earthquake, a magnitude 7.1, broke water lines and damaged homes across the city. Spring breakup saturates the ground, and water seeps into basements on the Hillside and in older neighborhoods. Dry winter air helps drying, but buildings must stay heated so pipes don't freeze again."
+ ],
+ "image": "pipe",
+ "image_alt": "Water dripping from a cracked pipe after a hard freeze",
+ "image_caption": "A short heat outage in an Anchorage cold snap can split pipes in hours.",
+ "problems": [
+  [
+   "Frozen and burst pipes",
+   "Crawl spaces, arctic entries, outside walls",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Ice dams",
+   "Homes with attic heat loss",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling repair</a>"
+  ],
+  [
+   "Spring basement seepage",
+   "Hillside, Midtown and older homes",
+   "<a href=\"/services/water-extraction/\">Basement water removal</a>"
+  ],
+  [
+   "Boiler and heating leaks",
+   "Homes with hydronic heat",
+   "<a href=\"/services/water-mitigation/\">Drying</a>"
+  ]
+ ],
+ "tips": [
+  "Keep heat at 55\u00b0F or higher when you travel, and ask someone to check the house.",
+  "Insulate crawl space pipes and keep heat tape working.",
+  "Clear snow away from the foundation before breakup.",
+  "Know where your main shut-off valve is."
+ ],
+ "areas": "Calls come from Downtown, South Addition, Midtown, Spenard, the Hillside, Muldoon and Sand Lake, plus Eagle River, Chugiak, Girdwood and the Mat-Su.",
+ "faq": {
+  "q": "Can a house be dried in Anchorage in winter?",
+  "a": "Yes. Crews use dehumidifiers and controlled heat inside while the house stays warm. Cold, dry outdoor air can help, but the building must stay heated during drying so pipes don't refreeze."
+ }
+}

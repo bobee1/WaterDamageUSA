@@ -1,0 +1,45 @@
+{
+ "lead": "Dayton homes face tornadoes, wet basements and frozen pipes. DryBeacon helps owners from the Oregon District to Huffman get water out and dry properly.",
+ "risk": "tornadoes and storms, basement flooding and frozen pipes",
+ "risk_short": "tornadoes, basement floods, frozen pipes",
+ "why": [
+  "The Great Flood of 1913 put downtown Dayton under water and led to the Miami Conservancy District's dams and levees, which still protect the city. On Memorial Day 2019, a series of tornadoes hit Trotwood, Old North Dayton and nearby areas, tearing open thousands of roofs.",
+  "About 85% of Dayton homes were built before 1980, and over a third before 1940. Older homes have basements, old drains and plaster. Storms overload sewers and fill basements, and winter cold bursts pipes in older homes and vacant units."
+ ],
+ "image": "storm",
+ "image_alt": "Storm-damaged roof and window on a house",
+ "image_caption": "The 2019 Memorial Day tornadoes opened thousands of Dayton-area roofs to rain.",
+ "problems": [
+  [
+   "Tornado and wind damage",
+   "North Dayton, Trotwood, Old North Dayton",
+   "<a href=\"/services/storm-damage-restoration/\">Storm tarping and repair</a>"
+  ],
+  [
+   "Basement flooding",
+   "Older homes citywide",
+   "<a href=\"/services/water-extraction/\">Basement water removal</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Older homes and vacant units",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Sewer backups",
+   "Older neighborhoods",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Keep a weather radio and know your safe room.",
+  "Test your sump pump each spring.",
+  "Keep heat on in vacant homes.",
+  "Photograph your home and belongings for insurance."
+ ],
+ "areas": "Calls come from the Oregon District, South Park, Belmont, Dayton View, Old North Dayton, Huffman and Five Oaks, plus Kettering, Beavercreek, Huber Heights, Centerville and Trotwood.",
+ "faq": {
+  "q": "Are Dayton homes still protected from river flooding?",
+  "a": "The Miami Conservancy District's dams and levees, built after 1913, still protect Dayton from major river floods. Heavy rain can still flood basements and streets, so drainage and backup protection matter."
+ }
+}

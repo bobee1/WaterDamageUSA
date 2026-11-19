@@ -1,0 +1,45 @@
+{
+ "lead": "Boise homes face frozen pipes, spring runoff and foothill drainage. DryBeacon helps owners from the North End to Harris Ranch get water out and dry quickly.",
+ "risk": "frozen pipes, high river flows in spring and crawl space water",
+ "risk_short": "frozen pipes, runoff, crawl spaces",
+ "why": [
+  "Big snow years swell the Boise River. In 2017, high flows flooded parts of the Greenbelt and homes along the river for weeks. Foothills runoff after storms can send water and mud toward homes on the Bench and in the North End. Irrigation canals running through neighborhoods can also overflow.",
+  "Winter cold freezes pipes in crawl spaces and garages, which are common across the Treasure Valley. Many homes in the North End and East End are older, with original plumbing. Dry summers help drying, but crawl spaces stay damp without fans and dehumidifiers."
+ ],
+ "image": "floodyard",
+ "image_alt": "Water covering a yard near a home after high river flows",
+ "image_caption": "High Boise River flows in big snow years can flood homes along the Greenbelt.",
+ "problems": [
+  [
+   "Frozen and burst pipes",
+   "Crawl spaces and garages",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "River and canal flooding",
+   "Homes near the Boise River and canals",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Crawl space water",
+   "Treasure Valley homes",
+   "<a href=\"/services/water-mitigation/\">Crawl space drying</a>"
+  ],
+  [
+   "Foothills runoff",
+   "North End and Bench",
+   "<a href=\"/services/water-extraction/\">Water removal</a>"
+  ]
+ ],
+ "tips": [
+  "Close crawl space vents in winter and insulate pipes.",
+  "Check FEMA flood maps if you live near the river or a canal.",
+  "Keep gutters clear of leaves before the first freeze.",
+  "Leave cabinet doors open on very cold nights."
+ ],
+ "areas": "Calls come from the North End, East End, the Bench, Southeast Boise, West Boise, Harris Ranch and Downtown, plus Meridian, Nampa, Eagle, Kuna and Garden City.",
+ "faq": {
+  "q": "Do canals cause flooding in Boise?",
+  "a": "Sometimes. Irrigation canals run through many neighborhoods. Heavy storms, debris or high water can push them over their banks. Homes next to canals should know their flood risk and keep drains clear."
+ }
+}

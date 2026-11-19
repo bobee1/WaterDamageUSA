@@ -1,0 +1,45 @@
+{
+ "lead": "Sacramento sits where two big rivers meet, behind miles of levees. DryBeacon helps homes from Midtown to Natomas with flooding, leaks and storm damage.",
+ "risk": "river and levee flooding, winter storms and aging plumbing",
+ "risk_short": "river flooding, storms, old pipes",
+ "why": [
+  "The Sacramento and American rivers meet at Sacramento, and much of the city sits behind levees. The floods of 1986 and 1997 showed what high water can do, and the Natomas basin sits low behind its levees. Big winter storms like those in January 2023 also fill streets and overwhelm drains.",
+  "More than half of Sacramento homes were built before 1980. In East Sacramento, Land Park and Curtis Park, older homes have galvanized pipes and raised floors with crawl spaces that trap water. Summers are hot and dry, which helps drying, but winters are wet and cool."
+ ],
+ "image": "flood",
+ "image_alt": "Flood barrier holding back water near homes",
+ "image_caption": "Much of Sacramento depends on levees to hold back the Sacramento and American rivers.",
+ "problems": [
+  [
+   "River and levee flooding",
+   "Natomas, the Pocket and low areas",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Crawl space water",
+   "Older homes in East Sac and Land Park",
+   "<a href=\"/services/water-mitigation/\">Crawl space drying</a>"
+  ],
+  [
+   "Storm drain backups",
+   "Low streets in heavy rain",
+   "<a href=\"/services/water-extraction/\">Water removal</a>"
+  ],
+  [
+   "Old pipe leaks",
+   "Pre-1980 homes",
+   "<a href=\"/services/burst-pipe-water-damage/\">Pipe leak cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Know if your home is behind a levee and buy flood insurance if it is.",
+  "Keep crawl space vents clear and check for standing water after storms.",
+  "Rake leaves away from storm drains in fall.",
+  "Have older galvanized pipes inspected."
+ ],
+ "areas": "Calls come from Midtown, East Sacramento, Land Park, the Pocket, Natomas, Curtis Park and Oak Park, plus Elk Grove, Roseville, Folsom, Citrus Heights and West Sacramento.",
+ "faq": {
+  "q": "Do I need flood insurance behind a levee in Sacramento?",
+  "a": "It is strongly worth considering. Levees lower the risk but don't remove it, and home policies exclude flood. NFIP policies usually take 30 days to start, so buy before the rainy season."
+ }
+}

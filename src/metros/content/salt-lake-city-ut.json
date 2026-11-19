@@ -1,0 +1,45 @@
+{
+ "lead": "Salt Lake City homes deal with frozen pipes, spring runoff and old basements. DryBeacon helps owners from the Avenues to Sugar House get water out and dry.",
+ "risk": "frozen pipes, spring snowmelt runoff and basement flooding",
+ "risk_short": "frozen pipes, snowmelt, basements",
+ "why": [
+  "In 1983, a fast spring melt turned State Street into a river as City Creek overflowed through downtown. The record snowpack of 2023 brought another spring of high creeks and wet basements across the Wasatch Front. Canyon creeks like Emigration and Parleys can rise fast in warm spells.",
+  "Salt Lake City's housing is old for the West: 65% of homes were built before 1980 and a quarter before 1940. Homes in the Avenues and Sugar House often have basements, old drain lines and brick foundations. Winter cold freezes pipes, and hard water wears out water heaters."
+ ],
+ "image": "pipe",
+ "image_alt": "Leaking pipe dripping in a basement ceiling",
+ "image_caption": "Burst pipes and spring runoff fill basements across Salt Lake City.",
+ "problems": [
+  [
+   "Frozen pipes",
+   "The Avenues, older homes and cabins",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Basement flooding",
+   "Sugar House, Liberty Wells, East Bench",
+   "<a href=\"/services/water-extraction/\">Basement water removal</a>"
+  ],
+  [
+   "Snowmelt runoff",
+   "Homes near canyon creeks",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Water heater failures",
+   "Homes with hard water",
+   "<a href=\"/services/water-mitigation/\">Drying and dehumidification</a>"
+  ]
+ ],
+ "tips": [
+  "Clear snow away from foundations before the spring melt.",
+  "Drain outdoor spigots and sprinkler lines in fall.",
+  "Replace water heaters near the end of their rated life.",
+  "Check window wells for drains and covers."
+ ],
+ "areas": "Calls come from the Avenues, Sugar House, Liberty Wells, Federal Heights, Rose Park, Glendale and the East Bench, plus Millcreek, Holladay, Murray, Sandy and West Valley City.",
+ "faq": {
+  "q": "What happened in the 1983 Salt Lake City flood?",
+  "a": "A big snowpack melted fast in late spring. City Creek overflowed, and the city used sandbags to turn State Street into a channel to carry the water through downtown. It shows how quickly snowmelt can flood the city."
+ }
+}

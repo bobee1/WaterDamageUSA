@@ -1,0 +1,45 @@
+{
+ "lead": "Minneapolis winters freeze pipes and build ice dams, and spring melt soaks old basements. DryBeacon helps homes from Northeast to Nokomis get water out and dry.",
+ "risk": "frozen pipes, ice dams and spring basement seepage",
+ "risk_short": "frozen pipes, ice dams, wet basements",
+ "why": [
+  "More than 40% of Minneapolis homes were built before 1940. Bungalows and foursquares in Longfellow, Powderhorn and Kenwood have stone or block basements, old clay sewer lines and thin attic insulation. Deep cold freezes pipes on outside walls, and ice dams push meltwater under shingles.",
+  "Spring melt and heavy rain saturate the ground. Minnehaha Creek flooded homes and parks in 2014, and the Mississippi rises in wet springs. Summer cloudbursts overwhelm storm sewers, and basements take water through floor drains and cracks."
+ ],
+ "image": "ceiling",
+ "image_alt": "Ceiling damaged by water from an ice dam leak",
+ "image_caption": "Ice dams on older Minneapolis homes send meltwater into walls and ceilings.",
+ "problems": [
+  [
+   "Ice dams",
+   "Bungalows and older homes citywide",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling water damage repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Outside walls and porches",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Basement seepage",
+   "Older homes in spring",
+   "<a href=\"/services/water-extraction/\">Basement water removal</a>"
+  ],
+  [
+   "Sewer backups",
+   "Homes with old clay laterals",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Add attic insulation and seal air leaks to cut ice dams.",
+  "Shovel snow away from the foundation before the thaw.",
+  "Install a backwater valve on the basement floor drain.",
+  "Keep the furnace serviced before winter."
+ ],
+ "areas": "Calls come from Uptown, Northeast, Longfellow, Linden Hills, North Loop, Powderhorn and Nokomis, plus St. Paul, Bloomington, Edina, Richfield and Brooklyn Park.",
+ "faq": {
+  "q": "How do I stop ice dams on my Minneapolis home?",
+  "a": "Keep the roof cold. Seal air leaks from the house into the attic, add insulation and make sure the attic is vented. In the short term, rake snow off the lower roof after big storms."
+ }
+}

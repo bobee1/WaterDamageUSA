@@ -1,0 +1,45 @@
+{
+ "lead": "Austin sits in Flash Flood Alley, and its creeks rise fast. DryBeacon helps homes and businesses from Hyde Park to Circle C get water out and dry quickly.",
+ "risk": "flash floods along creeks, freeze-burst pipes and slab leaks",
+ "risk_short": "flash floods, freezes, slab leaks",
+ "why": [
+  "Central Texas is known as Flash Flood Alley. Thin soil over limestone sheds rain fast, so creeks like Shoal, Onion, Waller and Bull Creek can rise several feet in an hour. The Memorial Day flood of 1981 swept through central Austin, and Onion Creek flooded hundreds of homes in 2013 and again in 2015.",
+  "Indoors, many Austin homes sit on slab foundations over clay, and hard water wears out water heaters and fittings early. In February 2021, Winter Storm Uri froze and burst pipes across the city. In October 2018, flooding upstream on the Llano River forced a citywide boil-water notice, a reminder that storms far away still affect Austin."
+ ],
+ "image": "floodyard",
+ "image_alt": "Floodwater surrounding a home after a Central Texas flash flood",
+ "image_caption": "Austin's creeks can rise into nearby homes in under an hour during heavy storms.",
+ "problems": [
+  [
+   "Creek flooding",
+   "Homes near Onion, Shoal and Williamson creeks",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Freeze-burst pipes",
+   "Attics and exterior walls",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Slab leaks",
+   "Older central neighborhoods",
+   "<a href=\"/services/water-damage-repair/\">Slab leak repair and drying</a>"
+  ],
+  [
+   "Water heater failures",
+   "Homes with hard water",
+   "<a href=\"/services/water-extraction/\">Water removal</a>"
+  ]
+ ],
+ "tips": [
+  "Check the City of Austin flood maps before buying near a creek.",
+  "Flush your water heater yearly; hard water speeds up sediment.",
+  "Insulate attic pipes and know your main shut-off before winter.",
+  "Turn around at flooded low-water crossings."
+ ],
+ "areas": "Calls come from Downtown, South Congress, Hyde Park, Mueller, East Austin, Allandale, Circle C and Westlake, plus Round Rock, Cedar Park, Pflugerville and Georgetown.",
+ "faq": {
+  "q": "What is Flash Flood Alley?",
+  "a": "It is the name for the Texas Hill Country and the I-35 corridor around Austin and San Antonio. Steep terrain and thin soils send heavy rain into creeks fast, so flash floods are more common here than almost anywhere in the U.S."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Dallas homes deal with giant hail, flash floods along the Trinity and its creeks, and the occasional hard freeze. DryBeacon gets water out and drying started across the city.",
+ "risk": "hail-damaged roofs, flash flooding and freeze-burst pipes",
+ "risk_short": "hail, flash floods, frozen pipes",
+ "why": [
+  "North Texas has some of the costliest hail in the country, and Dallas sits in the middle of it. Big storms crack shingles and skylights from Preston Hollow to Lake Highlands, and the leaks often show up days later. Heavy spring rain also pushes White Rock Creek and the Trinity River system out of their banks; the Trinity ran at record levels in 2015.",
+  "The soil matters too. Much of Dallas sits on expansive Blackland Prairie clay that swells when wet and shrinks in drought. That movement stresses slab foundations and the pipes under them. Older pier-and-beam homes in Lakewood and the M Streets have crawl spaces that trap water. In February 2021, deep cold burst pipes in attics across the city."
+ ],
+ "image": "storm",
+ "image_alt": "Hail- and wind-damaged roof and window on a Dallas-area house",
+ "image_caption": "Dallas hail can crack a roof in minutes; the water damage often appears later.",
+ "problems": [
+  [
+   "Hail roof leaks",
+   "Preston Hollow, Lake Highlands, North Dallas",
+   "<a href=\"/services/storm-damage-restoration/\">Storm repair and drying</a>"
+  ],
+  [
+   "Slab leaks",
+   "Homes on shifting clay soil",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and floor drying</a>"
+  ],
+  [
+   "Flash flooding",
+   "Creek areas near White Rock and the Trinity",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Burst attic pipes",
+   "Homes with plumbing in the attic",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Have your roof checked after any hail storm, even if you see no leaks.",
+  "Water the soil around your slab evenly in drought to limit movement.",
+  "Insulate attic pipes; many Dallas homes run plumbing overhead.",
+  "Never drive through water at low crossings."
+ ],
+ "areas": "Calls come from Uptown, Oak Lawn, Lakewood, Lake Highlands, Oak Cliff, Preston Hollow and North Dallas, plus suburbs like Richardson, Garland, Irving, Plano and Frisco.",
+ "faq": {
+  "q": "Does hail damage cause water damage in Dallas homes?",
+  "a": "Yes, often days or weeks after the storm. Hail cracks shingles and dents vents, and the next rain finds the gap. Ceiling stains and attic moisture are common signs. Report hail damage quickly, since many policies set deadlines."
+ }
+}

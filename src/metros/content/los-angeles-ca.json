@@ -1,0 +1,45 @@
+{
+ "lead": "Los Angeles water damage comes from slab leaks, old pipes and winter storms that can send mud downhill. DryBeacon helps homes and businesses across the city dry out.",
+ "risk": "slab and pipe leaks in older homes, atmospheric river storms and mudflows",
+ "risk_short": "slab leaks, winter storms, mudflows",
+ "why": [
+  "Almost 70% of Los Angeles homes were built before 1980. Galvanized pipes, cast-iron drains and slab foundations are common, so a leak under the floor or in a wall can run for weeks before anyone sees it. In apartment buildings and condos, one leak can soak several units.",
+  "Most rain falls in a few winter months, often from atmospheric rivers. In February 2024, record rain triggered mudslides in the Hollywood Hills and Studio City. Since the January 2025 fires, hillsides below the Palisades and Eaton burn scars face higher mudflow risk in heavy rain. The concrete Los Angeles River was built after the 1938 flood to move storm water fast."
+ ],
+ "image": "drywall",
+ "image_alt": "Cut-out drywall showing a hidden leak at the bottom of a wall",
+ "image_caption": "Slab and wall leaks in older LA homes often show first as swollen baseboards.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Valley and Westside homes on slabs",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and floor drying</a>"
+  ],
+  [
+   "Unit-to-unit leaks",
+   "Apartments and condos citywide",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling water damage repair</a>"
+  ],
+  [
+   "Mud and debris flows",
+   "Hillside homes and below burn scars",
+   "<a href=\"/services/water-extraction/\">Mud and water removal</a>"
+  ],
+  [
+   "Storm roof leaks",
+   "Older homes in winter",
+   "<a href=\"/services/storm-damage-restoration/\">Storm repair</a>"
+  ]
+ ],
+ "tips": [
+  "Clean gutters before the rainy season, usually by November.",
+  "If you live below a burn scar, sign up for LA County alerts and keep sandbags ready.",
+  "Replace old washing machine hoses with braided steel.",
+  "Watch your water bill; a jump can mean a hidden slab leak."
+ ],
+ "areas": "Calls come from Downtown, Silver Lake, Hollywood, Mid-City, Westwood, Sherman Oaks, Van Nuys and San Pedro, plus Pasadena, Burbank, Glendale, Santa Monica and Long Beach.",
+ "faq": {
+  "q": "Why are slab leaks so common in Los Angeles?",
+  "a": "Many LA homes were built on concrete slabs with copper or older pipes underneath. Age, corrosion and ground movement can cause pinhole leaks. Signs include warm floor spots, running water sounds and a higher water bill."
+ }
+}

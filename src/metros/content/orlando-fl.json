@@ -1,0 +1,45 @@
+{
+ "lead": "Orlando's lakes, summer storms and humidity make water damage common. DryBeacon helps homes and businesses from College Park to Lake Nona dry out fast.",
+ "risk": "tropical storm flooding, daily summer downpours and AC leaks",
+ "risk_short": "storm flooding, downpours, AC leaks",
+ "why": [
+  "Central Florida is inland, but hurricanes still hit hard. In 2022, Hurricane Ian dropped more than a foot of rain on parts of Orange County, flooding Orlo Vista and areas along the Little Wekiva River. Milton in 2024 brought more wind and rain. Lakes and retention ponds rise and spill into yards during long storms.",
+  "Most Orlando homes are slab-on-grade with AC air handlers in closets or attics. A clogged condensate line can soak ceilings and walls before anyone notices. Afternoon thunderstorms drop heavy rain almost daily in summer, and humidity means mold grows quickly after any leak."
+ ],
+ "image": "flood",
+ "image_alt": "Floodwater near homes after a tropical storm",
+ "image_caption": "Hurricane Ian's rain flooded inland Orlando neighborhoods in 2022.",
+ "problems": [
+  [
+   "Storm flooding",
+   "Orlo Vista, near lakes and the Little Wekiva",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "AC condensate leaks",
+   "Closets and attics",
+   "<a href=\"/services/water-mitigation/\">Water mitigation</a>"
+  ],
+  [
+   "Roof leaks after storms",
+   "Homes citywide",
+   "<a href=\"/services/storm-damage-restoration/\">Storm repair</a>"
+  ],
+  [
+   "Fast mold growth",
+   "Any wet drywall",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Flush the AC condensate line with vinegar every few months.",
+  "Buy flood insurance even far from the coast.",
+  "Keep a float switch on your AC drain pan.",
+  "Start drying within 24 hours after a leak."
+ ],
+ "areas": "Calls come from Downtown, College Park, Thornton Park, Baldwin Park, Dr. Phillips, Lake Nona, Conway and Metro West, plus Winter Park, Kissimmee, Altamonte Springs, Apopka and Winter Garden.",
+ "faq": {
+  "q": "Can hurricanes flood homes in inland Orlando?",
+  "a": "Yes. Hurricane Ian in 2022 dropped more than a foot of rain on parts of Orange County and flooded homes far from the coast. Flood insurance covers rising water; home policies do not."
+ }
+}

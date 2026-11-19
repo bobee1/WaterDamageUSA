@@ -1,0 +1,45 @@
+{
+ "lead": "Indianapolis homes face wet basements, creek floods and frozen pipes. DryBeacon helps owners from Broad Ripple to Fountain Square get water out fast.",
+ "risk": "basement flooding, creek and river flooding and frozen pipes",
+ "risk_short": "basement floods, creek floods, freezes",
+ "why": [
+  "The White River, Fall Creek and Pleasant Run flood nearby homes in heavy rain. Broad Ripple and parts of the north side have flooded in past storms. Citizens Energy is building the DigIndy tunnels to store sewer overflow. Older neighborhoods still see backups.",
+  "Nearly 60% of Indianapolis homes were built before 1980. Many have basements with sump pumps. When the power goes out in a storm, the pump stops. Winter cold freezes pipes, and hail damages roofs most springs."
+ ],
+ "image": "floodyard",
+ "image_alt": "Floodwater around a home after heavy rain",
+ "image_caption": "Fall Creek and the White River can flood nearby Indianapolis homes in big storms.",
+ "problems": [
+  [
+   "Sump pump failure",
+   "Basements during storms",
+   "<a href=\"/services/water-extraction/\">Basement water extraction</a>"
+  ],
+  [
+   "Creek flooding",
+   "Near Fall Creek, Pleasant Run and the White River",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Sewer backups",
+   "Older near-downtown homes",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Crawl spaces and outside walls",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Add a battery backup to your sump pump.",
+  "Check flood maps near Fall Creek and the White River.",
+  "Insulate pipes before winter.",
+  "Inspect the roof after hail."
+ ],
+ "areas": "Calls come from Broad Ripple, Fountain Square, Irvington, Meridian-Kessler, Mass Ave, Butler-Tarkington and Castleton, plus Carmel, Fishers, Greenwood, Noblesville and Lawrence.",
+ "faq": {
+  "q": "What is DigIndy?",
+  "a": "DigIndy is a set of deep tunnels under the city. Citizens Energy built it to store rain and sewage during big storms, so less spills into rivers. Older homes can still have backups, so a backwater valve helps."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Columbus homes face river flooding, basement backups and frozen pipes. DryBeacon helps owners from German Village to Clintonville get water out and dry fast.",
+ "risk": "basement flooding, river flooding and frozen pipes",
+ "risk_short": "basement floods, river floods, frozen pipes",
+ "why": [
+  "The Great Flood of 1913 swamped the Franklinton neighborhood when the Scioto River broke through, and a floodwall finished in 2004 now protects it. The Scioto and Olentangy rivers still rise in heavy rain, and creeks like Alum Creek and Big Walnut flood nearby homes.",
+  "About half of Columbus homes were built before 1980. Brick homes in German Village and Victorian Village have old plumbing and basements. Storms overload sewers and push water into basement drains. Winter cold snaps freeze pipes in outside walls."
+ ],
+ "image": "floodroom",
+ "image_alt": "Water on a basement floor after heavy rain",
+ "image_caption": "Heavy storms fill basements across older Columbus neighborhoods.",
+ "problems": [
+  [
+   "Basement flooding",
+   "Clintonville, Linden, older homes",
+   "<a href=\"/services/water-extraction/\">Basement water removal</a>"
+  ],
+  [
+   "River and creek flooding",
+   "Near the Scioto, Olentangy and Alum Creek",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Sewer backups",
+   "Older neighborhoods",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Outside walls in winter",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Test your sump pump each spring and add a battery backup.",
+  "Ask about Columbus programs for backflow prevention.",
+  "Extend downspouts away from the house.",
+  "Insulate pipes on outside walls."
+ ],
+ "areas": "Calls come from German Village, the Short North, Clintonville, Victorian Village, Bexley, Linden and the Hilltop, plus Dublin, Westerville, Hilliard, Grove City and Upper Arlington.",
+ "faq": {
+  "q": "Is Franklinton still at risk of flooding?",
+  "a": "The floodwall finished in 2004 protects Franklinton from Scioto River flooding, and FEMA remapped much of the area. Heavy rain can still cause street and basement flooding, so drainage and backup protection still matter."
+ }
+}

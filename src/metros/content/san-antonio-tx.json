@@ -1,0 +1,45 @@
+{
+ "lead": "San Antonio faces flash floods at low-water crossings, hard water and the odd hard freeze. DryBeacon helps homes from Alamo Heights to Stone Oak dry out fast.",
+ "risk": "flash floods, hard-water plumbing failures and freeze-burst pipes",
+ "risk_short": "flash floods, hard water, freezes",
+ "why": [
+  "San Antonio is part of Flash Flood Alley. Creeks like Salado, Leon and Olmos rise fast, and low-water crossings flood often. The October 1998 floods were among the worst in the region's history. Downtown is protected by the San Antonio River Tunnel, which carries floodwater under the River Walk area, but neighborhoods along the creeks still flood.",
+  "Water from the Edwards Aquifer is hard, with lots of minerals. It wears out water heaters, supply lines and faucets early, so leaks from appliances are common. Many homes sit on slabs over clay. In February 2021, Winter Storm Uri burst pipes in homes across Bexar County."
+ ],
+ "image": "floodyard",
+ "image_alt": "House surrounded by water after heavy rain in South Texas",
+ "image_caption": "Low-water crossings and creeks around San Antonio flood quickly in heavy storms.",
+ "problems": [
+  [
+   "Creek flooding",
+   "Homes along Salado, Leon and Olmos creeks",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Water heater and supply line leaks",
+   "Homes with hard water",
+   "<a href=\"/services/water-extraction/\">Water removal</a>"
+  ],
+  [
+   "Freeze-burst pipes",
+   "Attics and exterior walls",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Slab leaks",
+   "Older neighborhoods on clay",
+   "<a href=\"/services/water-damage-repair/\">Slab leak repair</a>"
+  ]
+ ],
+ "tips": [
+  "Flush the water heater each year and replace supply lines on schedule.",
+  "Consider a water softener to slow wear on fixtures.",
+  "Never drive into a flooded low-water crossing.",
+  "Insulate attic pipes before winter cold fronts."
+ ],
+ "areas": "Calls come from Alamo Heights, Monte Vista, King William, Southtown, the Medical Center and Stone Oak, plus New Braunfels, Schertz, Helotes, Boerne and Converse.",
+ "faq": {
+  "q": "Does hard water cause leaks in San Antonio?",
+  "a": "It can speed them up. Minerals build up in water heaters, valves and fittings, which wear out and fail sooner. Flushing the heater yearly and replacing supply lines on schedule help prevent sudden leaks."
+ }
+}

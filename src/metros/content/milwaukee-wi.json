@@ -1,0 +1,45 @@
+{
+ "lead": "Milwaukee basements flood in summer cloudbursts, and old homes freeze in winter. DryBeacon helps homes from Bay View to Sherman Park get water out fast.",
+ "risk": "basement flooding and sewer backups, frozen pipes and ice dams",
+ "risk_short": "basement floods, backups, frozen pipes",
+ "why": [
+  "In August 2024, parts of Milwaukee got more than 10 inches of rain in about a day, flooding basements and streets across the city and western suburbs. A July 2010 storm caused thousands of basement backups. The Metropolitan Milwaukee Sewerage District's Deep Tunnel stores overflow, but big storms still overwhelm it.",
+  "Milwaukee bungalows and duplexes are old, and many have clay sewer laterals and stone basements. More than a third of homes were built before 1940. Winter cold off Lake Michigan freezes pipes and builds ice dams."
+ ],
+ "image": "floodroom",
+ "image_alt": "Basement floor under water after heavy rain",
+ "image_caption": "Summer cloudbursts flood basements across Milwaukee and its suburbs.",
+ "problems": [
+  [
+   "Basement backups",
+   "Older homes citywide",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Basement flooding",
+   "Washington Heights, Sherman Park, Tosa",
+   "<a href=\"/services/water-extraction/\">Basement water removal</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Duplexes and older homes",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Ice dams",
+   "Bungalows in winter",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling repair</a>"
+  ]
+ ],
+ "tips": [
+  "Disconnect downspouts from the sewer if your city allows it.",
+  "Install a backwater valve on the basement floor drain.",
+  "Add water backup coverage to your policy.",
+  "Insulate pipes in duplex porches and outside walls."
+ ],
+ "areas": "Calls come from Bay View, the Third Ward, the East Side, Walker's Point, Riverwest, Washington Heights and Sherman Park, plus Wauwatosa, West Allis, Greenfield, Brookfield and Shorewood.",
+ "faq": {
+  "q": "What is Milwaukee's Deep Tunnel?",
+  "a": "It's a system of large tunnels run by MMSD that stores storm water and sewage during heavy rain to reduce overflows. Very large storms can still fill it, leading to basement backups in older homes."
+ }
+}
