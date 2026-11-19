@@ -1,0 +1,45 @@
+{
+ "lead": "Knoxville sits in a valley cut by creeks that feed the Tennessee River. Flash floods along those creeks, crawl spaces and older homes cause most of the city's water damage.",
+ "risk": "creek flash flooding, crawl space moisture and aging plumbing",
+ "risk_short": "creek floods, crawl spaces, old pipes",
+ "why": [
+  "First Creek starts at a spring in Fountain City Park and runs south through North Knoxville and downtown to the Tennessee River. In heavy storms it rises fast and floods parts of the Broadway corridor. Second and Third creeks do the same in their valleys. Homes and businesses in these low areas can take on water in an hour.",
+  "Away from the creeks, crawl spaces are the main concern. East Tennessee is humid, and many homes sit over damp crawl spaces where leaks and condensation go unseen. About 59% of Knoxville homes were built before 1980. Fourth and Gill, Old North Knoxville and Fort Sanders have Victorian and early-1900s houses with old plumbing. Many Fort Sanders homes are student rentals, where leaks may not be reported quickly."
+ ],
+ "image": "floodyard",
+ "image_alt": "Floodwater around a Knoxville-area home after a creek flash flood",
+ "image_caption": "Knoxville's creeks can rise fast in heavy storms and flood low areas.",
+ "problems": [
+  [
+   "Creek flash flooding",
+   "Fountain City, North Knoxville, Broadway corridor",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Crawl space moisture",
+   "Homes on crawl spaces citywide",
+   "<a href=\"/services/water-mitigation/\">Structural drying</a>"
+  ],
+  [
+   "Old plumbing leaks",
+   "Fourth and Gill, Old North Knoxville",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and drying</a>"
+  ],
+  [
+   "Leaks in rentals",
+   "Fort Sanders student housing",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling and wall drying</a>"
+  ]
+ ],
+ "tips": [
+  "Check the city's flood maps if you live near First, Second or Third creek.",
+  "Look in the crawl space for standing water after big storms.",
+  "Add a vapor barrier and keep crawl space vents in good repair.",
+  "Renters: report leaks to your landlord right away."
+ ],
+ "areas": "Calls come from Fourth and Gill, Old North Knoxville, Fort Sanders, Sequoyah Hills, Bearden, West Hills, Fountain City and South Knoxville, plus Farragut, Powell and Maryville.",
+ "faq": {
+  "q": "Why does my Knoxville home smell musty after rain?",
+  "a": "A musty smell often points to moisture in the crawl space. Rain can seep in through vents or walls, and humid air condenses on cool pipes and ducts. Over time, wood and insulation absorb that water and mold grows. Drying the crawl space and fixing drainage solves most cases."
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "lead": "Baltimore is a city of rowhouses, and more than 40% of its homes were built before 1940. Old basements, shared walls and an aging sewer system make water damage a regular event.",
+ "risk": "sewage backups, basement water and leaks through shared rowhouse walls",
+ "risk_short": "sewage backups, basements, rowhouse leaks",
+ "why": [
+  "About 42% of Baltimore homes were built before 1940, among the highest shares of any big U.S. city. Rowhouses in Canton, Fells Point, Hampden and Highlandtown share walls and often have flat roofs and old basements. Water from a neighbor's roof or pipe can cross into the next home. Many basements were never waterproofed, and old cast-iron or clay drains crack with age.",
+  "Sewage backups are a known problem. In heavy rain, parts of the city's sewer system run over capacity and push sewage into basements. Under a federal consent decree, the city runs programs for these wet-weather backups. Residents can apply for free professional cleanup or for reimbursement of up to $5,000. Report a backup to 311 right away so the event is on record."
+ ],
+ "image": "floodroom",
+ "image_alt": "Water covering a basement floor in an older Baltimore rowhouse",
+ "image_caption": "Heavy rain can push water and sewage into old Baltimore basements.",
+ "problems": [
+  [
+   "Sewage backups in rain",
+   "Hampden, Northwest Baltimore and low areas",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Basement seepage",
+   "Pre-1940 rowhouses citywide",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ],
+  [
+   "Leaks through shared walls",
+   "Canton, Fells Point, Federal Hill",
+   "<a href=\"/services/ceiling-water-damage/\">Wall and ceiling drying</a>"
+  ],
+  [
+   "Flat roof leaks",
+   "Rowhouses with aging roofs",
+   "<a href=\"/services/storm-damage-restoration/\">Roof leak drying and repair</a>"
+  ]
+ ],
+ "tips": [
+  "Report any sewage backup to 311 the same day.",
+  "Install a backwater valve if your basement has backed up before.",
+  "Have a flat rowhouse roof checked every year.",
+  "Keep basement storage on shelves, not on the floor."
+ ],
+ "areas": "Calls come from Canton, Fells Point, Federal Hill, Hampden, Roland Park, Mount Vernon, Charles Village, Highlandtown and Locust Point, plus Towson, Dundalk and Catonsville.",
+ "faq": {
+  "q": "Will Baltimore City pay for my basement sewage backup?",
+  "a": "It may, if the backup was caused by the city sewer running over capacity in wet weather. Baltimore DPW offers free cleanup or reimbursement up to $5,000 for eligible backups. Call 311 to report it, keep photos and receipts, and apply through DPW."
+ },
+ "sources": [
+  [
+   "Baltimore City DPW: Basement Backup Reimbursement Program",
+   "https://publicworks.baltimorecity.gov/node/13760"
+  ]
+ ]
+}

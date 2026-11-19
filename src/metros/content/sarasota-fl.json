@@ -1,0 +1,51 @@
+{
+ "lead": "In 2024, Sarasota took its first direct hit from a major hurricane since records began. Storm surge, wind-driven rain and old coastal homes keep water damage a real risk here.",
+ "risk": "hurricane storm surge, wind-driven rain and aging coastal plumbing",
+ "risk_short": "hurricanes, surge, old plumbing",
+ "why": [
+  "Hurricane Milton came ashore near Siesta Key on October 9, 2024, as a Category 3 storm. Just two weeks before, Helene pushed surge onto the barrier islands. Many owners dried out twice in one season. Surge hit Lido Key, Siesta Key and low bayfront streets the hardest. Inland, wind drove rain through roofs, vents and window frames.",
+  "Between storms, old housing is the main issue. About 58% of homes in the city were built before 1980. Many still have cast-iron drains, old supply lines or flat roofs. In the wet season, rain falls most afternoons, and the air stays humid. Wet drywall and carpet can grow mold in a day or two if they are not dried."
+ ],
+ "image": "floodroom",
+ "image_alt": "Standing water inside a Sarasota-area home after hurricane flooding",
+ "image_caption": "After Helene and Milton, many Sarasota homes needed full drying and rebuilds.",
+ "problems": [
+  [
+   "Hurricane storm surge",
+   "Lido Key, Siesta Key, bayfront streets",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Wind-driven roof leaks",
+   "Homes citywide in tropical storms",
+   "<a href=\"/services/storm-damage-restoration/\">Storm damage restoration</a>"
+  ],
+  [
+   "Cast-iron drain failures",
+   "Pre-1980 homes in Laurel Park and Alta Vista",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Mold after leaks",
+   "Humid months citywide",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Photograph every room before hurricane season for your claim file.",
+  "Know whether you are in a surge evacuation zone.",
+  "Have cast-iron drains scoped if your home is pre-1980.",
+  "Run AC or dehumidifiers after any leak; humidity drives mold."
+ ],
+ "areas": "Calls come from Downtown, the Rosemary District, Laurel Park, Southside Village, Gillespie Park, Alta Vista, St. Armands, Bird Key and Lido Key, plus Siesta Key, Osprey and Lakewood Ranch.",
+ "faq": {
+  "q": "Does my Sarasota home insurance cover hurricane flood damage?",
+  "a": "Not the surge or rising water. That needs a flood policy from the NFIP or a private insurer. Your home policy may cover wind damage and rain that gets in through a broken roof. It usually has a separate hurricane deductible."
+ },
+ "sources": [
+  [
+   "NPR: Milton makes landfall in Florida",
+   "https://www.npr.org/2024/10/09/nx-s1-5147110/hurricane-milton-landfall-florida"
+  ]
+ ]
+}

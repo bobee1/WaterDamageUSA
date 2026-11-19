@@ -1,0 +1,45 @@
+{
+ "lead": "Mesa is the biggest suburb in the Phoenix area, with a huge mix of housing, including thousands of manufactured homes. Monsoon storms, hard water and hidden leaks cause most calls.",
+ "risk": "monsoon roof damage, hard-water plumbing failures and leaks under manufactured homes",
+ "risk_short": "monsoons, hard water, mobile home leaks",
+ "why": [
+  "One in eight Mesa homes, 12.5%, is a mobile or manufactured home. That is far higher than in most big cities. Many sit in 55-plus and winter-visitor parks. In these homes, water lines run under the floor behind the skirting. A slow leak can soak the particleboard subfloor for months before the floor goes soft. Owners who leave for the summer may come back to a hidden mess.",
+  "Mesa also has very hard water. Mineral buildup wears out water heaters, valves and supply lines sooner than in soft-water cities. Then come the monsoons. From June to September, short and violent storms bring wind, dust and heavy rain. Flat and foam roofs pond water, and gusts can lift roof panels. Streets and washes can flood within minutes."
+ ],
+ "image": "storm",
+ "image_alt": "Roof and window damaged by a desert monsoon storm near Mesa",
+ "image_caption": "Mesa monsoon storms can lift roof panels and drive rain inside in minutes.",
+ "problems": [
+  [
+   "Leaks under manufactured homes",
+   "Parks across east and central Mesa",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and subfloor drying</a>"
+  ],
+  [
+   "Monsoon roof leaks",
+   "Flat and foam roofs",
+   "<a href=\"/services/storm-damage-restoration/\">Storm repair and drying</a>"
+  ],
+  [
+   "Water heater failures",
+   "Hard-water areas citywide",
+   "<a href=\"/services/burst-pipe-water-damage/\">Water heater leak cleanup</a>"
+  ],
+  [
+   "Street and wash flooding",
+   "Low lots near washes",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Shut the main water valve when you leave for the summer.",
+  "Flush the water heater once a year to clear mineral buildup.",
+  "Check under a manufactured home for drips and soft spots.",
+  "Clear roof drains and scuppers before monsoon season."
+ ],
+ "areas": "Calls come from Downtown Mesa, Dobson Ranch, Alta Mesa, Las Sendas, Red Mountain, Superstition Springs, Eastmark and Leisure World, plus Apache Junction, Tempe and Queen Creek.",
+ "faq": {
+  "q": "Can a manufactured home be dried after a water leak?",
+  "a": "Often, yes, if you act fast. The subfloor in many manufactured homes is particleboard, which swells and weakens when it stays wet. Crews pull back flooring, dry the floor deck and check the belly wrap underneath. Badly swollen sections may need to be replaced."
+ }
+}

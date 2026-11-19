@@ -1,0 +1,51 @@
+{
+ "lead": "Reno is high desert, but the Truckee River runs right through downtown and has flooded it more than once. Frozen pipes, snowmelt and river floods all cause water damage here.",
+ "risk": "Truckee River flooding, frozen pipes and snowmelt leaks",
+ "risk_short": "river floods, frozen pipes, snowmelt",
+ "why": [
+  "On New Year's Day 1997, warm rain on deep Sierra snow sent the Truckee River out of its banks. Water spread up to two blocks from the channel and flooded downtown Reno, the airport and parts of Sparks. Damage across the region reached about $1.6 billion. In January 2017 the river hit 14.7 feet and spilled over in places, but the city was better prepared.",
+  "Winter is the more common threat. Reno sits at about 4,500 feet, and nights often drop well below freezing. Pipes in garages, crawl spaces and outside walls can freeze and split. Snow on roofs melts by day and refreezes at night, forming ice dams. Older homes in the Old Southwest and near downtown also have aging plumbing and roofs."
+ ],
+ "image": "pipe",
+ "image_alt": "Water dripping from a cracked pipe after a freeze in a Reno home",
+ "image_caption": "Cold Reno nights can freeze and split pipes in garages and crawl spaces.",
+ "problems": [
+  [
+   "Frozen pipe bursts",
+   "Garages, crawl spaces and outside walls",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "River flooding",
+   "Downtown and areas along the Truckee",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Ice dam leaks",
+   "Homes with snow-loaded roofs",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling leak repair</a>"
+  ],
+  [
+   "Old plumbing leaks",
+   "Old Southwest and older central homes",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and drying</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate pipes in garages and crawl spaces before winter.",
+  "Keep the heat at 55\u00b0F or higher when you travel.",
+  "Disconnect hoses and cover outdoor faucets in fall.",
+  "Sign up for Truckee River flood alerts if you live near the river."
+ ],
+ "areas": "Calls come from Downtown, Midtown, the Old Southwest, Northwest Reno, Somersett, Caughlin Ranch, South Meadows and Damonte Ranch, plus Sparks, Spanish Springs and Verdi.",
+ "faq": {
+  "q": "Do I need flood insurance in Reno's desert climate?",
+  "a": "If you live near the Truckee River or a wash, it is worth considering. Big floods come from warm winter storms melting snow, not just from desert rain. Home insurance does not cover rising water, and flood policies usually take 30 days to start."
+ },
+ "sources": [
+  [
+   "USGS: Flood-control effects of Truckee River reservoirs, 1997",
+   "https://pubs.usgs.gov/fs/1997/0037/report.pdf"
+  ]
+ ]
+}

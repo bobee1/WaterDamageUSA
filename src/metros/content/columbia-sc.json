@@ -1,0 +1,51 @@
+{
+ "lead": "Columbia lives with heat, humidity and the memory of the 2015 flood, when dams failed and creeks rose higher than ever recorded. Storms and moisture drive most water damage here.",
+ "risk": "creek flooding, storm leaks and humidity-driven mold",
+ "risk_short": "creek flooding, storms, mold",
+ "why": [
+  "In October 2015, a stalled storm dropped record rain on the Midlands. About 16.6 inches fell near Gills Creek in a single day. The creek rose to 17.08 feet before its gauge failed, far above its old record of 9.43 feet. Several dams in the Gills Creek watershed broke, and some homes along the creek flooded to the eaves.",
+  "That flood showed how fast water can move through Columbia's creek valleys. Day to day, the threats are smaller but constant. Summer thunderstorms and tropical remnants bring heavy rain. The heat and humidity mean wet drywall can grow mold within a day or two. Older neighborhoods like Shandon, Elmwood Park and Earlewood have aging roofs, plumbing and crawl spaces."
+ ],
+ "image": "floodyard",
+ "image_alt": "Floodwater around a home in a Columbia-area creek valley after heavy rain",
+ "image_caption": "In 2015, Columbia's creeks rose far above anything on record.",
+ "problems": [
+  [
+   "Creek flooding",
+   "Rosewood and areas near Gills Creek",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Storm roof leaks",
+   "Homes citywide in summer storms",
+   "<a href=\"/services/storm-damage-restoration/\">Storm repair and drying</a>"
+  ],
+  [
+   "Mold after leaks",
+   "Humid months, all housing types",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ],
+  [
+   "Leaks in rentals",
+   "Student housing near Five Points and USC",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and drying</a>"
+  ]
+ ],
+ "tips": [
+  "Check whether your home is near Gills Creek or another mapped floodplain.",
+  "Buy flood insurance early; it usually takes 30 days to start.",
+  "Run AC or a dehumidifier after any leak to keep humidity down.",
+  "Renters: report leaks to your landlord in writing right away."
+ ],
+ "areas": "Calls come from Shandon, Rosewood, Five Points, The Vista, Elmwood Park, Earlewood, Melrose Heights and Lake Katherine, plus Forest Acres, West Columbia and Irmo.",
+ "faq": {
+  "q": "Could a 2015-style flood happen again in Columbia?",
+  "a": "It could. Dams in the Gills Creek watershed have been repaired or reviewed, but extreme rain can still flood creek valleys. Homes near creeks should carry flood insurance, keep valuables off lower floors and know how to leave quickly."
+ },
+ "sources": [
+  [
+   "Carolinas Integrated Sciences & Assessments: October 2015 flood",
+   "https://www.cisa.sc.edu/atlas/events-2015.html"
+  ]
+ ]
+}

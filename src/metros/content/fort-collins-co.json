@@ -1,0 +1,51 @@
+{
+ "lead": "Fort Collins knows what a flash flood can do. In 1997, Spring Creek turned a quiet neighborhood creek into a river. Today, basements, frozen pipes and hail keep water damage calls coming.",
+ "risk": "flash flooding, frozen pipes and basement water",
+ "risk_short": "flash floods, frozen pipes, basements",
+ "why": [
+  "In July 1997, a slow storm stalled over Fort Collins and dropped 14.5 inches of rain in 31 hours. Spring Creek flooded, five people died and much of the CSU campus went under water. The city has since spent heavily on stormwater upgrades, but heavy summer storms still overwhelm drains. Water then finds its way into window wells and basements.",
+  "Many Fort Collins homes have finished basements, so a small leak can ruin carpet, drywall and storage fast. Winter brings sharp cold snaps along the Front Range, and pipes on outside walls or in crawl spaces can freeze and split. Spring and summer hail also cracks roofs and skylights. About 31% of homes were built before 1980, and many still have their original drain lines."
+ ],
+ "image": "floodyard",
+ "image_alt": "Rainwater pooling around a Fort Collins-area home after a heavy storm",
+ "image_caption": "Heavy summer storms in Fort Collins can push water into basements fast.",
+ "problems": [
+  [
+   "Basement flooding",
+   "Homes with finished basements and window wells",
+   "<a href=\"/services/flood-damage-restoration/\">Basement flood cleanup</a>"
+  ],
+  [
+   "Frozen pipe bursts",
+   "Old Town, Campus West, crawl space homes",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Hail roof leaks",
+   "Southridge, Harmony Corridor, Timberline",
+   "<a href=\"/services/storm-damage-restoration/\">Storm repair and drying</a>"
+  ],
+  [
+   "Sewer backups",
+   "Older homes near Old Town",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Keep window wells clear and add covers before storm season.",
+  "Disconnect garden hoses and shut outdoor valves each fall.",
+  "Test your sump pump before summer storms.",
+  "Know your flood risk; Fort Collins publishes city floodplain maps."
+ ],
+ "areas": "Calls come from Old Town, Midtown, Campus West, Old Town North, Rigden Farm, Southridge, the Harmony Corridor and Timberline, plus Loveland, Windsor and Wellington.",
+ "faq": {
+  "q": "Does Fort Collins still flood like it did in 1997?",
+  "a": "The city made big stormwater upgrades after the 1997 Spring Creek flood, and they have reduced damage since. But intense summer storms can still flood streets, window wells and basements. Flood insurance is separate from home insurance, so check your coverage."
+ },
+ "sources": [
+  [
+   "City of Fort Collins: 1997 Spring Creek Flood",
+   "https://history.fcgov.com/explore/flood"
+  ]
+ ]
+}

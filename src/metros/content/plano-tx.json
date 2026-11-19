@@ -1,0 +1,45 @@
+{
+ "lead": "Plano's big wave of homebuilding came in the 1980s and 1990s, and many of those houses now need their first major plumbing fixes. Add hail and clay soil, and leaks stay busy here.",
+ "risk": "aging 1980s and 1990s plumbing, slab leaks and hail roof leaks",
+ "risk_short": "aging pipes, slab leaks, hail",
+ "why": [
+  "The median Plano home was built in 1993. That means many houses are now 30 to 45 years old, with their first water heaters long gone and original supply lines near the end of their life. Some homes from the late 1970s to the mid-1990s were plumbed with gray polybutylene pipe, which can crack at the fittings. If you see gray plastic pipe near your water heater, have a plumber look at it.",
+  "Plano also sits on Blackland Prairie clay. The soil swells in wet springs and shrinks in summer drought, which shifts slabs and the pipes under them. Slab leaks often show up as a warm spot on the floor or a jump in the water bill. Hail is the other big cause of calls. Spring storms crack shingles and skylights, and the leak may not appear until the next heavy rain."
+ ],
+ "image": "pipe",
+ "image_alt": "Water dripping from an aging supply pipe under a Plano home",
+ "image_caption": "Many Plano homes still run on plumbing from the 1980s and 1990s.",
+ "problems": [
+  [
+   "Failed supply lines and fittings",
+   "1980s and 1990s homes across Plano",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and drying</a>"
+  ],
+  [
+   "Slab leaks",
+   "Homes on shifting clay soil",
+   "<a href=\"/services/water-extraction/\">Water removal and floor drying</a>"
+  ],
+  [
+   "Hail roof leaks",
+   "Willow Bend, Deerfield, Kings Ridge",
+   "<a href=\"/services/storm-damage-restoration/\">Storm repair and drying</a>"
+  ],
+  [
+   "Creek flooding",
+   "Low areas along Spring Creek and Rowlett Creek",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Know your home's age and swap any original supply hoses.",
+  "Have gray polybutylene pipe checked by a plumber.",
+  "Water the soil around the slab evenly during drought.",
+  "Find your main shutoff now, before you need it."
+ ],
+ "areas": "Calls come from Willow Bend, Legacy West, Deerfield, Kings Ridge, Downtown Plano, Hunters Glen, Russell Creek and Los Rios, plus Allen, Richardson and Murphy.",
+ "faq": {
+  "q": "How do I know if my Plano home has a slab leak?",
+  "a": "Common signs are a warm or damp spot on the floor, the sound of running water when taps are off, cracks in tile, or a water bill that rises for no reason. A plumber can confirm it with pressure and acoustic tests. DryFlare then dries the floor and any wet walls."
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "lead": "Lexington sits on limestone full of sinkholes, springs and hidden channels. That karst ground, plus heavy storms and freeze cycles, shapes how water damages homes here.",
+ "risk": "sinkhole drainage problems, basement water and frozen pipes",
+ "risk_short": "karst drainage, basements, frozen pipes",
+ "why": [
+  "Fayette County lies in Kentucky's Inner Bluegrass, on soluble limestone. Water here often drains down through sinkholes and cracks instead of across the surface. When a sinkhole clogs or a heavy storm overwhelms it, water ponds in yards and can flood nearby basements. Lexington adopted one of the country's early sinkhole ordinances in 1985 to manage building in these areas.",
+  "Many Lexington homes have basements, and about 45% were built before 1980. Older neighborhoods like Chevy Chase, Ashland Park and Bell Court have aging drain lines and foundations. Winter brings freeze and thaw cycles. Pipes on outside walls can burst, and ice can back water up under roof edges. Spring storms then test sump pumps and gutters across the city."
+ ],
+ "image": "floodroom",
+ "image_alt": "Water standing on a basement floor in a Lexington-area home",
+ "image_caption": "Storms and karst drainage can push water into Lexington basements.",
+ "problems": [
+  [
+   "Basement flooding",
+   "Homes near sinkholes and low lots",
+   "<a href=\"/services/flood-damage-restoration/\">Basement flood cleanup</a>"
+  ],
+  [
+   "Frozen pipe bursts",
+   "Pipes on outside walls in older homes",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Drain and sewer backups",
+   "Chevy Chase, Ashland Park, Bell Court",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Storm roof leaks",
+   "Homes citywide",
+   "<a href=\"/services/storm-damage-restoration/\">Storm repair and drying</a>"
+  ]
+ ],
+ "tips": [
+  "Never fill or block a sinkhole in your yard; ask the city first.",
+  "Test your sump pump and battery backup each spring.",
+  "Insulate pipes on outside walls before the first hard freeze.",
+  "Keep gutters clear so water drains away from the foundation."
+ ],
+ "areas": "Calls come from Chevy Chase, Ashland Park, Bell Court, Kenwick, Hamburg, Beaumont, Masterson Station and Gardenside, plus Nicholasville, Georgetown and Winchester.",
+ "faq": {
+  "q": "Is sinkhole damage covered by home insurance in Kentucky?",
+  "a": "Standard policies usually exclude earth movement, including sinkholes, unless you add coverage. Water damage from a sudden pipe burst is usually covered. If your home is near a mapped sinkhole, ask your agent what options exist."
+ },
+ "sources": [
+  [
+   "Kentucky Geological Survey: Fayette County sinkhole and karst issues",
+   "https://kgs.uky.edu/kgsweb/download/misc/landuse/fayette/fayetteissues.htm"
+  ]
+ ]
+}

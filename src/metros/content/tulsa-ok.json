@@ -1,0 +1,51 @@
+{
+ "lead": "Tulsa went from one of the most flood-prone cities in the country to a model for flood control. Hail, ice storms and aging homes still keep water damage common here.",
+ "risk": "hail, ice storms and aging plumbing in pre-1980 homes",
+ "risk_short": "hail, ice storms, old plumbing",
+ "why": [
+  "The Memorial Day flood of 1984 dropped about 15 inches of rain on Tulsa in hours and killed 14 people. Afterward, the city bought out and cleared hundreds of homes from floodplains, built detention ponds and drew its own strict flood maps. In 2021, FEMA gave Tulsa its top Class 1 rating, only the second city in the country to earn it. Creek flooding is far less common now.",
+  "That leaves storms and age. Green Country sees frequent hail, and big ice storms snap limbs onto roofs. About 65% of Tulsa homes were built before 1980. Neighborhoods like Maple Ridge, Brookside and Kendall-Whittier have older plumbing, crawl spaces and basements. Old cast-iron drains crack, and pipes in crawl spaces can freeze in hard cold."
+ ],
+ "image": "ceiling",
+ "image_alt": "Ceiling damaged by a roof leak after a storm in a Tulsa home",
+ "image_caption": "In Tulsa, hail and ice storm damage often shows up as ceiling leaks.",
+ "problems": [
+  [
+   "Hail roof leaks",
+   "Homes citywide each spring",
+   "<a href=\"/services/storm-damage-restoration/\">Storm repair and drying</a>"
+  ],
+  [
+   "Ice storm and tree damage",
+   "Midtown and older tree-lined areas",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling leak repair</a>"
+  ],
+  [
+   "Crawl space pipe freezes",
+   "Maple Ridge, Brookside, Kendall-Whittier",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Cast-iron drain failures",
+   "Pre-1980 homes",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Have big trees over the roof trimmed before ice storm season.",
+  "Close crawl space vents and insulate pipes in winter.",
+  "Check the city's floodplain maps before buying a home.",
+  "Get a roof check after hail and file any claim quickly."
+ ],
+ "areas": "Calls come from Brookside, Cherry Street, Maple Ridge, Midtown, Kendall-Whittier, the Brady Arts District, Riverview and South Tulsa, plus Broken Arrow, Jenks and Bixby.",
+ "faq": {
+  "q": "Is flood risk low in Tulsa now?",
+  "a": "Lower than it was, thanks to decades of buyouts and drainage work. But heavy rain can still flood streets and low lots, and the Arkansas River can run high. Home insurance does not cover rising water, so check your flood zone and consider a policy."
+ },
+ "sources": [
+  [
+   "StateImpact Oklahoma: Tulsa's flood-control model",
+   "https://stateimpact.npr.org/oklahoma/2017/11/02/in-tulsa-a-national-blueprint-for-managing-floods-as-cities-grow-and-climate-changes"
+  ]
+ ]
+}

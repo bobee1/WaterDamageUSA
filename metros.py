@@ -1,4 +1,6 @@
-"""Metro hub pages: /locations/<state>/<city>/ for the Phase 1 metro list (Build 6).
+"""City pages: /locations/<state>/<city>/ — metro hubs (Build 6) and further cities and suburbs (Build 7).
+
+A city entry may set "metro": "<metro slug>" when it is a suburb of a metro hub; the hub page then links to it.
 
 Inputs:
   research/09-metro-acs.json         Census ACS housing data for each principal city
@@ -28,6 +30,12 @@ def mlink(slug, text=None):
 
 def metros_in_state(ab):
     return sorted([k for k, v in MMETA.items() if v["st"] == ab and (CDIR / f"{k}.json").exists()],
+                  key=lambda k: MMETA[k]["city"])
+
+
+def children(slug):
+    """Suburb pages that belong to this metro hub (only those with content)."""
+    return sorted([k for k, v in MMETA.items() if v.get("metro") == slug and (CDIR / f"{k}.json").exists()],
                   key=lambda k: MMETA[k]["city"])
 
 
@@ -73,6 +81,10 @@ def page(slug):
     if len(desc) > 155:
         desc = f"Water damage restoration in {disp}: {c['risk_short']}. Call 1-800-555-0199."
     near = [n for n in m["nearby"] if (CDIR / f"{n}.json").exists()]
+    # two-way links: cities that list this one as nearby get linked back (suburbs are linked separately)
+    back = sorted(k for k, v in MMETA.items() if slug in v.get("nearby", []) and k not in near
+                  and v.get("metro") != slug and (CDIR / f"{k}.json").exists())
+    near = (near + back)[:5]
     nb = S.pick(slug, [f"DryFlare also covers nearby {S.join_list([mlink(n) for n in near])}.",
                        f"Crews also work in {S.join_list([mlink(n) for n in near])}.",
                        f"Help is also available in {S.join_list([mlink(n) for n in near])}."], "nb") if near else ""
@@ -84,6 +96,13 @@ def page(slug):
     ins = S.pick(slug, [f'Home insurance in {city} is regulated by the <a href="{doiu}">{doi}</a>. ',
                         f'The <a href="{doiu}">{doi}</a> oversees insurance for {city} homeowners. '], "i")
     ins += c.get("insurance", "") + f" See the {S.link(ab, st['name'] if ab != 'DC' else 'Washington, DC')} page for state flood, licensing and claim notes."
+    kids = children(slug)
+    kid_line = (" " + S.pick(slug, [f"See our local pages for {S.join_list([mlink(k) for k in kids])}.",
+                                     f"Nearby cities with their own pages: {S.join_list([mlink(k) for k in kids])}."], "kd")) if kids else ""
+    parent = m.get("metro")
+    par_line = ""
+    if parent and (CDIR / f"{parent}.json").exists() and parent not in near:
+        par_line = f" {city} is part of the greater {mlink(parent)} area."
     cta1 = S.pick(slug, [f"Water inside a {city} home or business? Call DryFlare {{{{availability}}}}.",
                          f"Need water out fast in {city}? Call DryFlare at {{{{phone}}}}."], "c1")
     tips_h = S.pick(slug, [f"Tips for {city} homeowners", f"Water damage tips for {city} homes", f"How {city} owners can prevent water damage"], "t")
@@ -113,7 +132,7 @@ def page(slug):
 <ul>{''.join(f'<li>{t}</li>' for t in c['tips'])}</ul>
 
 <h2>Neighborhoods and suburbs served in {city}</h2>
-<p>{c['areas']} {nb}</p>
+<p>{c['areas']} {nb}{par_line}{kid_line}</p>
 
 <h2>Insurance and licensing in {city}</h2>
 <p>{ins}</p>

@@ -1,0 +1,51 @@
+{
+ "lead": "Bellevue mixes high-rise condos, 1960s split-levels and newer homes under tall evergreens. Each brings its own leaks, from units above to storm-felled trees.",
+ "risk": "condo leaks from units above, windstorm roof damage and long wet winters",
+ "risk_short": "condo leaks, windstorms, rain",
+ "why": [
+  "Downtown Bellevue now has thousands of condo and apartment units stacked in towers. One failed dishwasher hose or toilet supply line can send water through several floors. These losses raise questions about who pays, the HOA master policy or the owner's HO-6 policy. Fast drying limits how many units are hit and how much needs to be torn out.",
+  "Out in the neighborhoods, many homes date from the 1960s to the 1980s. Their roofs, decks and original plumbing are aging. Big trees add risk. The November 2024 bomb cyclone brought trees down across the city, and fallen limbs break roofs and let rain in. Long wet winters also keep crawl spaces and basements damp in areas like Somerset, Lake Hills and Newport Hills."
+ ],
+ "image": "storm",
+ "image_alt": "Wind-damaged roof and window on a Bellevue-area house after a storm",
+ "image_caption": "Windstorms and falling trees can open a Bellevue roof to the rain.",
+ "problems": [
+  [
+   "Leaks from units above",
+   "Downtown and Crossroads condos",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling and wall drying</a>"
+  ],
+  [
+   "Storm and tree damage",
+   "Somerset, Lakemont, Newport Hills",
+   "<a href=\"/services/storm-damage-restoration/\">Storm damage restoration</a>"
+  ],
+  [
+   "Crawl space moisture",
+   "1960s to 1980s homes",
+   "<a href=\"/services/water-mitigation/\">Structural drying</a>"
+  ],
+  [
+   "Supply line failures",
+   "Homes with original plumbing",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Condo owners: learn where your unit's water shutoff is.",
+  "Swap rubber washer and dishwasher hoses for braided steel.",
+  "Have big trees near the house checked by an arborist.",
+  "Read both your HO-6 and HOA master policy before you need them."
+ ],
+ "areas": "Calls come from Downtown Bellevue, West Bellevue, Crossroads, Lake Hills, Somerset, Factoria, Newport Hills, Bridle Trails and Lakemont, plus Kirkland, Redmond and Issaquah.",
+ "faq": {
+  "q": "Who pays when water from a condo above damages my Bellevue unit?",
+  "a": "It depends on the cause and your HOA documents. The building's master policy often covers common elements, and your HO-6 policy covers your unit's interior and belongings. The owner above may be liable if they were negligent. Document everything and start drying right away."
+ },
+ "sources": [
+  [
+   "City of Bellevue: Bomb cyclone storm update",
+   "https://bellevuewa.gov/city-news/bomb-cyclone-storm"
+  ]
+ ]
+}

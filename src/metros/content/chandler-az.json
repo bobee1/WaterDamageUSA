@@ -1,0 +1,45 @@
+{
+ "lead": "Chandler's big building boom came in the 1990s, and those homes are now 25 to 35 years old. Pinhole leaks, slab leaks and monsoon storms cause most water damage here.",
+ "risk": "copper pinhole leaks, slab leaks and monsoon storms",
+ "risk_short": "pinhole leaks, slab leaks, monsoons",
+ "why": [
+  "The median Chandler home was built in 1997. Many homes from that era were plumbed with copper pipe, often run under the concrete slab. Over time, the Valley's hard water and water chemistry can wear tiny holes in copper. A pinhole leak sprays a fine mist inside a wall. Under a slab, it can run for weeks and soak flooring and baseboards across a room.",
+  "Homeowners in Chandler often choose to repipe with PEX once leaks start, rather than chase them one by one. Until then, drying is key. Monsoon season brings the other big risk. Summer storms can drop an inch of rain in under an hour, and low streets and yards flood. Lake communities such as Ocotillo also have waterfront lots where drainage matters."
+ ],
+ "image": "pipe",
+ "image_alt": "Water leaking from a small hole in a copper pipe in a Chandler home",
+ "image_caption": "Pinhole leaks in 1990s copper plumbing are common across Chandler.",
+ "problems": [
+  [
+   "Pinhole leaks in walls",
+   "1990s homes in Pecos Ranch, Andersen Springs",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and wall drying</a>"
+  ],
+  [
+   "Slab leaks",
+   "Homes with copper under the slab",
+   "<a href=\"/services/water-extraction/\">Water removal and floor drying</a>"
+  ],
+  [
+   "Monsoon roof and yard flooding",
+   "Low lots citywide",
+   "<a href=\"/services/storm-damage-restoration/\">Storm repair and drying</a>"
+  ],
+  [
+   "Mold behind walls",
+   "Slow leaks left unfound",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Watch for a water bill that creeps up with no change in use.",
+  "Ask a plumber about repiping if you have had two or more pinholes.",
+  "Install a whole-home leak detector with automatic shutoff.",
+  "Clean gutters and yard drains before July."
+ ],
+ "areas": "Calls come from Downtown Chandler, Ocotillo, Fulton Ranch, Pecos Ranch, Cooper Commons, Andersen Springs, Clemente Ranch and Carino Estates, plus Sun Lakes and Tempe.",
+ "faq": {
+  "q": "Should I repipe my Chandler home after a pinhole leak?",
+  "a": "One pinhole can be a fluke. Two or more usually mean the copper is wearing thin, and more leaks will follow. Many Chandler owners repipe with PEX at that point. Either way, dry the wet wall or floor right away to stop mold."
+ }
+}

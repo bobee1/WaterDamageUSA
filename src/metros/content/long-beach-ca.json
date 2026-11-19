@@ -1,0 +1,51 @@
+{
+ "lead": "Long Beach is an old port city with miles of coastline. Aging housing, low-lying waterfront neighborhoods and old sewer lines all lead to water damage calls.",
+ "risk": "aging plumbing, coastal flooding and sewer backups",
+ "risk_short": "old plumbing, coastal flooding, sewer backups",
+ "why": [
+  "Long Beach has some of the oldest housing in Southern California. Nearly 79% of homes were built before 1980, and about 19% before 1940. Craftsman homes in California Heights and Bixby Knolls and older apartments near Alamitos Beach often have cast-iron drains and galvanized supply lines. Many are rentals; only 41% of homes are owner-occupied, so tenants and landlords often share the cleanup.",
+  "The coast adds its own risk. Naples Island and nearby canal homes sit right at sea level behind an aging seawall. The city has been rebuilding that wall in phases, and king tides with high surf can push water onto streets and into ground floors along the peninsula. Heavy winter rain also backs up storm drains near the mouth of the Los Angeles River."
+ ],
+ "image": "flood",
+ "image_alt": "Floodwater along a coastal street in a low-lying Long Beach neighborhood",
+ "image_caption": "King tides and storms can push water into low-lying Long Beach areas.",
+ "problems": [
+  [
+   "Old drain and sewer backups",
+   "California Heights, Bixby Knolls, Downtown",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Coastal and tidal flooding",
+   "Naples, Belmont Shore, the peninsula",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Leaks between apartments",
+   "Older buildings near Alamitos Beach",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling and wall drying</a>"
+  ],
+  [
+   "Galvanized pipe leaks",
+   "Pre-1960 homes",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and drying</a>"
+  ]
+ ],
+ "tips": [
+  "Install a backwater valve if your home has had a sewer backup.",
+  "Waterfront owners: keep sandbags ready before king tide season.",
+  "Renters: tell your landlord in writing about any leak right away.",
+  "Have pre-1960 plumbing checked before buying or renovating."
+ ],
+ "areas": "Calls come from Belmont Shore, Naples, Bixby Knolls, California Heights, Alamitos Beach, Los Altos, Downtown and North Long Beach, plus Signal Hill, Lakewood and Seal Beach.",
+ "faq": {
+  "q": "Who pays for water damage in a Long Beach rental?",
+  "a": "The landlord usually pays to repair the building, while the tenant's renters insurance covers their own belongings. If the tenant caused the leak, their liability coverage may pay. Report leaks in writing and take photos, because quick reporting protects everyone."
+ },
+ "sources": [
+  [
+   "City of Long Beach: Naples Seawall Phase 2",
+   "https://longbeach.gov/citymanager/tidelands/naples-seawall-phase-2/"
+  ]
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Everett sits where the Snohomish River meets Port Gardner Bay, under some of the rainiest skies near Seattle. Old North Everett homes and a long wet season keep water damage crews busy.",
+ "risk": "long rainy seasons, river flooding and old basements",
+ "risk_short": "rain, river flooding, old basements",
+ "why": [
+  "About 16% of Everett homes were built before 1940, many in North Everett, Riverside and Bayside. These houses often have old basements, original drain lines and wood framing that has seen decades of damp winters. Water creeps in through foundation cracks and around old basement windows. Tree roots also break into clay sewer lines and cause backups after heavy rain.",
+  "The Snohomish River wraps around the north and east sides of the city. In big winter storms, the river and its sloughs can rise and flood low ground in the Lowell area and the river valley. Up on the hills, steep yards send runoff toward houses. About 3% of homes are mobile homes, where leaks under the floor can go unseen and rot the subfloor."
+ ],
+ "image": "floodroom",
+ "image_alt": "Standing water on the floor of a room in an older Everett home",
+ "image_caption": "Months of rain can push water into Everett basements and low rooms.",
+ "problems": [
+  [
+   "Basement seepage",
+   "North Everett, Riverside, Bayside",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ],
+  [
+   "River and slough flooding",
+   "Lowell and low areas near the Snohomish",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Sewer line backups",
+   "Older homes with clay lines",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Hidden floor leaks",
+   "Mobile and manufactured homes",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and drying</a>"
+  ]
+ ],
+ "tips": [
+  "Regrade soil so it slopes away from the foundation.",
+  "Have an old clay sewer line scoped before it fails.",
+  "Check under a manufactured home for drips twice a year.",
+  "Sign up for Snohomish County flood alerts if you live near the river."
+ ],
+ "areas": "Calls come from North Everett, Riverside, Bayside, Delta, Lowell, Silver Lake, View Ridge and Boulevard Bluffs, plus Mukilteo, Marysville and Mill Creek.",
+ "faq": {
+  "q": "Is flood insurance worth it in Everett?",
+  "a": "If you live in a low area near the Snohomish River or its sloughs, it is worth pricing. Standard home insurance does not cover rising water. Even outside mapped flood zones, heavy rain can flood low lots. Policies usually take 30 days to start, so do not wait for a storm."
+ }
+}

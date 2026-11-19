@@ -1,0 +1,45 @@
+{
+ "lead": "Miami is a city of high-rises, bay views and very little elevation. Storm surge, king tides and leaks in condo towers make water damage part of life here.",
+ "risk": "storm surge, king tide flooding and leaks in condo towers",
+ "risk_short": "storm surge, king tides, condo leaks",
+ "why": [
+  "In September 2017, Hurricane Irma pushed a surge from Biscayne Bay into Brickell. Brickell Avenue turned into a river, and the water flooded lobbies, garages and ground floors in the financial district. Miami took only a sideswipe from that storm. Much of the city sits just a few feet above sea level, and even sunny-day king tides can push water up through storm drains in low areas.",
+  "Only about 31% of Miami homes are owner-occupied. Most people rent or live in condos. In a tower, a failed water heater or AC drain line can send water down through several floors. Since 2022, Florida law has required more inspections and repairs in older condo buildings. Fast drying keeps a one-unit leak from becoming a five-unit claim."
+ ],
+ "image": "flood",
+ "image_alt": "Floodwater covering a street in a low-lying Miami neighborhood",
+ "image_caption": "Storm surge and king tides can flood low Miami streets and ground floors.",
+ "problems": [
+  [
+   "Storm surge flooding",
+   "Brickell, Coconut Grove, Edgewater",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Leaks in condo towers",
+   "Brickell, Downtown, Edgewater high-rises",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling and wall drying</a>"
+  ],
+  [
+   "AC drain line overflows",
+   "Apartments and condos citywide",
+   "<a href=\"/services/water-mitigation/\">Structural drying</a>"
+  ],
+  [
+   "King tide flooding",
+   "Low streets near the bay",
+   "<a href=\"/services/water-extraction/\">Water removal</a>"
+  ]
+ ],
+ "tips": [
+  "Renters: get renters insurance; the landlord's policy does not cover your things.",
+  "Clean the AC condensate line every few months in this climate.",
+  "Move cars and valuables out of low garages before a storm.",
+  "Learn your building's water shutoff and report leaks fast."
+ ],
+ "areas": "Calls come from Brickell, Downtown, Edgewater, Wynwood, Little Havana, Coconut Grove, Allapattah, Coral Way and Little Haiti, plus Coral Gables, Miami Beach and Doral.",
+ "faq": {
+  "q": "Who handles water damage in a Miami condo?",
+  "a": "The association usually handles common elements, like pipes in walls between units and the building structure. Owners handle their unit's interior and belongings under an HO-6 policy. Your condo documents set the exact lines. Report leaks to management right away so drying can start."
+ }
+}

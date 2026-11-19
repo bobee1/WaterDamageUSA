@@ -1,0 +1,51 @@
+{
+ "lead": "Provo is a college town at the foot of the Wasatch, with student rentals, cold winters and big spring runoff. Frozen pipes, snowmelt and rental leaks drive water damage here.",
+ "risk": "frozen pipes, spring runoff and leaks in rental housing",
+ "risk_short": "frozen pipes, runoff, rental leaks",
+ "why": [
+  "Only about 39% of Provo homes are owner-occupied. With BYU in town, many houses are split into student apartments, and basement units are common. A leak in an upstairs bathroom can reach a basement apartment fast. Tenants may not know where the shutoff is or may wait to report a drip. That delay turns small leaks into soaked carpet and drywall.",
+  "Winters are cold, and pipes in basements and outside walls can freeze. Spring brings the other risk. In 2023, Utah's snowpack was the deepest ever measured. Provo cleared debris from the Provo River and watched its frontal canyons as runoff rose. Heavy snowmelt years can push water toward homes near the river and the mouths of canyons on the east bench."
+ ],
+ "image": "drywall",
+ "image_alt": "Drywall being repaired after a leak into a basement apartment in Provo",
+ "image_caption": "In Provo, a leak upstairs can quickly reach a basement apartment.",
+ "problems": [
+  [
+   "Leaks into basement units",
+   "Joaquin, Downtown, homes near BYU",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling and wall drying</a>"
+  ],
+  [
+   "Frozen pipe bursts",
+   "Basements and outside walls",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Spring runoff flooding",
+   "Riverbottoms and east bench canyon mouths",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Mold after slow leaks",
+   "Rentals where leaks go unreported",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Landlords: show every tenant where the water shutoff is.",
+  "Keep basement heat on during winter breaks.",
+  "Watch runoff forecasts in big snow years if you live near the river.",
+  "Report even small leaks right away; delay makes damage worse."
+ ],
+ "areas": "Calls come from Joaquin, Downtown Provo, the Riverbottoms, Edgemont, Grandview, Rock Canyon, Oak Hills and Sunset, plus Orem, Springville and Lindon.",
+ "faq": {
+  "q": "Who pays for water damage in a Provo student rental?",
+  "a": "The landlord's policy usually covers the building. Tenants need renters insurance for their own things. If a tenant caused the leak, their liability coverage may pay part of it. Report leaks in writing and take photos right away."
+ },
+ "sources": [
+  [
+   "NRCS: Utah water supply outlook, April 2023",
+   "https://www.nrcs.usda.gov/sites/default/files/2023-04/WSOR_Apr_2023.pdf"
+  ]
+ ]
+}

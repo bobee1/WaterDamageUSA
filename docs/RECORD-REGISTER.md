@@ -63,7 +63,12 @@ A dated log of every step. Newest entries at the bottom of each build. Status: D
 | 57 | 2026-11-19 | Deploy | Live on drybeacon.pages.dev; 133/133 URLs 200; headers verified; fixed duplicate Cache-Control on assets | Done | Auto-redeploy on push confirmed |
 | 58 | 2026-11-19 | Fix | Layout fix: content aligned with header; desktop 2-column (content + sticky sidebar: call card, services, locations, popular guides); single column ≤1024px; checks read the content column only | Done | Owner reported left-aligned content |
 | 59 | 2026-11-19 | Rename | Brand renamed DryBeacon → DryFlare (another nationwide water damage site uses DryBeacon on drybeacon.us). dryflare.com unregistered per Verisign RDAP; no water damage business found using the name. Text, schema, canonical domain, logo SVGs, icons, social image and 10 guide images regenerated; drop + light mark kept | Done | Cloudflare project stays `drybeacon` (preview URL only) |
-| 60 | — | 7 | First 100 city pages (suburbs + next metros) | Planned | Next |
+| 60 | 2026-11-19 | 7.1 | City list for Build 7: 100 cities ranked by value score (searches × CPC) from Semrush research; Vancouver WA (built) and Palm Beach (ambiguous) dropped; split into 4 parts of 25 | Done | Runs alongside the owner's single-city sites |
+| 61 | 2026-11-19 | 7.1 | Part 1 data: Census ACS 2020–2024 5-yr for 25 places (method re-verified against Fort Myers); sample ZIPs checked against a ZIP lookup (Frisco 75033/75036 newer than the lookup's data) | Done | `research/09-metro-acs.json`, `src/metros/meta.json` |
+| 62 | 2026-11-19 | 7.1 | Part 1 pages: Frisco, Plano, Fort Collins, Tacoma, Bellevue, Everett, Mesa, Gilbert, Chandler, Scottsdale, Irvine, Anaheim, Long Beach, Sarasota, Miami, Wichita, Tulsa, Baltimore, Greensboro, Columbia, Grand Rapids, Knoxville, Lexington, Reno, Provo — hand-written local copy with verified local events (1997 Spring Creek flood, Milton 2024, Irma/Brickell, 2015 Columbia flood, 2013 Grand River crest, 1984 Tulsa flood, 1997 Truckee flood, Baltimore DPW backup program, etc.) | Done | 874–932 words each |
+| 63 | 2026-11-19 | 7.1 | Linking: suburbs carry a `metro` field and their hub lists them (Dallas → Frisco, Plano; Phoenix → 4; Seattle → 3; LA → 3); nearby links made two-way; every new page has 3–6 in-text inbound links | Done | |
+| 64 | 2026-11-19 | 7.1 | Checks: audit 0 issues (159 pages); FK 6.2–8.4; uniqueness ≥ 75.2% (avg 77.3%); JSON-LD valid; no overflow at 1440/1024/768/360; pages ≤ 38 KB | Done | |
+| 65 | — | 7.2 | Part 2: next 25 cities (Fresno → Ann Arbor) | Planned | Next |
 
 ## Image register
 | File | Source | Used on |

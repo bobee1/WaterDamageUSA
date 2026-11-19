@@ -1,0 +1,45 @@
+{
+ "lead": "Irvine is a master-planned city of villages, condos and HOAs. Most homes are newer, but shared walls and stacked units mean one leak can reach several families.",
+ "risk": "leaks between attached units, slab leaks and failed supply lines",
+ "risk_short": "shared-wall leaks, slab leaks, supply lines",
+ "why": [
+  "Irvine's median home was built in 2002, and less than half of homes, 44.5%, are owner-occupied. Much of the city is townhomes, condos and apartments built around shared walls. A burst toilet line or washer hose upstairs can soak the unit below within an hour. These jobs often involve an HOA, a property manager, two owners and two insurers, so clear moisture readings and photos matter.",
+  "Older villages such as Woodbridge, Northwood and University Park date from the 1970s and 1980s. Some of those homes have copper pipe under the slab and original water heaters in closets or garages. Irvine rarely floods from rivers, but winter storms can overwhelm drains, and San Diego Creek runs high in heavy rain. Most local losses start indoors with plumbing."
+ ],
+ "image": "drywall",
+ "image_alt": "Drywall being repaired after a leak between units in an Irvine townhome",
+ "image_caption": "In Irvine's attached homes, one leak can reach the unit next door or below.",
+ "problems": [
+  [
+   "Leaks from units above or beside",
+   "Condos and townhomes citywide",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling and wall drying</a>"
+  ],
+  [
+   "Slab leaks",
+   "1970s and 1980s villages like Woodbridge",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and floor drying</a>"
+  ],
+  [
+   "Washer and toilet supply failures",
+   "Apartments and newer villages",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Mold in closed walls",
+   "Slow leaks between units",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Know where your unit's shutoff valve is; many are in a closet or garage.",
+  "Replace washer and toilet supply lines every five to seven years.",
+  "Tell your HOA and neighbors right away if water crosses units.",
+  "Keep a copy of your HOA insurance summary with your own policy."
+ ],
+ "areas": "Calls come from Woodbridge, Northwood, University Park, Turtle Rock, Quail Hill, Westpark, Portola Springs and the Great Park area, plus Tustin, Lake Forest and Costa Mesa.",
+ "faq": {
+  "q": "My Irvine condo was damaged by a neighbor's leak. What do I do first?",
+  "a": "Stop the water if you can, then photograph everything. Notify your HOA or property manager and the neighbor in writing. Call your HO-6 insurer and start drying quickly. The HOA's master policy, your policy and the neighbor's policy may each cover part of the loss."
+ }
+}

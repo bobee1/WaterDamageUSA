@@ -1,0 +1,51 @@
+{
+ "lead": "Grand Rapids has some of the oldest homes in Michigan and a river that set its all-time record in 2013. Basements, ice dams and old sewer lines keep water damage busy here.",
+ "risk": "basement flooding, ice dams and old sewer lines",
+ "risk_short": "basements, ice dams, old sewers",
+ "why": [
+  "More than a third of Grand Rapids homes, 37.5%, were built before 1940. Heritage Hill, Eastown and East Hills are full of large old houses with fieldstone or block basements and original clay sewer lines. Those basements take on water through cracks and old window wells, and tree roots break into the sewer. Heavy rain can then send sewage back up through floor drains.",
+  "In April 2013, record rain pushed the Grand River to 21.85 feet downtown, its highest crest on record. The flood walls held, but low areas flooded and many basements filled. Winters bring a different risk. Lake-effect snow piles up on roofs, and ice dams form at the eaves. Meltwater backs up under shingles and leaks into walls and ceilings."
+ ],
+ "image": "ceiling",
+ "image_alt": "Ceiling damaged by an ice dam leak in an older Grand Rapids home",
+ "image_caption": "Ice dams on Grand Rapids roofs can push meltwater into ceilings and walls.",
+ "problems": [
+  [
+   "Basement flooding",
+   "Heritage Hill, Eastown, Creston",
+   "<a href=\"/services/flood-damage-restoration/\">Basement flood cleanup</a>"
+  ],
+  [
+   "Ice dam leaks",
+   "Older homes with poor attic insulation",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling and wall drying</a>"
+  ],
+  [
+   "Sewer backups",
+   "Homes with old clay sewer lines",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Frozen pipe bursts",
+   "Pipes on outside walls",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Add attic insulation and venting to cut ice dams.",
+  "Rake snow off the lower roof edge after big storms.",
+  "Have an old sewer line scoped and roots cleared.",
+  "Install a backwater valve if your floor drain has backed up before."
+ ],
+ "areas": "Calls come from Heritage Hill, Eastown, East Hills, Creston, Garfield Park, Ottawa Hills, Alger Heights and the West Side, plus Wyoming, Kentwood and Walker.",
+ "faq": {
+  "q": "Does home insurance cover sewer backups in Grand Rapids?",
+  "a": "Not always. Many Michigan policies exclude sewer and drain backups unless you add a backup endorsement. It is usually cheap compared with the cost of one basement cleanup. Check your policy and add it if your home has an old sewer line."
+ },
+ "sources": [
+  [
+   "NWS Grand Rapids: April 2013 flood report",
+   "https://www.weather.gov/media/grr/hydro/201304E3.pdf"
+  ]
+ ]
+}

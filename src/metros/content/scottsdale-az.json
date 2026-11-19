@@ -1,0 +1,51 @@
+{
+ "lead": "Scottsdale has more homes than year-round households can fill. Many are second homes left empty for months, and that is when small leaks turn into big water damage.",
+ "risk": "leaks in empty seasonal homes, monsoon storms and wash flooding",
+ "risk_short": "empty homes, monsoons, wash floods",
+ "why": [
+  "Scottsdale has about 139,000 housing units for 244,000 residents. A big share are winter homes, vacation rentals and condos that sit empty in summer. When no one is home, a failed supply line or water heater can run for weeks. By the time someone notices, floors, cabinets and drywall are soaked and mold has started. Remote leak sensors and a shut main valve prevent most of these losses.",
+  "Floods shaped the city, too. Indian Bend Wash once split Scottsdale in half during storms. Instead of a concrete channel, the city built the Indian Bend Wash Greenbelt, a chain of parks, lakes and golf courses that carries floodwater. Monsoon storms still send water rushing through washes and low streets. Older homes near Old Town have flat roofs that pond water."
+ ],
+ "image": "floodroom",
+ "image_alt": "Standing water across the floor of a room after an unnoticed leak in a Scottsdale home",
+ "image_caption": "A leak in an empty Scottsdale home can run for weeks before anyone sees it.",
+ "problems": [
+  [
+   "Leaks in vacant homes",
+   "Second homes and rentals citywide",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ],
+  [
+   "Monsoon roof leaks",
+   "Flat roofs near Old Town",
+   "<a href=\"/services/storm-damage-restoration/\">Storm repair and drying</a>"
+  ],
+  [
+   "Wash and street flooding",
+   "Low lots near washes",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Mold after long leaks",
+   "Homes left closed in summer",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Shut the main water valve before leaving for the season.",
+  "Install Wi-Fi leak sensors that text you when they get wet.",
+  "Ask a neighbor or manager to check the home every two weeks.",
+  "Clear roof drains before monsoon season starts in June."
+ ],
+ "areas": "Calls come from Old Town, McCormick Ranch, Gainey Ranch, Scottsdale Ranch, DC Ranch, Grayhawk, McDowell Mountain Ranch and Troon, plus Paradise Valley and Fountain Hills.",
+ "faq": {
+  "q": "Does insurance cover a leak in my empty Scottsdale home?",
+  "a": "Many policies limit coverage when a home is vacant or unoccupied for a set period, often 30 or 60 days. Read your policy's vacancy terms. Shutting off the water and using leak sensors helps prevent losses and shows you took reasonable care."
+ },
+ "sources": [
+  [
+   "City of Scottsdale: Indian Bend Wash Greenbelt",
+   "https://www.scottsdaleaz.gov/parks/greenbelt"
+  ]
+ ]
+}

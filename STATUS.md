@@ -16,7 +16,13 @@ Last updated: 2026-11-19
 - Plan approved: one national brand, state → metro → city structure, all 50 states + DC, one toll-free number, Cloudflare free plan.
 - Owner decisions: brand DryFlare; own-business call routing; 24/7; 10+ years in business; legal owner Anjam Javed; toll-free 1-800-555-0199; email added after the domain is bought.
 
-## Current — Rename to DryFlare (done)
+## Current — Build 7 Part 1: 25 city pages (done)
+- Build 7 = 100 city pages in 4 parts of 25, ranked by search value. Part 1 (live): Frisco, Plano, Fort Collins, Tacoma, Bellevue, Everett, Mesa, Gilbert, Chandler, Scottsdale, Irvine, Anaheim, Long Beach, Sarasota, Miami, Wichita, Tulsa, Baltimore, Greensboro, Columbia SC, Grand Rapids, Knoxville, Lexington, Reno, Provo.
+- Each page: Census ACS housing table, checked ZIP codes, a hand-written "why water damage here is different" built on that city's own risks and a verified local event, a local problems table, tips, neighborhoods, insurance notes and an FAQ specific to that city. Same-metro suburbs take different angles (e.g. Mesa mobile homes, Gilbert tile roofs, Chandler copper pinholes, Scottsdale empty seasonal homes).
+- Linking: metro hubs now list their suburbs; nearby links run both ways; every new page has 3–6 in-text inbound links.
+- Checks: audit 0 issues (159 pages); readability 6.2–8.4; uniqueness ≥ 75.2% vs closest page; valid schema; no overflow at 4 widths; pages ≤ 38 KB.
+
+## Previous — Rename to DryFlare (done)
 - DryBeacon was already in use by a nationwide water damage site (drybeacon.us), so the brand is now **DryFlare**, domain **dryflare.com** (unregistered as of 2026-11-19; buy it soon).
 - Changed everywhere: page text, titles, schema, canonical URLs, logo and wordmark, favicon and app icons, social image, guide header images, manifest, lead email template.
 - Kept: the drop-and-light icon, colors, layout and all URLs. The Cloudflare Pages project is still named `drybeacon`, so the preview address stays drybeacon.pages.dev (noindexed) until dryflare.com is connected.
@@ -40,7 +46,7 @@ Last updated: 2026-11-19
 ## Coming
 | Build | Scope | Needs from owner |
 | --- | --- | --- |
-| 7 | First 100 city pages | — |
+| 7 | Parts 2–4: 75 more city pages (25 each) | — |
 | Launch | Buy domain, Cloudflare Pages project, env vars, real toll-free number, email, Search Console + analytics | Domain, number, email, Resend key |
 
 ## Deployment

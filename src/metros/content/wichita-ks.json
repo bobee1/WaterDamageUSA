@@ -1,0 +1,51 @@
+{
+ "lead": "Wichita was built on a floodplain where two rivers meet. Its famous Big Ditch keeps the worst floods away, but hail, basements and old pipes still bring plenty of water damage.",
+ "risk": "hail and wind damage, basement water and frozen pipes",
+ "risk_short": "hail, basement water, frozen pipes",
+ "why": [
+  "Wichita sits where the Arkansas and Little Arkansas rivers meet. A 1944 flood left more than 5,000 people temporarily homeless. That led to the Wichita-Valley Center Floodway, known locally as the Big Ditch, built in the 1950s. It runs 18 miles along the west side of the city and diverts floodwater around it. River floods are rare now, but heavy storms still overwhelm street drains.",
+  "The bigger threat today comes from above. South-central Kansas gets frequent hail and severe wind, and storms crack shingles, skylights and siding. Many Wichita homes have basements, so water that gets in tends to collect there. About 58% of homes were built before 1980, and some still have original drain lines. Hard freezes can split pipes on outside walls."
+ ],
+ "image": "storm",
+ "image_alt": "Hail- and wind-damaged roof and window on a Wichita-area house",
+ "image_caption": "Wichita hail and wind can open a roof to rain in minutes.",
+ "problems": [
+  [
+   "Hail and wind roof leaks",
+   "Homes across Wichita each spring",
+   "<a href=\"/services/storm-damage-restoration/\">Storm repair and drying</a>"
+  ],
+  [
+   "Basement flooding",
+   "College Hill, Riverside, Crown Heights",
+   "<a href=\"/services/flood-damage-restoration/\">Basement flood cleanup</a>"
+  ],
+  [
+   "Frozen pipe bursts",
+   "Older homes with pipes on outside walls",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Sewer backups",
+   "Pre-1980 homes in heavy rain",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Get a roof check after any hail, even if you see no leak.",
+  "Test the sump pump before spring storm season.",
+  "Insulate pipes on outside walls and drip faucets on hard freeze nights.",
+  "Store basement items off the floor in plastic bins."
+ ],
+ "areas": "Calls come from College Hill, Riverside, Delano, Old Town, Crown Heights, Rockhurst, Linwood and Northeast Wichita, plus Derby, Andover and Maize.",
+ "faq": {
+  "q": "Does the Big Ditch mean my Wichita home can't flood?",
+  "a": "No. The floodway protects the city from big river floods, but it does not stop flash flooding from heavy rain on streets and low lots. It also does nothing for basement seepage or sewer backups. Flood insurance is still worth pricing."
+ },
+ "sources": [
+  [
+   "Sedgwick County: Wichita-Valley Center Flood Control Project",
+   "https://www.sedgwick.gov/communications/news-releases/wichita-valley-center-flood-control-project-renaming-moves-forward/"
+  ]
+ ]
+}
