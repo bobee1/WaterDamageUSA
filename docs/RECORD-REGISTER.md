@@ -21,7 +21,9 @@ A dated log of every step. Newest entries at the bottom of each build. Status: D
 | 15 | 2026-11-18 | 1b | Design tokens: site CSS variables renamed to match the design system | Done | One source of truth for colors, radius, shadow, font |
 | 16 | 2026-11-18 | 1b | Contrast fixes: focus ring (dark blue on light grounds), form borders #73859a | Done | Both now pass 3:1 |
 | 17 | 2026-11-18 | 1b | DryBeacon Design System artifact published | Done | Tokens, brand book, logos, 9 components, cover |
-| 18 | — | 2 | Semrush keyword research + site plan for approval | Planned | Next build |
+| 18 | 2026-11-18 | 1c | Palette changed to Graphite + Signal Orange (owner chose B of 4 options) | Done | Navy/amber looked like the owner's city sites; tokens renamed by role (brand-dark, brand-accent, tint) |
+| 19 | 2026-11-18 | 1c | Logo, favicon, icons, social image recolored; contrast re-checked | Done | All text pairs at least 4.5:1; borders and focus at least 3:1 |
+| 20 | — | 2 | Semrush keyword research + site plan for approval | Planned | Next build |
 
 ## Image register
 | File | Source | Used on |

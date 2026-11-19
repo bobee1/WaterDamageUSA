@@ -3,7 +3,7 @@ from fontTools.ttLib import TTFont
 from fontTools.pens.svgPathPen import SVGPathPen
 from fontTools.pens.transformPen import TransformPen
 
-NAVY, BLUE, AMBER, WHITE, LIGHTBLUE = "#0b2545", "#1d6fd6", "#f5b301", "#ffffff", "#8cc0ff"
+NAVY, BLUE, AMBER, WHITE, LIGHTBLUE = "#1d2329", "#d9540b", "#ff7a1a", "#ffffff", "#ff9a4d"  # brand-dark, logo accent, beacon, white, brand-accent-soft
 font = TTFont("/usr/share/fonts/opentype/inter/InterDisplay-ExtraBold.otf")
 gs, cmap, hmtx = font.getGlyphSet(), font.getBestCmap(), font["hmtx"]
 upm = font["head"].unitsPerEm

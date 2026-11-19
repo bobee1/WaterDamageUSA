@@ -23,6 +23,10 @@ Last updated: 2026-11-18
 - Design system published as the "DryBeacon" Design System artifact (tokens, brand book, logo rules, 9 components). Site CSS variables use the same token names.
 - Accessibility fixes: focus outline and form field borders now meet 3:1 contrast.
 
+## Current — Build 1c: New color scheme (done)
+- Palette B "Graphite + Signal Orange": brand-dark #1d2329, beacon orange #ff7a1a for call buttons, warm gray surfaces, orange accent text #c2410c. Chosen to set DryBeacon apart from the owner's city sites.
+- Logo set, favicon, app icons and social image recolored; design system updated to match.
+
 ## Coming
 | Build | Scope | Needs from owner |
 | --- | --- | --- |
