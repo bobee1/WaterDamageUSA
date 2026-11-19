@@ -1,0 +1,45 @@
+{
+ "lead": "Stamford sits on Long Island Sound, with a hurricane barrier guarding downtown and brooks running through its neighborhoods. Coastal storms and flash floods cause most of its water damage.",
+ "risk": "coastal storm surge, flash flooding and basement water",
+ "risk_short": "storm surge, flash floods, basements",
+ "why": [
+  "After the 1938 hurricane and later storms flooded the waterfront, Stamford built a hurricane barrier that was finished in 1969. Its gates close across the harbor when a big storm pushes water up the Sound. During Hurricane Sandy in 2012, the barrier kept surge out of downtown. Shippan, the Cove and other spots outside the barrier still flooded, and water reached homes and basements there.",
+  "Flash floods are the other risk. In September 2021, the remnants of Hurricane Ida dropped heavy rain on Fairfield County in a few hours. The Rippowam and Noroton rivers and small brooks rose fast, and basements filled across the region. About 58% of Stamford homes were built before 1980. Many older houses have finished basements, aging sump pumps and old sewer laterals."
+ ],
+ "image_alt": "Apartment room with materials stacked during repairs",
+ "image_caption": "After Ida's flash floods, many Stamford basements had to be stripped and rebuilt.",
+ "problems": [
+  [
+   "Storm surge flooding",
+   "Shippan, the Cove, near the harbor",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Flash flooding",
+   "Homes near the Rippowam and Noroton rivers",
+   "<a href=\"/services/flood-damage-restoration/\">Basement flood cleanup</a>"
+  ],
+  [
+   "Sump pump failures",
+   "Finished basements in Glenbrook, Springdale",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ],
+  [
+   "Leaks in high-rise apartments",
+   "Downtown and Harbor Point towers",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling leak repair</a>"
+  ]
+ ],
+ "tips": [
+  "Know whether your home sits inside or outside the hurricane barrier.",
+  "Add a battery backup sump pump and test it each spring.",
+  "Buy flood insurance early; it usually takes 30 days to start.",
+  "Store valuables off the basement floor."
+ ],
+ "areas": "Calls come from Downtown, Shippan, Glenbrook, Springdale, the Cove, North Stamford, Turn of River and Harbor Point, plus Greenwich, Darien and Norwalk.",
+ "faq": {
+  "q": "Does the hurricane barrier protect my Stamford home?",
+  "a": "Only homes inside the barrier's protected area, mainly downtown and the harbor area behind it. Shippan, the Cove and other waterfront areas outside it can still flood in a big storm. Heavy rain can also flood homes anywhere in the city. Check the flood map for your address."
+ },
+ "photo": "5691530"
+}

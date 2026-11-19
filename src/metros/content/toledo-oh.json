@@ -1,0 +1,45 @@
+{
+ "lead": "Toledo sits where the Maumee River meets Lake Erie. Old homes, basement water and lake surges along the shore cause most of its water damage.",
+ "risk": "basement flooding, lake surge flooding and old plumbing",
+ "risk_short": "basements, lake surges, old pipes",
+ "why": [
+  "About 84% of Toledo homes were built before 1980, and almost a third before 1940. The Old West End is full of large Victorian houses, and much of the city is made up of older wood homes with block or stone basements. Heavy rain and spring thaws push water through basement walls, and old floor drains and clay sewer laterals back up when the system fills.",
+  "Lake Erie adds a risk most cities do not face. Strong northeast winds can push lake water toward Toledo, raising water levels along the shore and up the Maumee. Point Place and other low areas near the lake and river can flood during these surges. Winters are cold, too, and pipes in outside walls, crawl spaces and older homes with little insulation freeze and split."
+ ],
+ "image_alt": "Unfinished rooms with new plaster walls",
+ "image_caption": "Older Toledo homes are often replastered after water gets into the walls.",
+ "problems": [
+  [
+   "Basement seepage",
+   "Older homes in the Old West End, Westgate",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ],
+  [
+   "Lake and river surge flooding",
+   "Point Place and low areas near the shore",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Sewer backups",
+   "Homes with old clay laterals",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Frozen pipe bursts",
+   "Outside walls in older homes",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Install a backwater valve if your floor drain has backed up.",
+  "Test your sump pump each spring and add a battery backup.",
+  "Insulate pipes on outside walls before winter.",
+  "Store valuables off the basement floor."
+ ],
+ "areas": "Calls come from the Old West End, Point Place, Westgate, Old Orchard, Library Village, East Toledo, Birmingham and Deveaux, plus Sylvania, Maumee and Oregon.",
+ "faq": {
+  "q": "Why does Point Place in Toledo flood without heavy rain?",
+  "a": "Strong northeast winds can push Lake Erie water toward Toledo, raising levels along the shore and in the river. Low streets and yards in Point Place can flood during these surges. Only a flood policy covers this kind of water, so check your coverage if you live near the lake."
+ },
+ "photo": "7937304"
+}

@@ -245,7 +245,7 @@
 32042965|pipe|Outdoor water tap with a single drop falling|
 34158878|pipe|Rusty outdoor faucet with a drop at the spout|
 18302377|interior|Empty room with standing water across the floor|
-13865773|flood|Flooded lakeside path with caution tape and palm trees in Sanford, Florida|FL
+13865773|flood|Flooded lakeside path with caution tape and palm trees in Florida|FL
 13865768|flood|Flooded lakeshore with palm trees and warning signs after a storm|FL
 29334435|flood|Floodwater spreading through woods past a warning sign after heavy rain|
 28447806|flood|Red flood barrier holding back water near homes|
@@ -256,3 +256,23 @@
 5691479|repair|Worker on a ladder plastering a wall in an empty room|
 5691610|repair|Worker painting a ceiling with a long roller|
 3616769|repair|Empty room under renovation with a bare light fixture|
+12936874|winter|Blue house surrounded by deep snow after a storm|
+6944210|winter|Small car parked in a snowy driveway beside a white house|
+6276128|winter|Two houses in a snowy field with pine trees|
+36225695|winter|Yellow houses with snow-covered lawns|
+32891175|winter|Brick house with footprints on a snowy path|
+35501103|winter|White house with snow on the roof and shrubs|
+38452500|winter|Homes on a snowy street lined with bare trees|
+13070799|winter|Green house with snow on the steps and yard|
+259583|winter|Snowy neighborhood with frosted trees and a house|
+14512087|winter|White two-story house with a snow-covered roof|
+35864636|winter|House lit up at dusk after a snowfall|
+29968664|winter|Red house in a snowy field at dusk|
+37521798|winter|Icicles hanging from a snow-covered roof edge|
+34995601|winter|Long icicles along a roof after heavy snow|
+35566488|winter|Icicles hanging from a metal roof|
+6610200|winter|Icicles melting down a building wall|
+31560723|flood|SUV driving through a flooded road after heavy rain|
+17667012|flood|Flooded fields along a dirt road under a clear sky|
+24705693|flood|Aerial view of cars on a flooded city street|
+36153370|rain|Cars driving on a rain-soaked highway|

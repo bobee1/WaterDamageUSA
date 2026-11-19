@@ -1,0 +1,45 @@
+{
+ "lead": "More than half of Providence homes were built before 1940, many of them triple-deckers. Old pipes, shared walls and coastal storms make water damage a common problem.",
+ "risk": "old multi-family plumbing, frozen pipes and coastal flooding",
+ "risk_short": "old pipes, frozen pipes, coastal storms",
+ "why": [
+  "Providence is full of triple-deckers and other old multi-family houses, especially in Elmwood, Olneyville and Mount Pleasant. In these buildings, one leak on the third floor can soak the two units below. About 55% of homes went up before 1940, and many still have galvanized or lead supply lines, cast-iron drains and thin walls. Pipes in back porches and outside walls freeze in cold snaps.",
+  "Storms are the other risk. The hurricanes of 1938 and 1954 flooded downtown Providence, and the city built the Fox Point Hurricane Barrier in the 1960s to hold back storm surge. The barrier protects downtown, but heavy rain still floods low streets and basements. In March 2010, record rain flooded rivers across Rhode Island, and basements filled across the region."
+ ],
+ "image_alt": "Brick house with footprints on a snowy path",
+ "image_caption": "Cold snaps freeze pipes in the back porches and outside walls of older Providence homes.",
+ "problems": [
+  [
+   "Leaks between units",
+   "Triple-deckers in Elmwood, Mount Pleasant",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling leak repair</a>"
+  ],
+  [
+   "Frozen pipe bursts",
+   "Back porches and outside walls",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Basement flooding",
+   "Low streets in Olneyville, Fox Point",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Old drain failures",
+   "Pre-1940 homes citywide",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Know where the shutoff is for each unit in your building.",
+  "Insulate pipes in back porches and outside walls.",
+  "Owners: check every unit's water heater and supply hoses yearly.",
+  "Tenants: report leaks in writing and take photos right away."
+ ],
+ "areas": "Calls come from Fox Point, College Hill, Federal Hill, Elmhurst, Mount Pleasant, Olneyville, Wayland Square and Elmwood, plus Cranston, Pawtucket and East Providence.",
+ "faq": {
+  "q": "Who pays when water from upstairs damages my Providence apartment?",
+  "a": "It depends on the cause and who owns what. The building owner's policy usually covers the structure and common pipes. A renter's policy covers your own belongings. If an upstairs tenant caused it, their liability coverage may help. Take photos and report it in writing right away."
+ },
+ "photo": "32891175"
+}

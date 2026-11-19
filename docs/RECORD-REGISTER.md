@@ -79,7 +79,11 @@ A dated log of every step. Newest entries at the bottom of each build. Status: D
 | 73 | 2026-11-19 | 7.3 | Linking: 5 suburbs attached to hubs; Honolulu linked from ceiling and burst pipe service pages; Tallahassee added to Jacksonville's nearby list; every new page has 3+ in-text inbound links | Done | |
 | 74 | 2026-11-19 | Photos | 12 Pexels photos added (257 in library); each Part 3 page has its own photo; look-alike shots from the same shoot swapped after visual review | Done | |
 | 75 | 2026-11-19 | 7.3 | Checks: audit 0 issues (209 pages); FK ≤ 8.8; uniqueness ≥ 74.4%; JSON-LD valid; no overflow at 4 widths; pages ≤ 38 KB | Done | |
-| 76 | — | 7.4 | Part 4: last 25 cities (Chesapeake → …); source flood/indoor photos first | Planned | Next |
+| 76 | 2026-11-19 | 7.4 | Part 4 pages: Chesapeake, Buffalo, Fort Wayne, Oklahoma City, Providence, Parker, Hartford, Aurora, Huntsville, Worcester, Stamford, St. Petersburg, Pensacola, Olympia, Little Rock, Kansas City KS, Jersey City, Fargo, El Paso, Chattanooga, Winston-Salem, Toledo, Stockton, Sioux Falls, Portland ME; Census ACS 2020–2024 and all 75 ZIPs checked; key events fact-checked (Portland tide, Pensacola 2014 rain, Fort Wayne 1982); El Paso freeze wording corrected | Done | 845–890 words each |
+| 77 | 2026-11-19 | 7.4 | Linking: 7 suburbs attached to hubs; every new page has 3+ in-text inbound links | Done | |
+| 78 | 2026-11-19 | Photos | 20 Pexels photos added (277 in library); each Part 4 page has its own photo; look-alikes swapped after visual review | Done | |
+| 79 | 2026-11-19 | 7.4 | Checks: audit 0 issues (234 pages); FK ≤ 8.6; uniqueness ≥ 73.1%; JSON-LD valid; no overflow at 4 widths; pages ≤ 38 KB | Done | Build 7 complete: 100 city pages |
+| 80 | — | Launch | Buy dryflare.com, connect domain, real toll-free number, email + Resend key, remove noindex, Search Console + analytics | Planned | Needs owner |
 
 ## Image register
 | File | Source | Used on |

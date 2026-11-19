@@ -1,0 +1,51 @@
+{
+ "lead": "Portland is an old port city on Casco Bay, with nearly half its homes built before 1940. Coastal storms, ice dams and frozen pipes cause most of its water damage.",
+ "risk": "coastal storm flooding, ice dams and frozen pipes",
+ "risk_short": "coastal storms, ice dams, frozen pipes",
+ "why": [
+  "On January 13, 2024, a powerful storm hit at high tide, and Portland's tide gauge reached 14.57 feet, its highest since records began in 1912. Water poured over wharves into the Old Port and spread around Back Cove. Buildings, basements and streets along the waterfront flooded. It was the second damaging storm in four days, and it showed how high tides and wind together can push the sea into the city.",
+  "Most of Portland's water damage comes from winter. About 46% of homes were built before 1940, from the brick row houses of the West End to the wood homes of Munjoy Hill. Many have thin insulation and old pipes. Heavy snow builds ice dams that send meltwater into walls and ceilings, and pipes in outside walls and back rooms freeze and split during cold snaps."
+ ],
+ "image_alt": "Icicles hanging from a snow-covered roof edge",
+ "image_caption": "Ice dams and frozen pipes are common winter problems in Portland's older homes.",
+ "problems": [
+  [
+   "Coastal storm flooding",
+   "Old Port, waterfront, around Back Cove",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Ice dam leaks",
+   "Older homes on Munjoy Hill, the West End",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling leak repair</a>"
+  ],
+  [
+   "Frozen pipe bursts",
+   "Outside walls and back rooms",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Basement seepage",
+   "Stone basements in Deering Center, Parkside",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ]
+ ],
+ "tips": [
+  "Add attic insulation and air sealing to stop ice dams.",
+  "Insulate pipes on outside walls before winter.",
+  "Watch storm tide forecasts if you live near the waterfront.",
+  "Keep heat at 55\u00b0F or higher if you leave in winter."
+ ],
+ "areas": "Calls come from the Old Port, the West End, Munjoy Hill, Back Cove, Deering Center, East Deering, Parkside and Libbytown, plus South Portland, Westbrook and Falmouth.",
+ "sources": [
+  [
+   "NWS Gray: Portland record tide",
+   "https://www.weather.gov/gyx/PortlandRecordTide"
+  ]
+ ],
+ "faq": {
+  "q": "Does my Portland home policy cover coastal flooding?",
+  "a": "No. Water from the sea or rising tides needs a flood policy. Your home policy may cover wind damage and water from burst pipes or ice dams. If you live near the waterfront or Back Cove, check the flood map and talk to an agent before storm season."
+ },
+ "photo": "37521798"
+}

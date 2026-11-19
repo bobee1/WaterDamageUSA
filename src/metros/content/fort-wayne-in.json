@@ -1,0 +1,51 @@
+{
+ "lead": "Fort Wayne grew up where three rivers meet, and floods have shaped the city. Today, basement water, frozen pipes and river flooding drive most water damage calls.",
+ "risk": "river flooding, basement water and frozen pipes",
+ "risk_short": "river floods, basements, frozen pipes",
+ "why": [
+  "The St. Marys and St. Joseph rivers join in downtown Fort Wayne to form the Maumee. In March 1982, snowmelt and rain sent all three over their banks. About 30,000 volunteers, many of them students, filled sandbags to hold back the water, and the city became known as the City that Saved Itself. Afterward, Fort Wayne turned part of the floodplain into Headwaters Park and raised its dikes.",
+  "Flooding still happens in low areas, but basements cause more calls. About 64% of Fort Wayne homes were built before 1980, and many have block or poured basements with old sump pits. Heavy spring storms overwhelm pumps, and old floor drains back up. Winters are cold, and pipes in outside walls and crawl spaces can freeze and split during deep cold snaps."
+ ],
+ "image_alt": "Exposed beams and brick in a room being rebuilt",
+ "image_caption": "After a Fort Wayne basement floods, walls and floors are dried before rebuilding.",
+ "problems": [
+  [
+   "River flooding",
+   "Low areas near the St. Marys, Nebraska neighborhood",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Sump pump failures",
+   "Basements citywide in spring storms",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ],
+  [
+   "Floor drain backups",
+   "Older homes in West Central, Lakeside",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Frozen pipe bursts",
+   "Outside walls and crawl spaces",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Test your sump pump each spring and add a battery backup.",
+  "Check the flood map if you live near any of the three rivers.",
+  "Install a backwater valve if your floor drain has backed up.",
+  "Insulate pipes on outside walls before winter."
+ ],
+ "areas": "Calls come from West Central, Lakeside, Forest Park, North Anthony, Southwood Park, Williams Woodland Park, Shoaff Park and Wildwood Park, plus New Haven, Huntertown and Aboite.",
+ "sources": [
+  [
+   "NWS Northern Indiana: The 1982 flood",
+   "https://www.weather.gov/media/iwx/events/1982_flood/Part61982flood.pdf"
+  ]
+ ],
+ "faq": {
+  "q": "Does my Fort Wayne policy cover a flooded basement?",
+  "a": "It depends on the cause. A burst pipe is usually covered. A failed sump pump or a floor drain backup needs a water backup endorsement. River or surface flooding needs flood insurance. Check which of these your policy includes before spring."
+ },
+ "photo": "4756490"
+}

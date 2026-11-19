@@ -1,0 +1,51 @@
+{
+ "lead": "Pensacola has lived through record rain and strong hurricanes. In 2014, more than two feet of rain fell in a day, and Hurricane Sally flooded the city again in 2020.",
+ "risk": "extreme rain flooding, hurricanes and humid-climate mold",
+ "risk_short": "extreme rain, hurricanes, mold",
+ "why": [
+  "On April 29 and 30, 2014, storms stalled over Pensacola and dropped more than 20 inches of rain in about a day, the heaviest on record for the area. Streets turned into rivers, part of Scenic Highway collapsed, and homes in Cordova Park and other neighborhoods flooded. Six years later, Hurricane Sally crawled ashore nearby in September 2020 and dumped another two feet of rain on the region.",
+  "Hurricanes are a regular threat here. Ivan in 2004 brought surge and wind damage across Escambia County. About 65% of Pensacola homes were built before 1980, so many roofs, drains and supply lines are old. Older homes often sit low near the bay and bayous. In the humid Gulf climate, wet drywall and carpet can grow mold within a day or two."
+ ],
+ "image_alt": "Flooded lakeside path with caution tape and palm trees in Florida",
+ "image_caption": "Record rain and hurricanes have flooded low ground across Pensacola.",
+ "problems": [
+  [
+   "Extreme rain flooding",
+   "Cordova Park, East Hill, low streets",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Hurricane wind and roof damage",
+   "Homes citywide in tropical storms",
+   "<a href=\"/services/storm-damage-restoration/\">Storm damage restoration</a>"
+  ],
+  [
+   "Mold after leaks",
+   "Humid months citywide",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ],
+  [
+   "Old drain and supply line leaks",
+   "Pre-1980 homes in North Hill, Downtown",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and drying</a>"
+  ]
+ ],
+ "tips": [
+  "Know your evacuation zone and your home's flood risk.",
+  "Buy flood insurance even if you are not in a mapped zone.",
+  "Clear gutters and yard drains before storm season.",
+  "Run AC or dehumidifiers after any leak to stop mold."
+ ],
+ "areas": "Calls come from East Hill, North Hill, Downtown, Cordova Park, Scenic Heights, Tanyard and Belmont-DeVilliers, plus Gulf Breeze, Pace and Pensacola Beach.",
+ "sources": [
+  [
+   "Escambia County: Six-month flood report (2014)",
+   "https://myescambia.com/news/news-article/2014/12/05/escambia-county-six-month-flood-report"
+  ]
+ ],
+ "faq": {
+  "q": "My Pensacola home is not in a flood zone. Do I need flood insurance?",
+  "a": "It is worth thinking about. The 2014 flood hit many homes outside mapped zones, because the rain fell faster than drains could carry it. Home policies do not cover water that comes in from outside. Flood policies outside high-risk zones often cost less, and they usually take 30 days to start."
+ },
+ "photo": "13865773"
+}

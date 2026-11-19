@@ -4447,5 +4447,892 @@
    0.0,
    27
   ]
+ },
+ "chesapeake-va": {
+  "city": "Chesapeake",
+  "st": "VA",
+  "acs": "Chesapeake|51",
+  "url": "chesapeake",
+  "county": "City of Chesapeake",
+  "zips": [
+   "23320",
+   "23321",
+   "23322",
+   "23323",
+   "23324",
+   "23325"
+  ],
+  "hoods": [
+   "Great Bridge",
+   "Greenbrier",
+   "Deep Creek",
+   "Western Branch",
+   "Hickory",
+   "South Norfolk",
+   "Indian River",
+   "Grassfield"
+  ],
+  "nearby": [
+   "virginia-beach-va",
+   "richmond-va"
+  ],
+  "wiki": "Chesapeake,_Virginia",
+  "semrush": [
+   110,
+   0.0,
+   17
+  ],
+  "metro": "virginia-beach-va"
+ },
+ "buffalo-ny": {
+  "city": "Buffalo",
+  "st": "NY",
+  "acs": "Buffalo|36",
+  "url": "buffalo",
+  "county": "Erie County",
+  "zips": [
+   "14201",
+   "14209",
+   "14213",
+   "14214",
+   "14216",
+   "14222"
+  ],
+  "hoods": [
+   "Elmwood Village",
+   "Allentown",
+   "North Buffalo",
+   "Parkside",
+   "Black Rock",
+   "Riverside",
+   "South Buffalo",
+   "Kaisertown"
+  ],
+  "nearby": [
+   "rochester-ny",
+   "syracuse-ny",
+   "cleveland-oh"
+  ],
+  "wiki": "Buffalo,_New_York",
+  "semrush": [
+   110,
+   17.79,
+   19
+  ]
+ },
+ "fort-wayne-in": {
+  "city": "Fort Wayne",
+  "st": "IN",
+  "acs": "Fort Wayne|18",
+  "url": "fort-wayne",
+  "county": "Allen County",
+  "zips": [
+   "46802",
+   "46803",
+   "46805",
+   "46807",
+   "46815",
+   "46825"
+  ],
+  "hoods": [
+   "West Central",
+   "Lakeside",
+   "Forest Park",
+   "North Anthony",
+   "Southwood Park",
+   "Williams Woodland Park",
+   "Shoaff Park",
+   "Wildwood Park"
+  ],
+  "nearby": [
+   "indianapolis-in",
+   "grand-rapids-mi",
+   "toledo-oh"
+  ],
+  "wiki": "Fort_Wayne,_Indiana",
+  "semrush": [
+   70,
+   29.71,
+   18
+  ]
+ },
+ "oklahoma-city-ok": {
+  "city": "Oklahoma City",
+  "st": "OK",
+  "acs": "Oklahoma City|40",
+  "url": "oklahoma-city",
+  "county": "Oklahoma County",
+  "zips": [
+   "73102",
+   "73103",
+   "73106",
+   "73112",
+   "73118",
+   "73120"
+  ],
+  "hoods": [
+   "Bricktown",
+   "Midtown",
+   "Mesta Park",
+   "Heritage Hills",
+   "Paseo",
+   "Crown Heights",
+   "Capitol Hill",
+   "Deep Deuce"
+  ],
+  "nearby": [
+   "tulsa-ok",
+   "wichita-ks",
+   "dallas-tx"
+  ],
+  "wiki": "Oklahoma_City",
+  "semrush": [
+   70,
+   26.24,
+   39
+  ]
+ },
+ "providence-ri": {
+  "city": "Providence",
+  "st": "RI",
+  "acs": "Providence|44",
+  "url": "providence",
+  "county": "Providence County",
+  "zips": [
+   "02903",
+   "02905",
+   "02906",
+   "02907",
+   "02908",
+   "02909"
+  ],
+  "hoods": [
+   "Fox Point",
+   "College Hill",
+   "Federal Hill",
+   "Elmhurst",
+   "Mount Pleasant",
+   "Olneyville",
+   "Wayland Square",
+   "Elmwood"
+  ],
+  "nearby": [
+   "boston-ma",
+   "worcester-ma",
+   "hartford-ct"
+  ],
+  "wiki": "Providence,_Rhode_Island",
+  "semrush": [
+   90,
+   0.0,
+   21
+  ]
+ },
+ "parker-co": {
+  "city": "Parker",
+  "st": "CO",
+  "acs": "Parker|08",
+  "url": "parker",
+  "county": "Douglas County",
+  "zips": [
+   "80134",
+   "80138"
+  ],
+  "hoods": [
+   "Stonegate",
+   "Stroh Ranch",
+   "Pradera",
+   "Idyllwilde",
+   "Clarke Farms",
+   "Canterberry Crossing",
+   "Downtown Parker"
+  ],
+  "nearby": [
+   "castle-rock-co",
+   "aurora-co",
+   "lakewood-co"
+  ],
+  "wiki": "Parker,_Colorado",
+  "semrush": [
+   90,
+   0.0,
+   20
+  ],
+  "metro": "denver-co"
+ },
+ "hartford-ct": {
+  "city": "Hartford",
+  "st": "CT",
+  "acs": "Hartford|09",
+  "url": "hartford",
+  "county": "Hartford County",
+  "zips": [
+   "06103",
+   "06105",
+   "06106",
+   "06112",
+   "06114",
+   "06120"
+  ],
+  "hoods": [
+   "West End",
+   "Asylum Hill",
+   "Frog Hollow",
+   "South End",
+   "Blue Hills",
+   "Parkville",
+   "Clay Arsenal",
+   "Barry Square"
+  ],
+  "nearby": [
+   "worcester-ma",
+   "providence-ri",
+   "stamford-ct",
+   "boston-ma"
+  ],
+  "wiki": "Hartford,_Connecticut",
+  "semrush": [
+   90,
+   0.0,
+   8
+  ]
+ },
+ "aurora-co": {
+  "city": "Aurora",
+  "st": "CO",
+  "acs": "Aurora|08",
+  "url": "aurora",
+  "county": "Arapahoe County",
+  "zips": [
+   "80010",
+   "80011",
+   "80012",
+   "80013",
+   "80014",
+   "80016"
+  ],
+  "hoods": [
+   "Original Aurora",
+   "Saddle Rock",
+   "Southlands",
+   "Tallyn's Reach",
+   "Hoffman Heights",
+   "Village East",
+   "Murphy Creek",
+   "Mission Viejo"
+  ],
+  "nearby": [
+   "parker-co",
+   "lakewood-co",
+   "colorado-springs-co"
+  ],
+  "wiki": "Aurora,_Colorado",
+  "semrush": [
+   90,
+   0.0,
+   19
+  ],
+  "metro": "denver-co"
+ },
+ "huntsville-al": {
+  "city": "Huntsville",
+  "st": "AL",
+  "acs": "Huntsville|01",
+  "url": "huntsville",
+  "county": "Madison County",
+  "zips": [
+   "35801",
+   "35802",
+   "35803",
+   "35805",
+   "35806",
+   "35811"
+  ],
+  "hoods": [
+   "Five Points",
+   "Twickenham",
+   "Old Town",
+   "Blossomwood",
+   "Jones Valley",
+   "Hampton Cove",
+   "Monte Sano",
+   "Edgewater"
+  ],
+  "nearby": [
+   "birmingham-al",
+   "chattanooga-tn",
+   "nashville-tn"
+  ],
+  "wiki": "Huntsville,_Alabama",
+  "semrush": [
+   50,
+   30.99,
+   28
+  ]
+ },
+ "worcester-ma": {
+  "city": "Worcester",
+  "st": "MA",
+  "acs": "Worcester|25",
+  "url": "worcester",
+  "county": "Worcester County",
+  "zips": [
+   "01602",
+   "01603",
+   "01604",
+   "01605",
+   "01606",
+   "01610"
+  ],
+  "hoods": [
+   "Main South",
+   "Shrewsbury Street",
+   "Tatnuck",
+   "Burncoat",
+   "Grafton Hill",
+   "Vernon Hill",
+   "Indian Lake",
+   "Green Island"
+  ],
+  "nearby": [
+   "boston-ma",
+   "providence-ri",
+   "hartford-ct"
+  ],
+  "wiki": "Worcester,_Massachusetts",
+  "semrush": [
+   70,
+   0.0,
+   18
+  ]
+ },
+ "stamford-ct": {
+  "city": "Stamford",
+  "st": "CT",
+  "acs": "Stamford|09",
+  "url": "stamford",
+  "county": "Fairfield County",
+  "zips": [
+   "06901",
+   "06902",
+   "06903",
+   "06905",
+   "06906",
+   "06907"
+  ],
+  "hoods": [
+   "Downtown",
+   "Shippan",
+   "Glenbrook",
+   "Springdale",
+   "Cove",
+   "North Stamford",
+   "Turn of River",
+   "Harbor Point"
+  ],
+  "nearby": [
+   "hartford-ct",
+   "jersey-city-nj"
+  ],
+  "wiki": "Stamford,_Connecticut",
+  "semrush": [
+   70,
+   0.0,
+   12
+  ],
+  "metro": "new-york-ny"
+ },
+ "st-petersburg-fl": {
+  "city": "St. Petersburg",
+  "st": "FL",
+  "acs": "St. Petersburg|12",
+  "url": "st-petersburg",
+  "county": "Pinellas County",
+  "zips": [
+   "33701",
+   "33702",
+   "33703",
+   "33704",
+   "33705",
+   "33713"
+  ],
+  "hoods": [
+   "Old Northeast",
+   "Snell Isle",
+   "Shore Acres",
+   "Kenwood",
+   "Crescent Lake",
+   "Historic Roser Park",
+   "Placido Bayou",
+   "Coquina Key"
+  ],
+  "nearby": [
+   "clearwater-fl",
+   "sarasota-fl",
+   "lakeland-fl"
+  ],
+  "wiki": "St._Petersburg,_Florida",
+  "semrush": [
+   70,
+   0.0,
+   15
+  ],
+  "metro": "tampa-fl"
+ },
+ "pensacola-fl": {
+  "city": "Pensacola",
+  "st": "FL",
+  "acs": "Pensacola|12",
+  "url": "pensacola",
+  "county": "Escambia County",
+  "zips": [
+   "32501",
+   "32502",
+   "32503",
+   "32504",
+   "32505"
+  ],
+  "hoods": [
+   "East Hill",
+   "North Hill",
+   "Downtown",
+   "Cordova Park",
+   "Scenic Heights",
+   "Tanyard",
+   "Belmont-DeVilliers"
+  ],
+  "nearby": [
+   "tallahassee-fl",
+   "new-orleans-la"
+  ],
+  "wiki": "Pensacola,_Florida",
+  "semrush": [
+   70,
+   0.0,
+   11
+  ]
+ },
+ "olympia-wa": {
+  "city": "Olympia",
+  "st": "WA",
+  "acs": "Olympia|53",
+  "url": "olympia",
+  "county": "Thurston County",
+  "zips": [
+   "98501",
+   "98502",
+   "98506"
+  ],
+  "hoods": [
+   "Downtown",
+   "Eastside",
+   "Westside",
+   "South Capitol",
+   "Bigelow",
+   "Wildwood",
+   "Northeast"
+  ],
+  "nearby": [
+   "tacoma-wa",
+   "seattle-wa",
+   "vancouver-wa"
+  ],
+  "wiki": "Olympia,_Washington",
+  "semrush": [
+   70,
+   0.0,
+   16
+  ]
+ },
+ "little-rock-ar": {
+  "city": "Little Rock",
+  "st": "AR",
+  "acs": "Little Rock|05",
+  "url": "little-rock",
+  "county": "Pulaski County",
+  "zips": [
+   "72201",
+   "72202",
+   "72204",
+   "72205",
+   "72207",
+   "72212"
+  ],
+  "hoods": [
+   "Hillcrest",
+   "The Heights",
+   "Quapaw Quarter",
+   "SoMa",
+   "Pleasant Valley",
+   "Chenal Valley",
+   "Capitol View",
+   "Riverdale"
+  ],
+  "nearby": [
+   "memphis-tn",
+   "tulsa-ok",
+   "dallas-tx"
+  ],
+  "wiki": "Little_Rock,_Arkansas",
+  "semrush": [
+   70,
+   0.0,
+   23
+  ]
+ },
+ "kansas-city-ks": {
+  "city": "Kansas City",
+  "st": "KS",
+  "acs": "Kansas City|20",
+  "url": "kansas-city",
+  "county": "Wyandotte County",
+  "zips": [
+   "66101",
+   "66102",
+   "66104",
+   "66106",
+   "66109",
+   "66112"
+  ],
+  "hoods": [
+   "Strawberry Hill",
+   "Rosedale",
+   "Argentine",
+   "Armourdale",
+   "Quindaro",
+   "Piper",
+   "Fairfax",
+   "Welborn"
+  ],
+  "nearby": [
+   "overland-park-ks",
+   "wichita-ks"
+  ],
+  "wiki": "Kansas_City,_Kansas",
+  "semrush": [
+   70,
+   0.0,
+   33
+  ],
+  "metro": "kansas-city-mo"
+ },
+ "jersey-city-nj": {
+  "city": "Jersey City",
+  "st": "NJ",
+  "acs": "Jersey City|34",
+  "url": "jersey-city",
+  "county": "Hudson County",
+  "zips": [
+   "07302",
+   "07304",
+   "07305",
+   "07306",
+   "07307",
+   "07310"
+  ],
+  "hoods": [
+   "Downtown",
+   "Paulus Hook",
+   "Journal Square",
+   "The Heights",
+   "Greenville",
+   "Bergen-Lafayette",
+   "Newport",
+   "West Side"
+  ],
+  "nearby": [
+   "stamford-ct",
+   "philadelphia-pa"
+  ],
+  "wiki": "Jersey_City,_New_Jersey",
+  "semrush": [
+   70,
+   0.0,
+   12
+  ],
+  "metro": "new-york-ny"
+ },
+ "fargo-nd": {
+  "city": "Fargo",
+  "st": "ND",
+  "acs": "Fargo|38",
+  "url": "fargo",
+  "county": "Cass County",
+  "zips": [
+   "58102",
+   "58103",
+   "58104"
+  ],
+  "hoods": [
+   "Downtown",
+   "Hawthorne",
+   "Roosevelt",
+   "Horace Mann",
+   "Clara Barton",
+   "Osgood",
+   "Rose Creek",
+   "Jefferson"
+  ],
+  "nearby": [
+   "minneapolis-mn",
+   "sioux-falls-sd",
+   "omaha-ne"
+  ],
+  "wiki": "Fargo,_North_Dakota",
+  "semrush": [
+   70,
+   0.0,
+   22
+  ]
+ },
+ "el-paso-tx": {
+  "city": "El Paso",
+  "st": "TX",
+  "acs": "El Paso|48",
+  "url": "el-paso",
+  "county": "El Paso County",
+  "zips": [
+   "79901",
+   "79902",
+   "79912",
+   "79924",
+   "79925",
+   "79936"
+  ],
+  "hoods": [
+   "Kern Place",
+   "Sunset Heights",
+   "Manhattan Heights",
+   "Five Points",
+   "Upper Valley",
+   "Northeast",
+   "Lower Valley",
+   "Eastridge"
+  ],
+  "nearby": [
+   "albuquerque-nm",
+   "tucson-az",
+   "san-antonio-tx"
+  ],
+  "wiki": "El_Paso,_Texas",
+  "semrush": [
+   70,
+   0.0,
+   16
+  ]
+ },
+ "chattanooga-tn": {
+  "city": "Chattanooga",
+  "st": "TN",
+  "acs": "Chattanooga|47",
+  "url": "chattanooga",
+  "county": "Hamilton County",
+  "zips": [
+   "37402",
+   "37403",
+   "37404",
+   "37405",
+   "37411",
+   "37421"
+  ],
+  "hoods": [
+   "North Shore",
+   "Southside",
+   "St. Elmo",
+   "Highland Park",
+   "Riverview",
+   "Brainerd",
+   "Hixson",
+   "Lookout Valley"
+  ],
+  "nearby": [
+   "knoxville-tn",
+   "nashville-tn",
+   "atlanta-ga",
+   "huntsville-al"
+  ],
+  "wiki": "Chattanooga,_Tennessee",
+  "semrush": [
+   70,
+   0.0,
+   13
+  ]
+ },
+ "winston-salem-nc": {
+  "city": "Winston-Salem",
+  "st": "NC",
+  "acs": "Winston-Salem|37",
+  "url": "winston-salem",
+  "county": "Forsyth County",
+  "zips": [
+   "27101",
+   "27103",
+   "27104",
+   "27105",
+   "27106",
+   "27127"
+  ],
+  "hoods": [
+   "West End",
+   "Ardmore",
+   "Buena Vista",
+   "Old Salem",
+   "Washington Park",
+   "Sherwood Forest",
+   "Holly Avenue",
+   "Waughtown"
+  ],
+  "nearby": [
+   "greensboro-nc",
+   "durham-nc",
+   "charlotte-nc"
+  ],
+  "wiki": "Winston-Salem,_North_Carolina",
+  "semrush": [
+   50,
+   0.0,
+   20
+  ]
+ },
+ "toledo-oh": {
+  "city": "Toledo",
+  "st": "OH",
+  "acs": "Toledo|39",
+  "url": "toledo",
+  "county": "Lucas County",
+  "zips": [
+   "43604",
+   "43606",
+   "43607",
+   "43609",
+   "43610",
+   "43613"
+  ],
+  "hoods": [
+   "Old West End",
+   "Point Place",
+   "Westgate",
+   "Old Orchard",
+   "Library Village",
+   "East Toledo",
+   "Birmingham",
+   "Deveaux"
+  ],
+  "nearby": [
+   "detroit-mi",
+   "ann-arbor-mi",
+   "cleveland-oh"
+  ],
+  "wiki": "Toledo,_Ohio",
+  "semrush": [
+   50,
+   0.0,
+   38
+  ]
+ },
+ "stockton-ca": {
+  "city": "Stockton",
+  "st": "CA",
+  "acs": "Stockton|06",
+  "url": "stockton",
+  "county": "San Joaquin County",
+  "zips": [
+   "95202",
+   "95203",
+   "95204",
+   "95207",
+   "95209",
+   "95210"
+  ],
+  "hoods": [
+   "Miracle Mile",
+   "Downtown",
+   "Brookside",
+   "Lincoln Village",
+   "Weston Ranch",
+   "Spanos Park",
+   "Country Club",
+   "Seaport"
+  ],
+  "nearby": [
+   "sacramento-ca",
+   "oakland-ca",
+   "fresno-ca",
+   "san-jose-ca"
+  ],
+  "wiki": "Stockton,_California",
+  "semrush": [
+   50,
+   0.0,
+   9
+  ]
+ },
+ "sioux-falls-sd": {
+  "city": "Sioux Falls",
+  "st": "SD",
+  "acs": "Sioux Falls|46",
+  "url": "sioux-falls",
+  "county": "Minnehaha County",
+  "zips": [
+   "57103",
+   "57104",
+   "57105",
+   "57106",
+   "57108",
+   "57110"
+  ],
+  "hoods": [
+   "Downtown",
+   "Cathedral",
+   "McKennan Park",
+   "Pettigrew Heights",
+   "Whittier",
+   "All Saints",
+   "Sertoma"
+  ],
+  "nearby": [
+   "rapid-city-sd",
+   "fargo-nd",
+   "omaha-ne",
+   "minneapolis-mn"
+  ],
+  "wiki": "Sioux_Falls,_South_Dakota",
+  "semrush": [
+   50,
+   0.0,
+   16
+  ]
+ },
+ "portland-me": {
+  "city": "Portland",
+  "st": "ME",
+  "acs": "Portland|23",
+  "url": "portland",
+  "county": "Cumberland County",
+  "zips": [
+   "04101",
+   "04102",
+   "04103"
+  ],
+  "hoods": [
+   "Old Port",
+   "West End",
+   "Munjoy Hill",
+   "Back Cove",
+   "Deering Center",
+   "East Deering",
+   "Parkside",
+   "Libbytown"
+  ],
+  "nearby": [
+   "boston-ma",
+   "worcester-ma"
+  ],
+  "wiki": "Portland,_Maine",
+  "semrush": [
+   50,
+   0.0,
+   22
+  ]
  }
 }

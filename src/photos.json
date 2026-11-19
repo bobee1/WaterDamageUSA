@@ -2218,7 +2218,7 @@
   "w": 800,
   "h": 533,
   "theme": "flood",
-  "alt": "Flooded lakeside path with caution tape and palm trees in Sanford, Florida",
+  "alt": "Flooded lakeside path with caution tape and palm trees in Florida",
   "tag": "FL",
   "kb": 77
  },
@@ -2311,5 +2311,185 @@
   "alt": "Empty room under renovation with a bare light fixture",
   "tag": "",
   "kb": 6
+ },
+ "12936874": {
+  "file": "/img/p/blue-house-surrounded-by-deep-snow-after-a-storm-12936874.webp",
+  "w": 800,
+  "h": 490,
+  "theme": "winter",
+  "alt": "Blue house surrounded by deep snow after a storm",
+  "tag": "",
+  "kb": 32
+ },
+ "6944210": {
+  "file": "/img/p/small-car-parked-in-a-snowy-driveway-beside-a-white-hou-6944210.webp",
+  "w": 800,
+  "h": 533,
+  "theme": "winter",
+  "alt": "Small car parked in a snowy driveway beside a white house",
+  "tag": "",
+  "kb": 49
+ },
+ "6276128": {
+  "file": "/img/p/two-houses-in-a-snowy-field-with-pine-trees-6276128.webp",
+  "w": 800,
+  "h": 533,
+  "theme": "winter",
+  "alt": "Two houses in a snowy field with pine trees",
+  "tag": "",
+  "kb": 33
+ },
+ "36225695": {
+  "file": "/img/p/yellow-houses-with-snow-covered-lawns-36225695.webp",
+  "w": 800,
+  "h": 533,
+  "theme": "winter",
+  "alt": "Yellow houses with snow-covered lawns",
+  "tag": "",
+  "kb": 42
+ },
+ "32891175": {
+  "file": "/img/p/brick-house-with-footprints-on-a-snowy-path-32891175.webp",
+  "w": 733,
+  "h": 1100,
+  "theme": "winter",
+  "alt": "Brick house with footprints on a snowy path",
+  "tag": "",
+  "kb": 106
+ },
+ "35501103": {
+  "file": "/img/p/white-house-with-snow-on-the-roof-and-shrubs-35501103.webp",
+  "w": 776,
+  "h": 1100,
+  "theme": "winter",
+  "alt": "White house with snow on the roof and shrubs",
+  "tag": "",
+  "kb": 52
+ },
+ "38452500": {
+  "file": "/img/p/homes-on-a-snowy-street-lined-with-bare-trees-38452500.webp",
+  "w": 800,
+  "h": 450,
+  "theme": "winter",
+  "alt": "Homes on a snowy street lined with bare trees",
+  "tag": "",
+  "kb": 100
+ },
+ "13070799": {
+  "file": "/img/p/green-house-with-snow-on-the-steps-and-yard-13070799.webp",
+  "w": 786,
+  "h": 1100,
+  "theme": "winter",
+  "alt": "Green house with snow on the steps and yard",
+  "tag": "",
+  "kb": 55
+ },
+ "259583": {
+  "file": "/img/p/snowy-neighborhood-with-frosted-trees-and-a-house-259583.webp",
+  "w": 800,
+  "h": 533,
+  "theme": "winter",
+  "alt": "Snowy neighborhood with frosted trees and a house",
+  "tag": "",
+  "kb": 55
+ },
+ "14512087": {
+  "file": "/img/p/white-two-story-house-with-a-snow-covered-roof-14512087.webp",
+  "w": 800,
+  "h": 533,
+  "theme": "winter",
+  "alt": "White two-story house with a snow-covered roof",
+  "tag": "",
+  "kb": 68
+ },
+ "35864636": {
+  "file": "/img/p/house-lit-up-at-dusk-after-a-snowfall-35864636.webp",
+  "w": 800,
+  "h": 533,
+  "theme": "winter",
+  "alt": "House lit up at dusk after a snowfall",
+  "tag": "",
+  "kb": 21
+ },
+ "29968664": {
+  "file": "/img/p/red-house-in-a-snowy-field-at-dusk-29968664.webp",
+  "w": 800,
+  "h": 533,
+  "theme": "winter",
+  "alt": "Red house in a snowy field at dusk",
+  "tag": "",
+  "kb": 25
+ },
+ "37521798": {
+  "file": "/img/p/icicles-hanging-from-a-snow-covered-roof-edge-37521798.webp",
+  "w": 800,
+  "h": 533,
+  "theme": "winter",
+  "alt": "Icicles hanging from a snow-covered roof edge",
+  "tag": "",
+  "kb": 12
+ },
+ "34995601": {
+  "file": "/img/p/long-icicles-along-a-roof-after-heavy-snow-34995601.webp",
+  "w": 800,
+  "h": 533,
+  "theme": "winter",
+  "alt": "Long icicles along a roof after heavy snow",
+  "tag": "",
+  "kb": 32
+ },
+ "35566488": {
+  "file": "/img/p/icicles-hanging-from-a-metal-roof-35566488.webp",
+  "w": 800,
+  "h": 1067,
+  "theme": "winter",
+  "alt": "Icicles hanging from a metal roof",
+  "tag": "",
+  "kb": 31
+ },
+ "6610200": {
+  "file": "/img/p/icicles-melting-down-a-building-wall-6610200.webp",
+  "w": 800,
+  "h": 533,
+  "theme": "winter",
+  "alt": "Icicles melting down a building wall",
+  "tag": "",
+  "kb": 22
+ },
+ "31560723": {
+  "file": "/img/p/suv-driving-through-a-flooded-road-after-heavy-rain-31560723.webp",
+  "w": 800,
+  "h": 533,
+  "theme": "flood",
+  "alt": "SUV driving through a flooded road after heavy rain",
+  "tag": "",
+  "kb": 38
+ },
+ "17667012": {
+  "file": "/img/p/flooded-fields-along-a-dirt-road-under-a-clear-sky-17667012.webp",
+  "w": 800,
+  "h": 533,
+  "theme": "flood",
+  "alt": "Flooded fields along a dirt road under a clear sky",
+  "tag": "",
+  "kb": 61
+ },
+ "24705693": {
+  "file": "/img/p/aerial-view-of-cars-on-a-flooded-city-street-24705693.webp",
+  "w": 800,
+  "h": 450,
+  "theme": "flood",
+  "alt": "Aerial view of cars on a flooded city street",
+  "tag": "",
+  "kb": 27
+ },
+ "36153370": {
+  "file": "/img/p/cars-driving-on-a-rain-soaked-highway-36153370.webp",
+  "w": 800,
+  "h": 499,
+  "theme": "rain",
+  "alt": "Cars driving on a rain-soaked highway",
+  "tag": "",
+  "kb": 71
  }
 }

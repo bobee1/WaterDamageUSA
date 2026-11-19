@@ -1,0 +1,45 @@
+{
+ "lead": "Stockton sits in the Sacramento-San Joaquin Delta, protected by levees and laced with waterways. Storm flooding, high groundwater and aging homes drive most of its water damage.",
+ "risk": "levee-area flooding, winter storms and aging plumbing",
+ "risk_short": "levee flooding, winter storms, old pipes",
+ "why": [
+  "Stockton is one of the few big California cities built on a delta. Much of it sits at or near sea level, protected by levees along the San Joaquin River, Calaveras River and the city's sloughs. Groundwater sits close to the surface, so heavy winter rain has little room to soak in. In the atmospheric river storms of early 2023, water rose in creeks and low streets across San Joaquin County.",
+  "About half of Stockton homes were built before 1980, and many older homes have aging slabs, galvanized pipes and cast-iron drains. Water heaters in garages fail under hard use, and slab leaks can run unseen for weeks. Summers are long and hot, so AC drain lines clog and overflow too. Homes near sloughs and waterways deal with damp soil and moisture under floors."
+ ],
+ "image_alt": "Plumber tightening a pipe fitting with a wrench",
+ "image_caption": "Many older Stockton homes need new supply lines and fittings after decades of use.",
+ "problems": [
+  [
+   "Storm and creek flooding",
+   "Low areas near sloughs and the Calaveras River",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Slab and supply line leaks",
+   "Pre-1980 homes in Brookside, Lincoln Village",
+   "<a href=\"/services/water-extraction/\">Water removal and floor drying</a>"
+  ],
+  [
+   "Water heater failures",
+   "Garages citywide",
+   "<a href=\"/services/burst-pipe-water-damage/\">Water heater leak cleanup</a>"
+  ],
+  [
+   "AC drain overflows",
+   "Homes with attic air handlers",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling leak repair</a>"
+  ]
+ ],
+ "tips": [
+  "Know if your home sits behind a levee and check its flood risk.",
+  "Buy flood insurance early; it usually takes 30 days to start.",
+  "Flush the AC drain line each spring.",
+  "Replace a water heater that is 10 to 12 years old."
+ ],
+ "areas": "Calls come from Miracle Mile, Downtown, Brookside, Lincoln Village, Weston Ranch, Spanos Park, Country Club and Seaport, plus Lodi, Manteca and Lathrop.",
+ "faq": {
+  "q": "Do I need flood insurance if my Stockton home is behind a levee?",
+  "a": "It is worth a close look. Levees lower the risk but do not remove it, and some areas behind them are mapped as flood zones. Heavy rain can also flood streets and homes when drains back up. Home policies do not cover flooding, so a separate flood policy fills that gap."
+ },
+ "photo": "32588548"
+}

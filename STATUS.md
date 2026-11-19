@@ -16,7 +16,15 @@ Last updated: 2026-11-19
 - Plan approved: one national brand, state → metro → city structure, all 50 states + DC, one toll-free number, Cloudflare free plan.
 - Owner decisions: brand DryFlare; own-business call routing; 24/7; 10+ years in business; legal owner Anjam Javed; toll-free 1-800-555-0199; email added after the domain is bought.
 
-## Current — Build 7 Part 3: 25 city pages (done)
+## Current — Build 7 Part 4: 25 city pages (done) — Build 7 complete
+- Live: Chesapeake, Buffalo, Fort Wayne, Oklahoma City, Providence, Parker CO, Hartford, Aurora CO, Huntsville, Worcester, Stamford, St. Petersburg, Pensacola, Olympia, Little Rock, Kansas City KS, Jersey City, Fargo, El Paso, Chattanooga, Winston-Salem, Toledo, Stockton, Sioux Falls, Portland ME. ("Palm Beach" skipped as ambiguous, as in 7.1.)
+- Local angles with checked events, for example: Fort Wayne's 1982 flood fight, Buffalo's December 2022 blizzard, Portland ME's record 14.57 ft tide (Jan 2024), Pensacola's April 2014 rain, Fargo's 2009 Red River crest, Stamford's hurricane barrier, Helene and Milton in St. Petersburg, the 1951 Kansas River flood in KCK, and Little Rock's 2023 tornado. El Paso's 2011 freeze wording was corrected after checking.
+- Linking: Parker and Aurora → Denver, Stamford and Jersey City → New York, St. Petersburg → Tampa, Kansas City KS → Kansas City MO, Chesapeake → Virginia Beach. Every new page has 3+ in-text inbound links.
+- Photos: 20 new Pexels photos (winter, ice dams, flood, rain); every page has its own photo; look-alike roofer shots and one foreign-looking aerial swapped after visual review.
+- Checks: audit 0 issues (234 pages); FK ≤ 8.6; uniqueness ≥ 73.1% (avg 76.8%); 845–890 words; JSON-LD valid; no overflow at 4 widths; pages ≤ 38 KB.
+- Build 7 totals: 100 new city pages (150 metro/city pages overall); 277 photos in the library, none repeated.
+
+## Previous — Build 7 Part 3: 25 city pages (done)
 - Live: Durham, Augusta, Rochester NY, Birmingham, Riverside, Spokane, Savannah, Rapid City, Lakewood CO, Bakersfield, Allentown, Harrisburg, Wilmington NC, Tallahassee, Syracuse, Santa Ana, Salem OR, Port St. Lucie, Overland Park, Oakland, Melbourne FL, Honolulu, Henderson NV, Flagstaff, Detroit. ("Mobile AL" skipped: its keyword mostly means mobile services.)
 - Each page has its own local angle and checked events, for example: Helene in Augusta (2024), Village Creek buyouts in Birmingham, the 1972 Rapid City flood, Agnes and Lee in Harrisburg, Florence in Wilmington, the Museum Fire floods in Flagstaff (2021), Detroit's June 2021 basement floods, Oakland's sewer lateral rules and Honolulu condo leaks. A fact check fixed one claim: Debby's rain in Savannah (about 10 inches, not over a foot).
 - Linking: Lakewood → Denver, Santa Ana → Los Angeles, Overland Park → Kansas City, Oakland → San Francisco, Henderson → Las Vegas. Honolulu gets links from the ceiling and burst pipe service pages; Tallahassee from Jacksonville.
@@ -66,7 +74,6 @@ Last updated: 2026-11-19
 ## Coming
 | Build | Scope | Needs from owner |
 | --- | --- | --- |
-| 7 | Part 4: last 25 city pages, starting with Chesapeake, Buffalo, Fort Wayne, Oklahoma City (more flood and indoor photos to source first) | — |
 | Launch | Buy domain, Cloudflare Pages project, env vars, real toll-free number, email, Search Console + analytics | Domain, number, email, Resend key |
 
 ## Deployment

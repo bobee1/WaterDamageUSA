@@ -1,0 +1,45 @@
+{
+ "lead": "Buffalo has one of the oldest housing stocks in America and some of its worst winters. Frozen pipes, ice dams and old basements make water damage a fact of life here.",
+ "risk": "frozen pipes, ice dams and old basements",
+ "risk_short": "frozen pipes, ice dams, old basements",
+ "why": [
+  "About 61% of Buffalo homes were built before 1940, one of the highest shares of any big U.S. city. Many are wood-frame doubles with stone basements, old supply lines and thin insulation. In December 2022, a blizzard paralyzed the city for days over Christmas. Power went out, homes went cold and pipes froze and burst across Buffalo. Many leaks were not found until people could get back home.",
+  "Lake-effect snow off Lake Erie can bury neighborhoods in feet of snow at once. Heavy snow on old roofs builds ice dams, and meltwater backs up into walls and ceilings. Spring thaws and heavy rain send water into old fieldstone basements. Buffalo's sewer system is also old, and many homes have clay laterals that crack and back up during storms."
+ ],
+ "image_alt": "Blue house surrounded by deep snow after a storm",
+ "image_caption": "Buffalo's long, hard winters freeze pipes in old homes every year.",
+ "problems": [
+  [
+   "Frozen pipe bursts",
+   "Doubles and older homes citywide",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Ice dam leaks",
+   "Older roofs in Elmwood Village, Parkside",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling leak repair</a>"
+  ],
+  [
+   "Basement seepage",
+   "Stone basements in South Buffalo, Kaisertown",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ],
+  [
+   "Sewer backups",
+   "Homes with old clay laterals",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate pipes on outside walls and in unheated spaces.",
+  "Let faucets drip on the coldest nights.",
+  "Add attic insulation and air sealing to stop ice dams.",
+  "Know where your main shutoff is before winter starts."
+ ],
+ "areas": "Calls come from Elmwood Village, Allentown, North Buffalo, Parkside, Black Rock, Riverside, South Buffalo and Kaisertown, plus Cheektowaga, Tonawanda and Amherst.",
+ "faq": {
+  "q": "What should I do if my Buffalo pipes freeze during a storm?",
+  "a": "Shut off the main water valve first, then open the faucet on the frozen line. Warm the pipe slowly with a hair dryer or space heater, never an open flame. Watch for leaks as it thaws. If water has already spread, DryFlare can extract it and dry the walls and floor."
+ },
+ "photo": "12936874"
+}

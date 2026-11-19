@@ -1,0 +1,45 @@
+{
+ "lead": "Hartford is a city of renters and old multi-family homes, built along the Connecticut River. Old sewers, aging pipes and storm runoff drive most of its water damage.",
+ "risk": "sewer backups, old plumbing and storm runoff",
+ "risk_short": "sewer backups, old pipes, storm runoff",
+ "why": [
+  "Only about one in four Hartford homes is owner-occupied, one of the lowest rates in the country. Most people live in apartments, triple-deckers and old brick buildings. About 40% of homes were built before 1940, with cast-iron drains, old supply lines and steam heat. When a pipe fails in a multi-unit building, water can reach several units before anyone finds the source.",
+  "Hartford has a long history with water. After floods in 1936 and 1938, the city built dikes along the Connecticut River and buried the Park River in a concrete conduit under the city. Many older neighborhoods still have combined sewers that carry rain and sewage together. In a heavy storm, those pipes fill and back up into basements through floor drains."
+ ],
+ "image_alt": "Black-and-white photo of workers plastering walls",
+ "image_caption": "Older Hartford buildings often need walls opened and replastered after a backup.",
+ "problems": [
+  [
+   "Sewer backups",
+   "Older homes in Frog Hollow, Parkville",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Leaks in multi-unit buildings",
+   "Triple-deckers and apartments citywide",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling leak repair</a>"
+  ],
+  [
+   "Old pipe and heating leaks",
+   "Pre-1940 homes in Asylum Hill, West End",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and drying</a>"
+  ],
+  [
+   "Frozen pipe bursts",
+   "Vacant or underheated units",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Install a backwater valve on the basement floor drain.",
+  "Add sewer backup coverage to your policy; it is usually extra.",
+  "Landlords: check radiators and steam pipes before each winter.",
+  "Tenants: report leaks in writing and take photos right away."
+ ],
+ "areas": "Calls come from the West End, Asylum Hill, Frog Hollow, the South End, Blue Hills, Parkville, Clay Arsenal and Barry Square, plus West Hartford, East Hartford and Wethersfield.",
+ "faq": {
+  "q": "Why does sewage come up into my Hartford basement in storms?",
+  "a": "Many Hartford neighborhoods have combined sewers. In heavy rain, they fill up, and water backs up through the lowest drain in a building. A backwater valve can stop most of it. Sewage cleanup needs disinfection, so call a pro rather than mopping it up."
+ },
+ "photo": "23358344"
+}

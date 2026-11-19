@@ -1,0 +1,45 @@
+{
+ "lead": "Jersey City is a dense, waterfront city of renters, brownstones and high-rises. Storm surge, flash floods and leaks between units cause most of its water damage.",
+ "risk": "storm surge, flash flooding and leaks in multi-unit buildings",
+ "risk_short": "storm surge, flash floods, unit leaks",
+ "why": [
+  "In October 2012, Hurricane Sandy pushed the Hudson River into downtown Jersey City. Water filled streets, basements, garages and PATH stations along the waterfront. Nine years later, in September 2021, the remnants of Ida dropped several inches of rain in a few hours. Streets flooded across Hudson County, and water poured into basement apartments and garages. Much of the city is low, and older sewers back up in heavy rain.",
+  "More than seven in ten Jersey City homes are rented, and most people live in apartments, brownstones or towers. In those buildings, one failed pipe or overflowing tub can soak the units below. About 29% of homes were built before 1940, especially in Downtown, the Heights and Bergen-Lafayette, with old cast-iron drains and supply lines. Newer towers face leaks from sprinkler lines and failed fittings."
+ ],
+ "image_alt": "Cars driving on a rain-soaked highway",
+ "image_caption": "Heavy rain overwhelms Jersey City's older sewers and floods low streets.",
+ "problems": [
+  [
+   "Storm surge flooding",
+   "Downtown, Paulus Hook, Newport",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Flash flooding and sewer backups",
+   "Low streets and basement units citywide",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Leaks between units",
+   "Brownstones and high-rises",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling leak repair</a>"
+  ],
+  [
+   "Old pipe failures",
+   "Pre-1940 homes in the Heights, Bergen-Lafayette",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and drying</a>"
+  ]
+ ],
+ "tips": [
+  "Know your flood zone; much of downtown is mapped.",
+  "Keep valuables off the floor in basement units.",
+  "Renters: get renter's insurance and report leaks in writing.",
+  "Know where your unit's water shutoff is."
+ ],
+ "areas": "Calls come from Downtown, Paulus Hook, Journal Square, the Heights, Greenville, Bergen-Lafayette, Newport and the West Side, plus Hoboken, Bayonne and Union City.",
+ "faq": {
+  "q": "Who pays for flood damage in a Jersey City apartment?",
+  "a": "The building owner's flood or property policy covers the structure. Your renter's policy covers your belongings from leaks, but usually not from flooding that comes in from outside. For that, you need contents coverage under a flood policy. Document everything with photos."
+ },
+ "photo": "36153370"
+}
