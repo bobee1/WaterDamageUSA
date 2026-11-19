@@ -1,0 +1,46 @@
+{
+ "lead": "Ohio homes take water from basement floods, frozen pipes and strong storms. DryBeacon helps owners from Columbus to Cleveland and Cincinnati get water out and get dry.",
+ "risk": "basement flooding, severe storms and tornadoes, and frozen pipes",
+ "risk_short": "basement floods, storms, frozen pipes",
+ "why": [
+  "Most Ohio homes have basements, and over 60% were built before 1980. Old foundations crack, sump pumps fail and floor drains back up in heavy rain. Severe storms are Ohio's most common disaster, with 17 FEMA declarations since 2000. Tornadoes hit Logan County and other areas in 2024.",
+  "The Ohio River floods Cincinnati and river towns in wet years. Lake-effect snow in Cleveland's east side leads to ice dams. Cold snaps freeze pipes in older homes across the state. <a href=\"/locations/pennsylvania/\">Pennsylvania</a>, <a href=\"/locations/michigan/\">Michigan</a> and <a href=\"/locations/indiana/\">Indiana</a> share many of these problems."
+ ],
+ "image": "floodroom",
+ "image_alt": "Standing water across a basement floor",
+ "image_caption": "Older Ohio homes with basements are prone to seepage and backups during heavy rain.",
+ "problems": [
+  [
+   "Basement flooding",
+   "Older homes statewide",
+   "<a href=\"/services/water-extraction/\">Basement water extraction</a>"
+  ],
+  [
+   "Sewer backups",
+   "Cleveland, Cincinnati and older suburbs",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Outside walls and crawl spaces",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Storm roof damage",
+   "Statewide during spring storms",
+   "<a href=\"/services/storm-damage-restoration/\">Storm damage restoration</a>"
+  ]
+ ],
+ "tips": [
+  "Test your sump pump every spring and add a battery backup.",
+  "Extend downspouts away from the foundation.",
+  "Ask your city about sewer backflow valve programs.",
+  "Keep the heat on and cabinet doors open during deep cold."
+ ],
+ "insurance": "Many Ohio policies exclude sump pump failure and sewer backup unless you add water backup cover.",
+ "faq": {
+  "q": "Why does my Ohio basement leak every time it rains?",
+  "a": "Common causes are short downspouts, soil sloping toward the house, cracks in the walls and a weak sump pump. Clay soil around many Ohio homes holds water against the foundation. Fix drainage first, then dry the basement fully to stop mold."
+ },
+ "licensing": "Ohio has no statewide general contractor license. Many cities license contractors locally. Plumbing, HVAC and electrical contractors need state licenses."
+}

@@ -1,0 +1,46 @@
+{
+ "lead": "Nevada's dry climate hides real water risks: flash floods, slab leaks and hard water. DryBeacon helps owners from Las Vegas to Reno get water out and dry fast.",
+ "risk": "flash floods during summer storms, slab leaks and plumbing failures",
+ "risk_short": "flash floods, slab leaks, hard water",
+ "why": [
+  "Monsoon storms bring sudden, heavy rain to the Las Vegas Valley in summer. The desert ground sheds water instead of soaking it in, so it rushes through washes and streets. Reno faces winter floods on the Truckee River, as in January 1997 and January 2017.",
+  "Indoors, Las Vegas water is very hard. Minerals wear out water heaters, supply lines and fittings early. Most homes are newer and sit on slabs, so leaks under floors can go unseen for weeks. Nevada shares these desert issues with <a href=\"/locations/arizona/\">Arizona</a> and <a href=\"/locations/utah/\">Utah</a>."
+ ],
+ "image": "drywall",
+ "image_alt": "Water-damaged drywall at the base of an interior wall",
+ "image_caption": "Slab and supply line leaks often show up first as swollen baseboards in Las Vegas homes.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Las Vegas, Henderson and North Las Vegas",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and floor drying</a>"
+  ],
+  [
+   "Flash flooding",
+   "Homes near washes in the Las Vegas Valley",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Water heater failures",
+   "Garages and closets",
+   "<a href=\"/services/water-extraction/\">Water removal</a>"
+  ],
+  [
+   "River flooding",
+   "Reno and Sparks along the Truckee",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ]
+ ],
+ "tips": [
+  "Replace water heater supply lines every few years because of hard water.",
+  "Watch your water bill; a sudden jump can mean a hidden leak.",
+  "Never cross a flooded wash or road.",
+  "Consider a water softener to slow wear on pipes and fittings."
+ ],
+ "insurance": "Nevada policies usually cover sudden leaks, but slow leaks that went on for weeks may be denied, so fix drips quickly.",
+ "faq": {
+  "q": "How do I know if I have a slab leak?",
+  "a": "Signs include warm spots on the floor, the sound of running water when taps are off, a rising water bill or damp carpet with no clear cause. A plumber can find the leak with acoustic or thermal tools. DryBeacon can then dry the floor and walls."
+ },
+ "licensing_faq": "Yes. The Nevada State Contractors Board licenses contractors, and it is illegal to do most construction work in Nevada without a license."
+}

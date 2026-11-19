@@ -1,0 +1,46 @@
+{
+ "lead": "Missouri homes face river floods, flash floods and strong storms. DryBeacon helps owners from Kansas City to St. Louis and the Ozarks get water out and dry fast.",
+ "risk": "river and flash flooding, severe storms and tornadoes, and frozen pipes",
+ "risk_short": "river floods, flash floods, storms",
+ "why": [
+  "The Missouri and Mississippi rivers meet near St. Louis, and both flood in wet years. The Great Flood of 1993 is still the benchmark, and 2019 brought major flooding again. In July 2022, St. Louis got about nine inches of rain in a few hours, flooding homes and roads across the city and county.",
+  "Severe storms are Missouri's most common disaster, with 38 FEMA declarations since 2000. The 2011 Joplin tornado destroyed thousands of homes. Many older homes in Kansas City and St. Louis have basements that take water in heavy rain. <a href=\"/locations/kansas/\">Kansas</a> and <a href=\"/locations/illinois/\">Illinois</a> share many of these risks."
+ ],
+ "image": "floodyard",
+ "image_alt": "Water surrounding a house and yard after heavy rain",
+ "image_caption": "Heavy rain and river flooding can leave Missouri homes surrounded by water for days.",
+ "problems": [
+  [
+   "Flash flooding",
+   "St. Louis, Kansas City and creek areas",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Basement flooding",
+   "Older homes in both metros",
+   "<a href=\"/services/water-extraction/\">Basement water removal</a>"
+  ],
+  [
+   "Tornado and hail damage",
+   "Statewide, especially southwest Missouri",
+   "<a href=\"/services/storm-damage-restoration/\">Storm repair</a>"
+  ],
+  [
+   "Sewer backups",
+   "Homes on older sewer lines",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Check whether your city offers sewer backup prevention programs.",
+  "Keep a battery backup on your sump pump.",
+  "After a tornado or hail storm, tarp roof damage quickly.",
+  "Know your flood zone if you live near a river or creek."
+ ],
+ "insurance": "Missouri homeowners policies cover wind and hail, but river and flash flooding need a separate flood policy.",
+ "faq": {
+  "q": "Is flash flooding covered by homeowners insurance in Missouri?",
+  "a": "No. Flash flooding counts as flood, which standard policies exclude. You need a flood policy through the NFIP or a private insurer. Water from a burst pipe or roof leak is usually covered."
+ },
+ "licensing": "Missouri has no statewide general contractor license. Kansas City, St. Louis and other cities license contractors locally. Ask which local license applies."
+}

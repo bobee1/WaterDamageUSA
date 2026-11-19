@@ -1,0 +1,47 @@
+{
+ "lead": "Vermont has faced major floods in recent summers, along with long winters. DryBeacon helps owners from Burlington to Montpelier and Rutland get water out and dry.",
+ "risk": "summer flash floods, frozen pipes and ice dams",
+ "risk_short": "flash floods, frozen pipes, ice dams",
+ "why": [
+  "In July 2023, heavy rain flooded downtown Montpelier, Barre and towns across central Vermont. In July 2024, floods hit many of the same areas again. Tropical Storm Irene in 2011 washed out roads and homes across the state. Vermont's steep valleys send water into towns fast.",
+  "Old farmhouses and village homes are common, with almost a quarter built before 1940. They often have stone foundations and little insulation. Winters bring frozen pipes and ice dams, and ski homes sit empty for long stretches. <a href=\"/locations/new-hampshire/\">New Hampshire</a> and <a href=\"/locations/new-york/\">New York</a> share these risks."
+ ],
+ "image": "stairs",
+ "image_alt": "Floodwater flowing into the lower level of a building",
+ "image_caption": "Recent summer floods in Vermont pushed river water into downtown buildings and homes.",
+ "problems": [
+  [
+   "Flash flooding",
+   "Montpelier, Barre and river valleys",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Farmhouses and ski homes",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Ice dams",
+   "Older homes statewide",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling repair</a>"
+  ],
+  [
+   "Wet stone basements",
+   "Village homes",
+   "<a href=\"/services/water-extraction/\">Basement water removal</a>"
+  ]
+ ],
+ "tips": [
+  "Buy flood insurance even if you are not in a mapped zone; many 2023 losses were outside them.",
+  "Use a remote temperature alarm in second homes.",
+  "Keep valuables off basement floors.",
+  "Clear snow from roof edges after big storms."
+ ],
+ "insurance": "Very few Vermont homes damaged in 2023 had flood insurance. Flood is a separate policy and takes 30 days to start.",
+ "faq": {
+  "q": "How do I clean up after a Vermont river flood?",
+  "a": "Wait until officials say it is safe. Wear boots and gloves; floodwater carries sewage and fuel. Take photos, then remove mud, wet drywall and insulation. Start drying within 48 hours to stop mold."
+ },
+ "licensing": "Vermont's Office of Professional Regulation registers residential contractors. Plumbers and electricians need state licenses.",
+ "licensing_faq": "Residential contractors in Vermont register with the Office of Professional Regulation. Plumbing and electrical work need state licenses."
+}

@@ -1,0 +1,46 @@
+{
+ "lead": "Utah homes take water damage from frozen pipes, snowmelt and desert flash floods. DryBeacon helps owners from Salt Lake City to Provo and St. George dry out fast.",
+ "risk": "frozen pipes, spring snowmelt flooding and flash floods in the south",
+ "risk_short": "frozen pipes, snowmelt, flash floods",
+ "why": [
+  "Big snow years bring spring floods. After the record snowpack of 2023, runoff flooded streets and basements along the Wasatch Front. Many homes there have basements, and many are finished. A burst pipe in winter or a failed sump pump can flood a whole lower level.",
+  "Southern Utah is a different story. Summer storms send flash floods through slot canyons and washes around St. George. Statewide, hard water wears out water heaters and fittings early. <a href=\"/locations/colorado/\">Colorado</a> and <a href=\"/locations/idaho/\">Idaho</a> share Utah's winter risks, and <a href=\"/locations/nevada/\">Nevada</a> shares the desert storms."
+ ],
+ "image": "pipe",
+ "image_alt": "Leaking pipe in a basement ceiling dripping water",
+ "image_caption": "Burst pipes in finished basements are a common winter claim along the Wasatch Front.",
+ "problems": [
+  [
+   "Frozen and burst pipes",
+   "Wasatch Front homes and cabins",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Finished basement flooding",
+   "Salt Lake, Utah and Davis counties",
+   "<a href=\"/services/water-extraction/\">Basement water removal</a>"
+  ],
+  [
+   "Snowmelt flooding",
+   "Mountain towns and canyon mouths",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Water heater failures",
+   "Homes with hard water",
+   "<a href=\"/services/water-mitigation/\">Drying and dehumidification</a>"
+  ]
+ ],
+ "tips": [
+  "Shut off and drain outside spigots before winter.",
+  "Replace water heaters at the end of their rated life; hard water shortens it.",
+  "In St. George, never enter a wash during a storm.",
+  "Add a leak sensor near the water heater and washer."
+ ],
+ "insurance": "Utah policies cover sudden pipe bursts, but flooding from snowmelt runoff needs a separate flood policy.",
+ "faq": {
+  "q": "How long does it take to dry a finished basement in Utah?",
+  "a": "Usually three to five days once wet carpet pad and drywall are removed. Utah's dry air helps, but concrete and framing still need dehumidifiers. Crews check moisture readings before rebuilding."
+ },
+ "licensing_faq": "Yes. Utah's Division of Professional Licensing (DOPL) licenses contractors, and most construction work needs a licensed contractor."
+}

@@ -36,7 +36,15 @@ A dated log of every step. Newest entries at the bottom of each build. Status: D
 | 30 | 2026-11-19 | 3 | Generator: service registry, cards, CTA boxes, FAQ + Service + business schema, sources, footer services | Done | `src/services.json`, `build.py` |
 | 31 | 2026-11-19 | 3 | Home page (1,506 words), services hub, 10 service pages (1,040–1,343 words) | Done | Keyword map from the approved plan |
 | 32 | 2026-11-19 | 3 | Audit 0 issues; readability FK 5.7–8.2 on money pages; no repeated paragraphs; responsive 360/768/1280 clean | Done | `scripts/audit.py`, `scripts/readability.py` |
-| 33 | — | 4 | Locations hub + 51 state hubs | Planned | Next build |
+| 33 | 2026-11-19 | 4 | STATUS.md restructured: Builds 1–3 moved to Previous | Done | Owner asked whether records are kept up to date |
+| 34 | 2026-11-19 | 4 | Census ACS 2020–2024 state housing data + top 12 places per state | Done | Census Reporter API via browser (api.census.gov now needs a key); `research/06-state-data.json` |
+| 35 | 2026-11-19 | 4 | OpenFEMA major disaster declarations 2000–2026 by state and type | Done | 1,645 declarations; water-related subset per state |
+| 36 | 2026-11-19 | 4 | State insurance regulators, contractor boards, mold licensing states | Done | NAIC directory blocked by bot check; used agency sites, CT Corporation contractor chart and searches |
+| 37 | 2026-11-19 | 4 | Generator `states.py`, CSS for state cards and pills, audit type `state` | Done | |
+| 38 | 2026-11-19 | 4 | 51 hand-written state content files + `/locations/` hub | Done | Verified local events only; no invented statutes |
+| 39 | 2026-11-19 | 4 | Local notes and "near you" links on 10 service pages; state links on home, menu, footer | Done | Each state has 3+ in-text inbound links |
+| 40 | 2026-11-19 | 4 | Audit 0 issues; readability ≤ 9; uniqueness 71–79% (rule ≥ 60%); responsive clean | Done | New `scripts/uniqueness.py` |
+| 41 | — | 5 | Glossary + guides hub + first 10 guides | Planned | Next build |
 
 ## Image register
 | File | Source | Used on |
@@ -52,5 +60,6 @@ A dated log of every step. Newest entries at the bottom of each build. Status: D
 | storm-damaged-roof-and-window(.webp, -800) | Pexels photo 36237047 | Storm damage restoration |
 | commercial-office-floor(.webp, -800) | Pexels photo 5483233 | Commercial water damage |
 | Inline SVG: drying setup, water categories | Original illustrations | Water mitigation, sewage cleanup |
+| Existing photos reused on state pages | Same Pexels IDs as above | Chosen by each state's main risk, with state-specific alt text and captions |
 
 Pexels license: free to use, no attribution required. Credits are not shown on the site.

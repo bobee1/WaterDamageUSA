@@ -1,0 +1,45 @@
+{
+ "lead": "Idaho homes take on water from spring snowmelt, frozen pipes and summer storms. DryBeacon helps owners from Boise to Coeur d'Alene get water out and dry fast.",
+ "risk": "frozen pipes, spring snowmelt flooding and summer storm runoff",
+ "risk_short": "frozen pipes, snowmelt, storms",
+ "why": [
+  "Winter cold is the first risk. Pipes freeze in garages, crawl spaces and outside walls, then split when they thaw. Idaho's crawl space homes are common in the Treasure Valley, and a leak there can run for days before anyone notices.",
+  "Spring melt brings the second. Big snow years swell the Boise, Snake and Coeur d'Alene rivers. In the north, rain on snow can flood creeks fast. Summer storms and recent burn scars can send mud and water downhill. Idaho shares many of these risks with <a href=\"/locations/montana/\">Montana</a> and <a href=\"/locations/washington/\">Washington</a>."
+ ],
+ "image": "pipe",
+ "image_alt": "Water dripping from a split pipe after a hard freeze",
+ "image_caption": "Frozen pipes in crawl spaces and garages cause many Idaho winter water claims.",
+ "problems": [
+  [
+   "Frozen and burst pipes",
+   "Crawl spaces and garages statewide",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Snowmelt flooding",
+   "River towns and low ground",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Crawl space water",
+   "Treasure Valley homes",
+   "<a href=\"/services/water-mitigation/\">Crawl space drying</a>"
+  ],
+  [
+   "Ice dams",
+   "Homes in McCall, Sandpoint and mountain towns",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling repair</a>"
+  ]
+ ],
+ "tips": [
+  "Keep crawl space vents closed in winter and insulate pipes.",
+  "Leave cabinet doors open on very cold nights so warm air reaches pipes.",
+  "Clear snow away from the foundation before spring melt.",
+  "Check FEMA flood maps if you live near a river."
+ ],
+ "insurance": "Idaho policies often exclude damage from water that seeps in from the ground over time, so act fast on any crawl space water.",
+ "faq": {
+  "q": "Can I stop a frozen pipe from bursting?",
+  "a": "If a faucet only drips or nothing comes out, a pipe may be frozen. Keep the faucet open and warm the pipe with a hair dryer or space heater, never an open flame. If the pipe has already split, shut off the main water and call for help."
+ }
+}

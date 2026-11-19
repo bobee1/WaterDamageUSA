@@ -1,0 +1,46 @@
+{
+ "lead": "Nebraska homes face river floods, hail and long, cold winters. DryBeacon helps owners from Omaha to Lincoln and Grand Island get water out and dry quickly.",
+ "risk": "river flooding, hail and severe storms, and frozen pipes",
+ "risk_short": "river floods, hail, frozen pipes",
+ "why": [
+  "In March 2019, a bomb cyclone dumped rain on frozen ground and snow. Rivers rose fast, and the Spencer Dam failed on the Niobrara River. Floods swept through Fremont, Norfolk and towns along the Platte and Missouri rivers. It was one of the most costly disasters in state history.",
+  "Severe storms are Nebraska's most common disaster, with 35 FEMA declarations since 2000. Big hail hits Omaha and Lincoln most summers. Winter cold freezes pipes in older homes and farm buildings. <a href=\"/locations/iowa/\">Iowa</a> and <a href=\"/locations/kansas/\">Kansas</a> share Nebraska's storm and river risks."
+ ],
+ "image": "flood",
+ "image_alt": "Flood barrier along a street with standing water near homes",
+ "image_caption": "Nebraska's 2019 floods showed how fast rivers can rise when rain falls on frozen ground.",
+ "problems": [
+  [
+   "River flooding",
+   "Platte, Elkhorn and Missouri river towns",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Hail-damaged roofs",
+   "Omaha, Lincoln and central Nebraska",
+   "<a href=\"/services/storm-damage-restoration/\">Storm damage restoration</a>"
+  ],
+  [
+   "Basement flooding",
+   "Homes with basements statewide",
+   "<a href=\"/services/water-extraction/\">Water removal</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Older homes and farm buildings",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe repair</a>"
+  ]
+ ],
+ "tips": [
+  "Buy flood insurance before spring; NFIP policies take 30 days to start.",
+  "Inspect the roof after every hail storm.",
+  "Insulate water lines in barns and outbuildings.",
+  "Keep a sump pump backup if you have a basement."
+ ],
+ "insurance": "Nebraska policies often have a separate wind and hail deductible, which can be much higher than the standard deductible.",
+ "faq": {
+  "q": "Does homeowners insurance cover hail damage in Nebraska?",
+  "a": "Usually yes, though many policies have a separate wind and hail deductible. Report damage quickly and photograph the roof, siding and windows. Cover any openings to stop rain from getting in."
+ },
+ "licensing": "Contractors and subcontractors working in Nebraska must register with the Nebraska Department of Labor. Omaha and Lincoln also license some trades locally."
+}

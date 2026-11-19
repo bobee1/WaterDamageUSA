@@ -1,0 +1,45 @@
+{
+ "lead": "Connecticut has some of the oldest housing in the country, plus nor'easters and remnants of hurricanes. DryBeacon helps owners from Stamford to Hartford dry out and repair after water damage.",
+ "risk": "older plumbing, nor'easter and tropical storm flooding, and ice dams",
+ "risk_short": "old pipes, nor'easters, ice dams",
+ "why": [
+  "About two-thirds of Connecticut homes were built before 1980. One in five went up before 1940. Old cast-iron drains, galvanized lines and stone foundations all let water in. Many basements hold oil tanks and laundry rooms. A flooded basement can also mean a fuel smell.",
+  "The weather adds to it. Irene and Sandy flooded the shoreline in 2011 and 2012. The remnants of Ida dropped record rain in 2021. In August 2024, severe storms flooded Oxford, Southbury and other towns in the Naugatuck Valley. Winter brings ice dams on colonial and cape-style roofs. <a href=\"/locations/massachusetts/\">Massachusetts</a> and <a href=\"/locations/rhode-island/\">Rhode Island</a> share many of these problems."
+ ],
+ "image": "floodroom",
+ "image_alt": "Standing water across the floor of a basement room",
+ "image_caption": "Basement flooding is one of the most common water damage calls in older Connecticut homes.",
+ "problems": [
+  [
+   "Basement flooding",
+   "Older homes across the state",
+   "<a href=\"/services/water-extraction/\">Basement water removal</a>"
+  ],
+  [
+   "Ice dams leaking into walls",
+   "Capes and colonials in winter",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling and wall drying</a>"
+  ],
+  [
+   "Coastal storm flooding",
+   "Shoreline towns from Greenwich to Stonington",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Old pipe failures",
+   "Pre-war homes and multi-family houses",
+   "<a href=\"/services/burst-pipe-water-damage/\">Pipe leak cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Keep basement items on shelves, not on the floor.",
+  "Add attic insulation and ventilation to reduce ice dams.",
+  "If you have an oil tank in the basement, check it after any flood.",
+  "Shoreline owners should know their FEMA flood zone and elevation."
+ ],
+ "insurance": "Shoreline homes often have a separate hurricane deductible. It only applies when a named storm hits.",
+ "faq": {
+  "q": "Should I pump out a flooded Connecticut basement right away?",
+  "a": "If the ground is still soaked, pumping too fast can push walls in. Remove water in stages, about a third per day, unless a pro checks the walls first."
+ }
+}

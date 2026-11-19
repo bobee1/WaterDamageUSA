@@ -1,0 +1,46 @@
+{
+ "lead": "North Dakota faces spring river floods, extreme cold and summer storms. DryBeacon helps owners from Fargo to Bismarck, Grand Forks and Minot dry out after water damage.",
+ "risk": "spring river flooding, frozen pipes and severe storms",
+ "risk_short": "river floods, frozen pipes, storms",
+ "why": [
+  "The Red River flows north, and its northern end thaws last. Ice and meltwater back up and flood the valley in many springs. In 1997, the Red River flooded most of Grand Forks. In 2011, the Souris River flooded thousands of homes in Minot. FEMA has declared 11 flood disasters in North Dakota since 2000.",
+  "Winter cold is severe. Pipes freeze in outside walls, garages and farm buildings when it stays below zero for days. Spring melt then soaks the ground and seeps into basements. <a href=\"/locations/minnesota/\">Minnesota</a> shares the Red River risk, and <a href=\"/locations/south-dakota/\">South Dakota</a> shares the cold."
+ ],
+ "image": "floodyard",
+ "image_alt": "House and yard surrounded by spring floodwater",
+ "image_caption": "Spring melt and ice jams can flood North Dakota's river valleys almost every year.",
+ "problems": [
+  [
+   "Spring river flooding",
+   "Fargo, Grand Forks and Minot",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Frozen and burst pipes",
+   "Homes and farm buildings",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Basement seepage",
+   "Homes during snowmelt",
+   "<a href=\"/services/water-extraction/\">Basement water removal</a>"
+  ],
+  [
+   "Hail and wind damage",
+   "Statewide in summer",
+   "<a href=\"/services/storm-damage-restoration/\">Storm repair</a>"
+  ]
+ ],
+ "tips": [
+  "Buy flood insurance by early spring; NFIP coverage takes 30 days to start.",
+  "Move snow piles away from the house before the thaw.",
+  "Insulate pipes and keep heat on in outbuildings with water.",
+  "Keep your sump pump discharge line clear of ice."
+ ],
+ "insurance": "Overland flooding from snowmelt is flood, not a covered homeowners claim, so river valley owners rely on NFIP policies.",
+ "faq": {
+  "q": "When should I buy flood insurance in North Dakota?",
+  "a": "Buy it well before spring. NFIP policies usually take 30 days to start, so waiting until the river forecast rises is too late. Lenders require it in high-risk zones, but many floods happen outside them."
+ },
+ "licensing": "Contractors working on jobs over $4,000 in North Dakota must be licensed through the Secretary of State. Plumbers and electricians need state licenses."
+}

@@ -1,0 +1,46 @@
+{
+ "lead": "Louisiana has more hurricane water damage than almost anywhere, plus floods from rain alone. DryBeacon helps owners from New Orleans to Lake Charles get water out and dry fast.",
+ "risk": "hurricanes and storm surge, river and rain flooding, and constant humidity",
+ "risk_short": "hurricanes, storm surge, flooding",
+ "why": [
+  "Hurricane Katrina flooded about 80% of New Orleans in 2005 when levees and floodwalls failed. Laura and Delta hit Lake Charles six weeks apart in 2020, and Ida tore through southeast Louisiana in 2021. FEMA has declared 15 hurricane disasters in Louisiana since 2000.",
+  "Rain alone can do it too. In August 2016, about two feet of rain flooded tens of thousands of homes around Baton Rouge and Lafayette, many outside high-risk flood zones. Much of New Orleans sits below sea level and depends on pumps to drain. Humidity makes mold a threat within a day or two. <a href=\"/locations/mississippi/\">Mississippi</a> and <a href=\"/locations/texas/\">Texas</a> share the Gulf storms."
+ ],
+ "image": "flood",
+ "image_alt": "Flooded homes and street after heavy rain and storm surge",
+ "image_caption": "In Louisiana, rain and surge can flood homes far outside the mapped high-risk zones.",
+ "problems": [
+  [
+   "Storm surge",
+   "Coastal parishes and the New Orleans area",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Rain flooding",
+   "Baton Rouge, Lafayette and low neighborhoods",
+   "<a href=\"/services/water-extraction/\">Water extraction</a>"
+  ],
+  [
+   "Roof damage from wind",
+   "Lake Charles and south Louisiana",
+   "<a href=\"/services/storm-damage-restoration/\">Storm tarping</a>"
+  ],
+  [
+   "Fast mold growth",
+   "Any wet home in warm months",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Buy flood insurance even outside high-risk zones; 2016 showed why.",
+  "Before hurricane season, video every room and store it online.",
+  "Raise your AC unit, water heater and panel if you rebuild.",
+  "Start drying within 24 hours of a flood if it is safe."
+ ],
+ "insurance": "Louisiana Citizens Property Insurance Corporation covers homes that private insurers will not. Most policies carry a separate named-storm deductible.",
+ "faq": {
+  "q": "Should I gut my house after a flood in Louisiana?",
+  "a": "Wet drywall, insulation and carpet usually need to come out, often up to 2 to 4 feet above the water line. Studs and framing can often be dried and kept. Take photos before removing anything so your insurer can see the damage."
+ },
+ "areas": "Calls also come from Houma, Slidell, Hammond and Lake Charles."
+}

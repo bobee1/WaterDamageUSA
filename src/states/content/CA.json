@@ -1,0 +1,45 @@
+{
+ "lead": "California water damage ranges from atmospheric river floods to slab leaks under older homes. DryBeacon helps homes and businesses from San Diego to Sacramento dry out the right way.",
+ "risk": "atmospheric river storms, slab and pipe leaks, and mudflows near burn scars",
+ "risk_short": "winter storms, slab leaks, mudflows",
+ "why": [
+  "Most of California's rain falls in a few months, often from atmospheric rivers that stall over the coast and dump days of rain. The storms of winter 2023 broke the Pajaro River levee and flooded much of Pajaro. In the hills, rain on recent wildfire burn scars can trigger mudflows that push mud and water into homes below.",
+  "Indoors, California's housing is older than many people think. More than half the homes in the state were built before 1980, so galvanized pipes, aging water heaters and original roofs are common. In Los Angeles and the Bay Area, slab foundations hide leaks under floors. Unlike <a href=\"/locations/arizona/\">Arizona</a>, many coastal homes also deal with marine-layer humidity that slows drying."
+ ],
+ "image": "drywall",
+ "image_alt": "Cut-away drywall showing water damage at the bottom of a wall",
+ "image_caption": "Leaks behind walls in older California homes often show up first as swollen baseboards or stains.",
+ "problems": [
+  [
+   "Slab leaks",
+   "Los Angeles, San Fernando Valley, older Bay Area homes",
+   "<a href=\"/services/water-damage-repair/\">Leak tracing and floor repair</a>"
+  ],
+  [
+   "Atmospheric river flooding",
+   "River valleys, coastal towns and low areas",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Mud and debris flows",
+   "Homes below burn scars",
+   "<a href=\"/services/water-extraction/\">Mud and water removal</a>"
+  ],
+  [
+   "Leaks in condos and apartments",
+   "Multi-unit buildings",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling and unit-to-unit leak repair</a>"
+  ]
+ ],
+ "tips": [
+  "Clean gutters and downspouts before the rainy season, usually by November.",
+  "If you live below a burn scar, sign up for county alerts and keep sandbags on hand.",
+  "Replace rubber washing machine hoses with braided steel.",
+  "In a condo, know which leaks are your responsibility and which belong to the HOA."
+ ],
+ "insurance": "The California FAIR Plan mainly covers fire, so owners with FAIR Plan policies often need a separate policy for water damage from leaks.",
+ "faq": {
+  "q": "Who pays for water damage in a California condo?",
+  "a": "It depends on where the leak started and what the HOA's governing documents say. Generally, the HOA's master policy covers common areas and the unit owner's HO-6 policy covers the inside of the unit. Report the leak to the HOA and your insurer right away."
+ }
+}

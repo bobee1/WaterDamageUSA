@@ -1,0 +1,46 @@
+{
+ "lead": "Oklahoma leads the nation in storm disasters, from tornadoes and hail to ice storms. DryBeacon helps owners from Oklahoma City to Tulsa get water out and dry fast.",
+ "risk": "tornadoes and hail, ice storms and flash floods",
+ "risk_short": "tornadoes, hail, ice storms",
+ "why": [
+  "Oklahoma has had 62 FEMA major disasters since 2000, more than any other state. Most were severe storms. Violent tornadoes hit Moore in 1999 and 2013. Hail damages roofs across central Oklahoma most springs. Once a roof is open, rain does the rest.",
+  "Winter adds ice storms. The October 2020 ice storm downed trees and power lines across Oklahoma City. In February 2021, deep cold burst pipes in homes across the state. Flash floods hit Tulsa and Oklahoma City when storms stall. <a href=\"/locations/texas/\">Texas</a> and <a href=\"/locations/kansas/\">Kansas</a> share the storm track."
+ ],
+ "image": "storm",
+ "image_alt": "Storm damage to a house roof and upper window",
+ "image_caption": "Tornado and hail damage open Oklahoma roofs to heavy spring rain.",
+ "problems": [
+  [
+   "Tornado and hail roof damage",
+   "Oklahoma City metro and central Oklahoma",
+   "<a href=\"/services/storm-damage-restoration/\">Storm damage restoration</a>"
+  ],
+  [
+   "Frozen and burst pipes",
+   "Homes built for mild winters",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Flash flooding",
+   "Tulsa, OKC and low streets",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Ceiling leaks after hail",
+   "Homes with cracked shingles",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling repair</a>"
+  ]
+ ],
+ "tips": [
+  "Have your roof checked after every hail storm.",
+  "Insulate pipes in attics and outside walls. Many homes here were built for mild winters.",
+  "Know your safe room plan and keep insurance papers there.",
+  "Trim trees near the house before ice storm season."
+ ],
+ "insurance": "Many Oklahoma policies have a separate wind and hail deductible. It is often a percentage of the home's insured value.",
+ "faq": {
+  "q": "Is hail damage to my roof covered in Oklahoma?",
+  "a": "Usually yes, after your wind and hail deductible. Some policies pay only the depreciated value of older roofs. Report damage fast, take photos and tarp openings to stop more water damage."
+ },
+ "licensing": "Oklahoma has no statewide general contractor license, but roofers must register with the state. Plumbers, electricians and HVAC techs need licenses."
+}

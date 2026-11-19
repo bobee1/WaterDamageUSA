@@ -1,0 +1,45 @@
+{
+ "lead": "Oregon's long rainy season, atmospheric rivers and mossy roofs drive most water damage. DryBeacon helps owners from Portland to Eugene and Bend dry out properly.",
+ "risk": "months of heavy rain, river flooding and roof and crawl space leaks",
+ "risk_short": "heavy rain, river floods, roof leaks",
+ "why": [
+  "Western Oregon gets most of its rain from October to April. Atmospheric rivers can drop days of heavy rain on soaked ground. The February 1996 flood put downtown Portland's seawall to the test and flooded towns across the Willamette Valley. Landslides on steep lots can push mud into homes.",
+  "Constant damp is the quiet problem. Moss holds water on roofs and lifts shingles. Many homes have crawl spaces that stay wet all winter. East of the Cascades, Bend and Klamath Falls see frozen pipes instead. <a href=\"/locations/washington/\">Washington</a> shares Oregon's wet winters, and <a href=\"/locations/idaho/\">Idaho</a> shares the cold of the east side."
+ ],
+ "image": "mold",
+ "image_alt": "Mold growing on a wall after a long-term leak",
+ "image_caption": "Months of damp weather let mold grow on any wet wall in western Oregon.",
+ "problems": [
+  [
+   "Roof leaks from moss and rain",
+   "Portland, Salem and the coast",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling water damage repair</a>"
+  ],
+  [
+   "Wet crawl spaces",
+   "Older homes in the Willamette Valley",
+   "<a href=\"/services/water-mitigation/\">Crawl space drying</a>"
+  ],
+  [
+   "River flooding",
+   "Willamette, Coquille and coastal rivers",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Mold from long-term damp",
+   "Bathrooms, closets and crawl spaces",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Clean moss off the roof and gutters every fall.",
+  "Keep a vapor barrier in the crawl space and check it each winter.",
+  "Run bathroom fans for 20 minutes after showers.",
+  "In Bend and eastern Oregon, insulate pipes before the first freeze."
+ ],
+ "insurance": "Oregon policies often exclude damage from long-term leaks and rot, so fix roof and plumbing leaks as soon as you see them.",
+ "faq": {
+  "q": "Why is my Oregon crawl space always wet?",
+  "a": "Rain, high groundwater and poor drainage keep many Oregon crawl spaces damp. A torn vapor barrier or blocked drain makes it worse. Drying it out, fixing drainage and laying a new vapor barrier helps prevent mold and rot."
+ }
+}

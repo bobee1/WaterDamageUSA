@@ -1,0 +1,46 @@
+{
+ "lead": "Delaware is low, flat and surrounded by water on three sides. DryBeacon helps owners from Wilmington to the beaches deal with storm flooding, leaks and wet basements.",
+ "risk": "coastal flooding, nor'easters and remnants of tropical storms",
+ "risk_short": "coastal flooding, nor'easters",
+ "why": [
+  "Delaware has the lowest average elevation of any state, so storm surge and heavy rain have little room to drain. Nor'easters regularly flood roads and homes in Rehoboth Beach, Dewey Beach, Bethany and Lewes. Tidal flooding along the Delaware Bay can push water into crawl spaces even on sunny days.",
+  "Inland, the remnants of Hurricane Ida spawned tornadoes and flooding in 2021, and New Castle County basements regularly take on water during heavy storms. Beach homes that sit empty in winter are prone to burst pipes. Owners with homes in <a href=\"/locations/maryland/\">Maryland</a> and <a href=\"/locations/new-jersey/\">New Jersey</a> see many of the same coastal issues."
+ ],
+ "image": "flood",
+ "image_alt": "Flooded neighborhood street with a temporary flood barrier",
+ "image_caption": "Low ground along Delaware's coast means storm water has few places to go.",
+ "problems": [
+  [
+   "Storm surge and tidal flooding",
+   "Sussex County beach towns",
+   "<a href=\"/services/flood-damage-restoration/\">Coastal flood cleanup</a>"
+  ],
+  [
+   "Frozen pipes in empty beach homes",
+   "Seasonal homes in winter",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe repair</a>"
+  ],
+  [
+   "Basement seepage",
+   "New Castle County homes",
+   "<a href=\"/services/water-extraction/\">Water extraction</a>"
+  ],
+  [
+   "Mold after humid summers",
+   "Crawl spaces and beach rentals",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Drain the plumbing or keep the heat on in seasonal homes over winter.",
+  "Raise furnaces, water heaters and electrical panels above flood level when you can.",
+  "Check NFIP flood zone maps before buying near the coast.",
+  "Run a dehumidifier in crawl spaces during humid months."
+ ],
+ "insurance": "Delaware beach homes often need both flood insurance and a policy with a hurricane deductible; check both before the season.",
+ "faq": {
+  "q": "Does Delaware require flood insurance?",
+  "a": "Lenders require flood insurance for federally backed mortgages on homes in high-risk FEMA flood zones. Even outside those zones, buying a policy is wise near the coast, because NFIP policies usually take 30 days to start."
+ },
+ "licensing_faq": "Delaware requires contractors to hold a business license with the Division of Revenue. Plumbing, electrical and HVAC work need trade licenses from the state."
+}

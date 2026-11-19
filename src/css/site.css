@@ -128,3 +128,18 @@ body{font-size:1rem}
 .f-grid{grid-template-columns:1fr}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+
+.facts th{width:44%;background:var(--surface-soft);font-weight:600}
+.small-note{font-size:.85rem;color:var(--ink-muted);margin-top:-6px}
+.pills{list-style:none;padding:0;margin:14px 0 22px;display:flex;flex-wrap:wrap;gap:8px}
+.pills li{margin:0}
+.pills a{display:inline-block;padding:7px 14px;border:1px solid var(--line);border-radius:var(--radius-pill);background:#fff;color:var(--brand-dark);text-decoration:none;font-size:.93rem}
+.pills a:hover,.pills a:focus-visible{border-color:var(--brand-dark);text-decoration:underline}
+.pills-sm a{padding:5px 11px;font-size:.88rem}
+.state-grid{list-style:none;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:10px;margin:12px 0 26px}
+.state-grid li{margin:0}
+.state-card{display:block;height:100%;border:1px solid var(--line);border-radius:var(--radius-md);padding:12px 14px;background:#fff;text-decoration:none;box-shadow:var(--shadow-card)}
+.state-card:hover,.state-card:focus-visible{border-color:var(--brand-dark)}
+.state-name{display:block;font-weight:700;color:var(--brand-dark)}
+.state-cities{display:block;font-size:.85rem;color:var(--ink-muted);margin-top:2px}
+.prose .state-grid,.prose .pills{padding-left:0}

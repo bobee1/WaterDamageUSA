@@ -1,0 +1,46 @@
+{
+ "lead": "New Mexico's monsoon storms, burn-scar floods and flat roofs cause most of its water damage. DryBeacon helps owners from Albuquerque to Las Cruces and Santa Fe dry out.",
+ "risk": "monsoon flash floods, burn scar runoff and flat roof leaks",
+ "risk_short": "monsoon floods, burn scars, roof leaks",
+ "why": [
+  "Monsoon season brings sudden, heavy storms from July through September. Arroyos fill in minutes and send water into streets and homes. Recent wildfire burn scars make it worse. Since the South Fork Fire in 2024, Ruidoso has had deadly flash floods, including in July 2025.",
+  "Many homes have flat or low-slope roofs with parapets and canales. Clogged drains or cracked roofing let water pool and leak into ceilings. Older adobe and stucco walls can soak up water. Swamp coolers on roofs also leak. <a href=\"/locations/arizona/\">Arizona</a> and <a href=\"/locations/colorado/\">Colorado</a> share some of these risks."
+ ],
+ "image": "ceiling",
+ "image_alt": "Ceiling drywall that fell after a flat roof leak",
+ "image_caption": "Flat roofs with clogged canales are a common source of ceiling damage in New Mexico.",
+ "problems": [
+  [
+   "Flash floods and burn scar runoff",
+   "Ruidoso, Las Vegas NM and mountain towns",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Flat roof leaks",
+   "Albuquerque, Santa Fe and older homes",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling water damage repair</a>"
+  ],
+  [
+   "Swamp cooler leaks",
+   "Homes with roof-mounted coolers",
+   "<a href=\"/services/water-mitigation/\">Drying walls and ceilings</a>"
+  ],
+  [
+   "Mobile home water damage",
+   "Rural areas statewide",
+   "<a href=\"/services/water-damage-repair/\">Floor and wall repair</a>"
+  ]
+ ],
+ "tips": [
+  "Clear canales and roof drains before monsoon season.",
+  "Drain and cover the swamp cooler each fall.",
+  "If you live below a burn scar, sign up for local flash flood alerts.",
+  "Never drive into a flooded arroyo or low crossing."
+ ],
+ "insurance": "Homes below recent burn scars face higher flood risk for years. NFIP flood cover may still be available even after a fire.",
+ "faq": {
+  "q": "Why do burn scars cause flash floods in New Mexico?",
+  "a": "Wildfires leave the ground bare and can make soil repel water. Rain that would soak in instead runs off fast, carrying ash, mud and debris. Areas below burn scars can flood from storms that would not have caused trouble before."
+ },
+ "licensing": "The Construction Industries Division of the New Mexico Regulation and Licensing Department licenses contractors. Ask for the license number before rebuild work starts."
+}

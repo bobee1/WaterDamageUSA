@@ -1,0 +1,46 @@
+{
+ "lead": "Washington's wet winters, atmospheric rivers and river floods cause most water damage. DryBeacon helps owners from Seattle to Tacoma, Spokane and Vancouver dry out.",
+ "risk": "atmospheric river flooding, months of rain and frozen pipes east of the Cascades",
+ "risk_short": "river floods, heavy rain, frozen pipes",
+ "why": [
+  "Western Washington gets steady rain from fall to spring. Atmospheric rivers can drop days of heavy rain on soaked ground. In November 2021, the Nooksack River flooded Sumas, Everson and much of Whatcom County. The Chehalis River flooded I-5 in 2007.",
+  "Damp air is the daily problem. Moss on roofs holds water, and condensation builds in homes with poor ventilation. Many homes have crawl spaces that stay wet. East of the Cascades, Spokane and Yakima get hard freezes and burst pipes. <a href=\"/locations/oregon/\">Oregon</a> and <a href=\"/locations/idaho/\">Idaho</a> share these risks."
+ ],
+ "image": "mold",
+ "image_alt": "Mold spots spreading across a damp wall",
+ "image_caption": "Months of damp weather let mold grow quickly on wet walls in western Washington.",
+ "problems": [
+  [
+   "River flooding",
+   "Whatcom, Skagit and Lewis counties",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Roof leaks from moss and rain",
+   "Seattle, Tacoma and the Puget Sound",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling water damage repair</a>"
+  ],
+  [
+   "Wet crawl spaces",
+   "Older homes west of the Cascades",
+   "<a href=\"/services/water-mitigation/\">Crawl space drying</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Spokane, Yakima and eastern Washington",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Clean moss off roofs and gutters every fall.",
+  "Run bath and kitchen fans to cut condensation.",
+  "Check the crawl space vapor barrier each winter.",
+  "In eastern Washington, insulate pipes before the first freeze."
+ ],
+ "insurance": "Washington policies often exclude damage from long-term leaks and rot, so fix leaks quickly.",
+ "faq": {
+  "q": "Why is there mold on my walls in Seattle?",
+  "a": "Cool, damp air and poor ventilation let moisture condense on cold walls and windows. Leaks make it worse. Run fans, use a dehumidifier and fix leaks fast. Larger mold areas should be removed by a pro."
+ },
+ "licensing_faq": "Yes. Contractors in Washington must register with the Department of Labor and Industries. Plumbers and electricians need state certification."
+}

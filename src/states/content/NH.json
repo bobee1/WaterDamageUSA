@@ -1,0 +1,46 @@
+{
+ "lead": "New Hampshire homes take water damage from ice dams, frozen pipes and summer floods. DryBeacon helps owners from Manchester to the Seacoast and North Country dry out.",
+ "risk": "ice dams, frozen pipes and flash floods from heavy summer rain",
+ "risk_short": "ice dams, frozen pipes, flash floods",
+ "why": [
+  "New Hampshire has had 24 severe storm disasters since 2000. Heavy rain in July 2023 washed out roads and flooded homes in the western part of the state. Spring melt and rain can push the Merrimack, Contoocook and other rivers into towns.",
+  "Winter brings ice dams and frozen pipes. Many homes are older capes and farmhouses with little attic insulation. Lake houses and ski condos sit empty for weeks, and a failed furnace means burst pipes. <a href=\"/locations/vermont/\">Vermont</a>, <a href=\"/locations/maine/\">Maine</a> and <a href=\"/locations/massachusetts/\">Massachusetts</a> share these winter risks."
+ ],
+ "image": "ceiling",
+ "image_alt": "Water-damaged ceiling sagging after a roof leak",
+ "image_caption": "Ice dams and roof leaks often show up as sagging ceilings in older New Hampshire homes.",
+ "problems": [
+  [
+   "Ice dams",
+   "Older homes statewide",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling water damage repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Lake homes and ski condos",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Flash flooding",
+   "River valleys and hill towns",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Wet basements",
+   "Homes on ledge and fieldstone",
+   "<a href=\"/services/water-extraction/\">Basement water removal</a>"
+  ]
+ ],
+ "tips": [
+  "Use a remote temperature alarm in second homes.",
+  "Rake snow from the lower part of the roof after big storms.",
+  "Keep gutters clear in fall so meltwater can drain.",
+  "Check your sump pump before spring melt."
+ ],
+ "insurance": "Freeze damage in an unheated second home may be excluded, so keep heat on or drain the plumbing.",
+ "faq": {
+  "q": "How do I keep pipes from freezing at a New Hampshire lake house?",
+  "a": "Keep the heat at 55\u00b0F or higher, or drain the plumbing when you close for winter. Shut off the main water valve and install a remote temperature or leak alarm. Ask a neighbor to check the house after big storms."
+ },
+ "licensing": "New Hampshire has no statewide general contractor license, so check local rules. Plumbers and electricians need state licenses."
+}

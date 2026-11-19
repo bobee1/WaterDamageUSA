@@ -1,0 +1,46 @@
+{
+ "lead": "Alaska water damage is shaped by deep cold, long winters and fast spring melt. DryBeacon helps owners in Anchorage, Fairbanks, Juneau and the Mat-Su get water out and dry homes properly.",
+ "risk": "frozen and burst pipes, snowmelt and ice jam flooding, and coastal storms",
+ "risk_short": "frozen pipes, snowmelt, coastal storms",
+ "why": [
+  "Alaska's biggest water problem is often frozen plumbing. When the heat fails during a cold snap, pipes in outside walls, crawl spaces and unheated arctic entries can freeze and split in hours. In Fairbanks and the Interior, temperatures well below zero make a short power or boiler outage a serious risk.",
+  "Spring brings a different set of problems. Ice jams on rivers can back water up into towns, and fast snowmelt saturates the ground around foundations. In Juneau, glacial outburst floods from Suicide Basin have raised the Mendenhall River and flooded nearby homes in recent years. Western Alaska's coast also sees fall storms, such as the remnants of Typhoon Merbok in 2022, that push seawater onshore."
+ ],
+ "image": "pipe",
+ "image_alt": "Water dripping from a cracked pipe joint in a cold crawl space",
+ "image_caption": "A small crack in a frozen pipe can release hundreds of gallons once the ice thaws.",
+ "problems": [
+  [
+   "Burst pipes after freeze-ups",
+   "Crawl spaces, arctic entries, outside walls",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Snowmelt seeping into basements",
+   "Anchorage, Eagle River, Mat-Su homes",
+   "<a href=\"/services/water-extraction/\">Basement water removal</a>"
+  ],
+  [
+   "Ice dams leaking into ceilings",
+   "Homes with heat loss into the attic",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling repair and drying</a>"
+  ],
+  [
+   "River and glacial flooding",
+   "Mendenhall Valley, Interior river towns",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Know where your main water shut-off is and keep it clear of snow and storage.",
+  "If you leave for more than a day in winter, set the heat no lower than 55\u00b0F and ask someone to check the house.",
+  "Insulate pipes in crawl spaces and keep heat tape in good repair.",
+  "After a big snow year, clear snow away from the foundation before breakup."
+ ],
+ "insurance": "Many Alaska homes rely on a single heat source, and policies may limit freeze claims if the home was left unheated, so read the freeze and vacancy terms.",
+ "faq": {
+  "q": "Can you dry a house in Alaska in the middle of winter?",
+  "a": "Yes. Crews use dehumidifiers and controlled heat to dry wet materials even when it is below zero outside. Cold, dry outdoor air can help, but the building must stay heated so pipes do not freeze again during drying."
+ },
+ "areas": "Calls also come from Kenai, Soldotna, Ketchikan and Kodiak."
+}

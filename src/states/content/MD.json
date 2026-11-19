@@ -1,0 +1,46 @@
+{
+ "lead": "Maryland homes face flash floods, tidal flooding on the Chesapeake and leaks in old rowhouses. DryBeacon helps owners from Baltimore to the Eastern Shore dry out fast.",
+ "risk": "flash floods, tidal and storm flooding, and leaks in older homes",
+ "risk_short": "flash floods, tidal flooding, old pipes",
+ "why": [
+  "Ellicott City's historic Main Street flooded in July 2016 and again in May 2018. Both times, water from steep streams tore through shops and homes in minutes. Hurricane Isabel in 2003 pushed a record surge up the Chesapeake Bay into Annapolis, Baltimore's Fells Point and the Eastern Shore. Tidal flooding now soaks Annapolis streets many days a year.",
+  "Baltimore's rowhouses are often a century old. Shared walls let leaks travel between homes, and basements take on water in heavy rain. Over half of Maryland homes were built before 1980. <a href=\"/locations/district-of-columbia/\">Washington, DC</a>, <a href=\"/locations/virginia/\">Virginia</a> and <a href=\"/locations/delaware/\">Delaware</a> share the region's storms."
+ ],
+ "image": "stairs",
+ "image_alt": "Floodwater pouring down steps into a lower floor",
+ "image_caption": "Flash floods in Maryland's river valleys can push water into lower floors in minutes.",
+ "problems": [
+  [
+   "Flash flooding",
+   "Ellicott City, Frederick and stream valleys",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Tidal and surge flooding",
+   "Annapolis, Eastern Shore, Fells Point",
+   "<a href=\"/services/water-extraction/\">Water removal</a>"
+  ],
+  [
+   "Rowhouse leaks",
+   "Baltimore and older towns",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling and wall repair</a>"
+  ],
+  [
+   "Basement sewer backups",
+   "Older homes with floor drains",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Know your flood zone near the Chesapeake; tidal flooding is getting more common.",
+  "Install a backwater valve if your basement has a drain or bathroom.",
+  "Ask neighbors in shared-wall homes to tell you about leaks right away.",
+  "Keep basement stairwell drains clear."
+ ],
+ "insurance": "Sewer and drain backup is usually an add-on in Maryland policies, not standard cover, so check yours before the next big storm.",
+ "faq": {
+  "q": "Who pays when water from a neighbor's rowhouse damages mine?",
+  "a": "It depends on the cause and whether the neighbor was careless. Usually, each owner's homeowners policy covers damage to their own home first. Your insurer may then seek repayment from the neighbor's insurer. Report it to your insurer right away."
+ },
+ "licensing_faq": "Yes. Home improvement contractors in Maryland need a license from the Maryland Home Improvement Commission. Plumbing and electrical work need trade licenses."
+}

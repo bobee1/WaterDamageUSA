@@ -1,0 +1,45 @@
+{
+ "lead": "Mississippi faces Gulf hurricanes, river floods and frequent tornadoes. DryBeacon helps owners from the Coast to Jackson and the Delta get water out and dry quickly.",
+ "risk": "hurricanes and storm surge, tornadoes and river flooding",
+ "risk_short": "hurricanes, tornadoes, river floods",
+ "why": [
+  "Hurricane Katrina's surge in 2005 reached more than 25 feet along the Mississippi Gulf Coast. Towns from Waveland and Bay St. Louis to Biloxi and Pascagoula were flattened. FEMA has declared nine hurricane disasters in Mississippi since 2000, and Tropical Storm Arthur brought another in 2026.",
+  "Inland, severe storms are the most common disaster. The March 2023 tornado destroyed much of Rolling Fork in the Delta. The Pearl River flooded parts of Jackson in 2020 and 2022. Mississippi also has one of the highest shares of mobile homes in the country, at 14%. <a href=\"/locations/louisiana/\">Louisiana</a> and <a href=\"/locations/alabama/\">Alabama</a> share the Gulf threats."
+ ],
+ "image": "storm",
+ "image_alt": "Roof and window damage on a house after a hurricane",
+ "image_caption": "Wind damage from Gulf storms opens roofs and lets rain soak Mississippi homes.",
+ "problems": [
+  [
+   "Storm surge",
+   "Gulf Coast from Waveland to Pascagoula",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Tornado roof damage",
+   "Delta and central Mississippi",
+   "<a href=\"/services/storm-damage-restoration/\">Storm tarping and drying</a>"
+  ],
+  [
+   "River flooding",
+   "Jackson and the Pearl River",
+   "<a href=\"/services/water-extraction/\">Water removal</a>"
+  ],
+  [
+   "Mobile home water damage",
+   "Rural areas statewide",
+   "<a href=\"/services/water-mitigation/\">Floor and subfloor drying</a>"
+  ]
+ ],
+ "tips": [
+  "Mobile home owners should check tie-downs and skirting before storm season.",
+  "Keep a go-bag with copies of your insurance papers.",
+  "Clean gutters and clear drains before summer storms.",
+  "Run a dehumidifier after any leak in warm months."
+ ],
+ "insurance": "Coastal owners who can't get wind cover elsewhere may get it through the Mississippi Windstorm Underwriting Association.",
+ "faq": {
+  "q": "Can a wet mobile home floor be saved?",
+  "a": "Sometimes. If the water was clean and drying starts fast, the subfloor and insulation may be dried in place. Particleboard floors that swelled usually need to be replaced. A crew can check with moisture meters and tell you what can be kept."
+ }
+}

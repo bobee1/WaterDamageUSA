@@ -1,0 +1,46 @@
+{
+ "lead": "Florida leads the country in hurricane disasters, and summer humidity makes every leak a mold risk. DryBeacon helps homes and condos across the state get water out and dry fast.",
+ "risk": "hurricanes and storm surge, heavy summer rain, and humidity that speeds up mold",
+ "risk_short": "hurricanes, storm surge, humidity",
+ "why": [
+  "FEMA has declared 24 major hurricane disasters in Florida since 2000, more than any other state. Hurricane Michael flattened Mexico Beach in 2018, Ian flooded Fort Myers and Naples in 2022, and Helene and Milton hit the Gulf Coast two weeks apart in 2024. Storm surge, not wind, causes much of the water damage along the coast.",
+  "You do not need a hurricane for water damage here. In April 2023, Fort Lauderdale got about 26 inches of rain in a day. Year-round humidity means wet drywall can grow mold within a day or two. Most homes sit on concrete slabs, and many condos stack units, so one AC overflow can soak the ceilings of several neighbors. <a href=\"/locations/georgia/\">Georgia</a> and <a href=\"/locations/alabama/\">Alabama</a> share the Gulf storms."
+ ],
+ "image": "flood",
+ "image_alt": "Flooded street and homes after a Florida hurricane",
+ "image_caption": "Storm surge pushes saltwater into homes and ruins drywall, flooring and cabinets.",
+ "problems": [
+  [
+   "Storm surge flooding",
+   "Coastal homes from Pensacola to the Keys",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "AC condensate leaks",
+   "Attic and closet air handlers",
+   "<a href=\"/services/water-mitigation/\">Water mitigation</a>"
+  ],
+  [
+   "Condo unit-to-unit leaks",
+   "High-rise and mid-rise condos",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling repair</a>"
+  ],
+  [
+   "Fast mold growth",
+   "Any wet drywall in summer",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Clear the AC condensate line with vinegar every few months.",
+  "Before hurricane season, take photos of every room and store them online.",
+  "Know your evacuation zone and your flood zone; they are not the same.",
+  "After a storm, start drying within 24 hours if you safely can."
+ ],
+ "insurance": "Florida law requires notice of a new property claim within one year of the date of loss. Citizens Property Insurance Corporation covers many homes that private insurers will not, and most policies carry a separate hurricane deductible.",
+ "faq": {
+  "q": "How long do I have to file a water damage claim in Florida?",
+  "a": "Florida law sets a one-year deadline to give notice of a new property claim, counted from the date of loss. Report damage to your insurer as soon as you can, document everything, and keep receipts for emergency drying."
+ },
+ "areas": "Coastal calls come in from Fort Myers, Naples, Sarasota, Fort Lauderdale and Pensacola too."
+}

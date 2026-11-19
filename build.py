@@ -18,6 +18,7 @@ SITE = json.loads((SRC / "site.json").read_text())
 BASE = SITE["base_url"]
 SERVICES = json.loads((SRC / "services.json").read_text())
 SVC = {x["slug"]: x for x in SERVICES}
+import states  # noqa: E402  state hub pages
 
 # ---------------------------------------------------------------- helpers
 
@@ -107,6 +108,10 @@ def expand_components(body, meta, pages_by_path):
     body = re.sub(r"\{\{related:([\w,-]+)\}\}",
                   lambda m: svc_cards(m.group(1).split(","), pages_by_path), body)
     body = re.sub(r"\{\{cta:(.+?)\}\}", lambda m: cta_box(m.group(1)), body)
+    body = body.replace("{{states_grid}}", states.states_grid())
+    body = body.replace("{{state_pills}}", states.state_pills())
+    if "{{near_you}}" in body:
+        body = body.replace("{{near_you}}", f'<h2>{esc(meta["service"]["name"])} near you</h2>\n' + states.state_pills())
     body = body.replace("{{faq}}", faq_html(meta))
     body = body.replace("{{sources}}", sources_html(meta))
     return body
@@ -130,7 +135,7 @@ NAV = [("Services", "/services/"), ("Locations", "/locations/"), ("Guides", "/bl
 
 FOOTER_COLS = [
     ("Services", [(x["name"], f"/services/{x['slug']}/") for x in SERVICES]),
-    ("Company", [("About DryBeacon", "/about/"), ("Contact", "/contact/"),
+    ("Company", [("About DryBeacon", "/about/"), ("Locations", "/locations/"), ("Contact", "/contact/"),
                  ("Editorial policy", "/editorial-policy/"), ("Water damage guides", "/blog/"),
                  ("Glossary", "/glossary/")]),
     ("Legal", [("Privacy policy", "/privacy-policy/"), ("Terms of service", "/terms/"),
@@ -203,7 +208,7 @@ def schema_graph(meta, crumb_schema):
         graph.append({"@type": "Service", "@id": BASE + meta["path"] + "#service", "name": sv["name"],
                       "serviceType": sv.get("serviceType", sv["name"]), "description": meta["description"],
                       "provider": {"@id": BASE + "/#business"}, "url": BASE + meta["path"],
-                      "areaServed": {"@type": "Country", "name": "United States"},
+                      "areaServed": sv.get("areaServed", {"@type": "Country", "name": "United States"}),
                       "availableChannel": {"@type": "ServiceChannel", "servicePhone": {"@type": "ContactPoint",
                           "telephone": SITE["phone_e164"], "contactType": "customer service", "areaServed": "US"}}})
         page["mainEntity"] = {"@id": BASE + meta["path"] + "#service"}
@@ -328,6 +333,7 @@ def build():
     css = minify_css((SRC / "css" / "site.css").read_text())
 
     pages = [read_page(p) for p in sorted((SRC / "pages").rglob("*.html"))]
+    pages += states.all_state_pages()
     by_path = {p["path"]: p for p in pages}
     for meta in pages:
         if meta["path"] == "/404.html":

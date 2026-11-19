@@ -1,0 +1,45 @@
+{
+ "lead": "Tennessee faces flash floods, tornadoes and ice storms. DryBeacon helps owners from Nashville to Memphis, Knoxville and Chattanooga get water out and dry fast.",
+ "risk": "flash floods, severe storms and tornadoes, and winter freezes",
+ "risk_short": "flash floods, tornadoes, freezes",
+ "why": [
+  "In May 2010, two days of rain flooded Nashville. The Cumberland River rose into downtown, Opryland and thousands of homes. In August 2021, about 17 inches of rain fell on Humphreys County, and a flash flood tore through Waverly. In 2024, Helene flooded Erwin and other towns in east Tennessee.",
+  "Severe storms are Tennessee's most common disaster, with 35 FEMA declarations since 2000. Tornadoes hit Clarksville and Nashville suburbs in December 2023. Winter freezes burst pipes in homes built for mild weather. <a href=\"/locations/kentucky/\">Kentucky</a>, <a href=\"/locations/georgia/\">Georgia</a> and <a href=\"/locations/north-carolina/\">North Carolina</a> share many of these risks."
+ ],
+ "image": "floodyard",
+ "image_alt": "House surrounded by water after a flash flood",
+ "image_caption": "Flash floods in Tennessee's creek valleys can rise into homes within hours.",
+ "problems": [
+  [
+   "Flash flooding",
+   "Nashville, Waverly and creek towns",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Tornado and wind damage",
+   "Middle and west Tennessee",
+   "<a href=\"/services/storm-damage-restoration/\">Storm tarping and repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Crawl spaces and outside walls",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Wet crawl spaces",
+   "Homes across the state",
+   "<a href=\"/services/water-mitigation/\">Crawl space drying</a>"
+  ]
+ ],
+ "tips": [
+  "Buy flood insurance even outside mapped flood zones; many 2010 losses were outside them.",
+  "Insulate crawl space pipes before winter.",
+  "Clear gutters and keep downspouts away from the foundation.",
+  "Keep a weather radio for tornado and flood warnings."
+ ],
+ "insurance": "Tennessee homeowners policies cover wind and tornado damage, but flood needs a separate NFIP or private policy.",
+ "faq": {
+  "q": "Was the 2010 Nashville flood covered by homeowners insurance?",
+  "a": "No. Rising water from rivers and creeks is flood, which home policies exclude. Only owners with flood insurance had cover. That is why flood cover makes sense even outside high-risk zones in Tennessee."
+ }
+}

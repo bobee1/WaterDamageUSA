@@ -3,46 +3,29 @@
 Nationwide water damage restoration site. Brand **DryBeacon**, domain **drybeacon.com** (available on 2026-11-18, not yet purchased).
 Plan: "Nationwide Water Damage Local Services Site — Build Plan" (Claude doc). Rules: "Local Service Site SEO Criteria & AI Prompt" and "Blog Post Criteria & SEO Writing Prompt".
 
-Last updated: 2026-11-18
+Last updated: 2026-11-19
 
 ## Previous
+- Build 1 — Foundation, trust and legal pages: generator (`build.py`), design system, header/footer, mobile call bar, breadcrumbs, base JSON-LD; About, Contact (form → Pages Function → Resend), Privacy, Terms, Disclaimer, Editorial Policy, Accessibility, 404; robots, sitemap, `_headers`, `_redirects`, manifest, icons; 4 Pexels WebP photos; audit 0 issues.
+- Build 1b — Logo set and design system (Design System artifact "DryBeacon"); contrast fixes.
+- Build 1c — Palette B "Graphite + Signal Orange" (brand-dark #1d2329, beacon orange #ff7a1a, accent text #c2410c) to set DryBeacon apart from the owner's city sites.
+- Build 2 — Semrush keyword research (`research/`) and site plan doc "DryBeacon Site Plan — Build 2 Keyword Research"; approved by owner on 2026-11-19.
+- Build 3 — Home page, services hub and 10 service pages (1,040–1,343 words each); FAQ, Service and business schema; audit 0 issues; reading grade 5.7–8.2; responsive clean. Guide cards and glossary links wait for Build 5.
 - Plan approved: one national brand, state → metro → city structure, all 50 states + DC, one toll-free number, Cloudflare free plan.
 - Owner decisions: brand DryBeacon; own-business call routing; 24/7; 10+ years in business; legal owner Anjam Javed; toll-free 1-800-555-0199; email added after the domain is bought.
 
-## Current — Build 1: Foundation + trust and legal pages (done)
-- Static site generator (`build.py`) → `public/`, design system, header/footer, mobile call bar, breadcrumbs, JSON-LD (Organization, WebSite, WebPage, BreadcrumbList).
-- Pages: About, Contact (form → Cloudflare Pages Function → Resend), Privacy Policy, Terms of Service, Disclaimer, Editorial Policy, Accessibility, 404.
-- Utility: `robots.txt`, `sitemap.xml`, `_headers` (security headers + CSP + caching), `_redirects`, web manifest, favicon/app icons, default social image.
-- Images: 4 Pexels photos converted to WebP (2 sizes each, all under 200 KB).
-- Audit (`scripts/audit.py`): 0 issues.
-- Responsive check at 360 / 768 / 1280 px: no horizontal scroll, no console errors.
-
-## Current — Build 1b: Logo and design system (done)
-- Logo set (`src/static/img/brand/`): full-color lockup, reversed, one-color, mark, small mark, app icons. Header and footer use the lockups.
-- Favicon, apple-touch icon, PWA icons and default social image regenerated from the new logo.
-- Design system published as the "DryBeacon" Design System artifact (tokens, brand book, logo rules, 9 components). Site CSS variables use the same token names.
-- Accessibility fixes: focus outline and form field borders now meet 3:1 contrast.
-
-## Current — Build 1c: New color scheme (done)
-- Palette B "Graphite + Signal Orange": brand-dark #1d2329, beacon orange #ff7a1a for call buttons, warm gray surfaces, orange accent text #c2410c. Chosen to set DryBeacon apart from the owner's city sites.
-- Logo set, favicon, app icons and social image recolored; design system updated to match.
-
-## Current — Build 2: Keyword research and site plan (done, awaiting approval)
-- Semrush research saved in `research/` (about 4,500 API units used; 45,520 left).
-- Key findings: national terms KD 48–67; city terms mostly KD 10–40 with CPCs up to $256 (Frisco TX); city clusters run about 5x the exact phrase; state terms only 30–480/mo.
-- Plan for approval (Claude doc "DryBeacon Site Plan — Build 2 Keyword Research"): home + 10 service pages keyword map, city page rule (20+ searches/mo or inside a 300+ metro), Phase 1 priority list, first 10 guides, sitemap for Builds 3–5.
-
-## Current — Build 3: Home page, services hub and 10 service pages (done)
-- Home targets "water damage restoration" (1,506 words): quick answer, services grid, how it works, process, cost factors, warning signs, first steps, 7 FAQs, sources.
-- Services hub + 10 service pages (1,040–1,343 words each, longer than the benchmarked competitor pages): quick answer, checklist, cause tables, step-by-step process, cost factors, DIY vs pro, insurance notes, 5–6 FAQs, sources, related services.
-- Schema: Organization, WebSite, HomeAndConstructionBusiness (no address), Service, FAQPage, BreadcrumbList, WebPage with about/mentions/citation.
-- Checks: audit 0 issues; reading grade 5.7–8.2 on money pages; no repeated 14+ word paragraphs; no horizontal scroll at 360/768/1280; no console errors.
-- Not yet added (by design, waits for later builds): "near you" location links on service pages (Build 4), "Helpful guides" cards and glossary links (Build 5).
+## Current — Build 4: Locations hub + 51 state pages (done)
+- `/locations/` hub (state cards grouped by Census region) and 51 state pages at `/locations/<state>/` (50 states + DC), 950–1,150 words each.
+- Each state page: hand-written lead, "why water damage here is different" (verified local events), local problems table linked to services, homeowner tips, insurance and licensing notes, areas served, 4 FAQs, service cards, nearby-state links, sources.
+- Data on every page ("at a glance" table): Census ACS 2020–2024 housing figures (homes built before 1980/1940, median build year, ownership, mobile homes), top places, and FEMA major disaster declarations 2000–Nov 2026. Raw data in `research/06-state-data.json`.
+- Agencies: state insurance regulator, contractor licensing board (or "no statewide license" where true), and mold licensing in TX, FL, NY, LA and DC (`src/states/meta.json`).
+- Generator: `states.py` builds the pages from `src/states/content/<AB>.json`; schema adds Service with `areaServed` State, FAQPage, BreadcrumbList.
+- Internal links: "Locations" in the menu and footer, state links on the home page, a "Local note" plus "near you" state links on every service page; every state page has 3+ in-text links from other pages.
+- Checks: audit 0 issues (72 pages); reading grade ≤ 9 on every page; uniqueness 71–79% per state page vs its closest page (rule ≥ 60%, `scripts/uniqueness.py`); no horizontal scroll at 360/768/1280 on all 54 checked pages; no console errors.
 
 ## Coming
 | Build | Scope | Needs from owner |
 | --- | --- | --- |
-| 4 | Locations hub + 51 state hub pages | — |
 | 5 | Glossary (50+ terms) + Guides hub + first 10 guides | — |
 | 6 | Master city dataset (Census, NOAA, FEMA, EPA) + 50 metro hub pages | Data files (the workspace can't reach Census/NOAA directly) |
 | 7 | First 100 city pages | — |
@@ -57,5 +40,7 @@ Last updated: 2026-11-18
 ```
 python3 build.py          # writes public/
 python3 scripts/audit.py  # must print "PASS: 0 issues"
+python3 scripts/readability.py   # reading grade <= 9, no repeated paragraphs
+python3 scripts/uniqueness.py    # state pages >= 60% unique
 ```
 Cloudflare Pages: build output directory `public`, no build command needed (output is committed); `functions/` holds the form endpoint.

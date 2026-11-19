@@ -1,0 +1,46 @@
+{
+ "lead": "West Virginia's steep hollows and rivers make flash floods a constant risk. DryBeacon helps owners from Charleston to Huntington and Morgantown get water out fast.",
+ "risk": "flash floods in hollows and river valleys, severe storms and landslides",
+ "risk_short": "flash floods, river floods, storms",
+ "why": [
+  "In June 2016, about eight inches of rain fell in hours on Greenbrier County. Floods tore through White Sulphur Springs, Rainelle and Clendenin, and 23 people died. In February 2025, floods hit Mingo, Logan and McDowell counties hard. FEMA has declared 13 flood disasters in West Virginia since 2000, and 25 for severe storms.",
+  "Many homes sit along creeks in narrow valleys, where water rises fast. Over half of West Virginia homes were built before 1980, and 14% are mobile homes. Landslides can also damage foundations and pipes. <a href=\"/locations/kentucky/\">Kentucky</a> and <a href=\"/locations/virginia/\">Virginia</a> share the mountain flood risk."
+ ],
+ "image": "stairs",
+ "image_alt": "Floodwater moving into the lower level of a building",
+ "image_caption": "Flash floods in West Virginia's hollows can reach homes with little warning.",
+ "problems": [
+  [
+   "Flash flooding",
+   "Hollows and creek towns statewide",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "River flooding",
+   "Kanawha, Ohio and Greenbrier river towns",
+   "<a href=\"/services/water-extraction/\">Water extraction</a>"
+  ],
+  [
+   "Mobile home water damage",
+   "Rural areas statewide",
+   "<a href=\"/services/water-mitigation/\">Floor and subfloor drying</a>"
+  ],
+  [
+   "Mold after floods",
+   "Homes left wet for days",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Sign up for county flood alerts if you live near a creek.",
+  "Keep insurance papers and medicines where you can grab them fast.",
+  "Mobile home owners should anchor homes and check skirting.",
+  "Buy flood insurance; NFIP cover takes 30 days to start."
+ ],
+ "insurance": "Most West Virginia flood victims in 2016 had no flood insurance. Homeowners policies do not cover rising water.",
+ "faq": {
+  "q": "What should I do first after a flash flood in West Virginia?",
+  "a": "Get to safety and wait for officials to clear the area. Watch for gas leaks and wet wiring. Take photos, wear boots and gloves, and call DryBeacon to remove mud and water and start drying."
+ },
+ "licensing_faq": "Yes. The West Virginia Contractor Licensing Board licenses contractors for most jobs over a set dollar amount. Plumbers and electricians need state licenses."
+}

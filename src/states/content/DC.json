@@ -1,0 +1,48 @@
+{
+ "lead": "Washington, DC's rowhouses, basement units and older plumbing make water damage a common problem. DryBeacon helps owners and tenants across all eight wards get water out and dry out.",
+ "risk": "flash flooding, basement backups and leaks in older rowhouses and condos",
+ "risk_short": "flash floods, basement backups, old pipes",
+ "why": [
+  "Nearly a third of DC homes were built before 1940, more than in any state. Rowhouses share walls, so a leak in one unit can travel to the next. English basements sit partly below ground and flood when storm drains back up. In older neighborhoods, the combined sewer system carries both storm water and sewage, and heavy rain can overwhelm it.",
+  "Flash floods are real here. In June 2006, heavy rain flooded the Federal Triangle and several museums, and a July 2019 storm dropped more than three inches in an hour. The Potomac and Anacostia rivers also rise in big storms. Neighboring <a href=\"/locations/maryland/\">Maryland</a> and <a href=\"/locations/virginia/\">Virginia</a> share the region's storms."
+ ],
+ "image": "stairs",
+ "image_alt": "Floodwater running down stairs into a below-ground basement unit",
+ "image_caption": "English basements in DC rowhouses often flood first when storm drains back up.",
+ "problems": [
+  [
+   "Basement unit flooding",
+   "Rowhouses in Capitol Hill, Petworth, Shaw",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Sewer backups",
+   "Older homes on the combined sewer system",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Unit-to-unit leaks",
+   "Condos and apartment buildings",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling water damage repair</a>"
+  ],
+  [
+   "Old pipe failures",
+   "Pre-war rowhouses",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Install a backwater valve if your basement has a floor drain or bathroom.",
+  "Keep window wells and stairwell drains clear of leaves.",
+  "In a condo, keep your HO-6 policy up to date and know your building's insurance rules.",
+  "Ask your landlord or condo board where the main water shut-off is."
+ ],
+ "insurance": "Renters in DC basement units should carry renters insurance; the landlord's policy covers the building, not the tenant's belongings.",
+ "faq": {
+  "q": "Who fixes water damage in a DC rental?",
+  "a": "The landlord is usually responsible for repairing the building and fixing leaks. Tenants are responsible for their own belongings, which renters insurance can cover. Report leaks to the landlord in writing right away."
+ },
+ "areas": "DryBeacon handles water damage calls across the District, from Georgetown, Dupont Circle and Capitol Hill to Columbia Heights, Brookland, Navy Yard and Anacostia. Close-in suburbs like Silver Spring, Bethesda, Arlington and Alexandria are included.",
+ "licensing": "The DC Department of Licensing and Consumer Protection licenses home improvement contractors, and DC requires permits for most rebuild work.",
+ "licensing_faq": "Yes. Home improvement contractors in DC need a license from the Department of Licensing and Consumer Protection, and plumbing and electrical work need licensed trades."
+}

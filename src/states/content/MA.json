@@ -1,0 +1,46 @@
+{
+ "lead": "Massachusetts has old homes, long winters and nor'easters. DryBeacon helps owners from Boston to Springfield dry out after ice dams, burst pipes and wet basements.",
+ "risk": "ice dams, frozen pipes, nor'easter flooding and old plumbing",
+ "risk_short": "ice dams, frozen pipes, nor'easters",
+ "why": [
+  "About 30% of Massachusetts homes were built before 1940. Many triple-deckers, colonials and capes have old pipes, stone walls and thin attic insulation. The record snow of 2015 caused ice dams all over eastern Massachusetts. Water backed up under shingles and ran into walls.",
+  "Coastal storms add flooding. Nor'easters in March 2018 flooded Boston's waterfront and the South Shore. Inland, a storm in September 2023 dropped about 10 inches of rain on Leominster and washed out streets. <a href=\"/locations/connecticut/\">Connecticut</a>, <a href=\"/locations/rhode-island/\">Rhode Island</a> and <a href=\"/locations/new-hampshire/\">New Hampshire</a> see the same kinds of storms."
+ ],
+ "image": "ceiling",
+ "image_alt": "Ceiling damaged and collapsing after a roof leak",
+ "image_caption": "Ice dam leaks are a top cause of winter ceiling damage in Massachusetts.",
+ "problems": [
+  [
+   "Ice dams",
+   "Capes, colonials and three-deckers",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling water damage repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Outside walls and unheated porches",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Coastal flooding",
+   "Boston Harbor, South Shore, Cape Cod",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Wet basements",
+   "Stone foundations statewide",
+   "<a href=\"/services/water-extraction/\">Basement water removal</a>"
+  ]
+ ],
+ "tips": [
+  "Seal attic air leaks and add insulation to prevent ice dams.",
+  "In a three-decker, know where each unit's shut-off valve is.",
+  "Keep basement storage on shelves off the floor.",
+  "On the Cape and Islands, check your policy for a hurricane deductible."
+ ],
+ "insurance": "Many homes on the Cape and Islands have a separate hurricane deductible. Some owners get cover through the Massachusetts FAIR Plan.",
+ "faq": {
+  "q": "Does insurance cover ice dam damage in Massachusetts?",
+  "a": "Most home policies cover water that leaks in from an ice dam. They usually do not pay to remove the ice or fix poor insulation. Take photos and report the leak fast."
+ },
+ "licensing_faq": "Home improvement contractors in Massachusetts must register with the state. Structural work also needs a Construction Supervisor License."
+}

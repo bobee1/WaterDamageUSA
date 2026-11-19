@@ -28,6 +28,11 @@ def main():
         m = re.search(r'<div class="wrap content[^"]*">(.*?)</div>\s*(?:<section class="cta-band"|</main>)', raw, re.S)
         if not m: continue
         body = re.sub(r"<(svg|table)[\s\S]*?</\1>", " ", m.group(1))
+        # link lists (pills, service cards, source lists) are navigation, not prose
+        body = re.sub(r'<ul class="pills[\s\S]*?</ul>', " ", body)
+        body = re.sub(r'<ul class="state-grid[\s\S]*?</ul>', " ", body)
+        body = re.sub(r'<div class="card">[\s\S]*?</div>', " ", body)
+        body = re.sub(r'<ul class="sources">[\s\S]*?</ul>', " ", body)
         for p in re.findall(r"<(?:p|li)(?![^>]*class=\"reviewed\")[^>]*>(.*?)</(?:p|li)>", body, re.S):
             t = re.sub(r"<[^>]+>", "", p).strip()
             if len(t.split()) >= 14: paras[t].add(rel)

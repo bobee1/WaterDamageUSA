@@ -1,0 +1,46 @@
+{
+ "lead": "New Jersey homes face coastal storms, river floods and basement flooding in older towns. DryBeacon helps owners from Newark to the Shore get water out fast.",
+ "risk": "coastal storm surge, river and flash flooding, and basement water in older homes",
+ "risk_short": "coastal storms, river floods, basements",
+ "why": [
+  "Hurricane Sandy's surge in 2012 flooded the Jersey Shore, Hoboken and the Meadowlands. Whole blocks in Seaside Heights, Toms River and Little Ferry took on water. In 2021, the remnants of Ida dropped record rain. The Raritan River flooded Manville and Bound Brook, and water filled basements across north Jersey.",
+  "Older towns have old sewers and basement apartments. Heavy rain overwhelms drains and pushes water and sewage in. Over 60% of New Jersey homes were built before 1980. <a href=\"/locations/new-york/\">New York</a> and <a href=\"/locations/pennsylvania/\">Pennsylvania</a> share many of these storms."
+ ],
+ "image": "flood",
+ "image_alt": "Flooded street with a flood barrier in a coastal town",
+ "image_caption": "Storm surge and river flooding have both pushed water into New Jersey homes in recent years.",
+ "problems": [
+  [
+   "Storm surge",
+   "Shore towns from Sandy Hook to Cape May",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "River flooding",
+   "Manville, Bound Brook and the Passaic basin",
+   "<a href=\"/services/water-extraction/\">Water extraction</a>"
+  ],
+  [
+   "Basement sewer backups",
+   "Older towns in north Jersey",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Burst pipes",
+   "Older homes in winter",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "If you rent a basement unit, keep valuables off the floor and carry renters insurance.",
+  "Install a backwater valve on basement drains.",
+  "Shore owners should check flood zone and elevation before buying.",
+  "Clear storm drains near your home before big storms."
+ ],
+ "insurance": "After Sandy, many Shore homes were raised to meet flood rules. Owners may see lower NFIP premiums after elevating.",
+ "faq": {
+  "q": "Does renters insurance cover a flooded basement apartment in New Jersey?",
+  "a": "Renters insurance covers belongings for many water problems, like a burst pipe. It usually does not cover flood from rising water unless you buy separate flood cover for contents. The landlord's policy covers the building itself."
+ },
+ "licensing_faq": "Yes. Home improvement contractors in New Jersey must register with the Division of Consumer Affairs. Plumbers and electricians need state licenses."
+}

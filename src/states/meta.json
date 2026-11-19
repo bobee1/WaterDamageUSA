@@ -1,0 +1,915 @@
+{
+"AL": {
+"name": "Alabama",
+"slug": "alabama",
+"neighbors": [
+"MS",
+"TN",
+"GA",
+"FL"
+],
+"doi": [
+"Alabama Department of Insurance",
+"https://www.aldoi.gov/"
+],
+"contractor": [
+"Alabama Licensing Board for General Contractors",
+"https://genconbd.alabama.gov/"
+]
+},
+"AK": {
+"name": "Alaska",
+"slug": "alaska",
+"neighbors": [
+"WA",
+"OR",
+"HI"
+],
+"doi": [
+"Alaska Division of Insurance",
+"https://www.commerce.alaska.gov/web/ins/"
+],
+"contractor": [
+"Alaska Division of Corporations, Business and Professional Licensing",
+"https://www.commerce.alaska.gov/web/cbpl/"
+]
+},
+"AZ": {
+"name": "Arizona",
+"slug": "arizona",
+"neighbors": [
+"CA",
+"NV",
+"UT",
+"NM",
+"CO"
+],
+"doi": [
+"Arizona Department of Insurance and Financial Institutions",
+"https://azdfi.gov/"
+],
+"contractor": [
+"Arizona Registrar of Contractors",
+"https://roc.az.gov/"
+]
+},
+"AR": {
+"name": "Arkansas",
+"slug": "arkansas",
+"neighbors": [
+"MO",
+"TN",
+"MS",
+"LA",
+"TX",
+"OK"
+],
+"doi": [
+"Arkansas Insurance Department",
+"https://insurance.arkansas.gov/"
+],
+"contractor": [
+"Arkansas Contractors Licensing Board",
+"https://www.aclb.arkansas.gov/"
+]
+},
+"CA": {
+"name": "California",
+"slug": "california",
+"neighbors": [
+"OR",
+"NV",
+"AZ",
+"HI"
+],
+"doi": [
+"California Department of Insurance",
+"https://www.insurance.ca.gov/"
+],
+"contractor": [
+"Contractors State License Board (CSLB)",
+"https://www.cslb.ca.gov/"
+]
+},
+"CO": {
+"name": "Colorado",
+"slug": "colorado",
+"neighbors": [
+"WY",
+"NE",
+"KS",
+"OK",
+"NM",
+"UT"
+],
+"doi": [
+"Colorado Division of Insurance",
+"https://doi.colorado.gov/"
+],
+"contractor": null
+},
+"CT": {
+"name": "Connecticut",
+"slug": "connecticut",
+"neighbors": [
+"NY",
+"MA",
+"RI"
+],
+"doi": [
+"Connecticut Insurance Department",
+"https://portal.ct.gov/cid"
+],
+"contractor": [
+"Connecticut Department of Consumer Protection",
+"https://portal.ct.gov/dcp"
+]
+},
+"DE": {
+"name": "Delaware",
+"slug": "delaware",
+"neighbors": [
+"MD",
+"PA",
+"NJ"
+],
+"doi": [
+"Delaware Department of Insurance",
+"https://insurance.delaware.gov/"
+],
+"contractor": [
+"Delaware Division of Revenue (contractor registration)",
+"https://revenue.delaware.gov/"
+]
+},
+"DC": {
+"name": "District of Columbia",
+"slug": "district-of-columbia",
+"neighbors": [
+"MD",
+"VA"
+],
+"doi": [
+"DC Department of Insurance, Securities and Banking",
+"https://disb.dc.gov/"
+],
+"contractor": [
+"DC Department of Licensing and Consumer Protection",
+"https://dlcp.dc.gov/"
+],
+"mold": [
+"DC Department of Energy and Environment (DOEE) mold licensing",
+"https://doee.dc.gov/"
+]
+},
+"FL": {
+"name": "Florida",
+"slug": "florida",
+"neighbors": [
+"GA",
+"AL"
+],
+"doi": [
+"Florida Office of Insurance Regulation",
+"https://www.floir.com/"
+],
+"contractor": [
+"Florida Construction Industry Licensing Board (DBPR)",
+"https://www2.myfloridalicense.com/construction-industry/"
+],
+"mold": [
+"Florida DBPR mold-related services licensing",
+"https://www2.myfloridalicense.com/"
+]
+},
+"GA": {
+"name": "Georgia",
+"slug": "georgia",
+"neighbors": [
+"FL",
+"AL",
+"TN",
+"NC",
+"SC"
+],
+"doi": [
+"Georgia Office of Commissioner of Insurance and Safety Fire",
+"https://oci.georgia.gov/"
+],
+"contractor": [
+"Georgia State Licensing Board for Residential and General Contractors",
+"https://sos.ga.gov/"
+]
+},
+"HI": {
+"name": "Hawaii",
+"slug": "hawaii",
+"neighbors": [
+"CA",
+"AK"
+],
+"doi": [
+"Hawaii Insurance Division",
+"https://cca.hawaii.gov/ins/"
+],
+"contractor": [
+"Hawaii Contractors License Board",
+"https://cca.hawaii.gov/pvl/boards/contractor/"
+]
+},
+"ID": {
+"name": "Idaho",
+"slug": "idaho",
+"neighbors": [
+"WA",
+"OR",
+"NV",
+"UT",
+"WY",
+"MT"
+],
+"doi": [
+"Idaho Department of Insurance",
+"https://doi.idaho.gov/"
+],
+"contractor": [
+"Idaho Contractors Board (registration)",
+"https://dopl.idaho.gov/"
+]
+},
+"IL": {
+"name": "Illinois",
+"slug": "illinois",
+"neighbors": [
+"WI",
+"IA",
+"MO",
+"KY",
+"IN"
+],
+"doi": [
+"Illinois Department of Insurance",
+"https://idoi.illinois.gov/"
+],
+"contractor": null
+},
+"IN": {
+"name": "Indiana",
+"slug": "indiana",
+"neighbors": [
+"IL",
+"MI",
+"OH",
+"KY"
+],
+"doi": [
+"Indiana Department of Insurance",
+"https://www.in.gov/idoi/"
+],
+"contractor": null
+},
+"IA": {
+"name": "Iowa",
+"slug": "iowa",
+"neighbors": [
+"MN",
+"WI",
+"IL",
+"MO",
+"NE",
+"SD"
+],
+"doi": [
+"Iowa Insurance Division",
+"https://iid.iowa.gov/"
+],
+"contractor": [
+"Iowa Division of Labor (contractor registration)",
+"https://www.iowadivisionoflabor.gov/"
+]
+},
+"KS": {
+"name": "Kansas",
+"slug": "kansas",
+"neighbors": [
+"NE",
+"MO",
+"OK",
+"CO"
+],
+"doi": [
+"Kansas Department of Insurance",
+"https://insurance.kansas.gov/"
+],
+"contractor": null
+},
+"KY": {
+"name": "Kentucky",
+"slug": "kentucky",
+"neighbors": [
+"OH",
+"WV",
+"VA",
+"TN",
+"MO",
+"IL",
+"IN"
+],
+"doi": [
+"Kentucky Department of Insurance",
+"https://insurance.ky.gov/"
+],
+"contractor": null
+},
+"LA": {
+"name": "Louisiana",
+"slug": "louisiana",
+"neighbors": [
+"TX",
+"AR",
+"MS"
+],
+"doi": [
+"Louisiana Department of Insurance",
+"https://www.ldi.la.gov/"
+],
+"contractor": [
+"Louisiana State Licensing Board for Contractors",
+"https://lslbc.louisiana.gov/"
+],
+"mold": [
+"Louisiana State Licensing Board for Contractors (mold remediation license)",
+"https://lslbc.louisiana.gov/"
+]
+},
+"ME": {
+"name": "Maine",
+"slug": "maine",
+"neighbors": [
+"NH",
+"MA",
+"VT"
+],
+"doi": [
+"Maine Bureau of Insurance",
+"https://www.maine.gov/pfr/insurance/"
+],
+"contractor": null
+},
+"MD": {
+"name": "Maryland",
+"slug": "maryland",
+"neighbors": [
+"PA",
+"DE",
+"VA",
+"WV",
+"DC"
+],
+"doi": [
+"Maryland Insurance Administration",
+"https://insurance.maryland.gov/"
+],
+"contractor": [
+"Maryland Home Improvement Commission",
+"https://www.labor.maryland.gov/license/mhic/"
+]
+},
+"MA": {
+"name": "Massachusetts",
+"slug": "massachusetts",
+"neighbors": [
+"NH",
+"VT",
+"NY",
+"CT",
+"RI",
+"ME"
+],
+"doi": [
+"Massachusetts Division of Insurance",
+"https://www.mass.gov/orgs/division-of-insurance"
+],
+"contractor": [
+"Massachusetts Home Improvement Contractor registration",
+"https://www.mass.gov/home-improvement-contractor-registration-and-renewal"
+]
+},
+"MI": {
+"name": "Michigan",
+"slug": "michigan",
+"neighbors": [
+"OH",
+"IN",
+"WI"
+],
+"doi": [
+"Michigan Department of Insurance and Financial Services",
+"https://www.michigan.gov/difs"
+],
+"contractor": [
+"Michigan Department of Licensing and Regulatory Affairs (LARA)",
+"https://www.michigan.gov/lara"
+]
+},
+"MN": {
+"name": "Minnesota",
+"slug": "minnesota",
+"neighbors": [
+"WI",
+"IA",
+"SD",
+"ND"
+],
+"doi": [
+"Minnesota Department of Commerce",
+"https://mn.gov/commerce/insurance/"
+],
+"contractor": [
+"Minnesota Department of Labor and Industry",
+"https://www.dli.mn.gov/"
+]
+},
+"MS": {
+"name": "Mississippi",
+"slug": "mississippi",
+"neighbors": [
+"LA",
+"AR",
+"TN",
+"AL"
+],
+"doi": [
+"Mississippi Insurance Department",
+"https://www.mid.ms.gov/"
+],
+"contractor": [
+"Mississippi State Board of Contractors",
+"https://www.msboc.us/"
+]
+},
+"MO": {
+"name": "Missouri",
+"slug": "missouri",
+"neighbors": [
+"IA",
+"IL",
+"KY",
+"TN",
+"AR",
+"OK",
+"KS",
+"NE"
+],
+"doi": [
+"Missouri Department of Commerce and Insurance",
+"https://insurance.mo.gov/"
+],
+"contractor": null
+},
+"MT": {
+"name": "Montana",
+"slug": "montana",
+"neighbors": [
+"ID",
+"WY",
+"SD",
+"ND"
+],
+"doi": [
+"Montana Commissioner of Securities and Insurance",
+"https://csimt.gov/"
+],
+"contractor": [
+"Montana Department of Labor and Industry (contractor registration)",
+"https://erd.dli.mt.gov/"
+]
+},
+"NE": {
+"name": "Nebraska",
+"slug": "nebraska",
+"neighbors": [
+"SD",
+"IA",
+"MO",
+"KS",
+"CO",
+"WY"
+],
+"doi": [
+"Nebraska Department of Insurance",
+"https://doi.nebraska.gov/"
+],
+"contractor": [
+"Nebraska Department of Labor (contractor registration)",
+"https://dol.nebraska.gov/"
+]
+},
+"NV": {
+"name": "Nevada",
+"slug": "nevada",
+"neighbors": [
+"OR",
+"ID",
+"UT",
+"AZ",
+"CA"
+],
+"doi": [
+"Nevada Division of Insurance",
+"https://doi.nv.gov/"
+],
+"contractor": [
+"Nevada State Contractors Board",
+"https://www.nscb.nv.gov/"
+]
+},
+"NH": {
+"name": "New Hampshire",
+"slug": "new-hampshire",
+"neighbors": [
+"VT",
+"ME",
+"MA"
+],
+"doi": [
+"New Hampshire Insurance Department",
+"https://www.insurance.nh.gov/"
+],
+"contractor": null
+},
+"NJ": {
+"name": "New Jersey",
+"slug": "new-jersey",
+"neighbors": [
+"NY",
+"PA",
+"DE"
+],
+"doi": [
+"New Jersey Department of Banking and Insurance",
+"https://www.nj.gov/dobi/"
+],
+"contractor": [
+"New Jersey Division of Consumer Affairs (home improvement contractors)",
+"https://www.njconsumeraffairs.gov/hic/"
+]
+},
+"NM": {
+"name": "New Mexico",
+"slug": "new-mexico",
+"neighbors": [
+"AZ",
+"UT",
+"CO",
+"OK",
+"TX"
+],
+"doi": [
+"New Mexico Office of Superintendent of Insurance",
+"https://www.osi.state.nm.us/"
+],
+"contractor": [
+"New Mexico Regulation and Licensing Department, Construction Industries Division",
+"https://www.rld.nm.gov/construction-industries/"
+]
+},
+"NY": {
+"name": "New York",
+"slug": "new-york",
+"neighbors": [
+"NJ",
+"PA",
+"CT",
+"MA",
+"VT",
+"RI"
+],
+"doi": [
+"New York Department of Financial Services",
+"https://www.dfs.ny.gov/"
+],
+"contractor": null,
+"mold": [
+"New York State Department of Labor mold program",
+"https://dol.ny.gov/mold-program"
+]
+},
+"NC": {
+"name": "North Carolina",
+"slug": "north-carolina",
+"neighbors": [
+"VA",
+"TN",
+"GA",
+"SC"
+],
+"doi": [
+"North Carolina Department of Insurance",
+"https://www.ncdoi.gov/"
+],
+"contractor": [
+"North Carolina Licensing Board for General Contractors",
+"https://nclbgc.org/"
+]
+},
+"ND": {
+"name": "North Dakota",
+"slug": "north-dakota",
+"neighbors": [
+"MN",
+"SD",
+"MT"
+],
+"doi": [
+"North Dakota Insurance Department",
+"https://www.insurance.nd.gov/"
+],
+"contractor": [
+"North Dakota Secretary of State (contractor licensing)",
+"https://www.sos.nd.gov/"
+]
+},
+"OH": {
+"name": "Ohio",
+"slug": "ohio",
+"neighbors": [
+"PA",
+"WV",
+"KY",
+"IN",
+"MI"
+],
+"doi": [
+"Ohio Department of Insurance",
+"https://insurance.ohio.gov/"
+],
+"contractor": null
+},
+"OK": {
+"name": "Oklahoma",
+"slug": "oklahoma",
+"neighbors": [
+"KS",
+"MO",
+"AR",
+"TX",
+"NM",
+"CO"
+],
+"doi": [
+"Oklahoma Insurance Department",
+"https://www.oid.ok.gov/"
+],
+"contractor": null
+},
+"OR": {
+"name": "Oregon",
+"slug": "oregon",
+"neighbors": [
+"WA",
+"ID",
+"NV",
+"CA"
+],
+"doi": [
+"Oregon Division of Financial Regulation",
+"https://dfr.oregon.gov/"
+],
+"contractor": [
+"Oregon Construction Contractors Board",
+"https://www.oregon.gov/ccb/"
+]
+},
+"PA": {
+"name": "Pennsylvania",
+"slug": "pennsylvania",
+"neighbors": [
+"NY",
+"NJ",
+"DE",
+"MD",
+"WV",
+"OH"
+],
+"doi": [
+"Pennsylvania Insurance Department",
+"https://www.pa.gov/agencies/insurance"
+],
+"contractor": null
+},
+"RI": {
+"name": "Rhode Island",
+"slug": "rhode-island",
+"neighbors": [
+"CT",
+"MA"
+],
+"doi": [
+"Rhode Island Department of Business Regulation, Insurance Division",
+"https://dbr.ri.gov/insurance"
+],
+"contractor": [
+"Rhode Island Contractors' Registration and Licensing Board",
+"https://crb.ri.gov/"
+]
+},
+"SC": {
+"name": "South Carolina",
+"slug": "south-carolina",
+"neighbors": [
+"NC",
+"GA"
+],
+"doi": [
+"South Carolina Department of Insurance",
+"https://doi.sc.gov/"
+],
+"contractor": [
+"South Carolina Contractor's Licensing Board (LLR)",
+"https://llr.sc.gov/clb/"
+]
+},
+"SD": {
+"name": "South Dakota",
+"slug": "south-dakota",
+"neighbors": [
+"ND",
+"MN",
+"IA",
+"NE",
+"WY",
+"MT"
+],
+"doi": [
+"South Dakota Division of Insurance",
+"https://dlr.sd.gov/insurance/"
+],
+"contractor": null
+},
+"TN": {
+"name": "Tennessee",
+"slug": "tennessee",
+"neighbors": [
+"KY",
+"VA",
+"NC",
+"GA",
+"AL",
+"MS",
+"AR",
+"MO"
+],
+"doi": [
+"Tennessee Department of Commerce and Insurance",
+"https://www.tn.gov/commerce/insurance.html"
+],
+"contractor": [
+"Tennessee Board for Licensing Contractors",
+"https://www.tn.gov/commerce/regboards/contractors.html"
+]
+},
+"TX": {
+"name": "Texas",
+"slug": "texas",
+"neighbors": [
+"NM",
+"OK",
+"AR",
+"LA"
+],
+"doi": [
+"Texas Department of Insurance",
+"https://www.tdi.texas.gov/"
+],
+"contractor": null,
+"mold": [
+"Texas Department of Licensing and Regulation (TDLR)",
+"https://www.tdlr.texas.gov/mold/mold.htm"
+]
+},
+"UT": {
+"name": "Utah",
+"slug": "utah",
+"neighbors": [
+"ID",
+"WY",
+"CO",
+"AZ",
+"NV"
+],
+"doi": [
+"Utah Insurance Department",
+"https://insurance.utah.gov/"
+],
+"contractor": [
+"Utah Division of Professional Licensing (DOPL)",
+"https://dopl.utah.gov/"
+]
+},
+"VT": {
+"name": "Vermont",
+"slug": "vermont",
+"neighbors": [
+"NH",
+"MA",
+"NY"
+],
+"doi": [
+"Vermont Department of Financial Regulation",
+"https://dfr.vermont.gov/"
+],
+"contractor": null
+},
+"VA": {
+"name": "Virginia",
+"slug": "virginia",
+"neighbors": [
+"MD",
+"DC",
+"WV",
+"KY",
+"TN",
+"NC"
+],
+"doi": [
+"Virginia Bureau of Insurance (State Corporation Commission)",
+"https://www.scc.virginia.gov/"
+],
+"contractor": [
+"Virginia Board for Contractors (DPOR)",
+"https://www.dpor.virginia.gov/Boards/Contractors"
+]
+},
+"WA": {
+"name": "Washington",
+"slug": "washington",
+"neighbors": [
+"OR",
+"ID",
+"AK"
+],
+"doi": [
+"Washington Office of the Insurance Commissioner",
+"https://www.insurance.wa.gov/"
+],
+"contractor": [
+"Washington Department of Labor and Industries (contractor registration)",
+"https://lni.wa.gov/licensing-permits/contractors/"
+]
+},
+"WV": {
+"name": "West Virginia",
+"slug": "west-virginia",
+"neighbors": [
+"PA",
+"MD",
+"VA",
+"KY",
+"OH"
+],
+"doi": [
+"West Virginia Offices of the Insurance Commissioner",
+"https://www.wvinsurance.gov/"
+],
+"contractor": [
+"West Virginia Contractor Licensing Board",
+"https://labor.wv.gov/"
+]
+},
+"WI": {
+"name": "Wisconsin",
+"slug": "wisconsin",
+"neighbors": [
+"MN",
+"IA",
+"IL",
+"MI"
+],
+"doi": [
+"Wisconsin Office of the Commissioner of Insurance",
+"https://oci.wi.gov/"
+],
+"contractor": [
+"Wisconsin Department of Safety and Professional Services",
+"https://dsps.wi.gov/"
+]
+},
+"WY": {
+"name": "Wyoming",
+"slug": "wyoming",
+"neighbors": [
+"MT",
+"SD",
+"NE",
+"CO",
+"UT",
+"ID"
+],
+"doi": [
+"Wyoming Department of Insurance",
+"https://doi.wyo.gov/"
+],
+"contractor": null
+}
+}

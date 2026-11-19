@@ -1,0 +1,46 @@
+{
+ "lead": "Wyoming's long, cold winters and spring runoff cause most of its water damage. DryBeacon helps owners from Cheyenne to Casper, Laramie and Jackson dry out.",
+ "risk": "frozen pipes, spring snowmelt flooding and hail",
+ "risk_short": "frozen pipes, snowmelt, hail",
+ "why": [
+  "Wyoming is cold, windy and high. Pipes freeze in garages, crawl spaces and empty vacation homes, often when wind drives cold air into walls. A pipe that bursts in a Jackson second home can run for days before anyone notices.",
+  "Spring melt and rain swell rivers like the Wind, Big Horn and Snake. FEMA has declared four flood disasters in Wyoming since 2000. Hail hits Cheyenne and the southeast plains most summers. <a href=\"/locations/montana/\">Montana</a> and <a href=\"/locations/colorado/\">Colorado</a> share Wyoming's winter and hail risks."
+ ],
+ "image": "pipe",
+ "image_alt": "Split pipe dripping water after freezing",
+ "image_caption": "Wind-driven cold can freeze pipes inside Wyoming walls in a single night.",
+ "problems": [
+  [
+   "Frozen and burst pipes",
+   "Homes, cabins and second homes",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Snowmelt flooding",
+   "River towns and low ground",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Hail-damaged roofs",
+   "Cheyenne and the southeast plains",
+   "<a href=\"/services/storm-damage-restoration/\">Storm repair</a>"
+  ],
+  [
+   "Ice dams",
+   "Jackson and mountain towns",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling repair</a>"
+  ]
+ ],
+ "tips": [
+  "Seal gaps where wind can reach pipes in walls and crawl spaces.",
+  "Install a leak sensor and auto shut-off in second homes.",
+  "Inspect the roof after hail.",
+  "Clear snow away from the house before spring."
+ ],
+ "insurance": "Freeze claims may be denied if a vacation home was left unheated, so keep heat on or drain the plumbing.",
+ "faq": {
+  "q": "How do I protect a Wyoming vacation home from frozen pipes?",
+  "a": "Keep heat at 55\u00b0F or higher, or drain the plumbing when you leave. Shut off the main water valve and install a temperature alarm. Ask someone to check the house after cold snaps."
+ },
+ "licensing": "Wyoming has no statewide general contractor license, so cities and counties set the rules. Electricians need state licenses, and some cities license plumbers."
+}

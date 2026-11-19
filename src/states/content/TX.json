@@ -1,0 +1,48 @@
+{
+ "lead": "Texas has it all: Gulf hurricanes, flash floods, hail and the 2021 freeze. DryBeacon helps homes and businesses from Houston to Dallas, Austin and San Antonio dry out.",
+ "risk": "hurricanes and flash floods, hail damage and occasional hard freezes",
+ "risk_short": "hurricanes, flash floods, hail, freezes",
+ "why": [
+  "Hurricane Harvey stalled over Houston in 2017 and dropped more than 50 inches of rain in some spots. Over 100,000 homes flooded. Hurricane Beryl hit Houston in 2024. The Hill Country has some of the worst flash flood risk in the country; in July 2025, the Guadalupe River rose more than 20 feet near Kerrville.",
+  "North Texas gets some of the worst hail in the country. In February 2021, Winter Storm Uri froze pipes in homes across the state, many built with plumbing in attics and outside walls. Most Texas homes sit on slabs over clay that shifts, which can crack pipes. <a href=\"/locations/louisiana/\">Louisiana</a> and <a href=\"/locations/oklahoma/\">Oklahoma</a> share many of these risks."
+ ],
+ "image": "flood",
+ "image_alt": "Flooded neighborhood with water reaching homes",
+ "image_caption": "Harvey showed that flooding in Texas can reach homes far outside mapped flood zones.",
+ "problems": [
+  [
+   "Hurricane and rain flooding",
+   "Houston, Beaumont and the Gulf Coast",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Hail-damaged roofs",
+   "Dallas-Fort Worth, Austin and San Antonio",
+   "<a href=\"/services/storm-damage-restoration/\">Storm damage restoration</a>"
+  ],
+  [
+   "Burst pipes in freezes",
+   "Attics and outside walls statewide",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Slab leaks",
+   "Homes on shifting clay soil",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and floor drying</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate attic and outside-wall pipes before winter; many Texas homes run plumbing there.",
+  "Know your flood risk; much Harvey damage was outside high-risk zones.",
+  "Inspect your roof after every hail storm.",
+  "Keep soil around the slab evenly moist in drought to limit shifting."
+ ],
+ "insurance": "Wind and hail on the coast is often covered by the Texas Windstorm Insurance Association (TWIA) in 14 coastal counties. Flood still needs a separate policy.",
+ "faq": {
+  "q": "Who covers wind damage on the Texas coast?",
+  "a": "In the 14 coastal counties, many homes get wind and hail cover from the Texas Windstorm Insurance Association. Your regular policy covers other risks. Flood needs its own NFIP or private policy."
+ },
+ "areas": "Coastal calls also come from Galveston, Beaumont and Port Arthur, and Hill Country calls from Kerrville and New Braunfels.",
+ "licensing": "Texas has no statewide general contractor license, so cities set rules and require permits. Plumbers, electricians and HVAC contractors need state licenses.",
+ "licensing_faq": "Texas has no statewide general contractor license. Plumbing, electrical and HVAC work need state-licensed trades."
+}

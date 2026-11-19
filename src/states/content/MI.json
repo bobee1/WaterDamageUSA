@@ -1,0 +1,46 @@
+{
+ "lead": "Michigan homes take water damage from basement floods, frozen pipes and big summer storms. DryBeacon helps owners from Detroit to Grand Rapids get water out and dry fast.",
+ "risk": "basement flooding, frozen pipes and severe storms",
+ "risk_short": "basement floods, frozen pipes, storms",
+ "why": [
+  "Metro Detroit's sewer system can't keep up with the heaviest storms. In June 2021, about six inches of rain flooded freeways and tens of thousands of basements in Detroit, Dearborn and Grosse Pointe. In May 2020, the Edenville and Sanford dams failed near Midland, flooding homes along the Tittabawassee River.",
+  "Winter brings frozen pipes and ice dams, especially in the Upper Peninsula and west Michigan's lake-effect snow belt. More than 60% of Michigan homes were built before 1980, and most have basements. <a href=\"/locations/ohio/\">Ohio</a>, <a href=\"/locations/indiana/\">Indiana</a> and <a href=\"/locations/wisconsin/\">Wisconsin</a> share these risks."
+ ],
+ "image": "floodroom",
+ "image_alt": "Water covering the floor of a finished basement",
+ "image_caption": "Summer cloudbursts can overwhelm sewers and flood basements across metro Detroit.",
+ "problems": [
+  [
+   "Basement flooding",
+   "Detroit, Dearborn and older suburbs",
+   "<a href=\"/services/water-extraction/\">Basement water extraction</a>"
+  ],
+  [
+   "Sewer backups",
+   "Homes on combined sewers",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Lake-effect snow belt and the U.P.",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Ice dams",
+   "Homes with heavy snow loads",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling repair</a>"
+  ]
+ ],
+ "tips": [
+  "Install a backflow valve on your basement floor drain.",
+  "Test your sump pump each spring and keep a backup.",
+  "Insulate pipes in crawl spaces and outside walls.",
+  "Write down what you store in the basement and keep the list off-site."
+ ],
+ "insurance": "Sewer backup coverage is an add-on in Michigan. After the 2021 floods, many owners learned their policy did not include it.",
+ "faq": {
+  "q": "What should I do if my Detroit-area basement floods?",
+  "a": "Do not go into standing water if outlets or appliances are under it. Take photos of everything before you throw anything away. Report the flood to your city and insurer, then call DryBeacon to pump out water and dry the basement."
+ },
+ "licensing": "Michigan's Department of Licensing and Regulatory Affairs (LARA) licenses residential builders and maintenance and alteration contractors. Ask for the license number before rebuild work starts."
+}

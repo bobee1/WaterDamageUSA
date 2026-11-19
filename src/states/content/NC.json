@@ -1,0 +1,45 @@
+{
+ "lead": "North Carolina faces hurricanes on the coast and deadly floods in the mountains. DryBeacon helps owners from Wilmington to Charlotte and Asheville get water out fast.",
+ "risk": "hurricanes and tropical storms, river flooding and mountain flash floods",
+ "risk_short": "hurricanes, river floods, flash floods",
+ "why": [
+  "Hurricanes Matthew in 2016 and Florence in 2018 flooded eastern North Carolina for weeks. Rivers like the Cape Fear, Neuse and Lumber rose into towns far from the beach. In September 2024, Helene's rain caused record floods in the western mountains. Asheville, Swannanoa and Chimney Rock were hit hard.",
+  "Many homes in the Piedmont and east sit on crawl spaces. Humid summers keep them damp, and floods soak them quickly. North Carolina also has a high share of mobile homes, at 11%. <a href=\"/locations/south-carolina/\">South Carolina</a> and <a href=\"/locations/virginia/\">Virginia</a> share the coastal storms, and <a href=\"/locations/tennessee/\">Tennessee</a> shares the mountain floods."
+ ],
+ "image": "stairs",
+ "image_alt": "Floodwater moving through a building's lower level",
+ "image_caption": "Helene showed that mountain floods in western North Carolina can be as damaging as coastal storms.",
+ "problems": [
+  [
+   "River flooding after hurricanes",
+   "Eastern NC river towns",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Mountain flash floods",
+   "Asheville and western NC",
+   "<a href=\"/services/water-extraction/\">Mud and water removal</a>"
+  ],
+  [
+   "Wet crawl spaces",
+   "Homes across the Piedmont and coast",
+   "<a href=\"/services/water-mitigation/\">Crawl space drying</a>"
+  ],
+  [
+   "Wind and roof damage",
+   "Outer Banks and coastal counties",
+   "<a href=\"/services/storm-damage-restoration/\">Storm tarping</a>"
+  ]
+ ],
+ "tips": [
+  "Buy flood insurance even far from the coast; inland floods cause major losses here.",
+  "Seal and dehumidify your crawl space.",
+  "Keep a go-bag and copies of insurance papers ready in hurricane season.",
+  "After a flood, throw out wet insulation under the floor."
+ ],
+ "insurance": "Coastal homes that can't get regular cover may get wind cover from the North Carolina Insurance Underwriting Association, known as the Beach Plan.",
+ "faq": {
+  "q": "Do I need flood insurance if I live in the mountains of North Carolina?",
+  "a": "It is worth it. Most homes Helene damaged in the mountains had no flood insurance. Home policies exclude flood, and NFIP cover takes 30 days to start. Buy it before storm season."
+ }
+}

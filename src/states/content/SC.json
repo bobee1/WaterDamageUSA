@@ -1,0 +1,45 @@
+{
+ "lead": "South Carolina faces hurricanes, record rain floods and tidal flooding. DryBeacon helps owners from Charleston to Columbia and Greenville get water out and dry fast.",
+ "risk": "hurricanes, heavy rain flooding and tidal flooding on the coast",
+ "risk_short": "hurricanes, flash floods, king tides",
+ "why": [
+  "In October 2015, a stalled storm dropped more than 20 inches of rain on parts of South Carolina. Columbia and the Midlands flooded, and several dams failed. Hurricane Hugo in 1989 and Florence in 2018 flooded the coast and the Pee Dee. Charleston's low streets flood at high tide many days a year.",
+  "Humid summers mean mold grows fast after any leak. Many homes sit on crawl spaces, and South Carolina has one of the highest shares of mobile homes, at 14%. Hurricane Helene in 2024 damaged homes in the Upstate. <a href=\"/locations/north-carolina/\">North Carolina</a> and <a href=\"/locations/georgia/\">Georgia</a> share these storms."
+ ],
+ "image": "flood",
+ "image_alt": "Flooded street with water reaching homes after heavy rain",
+ "image_caption": "Charleston and the Lowcountry see tidal flooding even on sunny days.",
+ "problems": [
+  [
+   "Tidal and surge flooding",
+   "Charleston, Mount Pleasant, Beaufort",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Heavy rain flooding",
+   "Columbia and the Midlands",
+   "<a href=\"/services/water-extraction/\">Water extraction</a>"
+  ],
+  [
+   "Wet crawl spaces",
+   "Homes statewide",
+   "<a href=\"/services/water-mitigation/\">Crawl space drying</a>"
+  ],
+  [
+   "Mold after humid weather",
+   "Any wet home in summer",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Check tide charts before parking in low Charleston streets.",
+  "Seal and dehumidify your crawl space.",
+  "Mobile home owners should check tie-downs before hurricane season.",
+  "Buy flood insurance before storm season starts in June."
+ ],
+ "insurance": "Coastal homes that can't get wind cover elsewhere may get it through the South Carolina Wind and Hail Underwriting Association.",
+ "faq": {
+  "q": "Does flood insurance cover tidal flooding in Charleston?",
+  "a": "Yes. Flood insurance covers water from tides, surge and rising water entering your home. Homeowners policies do not. Lenders require flood insurance in high-risk zones, but many Charleston floods happen outside them."
+ }
+}

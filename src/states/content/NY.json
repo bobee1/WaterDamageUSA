@@ -1,0 +1,47 @@
+{
+ "lead": "New York has the oldest housing of any state, plus coastal storms, river floods and lake-effect snow. DryBeacon helps owners from New York City to Buffalo dry out.",
+ "risk": "coastal and flash flooding, burst pipes in older buildings, and lake-effect snow",
+ "risk_short": "flash floods, old pipes, lake-effect snow",
+ "why": [
+  "Nearly three-quarters of New York homes were built before 1980, and almost a third before 1940. Old risers, steam heat and cast-iron drains leak in apartment buildings and brownstones. In New York City, one leaking unit can soak the ceilings of every floor below.",
+  "Storms add more. Sandy flooded lower Manhattan, the Rockaways and Staten Island in 2012. The remnants of Ida flooded basement apartments in Queens in 2021, and several people died. Upstate, Irene flooded the Catskills, and the December 2022 blizzard buried Buffalo. <a href=\"/locations/new-jersey/\">New Jersey</a> and <a href=\"/locations/connecticut/\">Connecticut</a> share the coastal storms."
+ ],
+ "image": "ceiling",
+ "image_alt": "Collapsed ceiling in an apartment after a leak from above",
+ "image_caption": "In New York's older buildings, a leak from one unit often damages several ceilings below.",
+ "problems": [
+  [
+   "Unit-to-unit leaks",
+   "Apartments and co-ops in NYC",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling water damage repair</a>"
+  ],
+  [
+   "Basement apartment flooding",
+   "Queens, Brooklyn and the Bronx",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Burst pipes and risers",
+   "Older buildings in winter",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Ice dams and snow melt",
+   "Buffalo, Syracuse and the snow belt",
+   "<a href=\"/services/water-extraction/\">Water removal</a>"
+  ]
+ ],
+ "tips": [
+  "In a co-op or condo, know which pipes belong to you and which to the building.",
+  "Basement tenants should have a plan to get out fast in a flash flood.",
+  "In lake-effect areas, clear snow from roof edges after big storms.",
+  "Keep heat on in vacant apartments and second homes."
+ ],
+ "insurance": "In co-ops and condos, the building's master policy and your own HO-6 policy split the cover, so check both.",
+ "faq": {
+  "q": "Who pays for water damage from the apartment above me in New York?",
+  "a": "Usually your own renters or HO-6 policy covers your belongings and unit improvements. The building's policy covers common pipes and structure. If the upstairs neighbor was careless, their insurer may pay. Notify your landlord or board and insurer right away."
+ },
+ "licensing": "New York State has no statewide general contractor license, so cities set the rules. In New York City, home improvement contractors need a license from the Department of Consumer and Worker Protection.",
+ "licensing_faq": "New York has no statewide general contractor license. New York City and some counties license home improvement contractors locally."
+}

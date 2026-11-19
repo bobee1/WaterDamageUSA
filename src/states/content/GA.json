@@ -1,0 +1,45 @@
+{
+ "lead": "Georgia homes face hurricanes on the coast, flash floods in metro Atlanta and humid summers everywhere. DryBeacon gets water out and drying started across the state.",
+ "risk": "hurricanes and tropical storms, flash floods and summer humidity",
+ "risk_short": "hurricanes, flash floods, humidity",
+ "why": [
+  "Hurricane Helene crossed Georgia in September 2024. It brought down trees and roofs from Valdosta to Augusta, far from the coast. Savannah and the Golden Isles see storm surge and king tides. In September 2009, days of rain flooded parts of metro Atlanta, and creeks rose into homes in Cobb, Douglas and Gwinnett counties.",
+  "Georgia's red clay drains slowly. Water pools against foundations and soaks crawl spaces, which are common in older homes. Long, humid summers let mold grow fast on wet wood and drywall. <a href=\"/locations/florida/\">Florida</a> and <a href=\"/locations/south-carolina/\">South Carolina</a> share the coastal storms, while north Georgia's hills send runoff into basements."
+ ],
+ "image": "storm",
+ "image_alt": "House with storm damage to the roof and an upper window",
+ "image_caption": "Helene showed that inland Georgia homes also take roof and water damage from tropical storms.",
+ "problems": [
+  [
+   "Tree falls and roof damage",
+   "Augusta, Valdosta, Macon and inland towns",
+   "<a href=\"/services/storm-damage-restoration/\">Storm tarping and drying</a>"
+  ],
+  [
+   "Flash flooding",
+   "Creeks and low streets in metro Atlanta",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Wet crawl spaces",
+   "Older homes across the state",
+   "<a href=\"/services/water-mitigation/\">Crawl space drying</a>"
+  ],
+  [
+   "Mold in humid months",
+   "Attics, closets and basements",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Trim trees that hang over your roof before hurricane season.",
+  "Put a vapor barrier in your crawl space and keep vents clear.",
+  "Never drive through water over a road. It can be deeper than it looks.",
+  "Run a dehumidifier in basements from May through September."
+ ],
+ "insurance": "Coastal homes that can't get regular coverage may get wind and fire cover through the Georgia Underwriting Association.",
+ "faq": {
+  "q": "How do I dry a wet crawl space in Georgia?",
+  "a": "First stop the water, such as a broken pipe or poor drainage. Then pump out standing water and remove wet insulation. Crews use dehumidifiers and air movers until the wood is dry, then add a vapor barrier to keep moisture out."
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "lead": "Maine homes take water damage from ice dams, frozen pipes and coastal storms. DryBeacon helps owners from Portland to Bangor, and seasonal camp owners, dry out fast.",
+ "risk": "ice dams, frozen pipes in empty homes and coastal storm flooding",
+ "risk_short": "ice dams, frozen pipes, coastal storms",
+ "why": [
+  "Long winters mean ice dams. Heat escaping into the attic melts roof snow, and the water refreezes at the eaves. It then backs up under shingles and drips into walls and ceilings. Maine has some of the oldest housing in the country, and older capes and farmhouses often lack attic insulation.",
+  "Many homes and camps sit empty in winter. If the heat fails, pipes freeze and burst, and no one finds it for days. The coast took a beating in January 2024, when back-to-back storms flooded wharves and waterfront homes from York to Bar Harbor. <a href=\"/locations/new-hampshire/\">New Hampshire</a> and <a href=\"/locations/vermont/\">Vermont</a> share Maine's winter problems."
+ ],
+ "image": "ceiling",
+ "image_alt": "Ceiling drywall that collapsed after water leaked through the roof",
+ "image_caption": "Ice dam leaks can soak attic insulation and bring down ceilings in older Maine homes.",
+ "problems": [
+  [
+   "Ice dams",
+   "Capes and older homes statewide",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling water damage repair</a>"
+  ],
+  [
+   "Frozen pipes in empty homes",
+   "Camps, cottages and second homes",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Coastal storm flooding",
+   "Waterfront homes from York to Down East",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Wet basements in spring",
+   "Homes on fieldstone foundations",
+   "<a href=\"/services/water-extraction/\">Basement water removal</a>"
+  ]
+ ],
+ "tips": [
+  "Drain the plumbing or use a remote temperature alarm in a seasonal camp.",
+  "Add attic insulation to cut down on ice dams.",
+  "Rake snow off the lower roof edge after big storms.",
+  "Check basement walls for seepage during spring melt."
+ ],
+ "insurance": "Policies may deny freeze claims if a home was left without heat, so keep heat on or drain the system in seasonal homes.",
+ "faq": {
+  "q": "How do I stop an ice dam from leaking into my Maine home?",
+  "a": "In the short term, clear snow from the lower roof with a roof rake and keep gutters clear. Never chip ice with an axe. Long-term, seal attic air leaks and add insulation so the roof stays cold."
+ },
+ "licensing": "Maine has no statewide general contractor license, so check local rules. Electricians, plumbers and oil burner techs need state licenses."
+}

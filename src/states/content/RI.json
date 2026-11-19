@@ -1,0 +1,45 @@
+{
+ "lead": "Rhode Island's older homes, coastal storms and river floods all cause water damage. DryBeacon helps owners from Providence to Warwick and Newport dry out fast.",
+ "risk": "coastal storms, river flooding and leaks in older homes",
+ "risk_short": "coastal storms, river floods, old homes",
+ "why": [
+  "In March 2010, heavy rain sent the Pawtuxet River to record levels. It flooded homes and businesses in Warwick, Cranston and West Warwick, and the Warwick Mall. The 1938 hurricane and Hurricane Bob in 1991 show what coastal storms can do to Narragansett Bay towns.",
+  "About 30% of Rhode Island homes were built before 1940. Triple-deckers in Providence and Pawtucket have old pipes and shared ceilings. Nor'easters bring ice dams and coastal flooding. <a href=\"/locations/connecticut/\">Connecticut</a> and <a href=\"/locations/massachusetts/\">Massachusetts</a> share these risks."
+ ],
+ "image": "floodyard",
+ "image_alt": "Water surrounding houses after heavy rain and river flooding",
+ "image_caption": "River flooding in 2010 showed how fast Rhode Island's rivers can rise into homes.",
+ "problems": [
+  [
+   "River flooding",
+   "Warwick, Cranston and the Pawtuxet valley",
+   "<a href=\"/services/flood-damage-restoration/\">Flood damage restoration</a>"
+  ],
+  [
+   "Coastal storm flooding",
+   "Narragansett Bay and south coast towns",
+   "<a href=\"/services/water-extraction/\">Water removal</a>"
+  ],
+  [
+   "Leaks in multi-family homes",
+   "Providence and Pawtucket triple-deckers",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling repair</a>"
+  ],
+  [
+   "Frozen pipes",
+   "Older homes in winter",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Know your flood zone near rivers and the bay.",
+  "In a triple-decker, tell upstairs and downstairs neighbors about any leak.",
+  "Add attic insulation to reduce ice dams.",
+  "Keep the main shut-off valve easy to reach."
+ ],
+ "insurance": "Coastal Rhode Island homes often have a separate hurricane deductible that applies only to named storms.",
+ "faq": {
+  "q": "What should I do if water from the unit above leaks into my Providence apartment?",
+  "a": "Tell your landlord and the upstairs neighbor right away so they can shut off the water. Take photos and move your things. Renters insurance usually covers your belongings, and the building's policy covers repairs."
+ }
+}
