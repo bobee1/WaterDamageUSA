@@ -60,7 +60,8 @@ A dated log of every step. Newest entries at the bottom of each build. Status: D
 | 54 | 2026-11-19 | 6 | State pages, Locations hub, guides and storm page link to metros | Done | |
 | 55 | 2026-11-19 | 6 | Audit 0 issues (134 pages); FK ≤ 9; uniqueness 75–80%; responsive clean | Done | |
 | 56 | 2026-11-19 | Deploy | `_headers`: noindex on *.pages.dev; deployment settings recorded | Done | Owner chose to create the Pages project himself |
-| 57 | — | 7 | First 100 city pages (suburbs + next metros) | Planned | After deploy |
+| 57 | 2026-11-19 | Deploy | Live on drybeacon.pages.dev; 133/133 URLs 200; headers verified; fixed duplicate Cache-Control on assets | Done | Auto-redeploy on push confirmed |
+| 58 | — | 7 | First 100 city pages (suburbs + next metros) | Planned | After deploy |
 
 ## Image register
 | File | Source | Used on |

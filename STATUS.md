@@ -31,8 +31,9 @@ Last updated: 2026-11-19
 | Launch | Buy domain, Cloudflare Pages project, env vars, real toll-free number, email, Search Console + analytics | Domain, number, email, Resend key |
 
 ## Deployment
-- Host: Cloudflare Pages, project `drybeacon`, Git-connected to `bobee1/WaterDamageUSA` (branch `main`). Owner is creating the project in the dashboard (2026-11-19).
+- Host: Cloudflare Pages, project `drybeacon`, Git-connected to `bobee1/WaterDamageUSA` (branch `main`). Live at https://drybeacon.pages.dev/ since 2026-11-19; pushes to `main` redeploy automatically (confirmed).
 - Settings: framework preset None, no build command, build output directory `public`, root directory blank. `functions/` is picked up automatically for the contact form.
+- Live checks (2026-11-19): all 133 sitemap URLs return 200; 404 page returns 404 with noindex; security headers (CSP, HSTS, X-Frame-Options) present; images served as WebP with a 1-year cache; `/services` redirects to `/services/`; contact form endpoint answers (validation works; email sending waits for Resend keys).
 - Staging address `drybeacon.pages.dev` sends `X-Robots-Tag: noindex` (set in `_headers`) so it stays out of search until drybeacon.com is connected.
 
 ## Open items
