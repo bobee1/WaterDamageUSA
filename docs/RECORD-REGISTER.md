@@ -23,7 +23,12 @@ A dated log of every step. Newest entries at the bottom of each build. Status: D
 | 17 | 2026-11-18 | 1b | DryBeacon Design System artifact published | Done | Tokens, brand book, logos, 9 components, cover |
 | 18 | 2026-11-18 | 1c | Palette changed to Graphite + Signal Orange (owner chose B of 4 options) | Done | Navy/amber looked like the owner's city sites; tokens renamed by role (brand-dark, brand-accent, tint) |
 | 19 | 2026-11-18 | 1c | Logo, favicon, icons, social image recolored; contrast re-checked | Done | All text pairs at least 4.5:1; borders and focus at least 3:1 |
-| 20 | — | 2 | Semrush keyword research + site plan for approval | Planned | Next build |
+| 20 | 2026-11-19 | 2 | Semrush: 60 service keywords (volume, CPC, intent, KD) | Done | `research/01-service-keywords.csv` |
+| 21 | 2026-11-19 | 2 | Semrush: 100 city terms, 11 state terms, Denver/Frisco/Gilbert clusters | Done | `research/02-city-demand.csv`, `03-state-and-cluster.csv` |
+| 22 | 2026-11-19 | 2 | Semrush: question keywords for guides | Done | `research/04-guide-keywords.csv` |
+| 23 | 2026-11-19 | 2 | SERP and competitor analysis (3 SERPs, 2 domains' top pages) | Done | `research/05-competitors.csv` |
+| 24 | 2026-11-19 | 2 | Site plan written for owner approval | Done | Claude doc "DryBeacon Site Plan — Build 2 Keyword Research" |
+| 25 | — | 3 | Home page, services hub and 10 service pages | Planned | Starts after plan approval |
 
 ## Image register
 | File | Source | Used on |

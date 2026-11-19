@@ -1,0 +1,101 @@
+city,keyword,volume,cpc,kd,size_class
+Houston TX,water damage restoration houston,1900,29.09,33,metro
+Dallas TX,water damage restoration dallas,1900,62.53,53,metro
+Los Angeles CA,water damage restoration los angeles,1600,56.53,31,metro
+San Diego CA,water damage restoration san diego,1600,37.96,42,metro
+Chicago IL,water damage restoration chicago,1300,23.58,22,metro
+Seattle WA,water damage restoration seattle,1300,33.8,36,metro
+Phoenix AZ,water damage restoration phoenix,1000,46.21,37,metro
+Austin TX,water damage restoration austin,1000,113.5,17,metro
+Denver CO,water damage restoration denver,1000,44.27,45,metro
+Atlanta GA,water damage restoration atlanta,1000,59.16,40,metro
+Minneapolis MN,water damage restoration minneapolis,1000,31.11,25,metro
+Tampa FL,water damage restoration tampa,1000,20.15,29,metro
+Columbus OH,water damage restoration columbus,720,0,25,metro
+Charlotte NC,water damage restoration charlotte,720,44.66,31,metro
+Portland OR,water damage restoration portland,720,48,27,metro
+Las Vegas NV,water damage restoration las vegas,720,91.7,16,metro
+Colorado Springs CO,water damage restoration colorado springs,720,58.8,22,metro
+Orlando FL,water damage restoration orlando,720,33.25,20,metro
+Frisco TX,water damage restoration frisco,720,256,20,suburb
+San Antonio TX,water damage restoration san antonio,590,43.61,41,metro
+Fort Worth TX,water damage restoration fort worth,590,88.07,30,metro
+Nashville TN,water damage restoration nashville,590,44,23,metro
+Raleigh NC,water damage restoration raleigh,590,66.45,14,metro
+St. Louis MO,water damage restoration st louis,590,23.52,28,metro
+Charleston SC,water damage restoration charleston sc,590,27.23,26,metro
+Plano TX,water damage restoration plano,590,91.32,18,suburb
+New York NY,water damage restoration new york,480,19.42,17,metro
+Philadelphia PA,water damage restoration philadelphia,480,31.7,28,metro
+Jacksonville FL,water damage restoration jacksonville,480,63.82,26,metro
+Memphis TN,water damage restoration memphis,480,38.64,22,metro
+Tucson AZ,water damage restoration tucson,480,55.58,35,metro
+Sacramento CA,water damage restoration sacramento,480,42.77,17,metro
+Kansas City MO,water damage restoration kansas city,480,36.77,30,metro
+Pittsburgh PA,water damage restoration pittsburgh,480,34.37,27,metro
+Salt Lake City UT,water damage restoration salt lake city,480,40.11,22,metro
+Fort Myers FL,water damage restoration fort myers,480,35.92,18,metro
+Indianapolis IN,water damage restoration indianapolis,390,28.03,60,metro
+Boston MA,water damage restoration boston,390,26,14,metro
+Baltimore MD,water damage restoration baltimore,390,0,44,metro
+Miami FL,water damage restoration miami,390,13.86,20,metro
+Cleveland OH,water damage restoration cleveland,390,34.88,40,metro
+Chandler AZ,water damage restoration chandler,390,0,6,suburb
+Milwaukee WI,water damage restoration milwaukee,320,35.34,42,metro
+Mesa AZ,water damage restoration mesa,320,45.15,14,suburb
+Omaha NE,water damage restoration omaha,320,26.53,29,metro
+Cincinnati OH,water damage restoration cincinnati,320,69.04,21,metro
+Boise ID,water damage restoration boise,320,58.62,34,metro
+Gilbert AZ,water damage restoration gilbert,320,38.28,2,suburb
+Fort Collins CO,water damage restoration fort collins,320,228,24,mid
+Greenville SC,water damage restoration greenville sc,320,44.2,29,mid
+San Francisco CA,water damage restoration san francisco,260,31.38,35,metro
+Fresno CA,water damage restoration fresno,260,19.68,19,metro
+Naperville IL,water damage restoration naperville,260,0,14,suburb
+Scottsdale AZ,water damage restoration scottsdale,260,24.26,30,suburb
+Sarasota FL,water damage restoration sarasota,260,40.15,35,mid
+Louisville KY,water damage restoration louisville,210,24.67,37,metro
+Albuquerque NM,water damage restoration albuquerque,210,0,19,metro
+Tulsa OK,water damage restoration tulsa,210,33.23,26,metro
+Des Moines IA,water damage restoration des moines,210,21.35,26,metro
+Boulder CO,water damage restoration boulder,210,0,27,mid
+Cape Coral FL,water damage restoration cape coral,210,0,16,mid
+Lexington KY,water damage restoration lexington ky,210,30.76,23,mid
+New Orleans LA,water damage restoration new orleans,170,0,25,metro
+Knoxville TN,water damage restoration knoxville,170,41.28,36,metro
+Missoula MT,water damage restoration missoula,170,0,29,small
+Ann Arbor MI,water damage restoration ann arbor,170,24.37,20,mid
+Ogden UT,water damage restoration ogden,170,0,18,mid
+Castle Rock CO,water damage restoration castle rock,170,0,9,small
+Spokane WA,water damage restoration spokane,140,0,35,metro
+Lakewood CO,water damage restoration lakewood co,140,0,14,suburb
+Naples FL,water damage restoration naples fl,140,24.61,6,mid
+Rapid City SD,water damage restoration rapid city,140,0,19,small
+Detroit MI,water damage restoration detroit,110,0,27,metro
+Richmond VA,water damage restoration richmond va,110,36.19,24,metro
+Anchorage AK,water damage restoration anchorage,110,87.14,24,metro
+Honolulu HI,water damage restoration honolulu,110,0,24,metro
+Wilmington NC,water damage restoration wilmington nc,110,0,25,mid
+Flagstaff AZ,water damage restoration flagstaff,110,0,4,small
+Aurora CO,water damage restoration aurora co,90,0,19,suburb
+Parker CO,water damage restoration parker co,90,0,20,small
+Oklahoma City OK,water damage restoration oklahoma city,70,26.24,39,metro
+El Paso TX,water damage restoration el paso,70,0,16,metro
+Birmingham AL,water damage restoration birmingham al,70,43.48,21,metro
+Chattanooga TN,water damage restoration chattanooga,70,0,13,metro
+Fargo ND,water damage restoration fargo,70,0,22,mid
+Olympia WA,water damage restoration olympia wa,70,0,16,small
+Stamford CT,water damage restoration stamford ct,70,0,12,mid
+Portland ME,water damage restoration portland maine,50,0,22,small
+Sioux Falls SD,water damage restoration sioux falls,50,0,16,mid
+Prescott AZ,water damage restoration prescott az,40,0,11,small
+Bozeman MT,water damage restoration bozeman,30,0,0,small
+Cheyenne WY,water damage restoration cheyenne,30,0,0,small
+Bend OR,water damage restoration bend oregon,20,0,0,small
+Burlington VT,water damage restoration burlington vt,20,0,0,small
+Billings MT,water damage restoration billings,20,0,0,small
+Brighton MI,water damage restoration brighton mi,20,0,0,small
+Dover DE,water damage restoration dover de,20,0,0,small
+Nashua NH,water damage restoration nashua nh,10,0,0,small
+St. George UT,water damage restoration st george utah,0,0,0,small
+Westfield NJ,water damage restoration westfield nj,0,0,0,small

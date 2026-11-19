@@ -27,11 +27,15 @@ Last updated: 2026-11-18
 - Palette B "Graphite + Signal Orange": brand-dark #1d2329, beacon orange #ff7a1a for call buttons, warm gray surfaces, orange accent text #c2410c. Chosen to set DryBeacon apart from the owner's city sites.
 - Logo set, favicon, app icons and social image recolored; design system updated to match.
 
+## Current — Build 2: Keyword research and site plan (done, awaiting approval)
+- Semrush research saved in `research/` (about 4,500 API units used; 45,520 left).
+- Key findings: national terms KD 48–67; city terms mostly KD 10–40 with CPCs up to $256 (Frisco TX); city clusters run about 5x the exact phrase; state terms only 30–480/mo.
+- Plan for approval (Claude doc "DryBeacon Site Plan — Build 2 Keyword Research"): home + 10 service pages keyword map, city page rule (20+ searches/mo or inside a 300+ metro), Phase 1 priority list, first 10 guides, sitemap for Builds 3–5.
+
 ## Coming
 | Build | Scope | Needs from owner |
 | --- | --- | --- |
-| 2 | Keyword research + site plan in Semrush: keyword map, clusters, competitors, service list, guide list, state/metro priority list. **Presented for approval before any money page is built.** | Approve the plan |
-| 3 | Home page + Services hub + 8 service pages | — |
+| 3 | Home page + Services hub + 10 service pages (per approved keyword map) | Plan approval |
 | 4 | Locations hub + 51 state hub pages | — |
 | 5 | Glossary (50+ terms) + Guides hub + first 10 guides | — |
 | 6 | Master city dataset (Census, NOAA, FEMA, EPA) + 50 metro hub pages | Data files (the workspace can't reach Census/NOAA directly) |
