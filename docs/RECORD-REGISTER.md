@@ -68,7 +68,8 @@ A dated log of every step. Newest entries at the bottom of each build. Status: D
 | 62 | 2026-11-19 | 7.1 | Part 1 pages: Frisco, Plano, Fort Collins, Tacoma, Bellevue, Everett, Mesa, Gilbert, Chandler, Scottsdale, Irvine, Anaheim, Long Beach, Sarasota, Miami, Wichita, Tulsa, Baltimore, Greensboro, Columbia, Grand Rapids, Knoxville, Lexington, Reno, Provo — hand-written local copy with verified local events (1997 Spring Creek flood, Milton 2024, Irma/Brickell, 2015 Columbia flood, 2013 Grand River crest, 1984 Tulsa flood, 1997 Truckee flood, Baltimore DPW backup program, etc.) | Done | 874–932 words each |
 | 63 | 2026-11-19 | 7.1 | Linking: suburbs carry a `metro` field and their hub lists them (Dallas → Frisco, Plano; Phoenix → 4; Seattle → 3; LA → 3); nearby links made two-way; every new page has 3–6 in-text inbound links | Done | |
 | 64 | 2026-11-19 | 7.1 | Checks: audit 0 issues (159 pages); FK 6.2–8.4; uniqueness ≥ 75.2% (avg 77.3%); JSON-LD valid; no overflow at 1440/1024/768/360; pages ≤ 38 KB | Done | |
-| 65 | — | 7.2 | Part 2: next 25 cities (Fresno → Ann Arbor) | Planned | Next |
+| 65 | 2026-11-19 | Deploy | New Cloudflare Pages project `dryflare`; live at dryflare.pages.dev; Part 1 pages, sitemap (158 URLs) and noindex header verified there | Done | Old `drybeacon` project can be deleted |
+| 66 | — | 7.2 | Part 2: next 25 cities (Fresno → Ann Arbor) | Planned | Next |
 
 ## Image register
 | File | Source | Used on |

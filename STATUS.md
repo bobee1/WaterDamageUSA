@@ -25,7 +25,7 @@ Last updated: 2026-11-19
 ## Previous — Rename to DryFlare (done)
 - DryBeacon was already in use by a nationwide water damage site (drybeacon.us), so the brand is now **DryFlare**, domain **dryflare.com** (unregistered as of 2026-11-19; buy it soon).
 - Changed everywhere: page text, titles, schema, canonical URLs, logo and wordmark, favicon and app icons, social image, guide header images, manifest, lead email template.
-- Kept: the drop-and-light icon, colors, layout and all URLs. The Cloudflare Pages project is still named `drybeacon`, so the preview address stays drybeacon.pages.dev (noindexed) until dryflare.com is connected.
+- Kept: the drop-and-light icon, colors, layout and all URLs. The owner created a new Cloudflare Pages project `dryflare`; preview is now dryflare.pages.dev (noindexed).
 - Checks: audit 0 issues; readability and uniqueness pass; no old-name text left in the built site.
 
 ## Previous — Layout fix (done)
@@ -50,10 +50,10 @@ Last updated: 2026-11-19
 | Launch | Buy domain, Cloudflare Pages project, env vars, real toll-free number, email, Search Console + analytics | Domain, number, email, Resend key |
 
 ## Deployment
-- Host: Cloudflare Pages, project `drybeacon` (old name kept; only the preview URL uses it), Git-connected to `bobee1/WaterDamageUSA` (branch `main`). Live at https://drybeacon.pages.dev/ since 2026-11-19; pushes to `main` redeploy automatically (confirmed).
+- Host: Cloudflare Pages, project `dryflare`, Git-connected to `bobee1/WaterDamageUSA` (branch `main`). Live at https://dryflare.pages.dev/ (new project created 2026-11-19 after the rename; the old drybeacon project can be deleted); pushes to `main` redeploy automatically (confirmed).
 - Settings: framework preset None, no build command, build output directory `public`, root directory blank. `functions/` is picked up automatically for the contact form.
 - Live checks (2026-11-19): all 133 sitemap URLs return 200; 404 page returns 404 with noindex; security headers (CSP, HSTS, X-Frame-Options) present; images served as WebP with a 1-year cache; `/services` redirects to `/services/`; contact form endpoint answers (validation works; email sending waits for Resend keys).
-- Staging address `drybeacon.pages.dev` sends `X-Robots-Tag: noindex` (set in `_headers`) so it stays out of search until dryflare.com is connected.
+- Staging address `dryflare.pages.dev` sends `X-Robots-Tag: noindex` (set in `_headers`) so it stays out of search until dryflare.com is connected.
 
 ## Open items
 - **Phone number:** 1-800-555-0199 is in the 555-01xx range reserved for fiction and cannot receive calls. Replace `phone_display` / `phone_e164` in `src/site.json` before launch.
