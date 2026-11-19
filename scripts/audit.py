@@ -156,6 +156,21 @@ def main():
     for src, where in sorted(photo_use.items()):
         if len(where) > 1:
             problems.append((sorted(where)[0], f"photo repeated on {len(where)} pages: {src} also on {sorted(where)[1:4]}"))
+    # Same picture under a different file name (or a color/B&W copy): compare image content
+    try:
+        import imagehash
+        from PIL import Image
+        hashes = []
+        for src, where in photo_use.items():
+            f = ROOT / "public" / src.lstrip("/")
+            if f.exists():
+                hashes.append((src, sorted(where)[0], imagehash.phash(Image.open(f).convert("RGB"))))
+        for i in range(len(hashes)):
+            for j in range(i + 1, len(hashes)):
+                if hashes[i][2] - hashes[j][2] <= 10:
+                    problems.append((hashes[i][1], f"photo looks the same as one on {hashes[j][1]}: {hashes[i][0]} ~ {hashes[j][0]}"))
+    except ImportError:
+        print("note: imagehash not installed; skipping look-alike photo check (pip install imagehash)")
     for label, d in (("title", titles), ("meta", metas), ("H1", h1s)):
         for k, v in d.items():
             if len(v) > 1:

@@ -265,6 +265,7 @@ def state_page(ab):
 
 <h2>{tips_h}</h2>
 <ul>{''.join(f'<li>{t}</li>' for t in c['tips'])}</ul>
+{guide_line(ab, c, short, DATA['acs'][ab][2])}
 
 <h2>Insurance and licensing in {short}</h2>
 {insurance_section(ab, c)}
@@ -336,3 +337,44 @@ def state_pills():
     pills = "".join(f'<li><a href="{state_path(a)}">{"Washington, DC" if a == "DC" else META[a]["name"]}</a></li>'
                     for a in sorted(META, key=lambda x: META[x]["name"]))
     return f'<ul class="pills pills-sm">{pills}</ul>'
+
+
+# ---- Helpful guides: link each location page to the guides that match its own risks ----
+GUIDES = {  # slug: (anchor text, keywords that make it relevant)
+    "what-to-do-if-basement-floods": ("basement floods", ("basement", "sump")),
+    "sump-pump-failure": ("sump pump failure", ("sump",)),
+    "sewage-backup-in-basement": ("sewage backups", ("sewer", "sewage", "backup", "floor drain")),
+    "how-to-prevent-frozen-pipes": ("frozen pipes", ("frozen", "freeze", "cold snap")),
+    "what-to-do-when-a-pipe-bursts": ("burst pipes", ("burst", "split", "supply line")),
+    "water-stain-on-ceiling": ("ceiling stains", ("ceiling", "ice dam", "roof leak", "hail")),
+    "water-heater-leaking-from-bottom": ("water heater leaks", ("water heater",)),
+    "does-condo-insurance-cover-water-damage": ("condo insurance", ("condo", "high-rise", "unit above", "between units", "association")),
+    "mold-after-water-damage": ("mold after a leak", ("mold", "humid", "crawl space")),
+    "signs-of-water-damage-in-walls": ("hidden leaks in walls", ("slab", "hidden", "behind walls", "pinhole", "galvanized")),
+    "does-renters-insurance-cover-water-damage": ("renters insurance", ("renter", "rental", "tenant", "landlord")),
+    "does-homeowners-insurance-cover-water-damage": ("home insurance", ("flood", "hurricane", "surge", "storm")),
+}
+
+def guide_line(key, c, place, owner_pct=None):
+    """One sentence linking 2-3 guides chosen from the page's own risk text."""
+    blob = " ".join([c.get("risk", ""), c.get("lead", ""), " ".join(c.get("why", [])),
+                     " ".join(" ".join(map(str, r[:2])) for r in c.get("problems", [])), " ".join(c.get("tips", []))]).lower()
+    scored = []
+    for i, (slug, (text, kws)) in enumerate(GUIDES.items()):
+        if not (ROOT / "src" / "pages" / "blog" / f"{slug}.html").exists():
+            continue
+        hits = sum(blob.count(k) for k in kws)
+        if slug == "does-renters-insurance-cover-water-damage" and owner_pct is not None and owner_pct < 45:
+            hits += 3
+        if hits:
+            scored.append((-hits, i, slug, text))
+    scored.sort()
+    chosen = [(slug, text) for _, _, slug, text in scored[:3]]
+    for slug in ("does-homeowners-insurance-cover-water-damage", "what-to-do-when-a-pipe-bursts"):
+        if len(chosen) < 2 and slug not in [x[0] for x in chosen]:
+            chosen.append((slug, GUIDES[slug][0]))
+    links = join_list([f'<a href="/blog/{slug}/">{text}</a>' for slug, text in chosen])
+    lead = pick(key, [f"Our guides for {place} homes: {links}.",
+                      f"More help for {place} homes: our guides on {links}.",
+                      f"{place} owners often ask about {links}. Our guides explain each one."], "gd")
+    return f'<p class="related-reading">{lead}</p>'

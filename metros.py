@@ -130,6 +130,7 @@ def page(slug):
 
 <h2>{tips_h}</h2>
 <ul>{''.join(f'<li>{t}</li>' for t in c['tips'])}</ul>
+{S.guide_line(slug, c, city, ACS[m['acs']][5])}
 
 <h2>Neighborhoods and suburbs served in {city}</h2>
 <p>{c['areas']} {nb}{par_line}{kid_line}</p>

@@ -274,8 +274,8 @@ CTA_BAND = f"""<section class="cta-band" aria-label="Call {SITE['brand']}"><div 
 {call_button('btn btn-call btn-lg')}</div></section>"""
 
 
-SIDE_GUIDES = ["what-to-do-when-a-pipe-bursts", "does-homeowners-insurance-cover-water-damage",
-               "water-damage-restoration-process", "water-damage-restoration-cost", "sump-pump-failure"]
+SIDE_GUIDES = ["what-to-do-when-a-pipe-bursts", "what-to-do-if-basement-floods", "how-to-prevent-frozen-pipes",
+               "does-homeowners-insurance-cover-water-damage", "water-damage-restoration-cost", "mold-after-water-damage"]
 
 
 def sidebar_html(meta, pages_by_path):

@@ -16,7 +16,15 @@ Last updated: 2026-11-19
 - Plan approved: one national brand, state → metro → city structure, all 50 states + DC, one toll-free number, Cloudflare free plan.
 - Owner decisions: brand DryFlare; own-business call routing; 24/7; 10+ years in business; legal owner Anjam Javed; toll-free 1-800-555-0199; email added after the domain is bought.
 
-## Current — Build 7 Part 4: 25 city pages (done) — Build 7 complete
+## Current — Full-site audit and fixes (done)
+- Scope: all 239 pages checked for SEO, topical authority, bugs, speed and responsiveness. New whole-site checker `scripts/siteaudit.py` (broken links/images, titles, descriptions, canonicals, H1s, heading order, duplicate IDs, JSON-LD, orphans, sitemap, redirects, page weight).
+- Bug fixed — hidden photo repeats: 7 city pages used pictures that were pixel-for-pixel copies of photos on the home, about and service pages (older image set, different file names), and 2 state pages (NC, MD) used color and black-and-white copies of the same shot. All 9 swapped; the audit now compares image content (perceptual hash), not just file names.
+- Accessibility fixed: footer call button had white text on orange (2.6:1 contrast); now dark text. Lighthouse mobile is 100/100/100/100 (performance, accessibility, best practices, SEO) on home, city and guide pages; LCP 1.1–1.7 s, CLS 0.
+- Topical authority: all 201 city and state pages now link 2–3 guides matched to their own risks (before: none did). Guides now link to the right service pages (process, cost and insurance guides had none). Five new guides from the keyword research: how to prevent frozen pipes, what to do if your basement floods, mold after water damage, does condo insurance cover water damage, signs of water damage in walls (1,202–1,453 words, sources cited). Service pages and the sidebar point to them.
+- Minor: Disclaimer title lengthened.
+- Checked clean: no broken links or images, no duplicate titles or descriptions, canonicals correct, one H1 per page, valid JSON-LD, no orphans, sitemap complete (238 URLs), no overflow at 1440/1024/768/360 on any page, no JavaScript errors, mobile menu and form validation work.
+
+## Previous — Build 7 Part 4: 25 city pages (done) — Build 7 complete
 - Live: Chesapeake, Buffalo, Fort Wayne, Oklahoma City, Providence, Parker CO, Hartford, Aurora CO, Huntsville, Worcester, Stamford, St. Petersburg, Pensacola, Olympia, Little Rock, Kansas City KS, Jersey City, Fargo, El Paso, Chattanooga, Winston-Salem, Toledo, Stockton, Sioux Falls, Portland ME. ("Palm Beach" skipped as ambiguous, as in 7.1.)
 - Local angles with checked events, for example: Fort Wayne's 1982 flood fight, Buffalo's December 2022 blizzard, Portland ME's record 14.57 ft tide (Jan 2024), Pensacola's April 2014 rain, Fargo's 2009 Red River crest, Stamford's hurricane barrier, Helene and Milton in St. Petersburg, the 1951 Kansas River flood in KCK, and Little Rock's 2023 tornado. El Paso's 2011 freeze wording was corrected after checking.
 - Linking: Parker and Aurora → Denver, Stamford and Jersey City → New York, St. Petersburg → Tampa, Kansas City KS → Kansas City MO, Chesapeake → Virginia Beach. Every new page has 3+ in-text inbound links.

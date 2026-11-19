@@ -83,7 +83,12 @@ A dated log of every step. Newest entries at the bottom of each build. Status: D
 | 77 | 2026-11-19 | 7.4 | Linking: 7 suburbs attached to hubs; every new page has 3+ in-text inbound links | Done | |
 | 78 | 2026-11-19 | Photos | 20 Pexels photos added (277 in library); each Part 4 page has its own photo; look-alikes swapped after visual review | Done | |
 | 79 | 2026-11-19 | 7.4 | Checks: audit 0 issues (234 pages); FK ≤ 8.6; uniqueness ≥ 73.1%; JSON-LD valid; no overflow at 4 widths; pages ≤ 38 KB | Done | Build 7 complete: 100 city pages |
-| 80 | — | Launch | Buy dryflare.com, connect domain, real toll-free number, email + Resend key, remove noindex, Search Console + analytics | Planned | Needs owner |
+| 80 | 2026-11-19 | Audit | Full-site audit of 239 pages; new `scripts/siteaudit.py`; no broken links, duplicate metadata, orphans or sitemap gaps found | Done | |
+| 81 | 2026-11-19 | Audit | Hidden photo repeats fixed: 7 city pages shared pixel-identical photos with core pages; NC and MD used color/B&W copies of one shot; audit now compares image content | Done | `imagehash` needed for the check |
+| 82 | 2026-11-19 | Audit | Footer call button contrast fixed; Lighthouse mobile 100 on all four categories (home, city, guide) | Done | |
+| 83 | 2026-11-19 | Audit | Topical links: every city and state page links 2–3 matched guides; guides link to service pages; sidebar guides updated | Done | |
+| 84 | 2026-11-19 | Guides | 5 new guides: frozen pipes, basement floods, mold after water damage, condo insurance, signs of water damage in walls | Done | 15 guides total |
+| 85 | — | Launch | Buy dryflare.com, connect domain, real toll-free number, email + Resend key, remove noindex, Search Console + analytics | Planned | Needs owner |
 
 ## Image register
 | File | Source | Used on |

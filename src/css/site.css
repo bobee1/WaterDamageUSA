@@ -101,6 +101,7 @@ th{background:var(--surface-soft);color:var(--brand-dark)}
 /* footer */
 .site-footer{background:var(--footer-bg);color:var(--footer-ink);padding:44px 0 90px;font-size:.95rem}
 .site-footer a{color:#ffffff}
+.site-footer a.btn-call,.site-footer a.btn-call:hover,.site-footer a.btn-call:focus-visible{color:var(--on-flare)}
 .f-grid{display:grid;grid-template-columns:1.5fr 1.3fr 1fr 1fr;gap:32px}
 .f-title{font-size:1rem;color:#fff;margin:0 0 10px}
 .f-grid ul{list-style:none;padding:0;margin:0}
