@@ -59,7 +59,8 @@ A dated log of every step. Newest entries at the bottom of each build. Status: D
 | 53 | 2026-11-19 | 6 | 50 hand-written metro content files | Done | Verified local events only |
 | 54 | 2026-11-19 | 6 | State pages, Locations hub, guides and storm page link to metros | Done | |
 | 55 | 2026-11-19 | 6 | Audit 0 issues (134 pages); FK ≤ 9; uniqueness 75–80%; responsive clean | Done | |
-| 56 | — | 7 | First 100 city pages (suburbs + next metros) | Planned | Next build |
+| 56 | 2026-11-19 | Deploy | `_headers`: noindex on *.pages.dev; deployment settings recorded | Done | Owner chose to create the Pages project himself |
+| 57 | — | 7 | First 100 city pages (suburbs + next metros) | Planned | After deploy |
 
 ## Image register
 | File | Source | Used on |

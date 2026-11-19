@@ -30,6 +30,11 @@ Last updated: 2026-11-19
 | 7 | First 100 city pages | — |
 | Launch | Buy domain, Cloudflare Pages project, env vars, real toll-free number, email, Search Console + analytics | Domain, number, email, Resend key |
 
+## Deployment
+- Host: Cloudflare Pages, project `drybeacon`, Git-connected to `bobee1/WaterDamageUSA` (branch `main`). Owner is creating the project in the dashboard (2026-11-19).
+- Settings: framework preset None, no build command, build output directory `public`, root directory blank. `functions/` is picked up automatically for the contact form.
+- Staging address `drybeacon.pages.dev` sends `X-Robots-Tag: noindex` (set in `_headers`) so it stays out of search until drybeacon.com is connected.
+
 ## Open items
 - **Phone number:** 1-800-555-0199 is in the 555-01xx range reserved for fiction and cannot receive calls. Replace `phone_display` / `phone_e164` in `src/site.json` before launch.
 - **Email:** add to `src/site.json` once the domain is bought.
