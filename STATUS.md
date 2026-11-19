@@ -16,7 +16,13 @@ Last updated: 2026-11-19
 - Plan approved: one national brand, state → metro → city structure, all 50 states + DC, one toll-free number, Cloudflare free plan.
 - Owner decisions: brand DryFlare; own-business call routing; 24/7; 10+ years in business; legal owner Anjam Javed; toll-free 1-800-555-0199; email added after the domain is bought.
 
-## Current — Build 7 Part 1: 25 city pages (done)
+## Current — No repeated photos (done)
+- Every page now has its own photo. 126 state and city pages each have a different Pexels photo matched to their main risk (storm, flood, frozen pipes, mold, ceiling leaks, repairs), with alt text that describes what the photo actually shows.
+- The home, about, contact, water extraction and flood pages no longer share photos.
+- 230 photos in the library (`src/photos.json`); 104 are unused and held for Parts 2–4, so new city pages also get unique photos.
+- The audit now fails the build if any photo appears on two pages.
+
+## Previous — Build 7 Part 1: 25 city pages (done)
 - Build 7 = 100 city pages in 4 parts of 25, ranked by search value. Part 1 (live): Frisco, Plano, Fort Collins, Tacoma, Bellevue, Everett, Mesa, Gilbert, Chandler, Scottsdale, Irvine, Anaheim, Long Beach, Sarasota, Miami, Wichita, Tulsa, Baltimore, Greensboro, Columbia SC, Grand Rapids, Knoxville, Lexington, Reno, Provo.
 - Each page: Census ACS housing table, checked ZIP codes, a hand-written "why water damage here is different" built on that city's own risks and a verified local event, a local problems table, tips, neighborhoods, insurance notes and an FAQ specific to that city. Same-metro suburbs take different angles (e.g. Mesa mobile homes, Gilbert tile roofs, Chandler copper pinholes, Scottsdale empty seasonal homes).
 - Linking: metro hubs now list their suburbs; nearby links run both ways; every new page has 3–6 in-text inbound links.

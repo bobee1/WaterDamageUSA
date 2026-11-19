@@ -6,8 +6,7 @@
   "About 42% of Baltimore homes were built before 1940, among the highest shares of any big U.S. city. Rowhouses in Canton, Fells Point, Hampden and Highlandtown share walls and often have flat roofs and old basements. Water from a neighbor's roof or pipe can cross into the next home. Many basements were never waterproofed, and old cast-iron or clay drains crack with age.",
   "Sewage backups are a known problem. In heavy rain, parts of the city's sewer system run over capacity and push sewage into basements. Under a federal consent decree, the city runs programs for these wet-weather backups. Residents can apply for free professional cleanup or for reimbursement of up to $5,000. Report a backup to 311 right away so the event is on record."
  ],
- "image": "floodroom",
- "image_alt": "Water covering a basement floor in an older Baltimore rowhouse",
+ "image_alt": "Rainwater pouring through an open doorway into a dark building",
  "image_caption": "Heavy rain can push water and sewage into old Baltimore basements.",
  "problems": [
   [
@@ -47,5 +46,6 @@
    "Baltimore City DPW: Basement Backup Reimbursement Program",
    "https://publicworks.baltimorecity.gov/node/13760"
   ]
- ]
+ ],
+ "photo": "18312461"
 }

@@ -6,8 +6,7 @@
   "Nearly four in five New York City homes were built before 1980. Old risers, steam heat and cast-iron drains leak in co-ops, rentals and brownstones, and one leak can soak every apartment below. In the Rockaways, Red Hook and Lower Manhattan, Sandy's surge in 2012 flooded thousands of buildings.",
   "Flash floods are a growing risk. In September 2021, the remnants of Ida flooded basement apartments in Queens, and people died. On September 29, 2023, a record rainstorm flooded subways and streets in Brooklyn and Queens. Storm drains can't keep up when several inches fall in an hour."
  ],
- "image": "ceiling",
- "image_alt": "Collapsed ceiling in an apartment after a leak from above",
+ "image_alt": "Worker smoothing a drywall ceiling in a bright room",
  "image_caption": "In New York's older buildings, one leak can damage several apartments below.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "Are basement apartments in New York safe from flooding?",
   "a": "Not always. Ida in 2021 showed that basement units can flood within minutes in extreme rain. Tenants should know two ways out, move valuables up and consider NFIP contents coverage."
- }
+ },
+ "photo": "6474129"
 }

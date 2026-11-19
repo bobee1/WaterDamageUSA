@@ -69,7 +69,9 @@ A dated log of every step. Newest entries at the bottom of each build. Status: D
 | 63 | 2026-11-19 | 7.1 | Linking: suburbs carry a `metro` field and their hub lists them (Dallas → Frisco, Plano; Phoenix → 4; Seattle → 3; LA → 3); nearby links made two-way; every new page has 3–6 in-text inbound links | Done | |
 | 64 | 2026-11-19 | 7.1 | Checks: audit 0 issues (159 pages); FK 6.2–8.4; uniqueness ≥ 75.2% (avg 77.3%); JSON-LD valid; no overflow at 1440/1024/768/360; pages ≤ 38 KB | Done | |
 | 65 | 2026-11-19 | Deploy | New Cloudflare Pages project `dryflare`; live at dryflare.pages.dev; Part 1 pages, sitemap (158 URLs) and noindex header verified there | Done | Old `drybeacon` project can be deleted |
-| 66 | — | 7.2 | Part 2: next 25 cities (Fresno → Ann Arbor) | Planned | Next |
+| 66 | 2026-11-19 | Photos | Owner rule: do not repeat photos. 230 Pexels photos sourced (found via Pexels search pages, reviewed on contact sheets, off-topic and foreign-landmark shots dropped), converted to 800px WebP (≤ 168 KB), each with its own accurate alt text (`src/photos.json`, `research/10-photo-pool.txt`). Every state and city page (126) now has its own photo matched to its main risk; location-specific shots (Houston, Savannah, Wabasha MN, North Texas, North Carolina, Pennsylvania, Florida) only on matching pages. Repeats on home, about, contact, water extraction and flood pages replaced. 104 photos held for Parts 2–4 | Done | Blog cards keep each guide's own branded graphic (not a photo) |
+| 67 | 2026-11-19 | Photos | Audit rule added: build fails if any photo (full or 800px version) appears on more than one page | Done | `scripts/audit.py` |
+| 68 | — | 7.2 | Part 2: next 25 cities (Fresno → Ann Arbor) | Planned | Next |
 
 ## Image register
 | File | Source | Used on |
@@ -86,6 +88,6 @@ A dated log of every step. Newest entries at the bottom of each build. Status: D
 | commercial-office-floor(.webp, -800) | Pexels photo 5483233 | Commercial water damage |
 | Inline SVG: drying setup, water categories | Original illustrations | Water mitigation, sewage cleanup |
 | blog/*.webp, blog/*.jpg (10 guides) | Original branded graphics | Guide featured images and social cards |
-| Existing photos reused on state pages | Same Pexels IDs as above | Chosen by each state's main risk, with state-specific alt text and captions |
+| img/p/*.webp (230 files) | Pexels; IDs in each file name and in `src/photos.json` | One photo per state/city page, never reused; 104 held for future city pages |
 
 Pexels license: free to use, no attribution required. Credits are not shown on the site.

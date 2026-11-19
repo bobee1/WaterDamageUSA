@@ -6,8 +6,7 @@
   "More than 40% of Minneapolis homes were built before 1940. Bungalows and foursquares in Longfellow, Powderhorn and Kenwood have stone or block basements, old clay sewer lines and thin attic insulation. Deep cold freezes pipes on outside walls, and ice dams push meltwater under shingles.",
   "Spring melt and heavy rain saturate the ground. Minnehaha Creek flooded homes and parks in 2014, and the Mississippi rises in wet springs. Summer cloudbursts overwhelm storm sewers, and basements take water through floor drains and cracks."
  ],
- "image": "ceiling",
- "image_alt": "Ceiling damaged by water from an ice dam leak",
+ "image_alt": "Long icicles hanging from a roof edge",
  "image_caption": "Ice dams on older Minneapolis homes send meltwater into walls and ceilings.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "How do I stop ice dams on my Minneapolis home?",
   "a": "Keep the roof cold. Seal air leaks from the house into the attic, add insulation and make sure the attic is vented. In the short term, rake snow off the lower roof after big storms."
- }
+ },
+ "photo": "10881040"
 }

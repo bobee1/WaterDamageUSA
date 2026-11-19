@@ -6,8 +6,7 @@
   "The Sacramento and American rivers meet at Sacramento, and much of the city sits behind levees. The floods of 1986 and 1997 showed what high water can do, and the Natomas basin sits low behind its levees. Big winter storms like those in January 2023 also fill streets and overwhelm drains.",
   "More than half of Sacramento homes were built before 1980. In East Sacramento, Land Park and Curtis Park, older homes have galvanized pipes and raised floors with crawl spaces that trap water. Summers are hot and dry, which helps drying, but winters are wet and cool."
  ],
- "image": "flood",
- "image_alt": "Flood barrier holding back water near homes",
+ "image_alt": "Car submerged to its roof on a flooded street at night",
  "image_caption": "Much of Sacramento depends on levees to hold back the Sacramento and American rivers.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "Do I need flood insurance behind a levee in Sacramento?",
   "a": "It is strongly worth considering. Levees lower the risk but don't remove it, and home policies exclude flood. NFIP policies usually take 30 days to start, so buy before the rainy season."
- }
+ },
+ "photo": "21820857"
 }

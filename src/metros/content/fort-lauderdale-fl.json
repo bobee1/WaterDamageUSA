@@ -6,8 +6,7 @@
   "On April 12, 2023, Fort Lauderdale got about 26 inches of rain in a day, flooding homes, roads and the airport. The city is laced with canals, and king tides push seawater over seawalls in Las Olas Isles and Rio Vista. Hurricanes like Wilma in 2005 brought wind and roof damage.",
   "About 65% of Fort Lauderdale homes were built before 1980, many on low ground near canals. Condo towers along Galt Ocean Mile and the beach see leaks that travel between floors. Humidity means wet drywall grows mold quickly."
  ],
- "image": "floodroom",
- "image_alt": "Standing water inside a room after record rainfall",
+ "image_alt": "Flooded street lined with palm trees after a storm",
  "image_caption": "The April 2023 rainstorm flooded homes across Fort Lauderdale in a single day.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "Was the April 2023 Fort Lauderdale flood covered by insurance?",
   "a": "Only for owners with flood insurance. Rain that rises from outside counts as flood, which standard home policies exclude. Many homes outside high-risk zones flooded that day."
- }
+ },
+ "photo": "14216445"
 }

@@ -6,8 +6,7 @@
   "Pittsburgh sits where three rivers meet, but flash floods in small valleys are often the bigger danger. On August 19, 2011, a flash flood on Washington Boulevard trapped cars and killed four people. In 2004, the remnants of Hurricane Ivan flooded Millvale, Etna and river towns.",
   "Nearly half of Pittsburgh homes were built before 1940. Hillside homes have stone or brick foundations that seep, and old clay sewer lines crack. 2018 was the city's wettest year on record, and landslides damaged homes and roads. Winter freezes burst old pipes."
  ],
- "image": "floodroom",
- "image_alt": "Water on a basement floor in an older home",
+ "image_alt": "Damaged room with crumbling walls and debris after long-term moisture",
  "image_caption": "Hillside homes in Pittsburgh often take on water through old stone foundations.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "Why do Pittsburgh basements leak so often?",
   "a": "Many homes are old and built into hillsides, with stone or brick foundations. Groundwater and runoff push through cracks and joints. Gutters, downspouts and drainage fixes help, along with a sump pump where needed."
- }
+ },
+ "photo": "11105511"
 }

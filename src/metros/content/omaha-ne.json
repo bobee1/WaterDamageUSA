@@ -6,8 +6,7 @@
   "In March 2019, the Missouri River and Platte River flooded after a bomb cyclone dropped rain on frozen ground. Offutt Air Force Base south of Omaha was badly flooded. The Papillion Creek system can rise fast in heavy rain and flood nearby neighborhoods.",
   "Hail damages Omaha roofs most summers. About 60% of homes were built before 1980, and many older homes in Dundee, Benson and Midtown have basements and old sewer lines. Deep winter cold freezes pipes on outside walls and in garages."
  ],
- "image": "flood",
- "image_alt": "Flood barrier holding back water near homes",
+ "image_alt": "Muddy floodwater covering a suburban street and sidewalks",
  "image_caption": "The 2019 Missouri River floods reached communities around Omaha.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "Does homeowners insurance cover hail damage in Omaha?",
   "a": "Usually yes, though many policies have a separate wind and hail deductible. Photograph the damage, cover openings and report the claim quickly."
- }
+ },
+ "photo": "14562092"
 }

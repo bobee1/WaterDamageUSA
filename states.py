@@ -194,8 +194,16 @@ def problems_table(c, name):
             f'<th>What helps</th></tr></thead><tbody>{rows}</tbody></table></div>')
 
 
+PHOTOS = json.loads((ROOT / "src" / "photos.json").read_text()) if (ROOT / "src" / "photos.json").exists() else {}
+
+
 def figure(ab, c):
-    src, w, h, portrait = IMAGES[c["image"]]
+    """Page photo. Each state and city page has its own Pexels photo (src/photos.json); no photo is used twice."""
+    if "photo" in c:
+        ph = PHOTOS[c["photo"]]
+        src, w, h, portrait = ph["file"], ph["w"], ph["h"], ph["h"] > ph["w"]
+    else:
+        src, w, h, portrait = IMAGES[c["image"]]
     cls = ' class="portrait"' if portrait else ""
     return (f'<figure class="figure"><img src="{src}" width="{w}" height="{h}" loading="lazy" decoding="async" '
             f'alt="{c["image_alt"]}"{cls}><figcaption>{c["image_caption"]}</figcaption></figure>')

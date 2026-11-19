@@ -6,8 +6,7 @@
   "Central Florida is inland, but hurricanes still hit hard. In 2022, Hurricane Ian dropped more than a foot of rain on parts of Orange County, flooding Orlo Vista and areas along the Little Wekiva River. Milton in 2024 brought more wind and rain. Lakes and retention ponds rise and spill into yards during long storms.",
   "Most Orlando homes are slab-on-grade with AC air handlers in closets or attics. A clogged condensate line can soak ceilings and walls before anyone notices. Afternoon thunderstorms drop heavy rain almost daily in summer, and humidity means mold grows quickly after any leak."
  ],
- "image": "flood",
- "image_alt": "Floodwater near homes after a tropical storm",
+ "image_alt": "Flooded road lined with palm trees and a leaning traffic sign",
  "image_caption": "Hurricane Ian's rain flooded inland Orlando neighborhoods in 2022.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "Can hurricanes flood homes in inland Orlando?",
   "a": "Yes. Hurricane Ian in 2022 dropped more than a foot of rain on parts of Orange County and flooded homes far from the coast. Flood insurance covers rising water; home policies do not."
- }
+ },
+ "photo": "14216449"
 }

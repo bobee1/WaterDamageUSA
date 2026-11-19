@@ -66,6 +66,8 @@ WORDS = {}
 
 
 def main():
+    global photo_use
+    photo_use = {}
     # Pages scheduled for a later build (see STATUS.md). Links to them are reported, not failed.
     pending_file = ROOT / "docs" / "pending-pages.txt"
     pending = {l.strip() for l in pending_file.read_text().splitlines() if l.strip() and not l.startswith("#")} \
@@ -123,6 +125,8 @@ def main():
                 problems.append((rel, f"img file missing {src}"))
             elif imgf.stat().st_size > 200_000:
                 problems.append((rel, f"img over 200 KB {src}"))
+            if not src.startswith(("/img/brand/", "/img/blog/")):  # blog cards reuse each guide's own branded graphic
+                photo_use.setdefault(re.sub(r"-800(?=\.webp$)", "", src), set()).add(rel)
         for word in BANNED:
             if word in low:
                 problems.append((rel, f"banned wording: '{word}'"))
@@ -148,6 +152,10 @@ def main():
         if not is404 and 'rel="canonical"' not in raw:
             problems.append((rel, "missing canonical"))
 
+    # Every photo appears on one page only (owner rule: do not repeat photos)
+    for src, where in sorted(photo_use.items()):
+        if len(where) > 1:
+            problems.append((sorted(where)[0], f"photo repeated on {len(where)} pages: {src} also on {sorted(where)[1:4]}"))
     for label, d in (("title", titles), ("meta", metas), ("H1", h1s)):
         for k, v in d.items():
             if len(v) > 1:

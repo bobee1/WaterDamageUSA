@@ -6,8 +6,7 @@
   "In May 2010, two days of rain sent the Cumberland River into downtown, Opryland and thousands of homes. In March 2021, flash floods killed several people in Antioch and south Nashville. On March 3, 2020, a tornado tore through North Nashville, Germantown, East Nashville and Donelson.",
   "Many homes sit along creeks like Mill Creek, Richland Creek and Browns Creek, which rise fast. Winter cold snaps, like December 2022, burst pipes in homes built for mild weather. Humid summers mean wet drywall and crawl spaces can grow mold quickly."
  ],
- "image": "floodyard",
- "image_alt": "House surrounded by floodwater after heavy rain",
+ "image_alt": "Road closed by floodwater with orange warning signs",
  "image_caption": "Nashville's 2010 and 2021 floods reached homes far outside mapped flood zones.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "Was the 2010 Nashville flood covered by insurance?",
   "a": "Only for people with flood insurance. Standard homeowners policies exclude rising water. Many homes that flooded were outside high-risk zones and had no flood policy."
- }
+ },
+ "photo": "17752086"
 }

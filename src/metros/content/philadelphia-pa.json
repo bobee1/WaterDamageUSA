@@ -6,8 +6,7 @@
   "About 40% of Philadelphia homes were built before 1940, and most are rowhomes. Shared walls let leaks spread next door. Flat roofs leak into top floors. Old sewers back up into basements in heavy storms.",
   "In September 2021, the remnants of Ida pushed the Schuylkill River over its banks. It flooded the Vine Street Expressway and Manayunk. Eastwick floods often along Cobbs and Darby creeks. Winter cold freezes pipes in old homes and vacant units."
  ],
- "image": "floodroom",
- "image_alt": "Water covering the basement floor of a rowhome",
+ "image_alt": "Room with stained walls and standing water along the floor",
  "image_caption": "Basements under Philadelphia rowhomes often flood when storms overload the sewers.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "Who pays when a neighbor's rowhome leaks into mine?",
   "a": "Usually your own home policy covers your damage first. If the neighbor was careless, your insurer may seek repayment from theirs. Report it fast, take photos and keep records."
- }
+ },
+ "photo": "18132318"
 }

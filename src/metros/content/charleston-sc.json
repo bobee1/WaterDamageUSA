@@ -6,8 +6,7 @@
   "The peninsula sits barely above sea level. King tides flood streets near the Market, Lockwood Drive and the Battery many times a year. The October 2015 flood dropped more than 20 inches of rain in places, and Hurricanes Hugo in 1989, Matthew in 2016 and Irma in 2017 pushed surge into the city.",
   "Historic homes South of Broad and in Ansonborough have crawl spaces, plaster and old wood floors that need slow, careful drying. Newer homes in West Ashley, James Island and Daniel Island are often raised or slab-built. Humidity makes mold a risk within a day or two."
  ],
- "image": "flood",
- "image_alt": "Flooded street in a historic coastal city",
+ "image_alt": "Black-and-white photo of a residential street with houses standing in floodwater",
  "image_caption": "King tides flood parts of Charleston's peninsula even on sunny days.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "How do you dry a historic Charleston home?",
   "a": "Slowly and carefully. Plaster, heart pine floors and old millwork can crack if dried too fast. Crews control heat and humidity, check moisture daily and save original materials where they can."
- }
+ },
+ "photo": "28447808"
 }

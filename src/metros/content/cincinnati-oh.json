@@ -6,8 +6,7 @@
   "The Ohio River set its record at Cincinnati in 1937. It crested near 60 feet in February 2018. Low areas like the East End flood in wet years. Old sewers back up in storms, and the sewer district runs a backup program for homes that flood.",
   "About 40% of Cincinnati homes were built before 1940. Hillside homes in Clifton, Mount Adams and Westwood have stone walls and basements that seep. In 2019, landslides closed Columbia Parkway after a very wet year."
  ],
- "image": "floodroom",
- "image_alt": "Water on the floor of an older stone basement",
+ "image_alt": "Wall with peeling paint and plaster damaged by moisture",
  "image_caption": "Older Cincinnati basements take on water from sewers and hillsides during storms.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "What should I do if sewage backs up into my Cincinnati basement?",
   "a": "Stop using water, stay out of the sewage and call MSD to report it. Take photos for your insurer. Sewage is black water, so cleanup needs protective gear and disinfection."
- }
+ },
+ "photo": "9617552"
 }

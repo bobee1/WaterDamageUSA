@@ -6,9 +6,8 @@
   "In August 2024, parts of Milwaukee got more than 10 inches of rain in about a day, flooding basements and streets across the city and western suburbs. A July 2010 storm caused thousands of basement backups. The Metropolitan Milwaukee Sewerage District's Deep Tunnel stores overflow, but big storms still overwhelm it.",
   "Milwaukee bungalows and duplexes are old, and many have clay sewer laterals and stone basements. More than a third of homes were built before 1940. Winter cold off Lake Michigan freezes pipes and builds ice dams."
  ],
- "image": "floodroom",
- "image_alt": "Basement floor under water after heavy rain",
- "image_caption": "Summer cloudbursts flood basements across Milwaukee and its suburbs.",
+ "image_alt": "Room with peeling walls and tools ready for repair",
+ "image_caption": "Flooded basements in older Milwaukee homes often need walls and flooring replaced.",
  "problems": [
   [
    "Basement backups",
@@ -41,5 +40,6 @@
  "faq": {
   "q": "What is Milwaukee's Deep Tunnel?",
   "a": "It's a system of large tunnels run by MMSD that stores storm water and sewage during heavy rain to reduce overflows. Very large storms can still fill it, leading to basement backups in older homes."
- }
+ },
+ "photo": "3562689"
 }

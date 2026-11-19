@@ -6,8 +6,7 @@
   "Most of Indiana's FEMA disasters since 2000 came from severe storms. Strong wind and hail damage roofs, then rain gets in. In June 2008, floods hit Columbus, Franklin and other central Indiana towns hard. The Ohio, Wabash and White rivers still flood homes in wet springs.",
   "Basements are common, and so are sump pumps. When the power fails in a storm, the pump stops and water rises. Over half of Indiana homes were built before 1980, so old drain lines and water heaters fail often. <a href=\"/locations/illinois/\">Illinois</a> and <a href=\"/locations/ohio/\">Ohio</a> share these risks."
  ],
- "image": "floodyard",
- "image_alt": "Home surrounded by water after a heavy rain storm",
+ "image_alt": "Black-and-white photo of floodwater flowing through woods",
  "image_caption": "Heavy spring rain and river flooding put water around Indiana homes in low areas.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "What do I do if my sump pump fails during a storm?",
   "a": "Stay out of standing water if outlets or cords are wet. Turn off power to the basement if you can do it safely. Then call DryFlare to pump out the water and start drying before mold grows."
- }
+ },
+ "photo": "28447783"
 }

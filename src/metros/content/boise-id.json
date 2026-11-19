@@ -6,8 +6,7 @@
   "Big snow years swell the Boise River. In 2017, high flows flooded parts of the Greenbelt and homes along the river for weeks. Foothills runoff after storms can send water and mud toward homes on the Bench and in the North End. Irrigation canals running through neighborhoods can also overflow.",
   "Winter cold freezes pipes in crawl spaces and garages, which are common across the Treasure Valley. Many homes in the North End and East End are older, with original plumbing. Dry summers help drying, but crawl spaces stay damp without fans and dehumidifiers."
  ],
- "image": "floodyard",
- "image_alt": "Water covering a yard near a home after high river flows",
+ "image_alt": "Black-and-white photo of a house with its front yard under floodwater",
  "image_caption": "High Boise River flows in big snow years can flood homes along the Greenbelt.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "Do canals cause flooding in Boise?",
   "a": "Sometimes. Irrigation canals run through many neighborhoods. Heavy storms, debris or high water can push them over their banks. Homes next to canals should know their flood risk and keep drains clear."
- }
+ },
+ "photo": "28447780"
 }

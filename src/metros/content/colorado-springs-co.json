@@ -6,8 +6,7 @@
   "After the 2012 Waldo Canyon fire, rain on the burn scar sent flash floods and debris through Manitou Springs and west Colorado Springs in 2013. Fountain Creek and its tributaries can rise fast in summer storms. Hail is frequent along the Front Range, and roof leaks follow the big storms.",
   "Winters bring sudden cold that freezes pipes, and many homes have basements. Homes on the north side, like Briargate and Northgate, are newer, while Old Colorado City and the Broadmoor area have older homes and plumbing. Dry air helps drying, but cold basements still need dehumidifiers."
  ],
- "image": "storm",
- "image_alt": "House with hail and wind damage to the roof and window",
+ "image_alt": "Tree trunk split by storm winds in a park",
  "image_caption": "Front Range hail often leads to attic and ceiling leaks in Colorado Springs.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "Why do burn scars cause floods in Colorado Springs?",
   "a": "Fire leaves bare ground that sheds rain instead of soaking it in. Runoff carries ash, mud and debris downhill fast. Homes below the Waldo Canyon burn scar saw flash floods for years after the 2012 fire."
- }
+ },
+ "photo": "38468405"
 }

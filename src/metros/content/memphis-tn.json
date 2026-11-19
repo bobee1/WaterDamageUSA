@@ -6,8 +6,7 @@
   "In December 2022, a deep freeze burst pipes across Memphis, and water pressure dropped so far that the city issued a boil-water notice. The Mississippi River crested near record levels in 2011. Nonconnah Creek and the Wolf River flood neighborhoods in heavy rain.",
   "Two-thirds of Memphis homes were built before 1980. Many older homes in Midtown and Cooper-Young have crawl spaces, older pipes and plaster. Tornadoes and straight-line winds bring down trees, and ice storms like the one in February 2023 cut power for days."
  ],
- "image": "pipe",
- "image_alt": "Water leaking from a frozen pipe joint",
+ "image_alt": "Frozen downspout with an icicle hanging over snow",
  "image_caption": "The December 2022 freeze burst pipes in homes across Memphis.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "Why did so many pipes burst in Memphis in 2022?",
   "a": "A long, deep freeze hit a city where many homes have pipes in crawl spaces and outside walls. Pipes froze and split, and leaks drained the water system. Insulating pipes and dripping faucets lower the risk."
- }
+ },
+ "photo": "6374566"
 }

@@ -6,8 +6,7 @@
   "Chicago's combined sewers carry both rain and sewage. In a big storm, they fill up and push water back through basement floor drains. The Deep Tunnel project stores billions of gallons, but storms still overwhelm it. In July 2023, record rain flooded thousands of basements on the West Side and in Cicero.",
   "Nearly 40% of Chicago homes were built before 1940. Bungalows and two-flats have old cast-iron drains and pipes on outside walls. During the January 2019 polar vortex, temperatures fell far below zero and burst pipes across the city."
  ],
- "image": "floodroom",
- "image_alt": "Water covering a basement floor after heavy rain",
+ "image_alt": "Room with peeling paint and a flooded floor reflecting the walls",
  "image_caption": "Heavy rain can push sewage and storm water up through Chicago basement drains.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "What is an overhead sewer in Chicago?",
   "a": "It's a plumbing setup where basement drains flow to an ejector pump that lifts waste up to a sewer line near the ceiling. Sewage from the city main can't flow back into the basement. It's a common fix for repeat backups."
- }
+ },
+ "photo": "10631759"
 }

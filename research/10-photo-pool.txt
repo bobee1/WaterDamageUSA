@@ -1,0 +1,231 @@
+# id | theme | alt text (describes the photo only) | location tag (optional)
+11537987|flood|Red house and a camper trailer surrounded by floodwater among bare trees|
+28447776|flood|Two-story house with floodwater covering the yard and driveway|
+28447780|flood|Black-and-white photo of a house with its front yard under floodwater|
+28447808|flood|Black-and-white photo of a residential street with houses standing in floodwater|
+28447767|flood|Black-and-white photo of a suburban house with water up to the front steps|
+12998606|flood|Black-and-white photo of a small building nearly submerged in floodwater|
+28447764|flood|Floodwater spreading through trees in front of a house|
+17723266|flood|Riverfront restaurant standing in floodwater on the Mississippi River in Wabasha, Minnesota|MN
+14216445|flood|Flooded street lined with palm trees after a storm|FL
+13865772|flood|Flooded downtown street with road-closed signs reflected in the water|FL
+17723270|flood|Flooded riverside park with bare trees reflected in the water in Wabasha, Minnesota|MN
+28447757|flood|Car driving through a flooded street between trees and houses|
+17682749|flood|Floodwater covering a street with bare trees in Wabasha, Minnesota|MN
+28447761|flood|Car struggling through deep water on a flooded street|
+13865779|flood|Flooded marina walkway with a yield sign reflected in the water|FL
+17752086|flood|Road closed by floodwater with orange warning signs|
+13865777|flood|Road Closed barricade standing in a flooded street|FL
+14562092|flood|Muddy floodwater covering a suburban street and sidewalks|
+27398545|flood|Flooded street with palm trees in Houston, Texas|HOU
+14216449|flood|Flooded road lined with palm trees and a leaning traffic sign|FL
+28447770|flood|Flooded street with cars stranded under overgrown trees|
+24705698|flood|Aerial view of floodwater covering a city park and nearby streets|
+13865770|flood|Floodwater covering a harbor-side street with sailboats behind|FL
+21820857|flood|Car submerged to its roof on a flooded street at night|
+8540654|flood|Cars parked in a flooded lot at sunset|
+29333189|flood|Rainwater flooding a street in Savannah, Georgia|SAV
+28447782|flood|Floodwater covering a path under willow trees after heavy rain|
+17752087|flood|Floodwater spreading through a forest in early spring|
+17667013|flood|Aerial view of a farm with silos surrounded by spring floodwater in Minnesota|MN
+17654209|flood|Aerial view of farm fields under floodwater in Kellogg, Minnesota|MN
+17654210|flood|Green farm trailer standing in floodwater|
+17682750|flood|Rural road covered by rising river water|
+17654212|flood|Road closed sign beside a flooded field|
+39457985|flood|Swollen brown river rushing past a city park|
+39457989|flood|River floodwater covering a park fence and lawn|
+39457988|flood|Muddy floodwater rushing through a creek after heavy rain|
+30271011|flood|Bare trees standing in muddy floodwater|
+36210444|flood|Aerial view of floodwater spreading across farmland and woods|
+28447783|flood|Black-and-white photo of floodwater flowing through woods|
+9806593|flood|Black-and-white photo of leafless trees standing in floodwater|
+28447779|flood|Flooded park under willow trees with calm brown water|
+13865776|flood|Storm debris and floodwater around a damaged pier|FL
+13865771|flood|Floodwater and storm debris along a palm-lined waterfront in Florida|FL
+13865778|flood|Road Closed sign in a flooded street with trees reflected in the water|FL
+28447802|flood|Washing machine swept into debris by floodwater|
+18312461|interior|Rainwater pouring through an open doorway into a dark building|
+28447798|sand|Black-and-white photo of crews filling sandbags during a flood|
+9348645|sand|Black-and-white close-up of stacked sandbags|
+28447790|sand|Volunteers in rain gear building a sandbag wall on a flooded street|
+35972270|sand|Close-up of stacked sandbags for flood protection|
+28447797|sand|Emergency crew filling sandbags on a rainy street|
+28447785|sand|Black-and-white photo of a flooded street with sandbags and a work truck|
+28447789|sand|Emergency responders working in floodwater on a residential street|
+28447787|sand|Crew placing sandbags along a flooded residential street|
+36072012|sand|Rescue workers in orange gear helping people through floodwater|
+16863840|interior|Badly damaged room with a collapsed ceiling and debris|
+10631759|interior|Room with peeling paint and a flooded floor reflecting the walls|
+18644891|interior|Empty room with peeling paint, a stained ceiling and debris on the floor|
+9617552|interior|Wall with peeling paint and plaster damaged by moisture|
+40729022|interior|Close-up of cracked and bubbling plaster on a damp wall|
+4092026|interior|Unfinished basement with concrete block walls and wood beams|
+34801206|interior|Standing water covering the floor of a dark hallway|
+14032089|interior|Water-stained ceiling with peeling plaster above a hanging lamp|
+18132318|interior|Room with stained walls and standing water along the floor|
+11105511|interior|Damaged room with crumbling walls and debris after long-term moisture|
+7434331|mold|Close-up of black mildew stains on a damp wall|
+18351809|mold|Inspector with a flashlight checking mold growth on walls|
+29701042|mold|Water-stained wall with peeling paint near a downspout|
+9127236|mold|Damp wall with cracks and green algae growth|
+7506161|mold|Dark mold streaks running down a wall corner|
+15220749|mold|Close-up of mold spots spreading across a surface|
+32394146|storm|Uprooted tree lying beside a house after a storm|
+34680656|storm|Aerial view of homes with roofs torn apart by a hurricane|
+38468405|storm|Tree trunk split by storm winds in a park|
+34680655|storm|Aerial view of houses with severe roof damage after a hurricane|
+14615663|storm|Black-and-white photo of a broken tile roof with a chimney|
+4170461|storm|Aerial view of a neighborhood with destroyed houses after a tornado in Chattanooga|TN
+4170441|storm|Aerial view of houses with torn roofs and fallen trees after a tornado|
+4170448|storm|Aerial view of tornado damage with roofs torn off and power lines down|
+32394147|storm|Large tree uprooted across a residential street|
+4170423|storm|Aerial view of a commercial street with storm damage and debris|
+4170424|storm|Aerial view of uprooted trees piled in a field after a storm|
+4170428|storm|Aerial view of ruined houses and scattered lumber after a tornado|
+4170459|storm|Aerial view of destroyed homes along a road after a tornado|
+16105712|storm|Exterior of a house with walls and roof torn open by a storm|
+4170432|storm|Aerial view of a neighborhood stripped of trees and roofs by a tornado|
+4170433|storm|Aerial view of a tornado path through houses and woods|
+4170434|storm|Aerial view of homes and trees flattened by a tornado|
+4170462|storm|Aerial view of damaged houses near downed power lines after a storm|
+4170429|storm|Aerial view of businesses with roof damage after a windstorm|
+4170436|storm|Aerial view of a shopping area with damaged roofs after a storm|
+4170450|storm|Aerial view of a long tornado track across a town|
+4170427|storm|Aerial view of trees knocked flat in a field after a storm|
+4170447|storm|Aerial view of downed trees near houses after a tornado|
+4170437|storm|Aerial view of a highway and storm-damaged buildings|
+34429004|storm|Hailstones scattered on wet wood after a storm|
+19314212|storm|Storm waves and debris on a beach after a hurricane|
+19314211|storm|Beachfront building battered by storm waves and debris|
+36884223|roof|Worker repairing a roof with new metal sheets|
+37623623|roof|Two roofers working on a damaged roof|
+37623616|roof|Roofers replacing roofing panels on a house|
+36884206|roof|Workers using a ladder to reach the roof of a brick building|
+38781381|roof|Roofer laying asphalt shingles on a flat roof|
+7788269|roof|Roofer in safety gear repairing a tile roof|
+9431615|roof|Worker installing shingles on a sloped roof|
+36884227|roof|Roofer climbing onto a roof with materials|
+37623613|roof|Roofer in a helmet working on a house roof|
+39623738|roof|Roofer kneeling on a roof with tools|
+37704237|roof|Workers repairing flashing around a brick chimney|
+37623615|roof|Roofers working near the ridge of a roof|
+37623622|roof|Roofer replacing tiles on a sloped roof|
+37623618|roof|Roofer working on the roof of a red brick house|
+38524253|roof|Roofer working at the edge of a house roof|
+37704246|roof|Roofer working on the roof of a brick house|
+39623734|roof|Two workers installing new roof decking|
+39238326|roof|Roofer sealing a flat roof|
+39238315|roof|Roofer repairing a flat urban rooftop|
+37623619|roof|Two roofers on a roof under a cloudy sky|
+37623624|roof|Roofers replacing a damaged section of roof|
+31771166|roof|Roofer working on a red tile roof|
+33501308|roof|Roofers replacing the roof of a historic house in Weatherford, Texas|NTX
+37677476|roof|Roofers replacing shingles on a brick home in Allen, Texas|NTX
+38346742|roof|Roofer carrying gear toward a house|NC
+33404248|roof|Roofer using a nail gun on new shingles|NTX
+38781387|roof|Roofer torch-applying membrane on a flat roof|
+38749917|roof|Roofer working on new roof framing|
+33404981|roof|Roof replacement on a brick house in Fort Worth, Texas|NTX
+37623620|roof|Two roofers repairing roof tiles|
+38346739|roof|Roofer climbing a ladder to a house roof in North Carolina|NC
+38346729|roof|Roofer working on a shingle roof in North Carolina|NC
+38346781|roof|Roofer setting up a safety line on a shingle roof|NC
+38346725|roof|Roofer climbing a ladder with a safety harness in North Carolina|NC
+38346735|roof|Roofer walking toward a house with ladder and gear|NC
+38346782|roof|Roofer in a harness on a roof under tall trees|NC
+38346748|roof|Roofer securing equipment on a roof among trees|NC
+38346822|roof|Roofer in a safety harness on a rooftop|NC
+20113440|rain|Rainwater dripping from a house gutter|
+40938490|rain|Rainwater dripping from a downspout onto plants|
+9554086|rain|Rain falling from the edge of a roof|
+2663254|rain|Rainwater running down a tile roof into the gutter|
+13793186|rain|Heavy rain splashing off a tile roof edge|
+13307118|rain|Rainwater pouring from a gutter during a storm in Houston|HOU
+5009575|rain|Rainwater streaming off a roof during a downpour|
+18782936|rain|Rain pouring off a metal roof|
+35382726|winter|Water dripping from a gutter downspout in freezing weather|
+36168811|winter|Red downspout buried in melting snow|
+6374566|winter|Frozen downspout with an icicle hanging over snow|
+35915028|winter|Outdoor water tap dripping in a snowy yard|
+36346416|winter|Icicles hanging from a water pipe on a stone wall|
+31132002|winter|Icicles hanging from a snow-covered pipe|
+15242228|winter|Frozen water spilling from a building drain pipe|
+35754115|winter|Water pipe on a building wall above deep snow|
+19935300|winter|Ice coating a red pipe valve|
+36163764|winter|Frost-covered water valve in winter sun|
+11140230|winter|Fire hydrant with icicles on a frosty street|
+10881040|winter|Long icicles hanging from a roof edge|
+8875446|winter|Icicles hanging from the gutter of a snow-covered roof|
+839463|winter|Icicles forming along a snowy roof edge|
+6667090|winter|Snow piled on a roof with icicles along the eave|
+30731294|winter|Brick bungalow with a snow-covered roof and yard|
+30731334|winter|Small brick house with snow on the roof and steps|
+30731986|winter|Brick house with deep snow in the front yard|
+30731301|winter|Brick house beside a snowy street|
+10593298|winter|Brick house with large icicles hanging from the roof|
+3786322|winter|New suburban homes with light snow on the roofs|
+30731303|winter|Houses with snow-covered porches and evergreens|
+36154766|winter|Suburban homes after a snowfall in Warrington, Pennsylvania|PA
+35501121|winter|Older houses with snow on the roofs and yards|
+6276132|winter|Snow-covered yards and houses on a gray winter day|
+754277|winter|Row of suburban houses after a snowfall|
+10957288|winter|Blue house surrounded by snow at sunrise|
+4406597|pipe|Rusted pipe dripping water above a lawn|
+18274115|pipe|Leaking water pipe spraying in a yard|
+36571568|pipe|Water dripping from a rusty pipe|
+34295406|pipe|Chrome faucet with a steady drip|
+40134779|pipe|Old outdoor faucet dripping water|
+11658940|pipe|Water meter and shutoff valves in a wall box|
+3964564|pipe|Downspout pipe draining water onto pavement|
+7836293|pipe|Brass faucet with a water drop on a black background|
+10961064|pipe|Wrench resting in a wet sink|
+6419128|pipe|Plumber's hands fitting pipes under a sink|
+35290675|pipe|Technician working on a water pump|
+14953886|pipe|Braided supply hoses and plumbing tools on a blueprint|
+8488035|pipe|Exposed old pipes on a wall during repairs|
+7859953|pipe|Technician servicing a water heater control panel|
+5691629|pipe|Pliers laid out for a home plumbing repair|
+39885416|pipe|Plumber bending copper pipe|
+29226620|pipe|Plumber fitting a pipe connection with tools|
+32588548|pipe|Plumber tightening a pipe fitting with a wrench|
+12105083|pipe|Wrenches and pliers laid out for a plumbing job|
+3616761|pipe|Two water shutoff valves on a white wall|
+8488058|pipe|Pipe wrench on a wooden floor|
+11427055|repair|Gloved hand pressing a new drywall panel into place|
+4981812|repair|Worker installing a drywall panel|
+6474123|repair|Worker finishing drywall seams on a ceiling|
+36035072|repair|Room stripped to bare walls during repairs|
+36035073|repair|Kitchen under repair with a ladder and bare walls|
+3616762|repair|Patched wall with fresh plaster and paint|
+6474295|repair|Worker sanding a new drywall ceiling|
+3614763|repair|Opened wall with exposed wiring during repairs|
+6474129|repair|Worker smoothing a drywall ceiling in a bright room|
+5493667|repair|Worker in a respirator smoothing a wall|
+6474207|repair|New moisture-resistant drywall with taped seams|
+5691606|repair|Gloved hand sanding a dark wall|
+5493677|repair|Worker drilling into a new drywall panel|
+6474343|repair|Worker sanding ceiling seams with a power sander|
+6474133|repair|Worker sanding a wall in an empty room|
+4981770|repair|Worker on stilts finishing a ceiling|
+5493671|repair|Drywall crew on stilts in a bright room|
+8488031|repair|Walls opened to the studs during water damage repairs|
+6474202|repair|Worker on stilts sanding a drywall ceiling|
+11427094|repair|Cutting a sheet of drywall with a utility knife|
+6473978|repair|Worker sanding a wall with a power tool|
+5691691|repair|Worker removing damaged wall material from a doorway|
+6474118|repair|Black-and-white photo of a worker drilling into drywall|
+5691533|repair|Hallway with doors and trim removed during repairs|
+5691549|repair|Room with a window frame removed during repairs|
+4567374|repair|Entryway with tools and materials during repairs|
+5691507|repair|Room with windows removed and tools on a workbench|
+4756489|repair|Walls opened to the framing during a rebuild|
+5691530|repair|Apartment room with materials stacked during repairs|
+15798781|repair|Room stripped to bare brick during repairs|
+5691527|repair|Door and repair materials in an unfinished room|
+23358344|repair|Black-and-white photo of workers plastering walls|
+3562689|repair|Room with peeling walls and tools ready for repair|
+3616739|repair|Room with boxes and supplies during repairs|
+4756490|repair|Exposed beams and brick in a room being rebuilt|
+15798784|repair|Sunny room with materials laid out for repairs|
+5691681|repair|Dusty windowsill and tools during repairs|
+7937304|repair|Unfinished rooms with new plaster walls|

@@ -6,8 +6,7 @@
   "Kansas has had 43 severe storm disasters since 2000, more than almost any state. Large hail cracks shingles and skylights, and leaks show up later. Tornadoes like the one that leveled Greensburg in 2007 open whole roofs to the rain. Flash floods hit the Kansas City suburbs when heavy storms stall.",
   "Winter cold is the other half. Arctic air can drop temperatures below zero in a day, and pipes in outside walls and garages freeze. Many Kansas homes have basements, so a burst pipe or failed sump pump fills them fast. <a href=\"/locations/missouri/\">Missouri</a> and <a href=\"/locations/oklahoma/\">Oklahoma</a> share the same storm track."
  ],
- "image": "storm",
- "image_alt": "Roof and window damage after a severe hail and wind storm",
+ "image_alt": "Aerial view of uprooted trees piled in a field after a storm",
  "image_caption": "Hail-cracked shingles and broken windows let rain inside long after a Kansas storm passes.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "How soon should I report hail damage in Kansas?",
   "a": "As soon as you can. Many policies require prompt notice and set time limits for roof claims. Take photos, cover openings to stop more damage, and keep receipts for tarps and emergency repairs."
- }
+ },
+ "photo": "4170424"
 }

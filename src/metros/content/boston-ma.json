@@ -6,8 +6,7 @@
   "Almost half of Boston's homes were built before 1940, more than almost any big city. Triple-deckers in Dorchester and Jamaica Plain and brownstones in the South End have old pipes, slate and flat roofs, and units stacked on top of each other. The record snow of 2015 caused ice dams across the city.",
   "Coastal storms push the harbor into streets. On January 4, 2018, a nor'easter brought a record tide that flooded Long Wharf, the Seaport and parts of Fort Point. Another storm flooded the waterfront that March. Winter cold freezes pipes in older homes."
  ],
- "image": "ceiling",
- "image_alt": "Ceiling damaged by a leak in an older building",
+ "image_alt": "Water-stained ceiling with peeling plaster above a hanging lamp",
  "image_caption": "Ice dams and leaks from the unit above are common in Boston's older buildings.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "Who pays for a leak between Boston condo units?",
   "a": "It depends on where the leak started and the condo documents. The association's master policy often covers common pipes and structure, and your HO-6 covers your unit's interior and belongings. Report it fast."
- }
+ },
+ "photo": "14032089"
 }

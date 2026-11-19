@@ -6,8 +6,7 @@
   "Vancouver sits on the Columbia River, and east winds from the Gorge bring ice storms. In January 2024, an ice storm froze the region for days, downing trees and power lines and bursting pipes. The Columbia flooded in 1948 and again in 1996, when high water and heavy rain hit both sides of the river.",
   "Winters are long and wet. Many homes have crawl spaces that collect water, and moss holds rain on roofs. Newer homes in Felida and Fishers Landing still see supply line and water heater leaks. Damp air means drying needs dehumidifiers, not just fans."
  ],
- "image": "mold",
- "image_alt": "Mold growing on a wall after a long-term leak",
+ "image_alt": "Damp wall with cracks and green algae growth",
  "image_caption": "Wet winters in Vancouver keep crawl spaces and walls damp for months.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "Why do pipes burst during Vancouver ice storms?",
   "a": "East winds from the Columbia Gorge bring sudden cold and power outages. Without heat, pipes in crawl spaces and outside walls freeze and split. Keep heat on, insulate pipes and know your shut-off."
- }
+ },
+ "photo": "9127236"
 }

@@ -6,9 +6,8 @@
   "On July 26, 2022, about nine inches of rain fell on St. Louis in a few hours, a record that flooded homes, highways and basements across the city and county. The River Des Peres overflowed in south St. Louis. In 1993, the downtown floodwall held back a record Mississippi crest.",
   "Nearly 58% of St. Louis homes were built before 1940, more than any other big U.S. city. Brick homes and flats have stone foundations, old cast-iron drains and plaster walls. Old combined sewers back up in storms, and winter cold bursts old pipes."
  ],
- "image": "floodroom",
- "image_alt": "Water covering the floor of an old brick basement",
- "image_caption": "Century-old St. Louis basements took in water across the city in the 2022 flood.",
+ "image_alt": "Room stripped to bare brick during repairs",
+ "image_caption": "After a flood, wet plaster and drywall in old St. Louis brick homes often have to come out.",
  "problems": [
   [
    "Flash flooding",
@@ -41,5 +40,6 @@
  "faq": {
   "q": "How did the 2022 St. Louis flood happen?",
   "a": "Storms trained over the city on July 26, 2022, dropping about nine inches of rain in a few hours. Sewers and creeks couldn't keep up, and water flooded homes and roads. Flood insurance covers that kind of rising water."
- }
+ },
+ "photo": "15798781"
 }

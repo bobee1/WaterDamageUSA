@@ -6,8 +6,7 @@
   "In September 2024, Helene brought down thousands of trees across the Upstate, leaving holes in roofs and long power outages. The Reedy River and its creeks flood in heavy rain, and downtown's Falls Park sits right on the river. Ice storms bring down limbs in winter.",
   "Many Greenville homes sit on crawl spaces over red clay, which holds water. Older homes on North Main and Augusta Road have original plumbing and plaster. Humid summers let mold grow quickly on wet wood and drywall."
  ],
- "image": "storm",
- "image_alt": "House roof and window damaged by a storm",
+ "image_alt": "Black-and-white photo of a broken tile roof with a chimney",
  "image_caption": "Helene toppled trees onto homes across the Upstate in 2024.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "What should I do if a tree falls on my Greenville home?",
   "a": "Get everyone out of the damaged area and call 911 if lines are down. Once safe, photograph the damage and have the roof tarped to stop rain. Your homeowners insurer usually handles the claim."
- }
+ },
+ "photo": "14615663"
 }

@@ -6,8 +6,7 @@
   "Hurricane Ian made landfall in Lee County in September 2022. Its storm surge flooded Fort Myers Beach, downtown along the Caloosahatchee, and McGregor and Iona. Thousands of homes took in saltwater, and many had to be gutted. Helene and Milton brought more surge and wind in 2024.",
   "Fort Myers is a newer city, with a median build year of 2001. Most homes are concrete block on slabs, with drywall that wicks water up quickly. Condo and seasonal homes sit empty for months, so leaks can go unnoticed. Humidity makes mold a risk within a day or two."
  ],
- "image": "flood",
- "image_alt": "Flooded street and homes after hurricane surge",
+ "image_alt": "Flooded downtown street with road-closed signs reflected in the water",
  "image_caption": "Ian's surge in 2022 flooded homes far up the Caloosahatchee River.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "How do I protect a Fort Myers seasonal home from water damage?",
   "a": "Shut off the main water when you leave, or install an automatic shut-off with leak sensors. Set the AC to control humidity and ask someone to check the home after storms. Keep flood insurance active even when you're away."
- }
+ },
+ "photo": "13865772"
 }

@@ -6,8 +6,7 @@
   "Hampton Roads has some of the fastest relative sea-level rise on the East Coast, and Virginia Beach feels it. Neighborhoods near Lynnhaven, Back Bay and Windsor Woods flood in storms and high tides. Hurricane Matthew's rain in 2016 flooded thousands of homes, and nor'easters push water into low streets most winters.",
   "Many homes were built in the 1970s and 1980s on low, flat ground with slab foundations. Sandbridge and Oceanfront homes face wind and salt spray. High groundwater means crawl spaces and slabs stay damp, so drying needs dehumidifiers."
  ],
- "image": "flood",
- "image_alt": "Floodwater on a street near homes after a coastal storm",
+ "image_alt": "Swollen brown river rushing past a city park",
  "image_caption": "Nor'easters and high tides flood low Virginia Beach neighborhoods most winters.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "Why does Virginia Beach flood so often?",
   "a": "Low ground, high groundwater and rising seas mean tides and rain have little room to drain. Nor'easters and hurricanes make it worse. Flood insurance covers tidal and surge flooding; home policies don't."
- }
+ },
+ "photo": "39457985"
 }

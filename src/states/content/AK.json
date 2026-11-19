@@ -6,8 +6,7 @@
   "Alaska's biggest water problem is often frozen plumbing. When the heat fails during a cold snap, pipes in outside walls, crawl spaces and unheated arctic entries can freeze and split in hours. In Fairbanks and the Interior, temperatures well below zero make a short power or boiler outage a serious risk.",
   "Spring brings a different set of problems. Ice jams on rivers can back water up into towns, and fast snowmelt saturates the ground around foundations. In Juneau, glacial outburst floods from Suicide Basin have raised the Mendenhall River and flooded nearby homes in recent years. Western Alaska's coast also sees fall storms, such as the remnants of Typhoon Merbok in 2022, that push seawater onshore."
  ],
- "image": "pipe",
- "image_alt": "Water dripping from a cracked pipe joint in a cold crawl space",
+ "image_alt": "Icicles hanging from a snow-covered pipe",
  "image_caption": "A small crack in a frozen pipe can release hundreds of gallons once the ice thaws.",
  "problems": [
   [
@@ -42,5 +41,6 @@
   "q": "Can you dry a house in Alaska in the middle of winter?",
   "a": "Yes. Crews use dehumidifiers and controlled heat to dry wet materials even when it is below zero outside. Cold, dry outdoor air can help, but the building must stay heated so pipes do not freeze again during drying."
  },
- "areas": "Calls also come from Kenai, Soldotna, Ketchikan and Kodiak."
+ "areas": "Calls also come from Kenai, Soldotna, Ketchikan and Kodiak.",
+ "photo": "31132002"
 }

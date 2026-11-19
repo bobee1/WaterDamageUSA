@@ -6,8 +6,7 @@
   "Almost 70% of Los Angeles homes were built before 1980. Galvanized pipes, cast-iron drains and slab foundations are common, so a leak under the floor or in a wall can run for weeks before anyone sees it. In apartment buildings and condos, one leak can soak several units.",
   "Most rain falls in a few winter months, often from atmospheric rivers. In February 2024, record rain triggered mudslides in the Hollywood Hills and Studio City. Since the January 2025 fires, hillsides below the Palisades and Eaton burn scars face higher mudflow risk in heavy rain. The concrete Los Angeles River was built after the 1938 flood to move storm water fast."
  ],
- "image": "drywall",
- "image_alt": "Cut-out drywall showing a hidden leak at the bottom of a wall",
+ "image_alt": "Room stripped to bare walls during repairs",
  "image_caption": "Slab and wall leaks in older LA homes often show first as swollen baseboards.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "Why are slab leaks so common in Los Angeles?",
   "a": "Many LA homes were built on concrete slabs with copper or older pipes underneath. Age, corrosion and ground movement can cause pinhole leaks. Signs include warm floor spots, running water sounds and a higher water bill."
- }
+ },
+ "photo": "36035072"
 }

@@ -6,8 +6,7 @@
   "Hurricane Hugo reached Charlotte in 1989 and brought down trees across the city, and Helene did the same in 2024. Little Sugar Creek and other creeks flood in heavy rain; after a 1997 flood, the county bought out flood-prone homes and turned land into greenways. Flash floods still hit low streets.",
   "Charlotte grew fast, so most homes are newer, with a median build year of 1995. Newer homes have crawl spaces or slabs and leak mainly from supply lines and appliances. Older homes in Myers Park, Dilworth and Plaza Midwood have plaster walls and older plumbing."
  ],
- "image": "storm",
- "image_alt": "Storm damage to a house roof and window",
+ "image_alt": "Roofer carrying gear toward a house",
  "image_caption": "Big trees and strong storms often mean roof damage and leaks in Charlotte.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "Does Charlotte have flood-prone neighborhoods?",
   "a": "Yes, mainly along creeks like Little Sugar, Briar and McAlpine. The county has bought out many flood-prone homes since the late 1990s. Check flood maps and consider flood insurance if you live near a creek."
- }
+ },
+ "photo": "38346742"
 }

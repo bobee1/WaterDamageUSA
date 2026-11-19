@@ -6,8 +6,7 @@
   "Brush Creek flooded the Country Club Plaza in September 1977, a disaster that led to years of flood work along the creek. Indian Creek, Blue River and Turkey Creek still flash flood in heavy storms. The Missouri River flooded parts of the area in 1993 and again in 2019.",
   "Hail is common, and roofs across the metro take damage most springs. Over 60% of Kansas City homes were built before 1980, and many have basements, old clay sewer laterals and stone foundations. Winter cold snaps freeze pipes in outside walls."
  ],
- "image": "storm",
- "image_alt": "Hail and wind damage to a house roof and window",
+ "image_alt": "Aerial view of houses with torn roofs and fallen trees after a tornado",
  "image_caption": "Spring hail across Kansas City often leads to roof and ceiling leaks.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "Is hail damage common in Kansas City?",
   "a": "Yes. The metro sees damaging hail most years. Cracked shingles let water into attics and ceilings, often weeks later. Inspect the roof after big storms and report damage quickly."
- }
+ },
+ "photo": "4170441"
 }

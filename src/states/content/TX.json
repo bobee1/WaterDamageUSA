@@ -6,9 +6,8 @@
   "Hurricane Harvey stalled over Houston in 2017 and dropped more than 50 inches of rain in some spots. Over 100,000 homes flooded. Hurricane Beryl hit Houston in 2024. The Hill Country has some of the worst flash flood risk in the country; in July 2025, the Guadalupe River rose more than 20 feet near Kerrville.",
   "North Texas gets some of the worst hail in the country. In February 2021, Winter Storm Uri froze pipes in homes across the state, many built with plumbing in attics and outside walls. Most Texas homes sit on slabs over clay that shifts, which can crack pipes. <a href=\"/locations/louisiana/\">Louisiana</a> and <a href=\"/locations/oklahoma/\">Oklahoma</a> share many of these risks."
  ],
- "image": "flood",
- "image_alt": "Flooded neighborhood with water reaching homes",
- "image_caption": "Harvey showed that flooding in Texas can reach homes far outside mapped flood zones.",
+ "image_alt": "Drywall crew on stilts in a bright room",
+ "image_caption": "After a Texas flood, drywall crews rebuild walls once moisture readings confirm the framing is dry.",
  "problems": [
   [
    "Hurricane and rain flooding",
@@ -44,5 +43,6 @@
  },
  "areas": "Coastal calls also come from Galveston, Beaumont and Port Arthur, and Hill Country calls from Kerrville and New Braunfels.",
  "licensing": "Texas has no statewide general contractor license, so cities set rules and require permits. Plumbers, electricians and HVAC contractors need state licenses.",
- "licensing_faq": "Texas has no statewide general contractor license. Plumbing, electrical and HVAC work need state-licensed trades."
+ "licensing_faq": "Texas has no statewide general contractor license. Plumbing, electrical and HVAC work need state-licensed trades.",
+ "photo": "5493671"
 }

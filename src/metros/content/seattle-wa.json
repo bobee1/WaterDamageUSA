@@ -6,8 +6,7 @@
   "Seattle gets steady rain from October to April, and atmospheric rivers can drop days of heavy rain on soaked ground. Steep hillsides in West Seattle, Magnolia and along Lake Washington can slide, pushing mud and water into homes. Basements in older homes take on groundwater through cracks and joints.",
   "More than half of Seattle's homes were built before 1980, and almost a quarter before 1940. Craftsman homes often have old side sewers, which owners are responsible for. Moss holds water on roofs, and cool, damp air causes condensation and mold in poorly vented rooms."
  ],
- "image": "mold",
- "image_alt": "Mold spots spreading on a damp wall in an older home",
+ "image_alt": "Inspector with a flashlight checking mold growth on walls",
  "image_caption": "Seattle's damp months let mold grow fast on any wet wall.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "Who is responsible for a side sewer in Seattle?",
   "a": "In Seattle, property owners are usually responsible for the side sewer from the house to the city main. Roots and cracks in old clay lines cause backups. A camera inspection shows its condition."
- }
+ },
+ "photo": "18351809"
 }

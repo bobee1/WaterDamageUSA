@@ -6,8 +6,7 @@
   "Hurricane Fran in 1996 brought down thousands of trees across Raleigh, and Florence in 2018 soaked the region for days. Crabtree Creek floods often in heavy rain, swamping roads and businesses near Crabtree Valley. Ice storms, like the one in December 2002, bring down limbs and cut power.",
   "Raleigh is a newer city; the median home was built in 1997. But newer homes still sit on crawl spaces that collect moisture in humid summers. Supply lines, water heaters and washing machines cause most indoor leaks. Older homes in Oakwood and Hayes Barton have original plumbing and plaster walls."
  ],
- "image": "floodyard",
- "image_alt": "Floodwater around a home after heavy rain",
+ "image_alt": "Aerial view of floodwater covering a city park and nearby streets",
  "image_caption": "Crabtree Creek and its tributaries flood parts of Raleigh in big storms.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "Why do Raleigh crawl spaces get so wet?",
   "a": "Humid air, rain and poor drainage let moisture build up under the house. Torn vapor barriers make it worse. Drying the space, fixing drainage and sealing it help prevent mold and wood rot."
- }
+ },
+ "photo": "24705698"
 }

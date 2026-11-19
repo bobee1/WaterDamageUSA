@@ -6,8 +6,7 @@
   "The Great Flood of 1913 swamped the Franklinton neighborhood when the Scioto River broke through, and a floodwall finished in 2004 now protects it. The Scioto and Olentangy rivers still rise in heavy rain, and creeks like Alum Creek and Big Walnut flood nearby homes.",
   "About half of Columbus homes were built before 1980. Brick homes in German Village and Victorian Village have old plumbing and basements. Storms overload sewers and push water into basement drains. Winter cold snaps freeze pipes in outside walls."
  ],
- "image": "floodroom",
- "image_alt": "Water on a basement floor after heavy rain",
+ "image_alt": "Close-up of cracked and bubbling plaster on a damp wall",
  "image_caption": "Heavy storms fill basements across older Columbus neighborhoods.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "Is Franklinton still at risk of flooding?",
   "a": "The floodwall finished in 2004 protects Franklinton from Scioto River flooding, and FEMA remapped much of the area. Heavy rain can still cause street and basement flooding, so drainage and backup protection still matter."
- }
+ },
+ "photo": "40729022"
 }

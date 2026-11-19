@@ -6,9 +6,8 @@
   "The February 1996 flood brought the Willamette within inches of the top of the downtown seawall. Johnson Creek has flooded the Lents neighborhood many times. To cut sewer overflows, Portland built the \"Big Pipe\" tunnels, finished in 2011, but older homes still see basement backups in heavy rain.",
   "More than a quarter of Portland homes were built before 1940. Old basements seep, foundations crack, and moss lifts shingles. In January 2024, an ice storm froze the city for days, bringing burst pipes and roof damage from fallen trees. Damp air keeps drying slow all winter."
  ],
- "image": "floodroom",
- "image_alt": "Water on the floor of an older basement after heavy rain",
- "image_caption": "Older Portland basements take on water through cracks and drains in long rainy spells.",
+ "image_alt": "Flooded street with cars stranded under overgrown trees",
+ "image_caption": "Heavy rain that floods Portland streets also pushes water into older basements.",
  "problems": [
   [
    "Basement seepage and backups",
@@ -41,5 +40,6 @@
  "faq": {
   "q": "What is Portland's Big Pipe?",
   "a": "It's a set of large sewer tunnels finished in 2011 to cut combined sewer overflows into the Willamette River and Columbia Slough. It reduced overflows, but heavy rain can still cause backups in older homes' drains."
- }
+ },
+ "photo": "28447770"
 }

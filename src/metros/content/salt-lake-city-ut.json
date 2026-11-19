@@ -6,8 +6,7 @@
   "In 1983, a fast spring melt turned State Street into a river as City Creek overflowed through downtown. The record snowpack of 2023 brought another spring of high creeks and wet basements across the Wasatch Front. Canyon creeks like Emigration and Parleys can rise fast in warm spells.",
   "Salt Lake City's housing is old for the West: 65% of homes were built before 1980 and a quarter before 1940. Homes in the Avenues and Sugar House often have basements, old drain lines and brick foundations. Winter cold freezes pipes, and hard water wears out water heaters."
  ],
- "image": "pipe",
- "image_alt": "Leaking pipe dripping in a basement ceiling",
+ "image_alt": "Icicles hanging from a water pipe on a stone wall",
  "image_caption": "Burst pipes and spring runoff fill basements across Salt Lake City.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "What happened in the 1983 Salt Lake City flood?",
   "a": "A big snowpack melted fast in late spring. City Creek overflowed, and the city used sandbags to turn State Street into a channel to carry the water through downtown. It shows how quickly snowmelt can flood the city."
- }
+ },
+ "photo": "36346416"
 }

@@ -6,8 +6,7 @@
   "Hurricane Katrina's surge in 2005 reached more than 25 feet along the Mississippi Gulf Coast. Towns from Waveland and Bay St. Louis to Biloxi and Pascagoula were flattened. FEMA has declared nine hurricane disasters in Mississippi since 2000, and Tropical Storm Arthur brought another in 2026.",
   "Inland, severe storms are the most common disaster. The March 2023 tornado destroyed much of Rolling Fork in the Delta. The Pearl River flooded parts of Jackson in 2020 and 2022. Mississippi also has one of the highest shares of mobile homes in the country, at 14%. <a href=\"/locations/louisiana/\">Louisiana</a> and <a href=\"/locations/alabama/\">Alabama</a> share the Gulf threats."
  ],
- "image": "storm",
- "image_alt": "Roof and window damage on a house after a hurricane",
+ "image_alt": "Aerial view of ruined houses and scattered lumber after a tornado",
  "image_caption": "Wind damage from Gulf storms opens roofs and lets rain soak Mississippi homes.",
  "problems": [
   [
@@ -41,5 +40,6 @@
  "faq": {
   "q": "Can a wet mobile home floor be saved?",
   "a": "Sometimes. If the water was clean and drying starts fast, the subfloor and insulation may be dried in place. Particleboard floors that swelled usually need to be replaced. A crew can check with moisture meters and tell you what can be kept."
- }
+ },
+ "photo": "4170428"
 }
