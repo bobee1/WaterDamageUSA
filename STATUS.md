@@ -16,7 +16,14 @@ Last updated: 2026-11-19
 - Plan approved: one national brand, state → metro → city structure, all 50 states + DC, one toll-free number, Cloudflare free plan.
 - Owner decisions: brand DryBeacon; own-business call routing; 24/7; 10+ years in business; legal owner Anjam Javed; toll-free 1-800-555-0199; email added after the domain is bought.
 
-## Current — Build 6: City scoring + first 50 metro pages (done)
+## Current — Layout fix (done)
+- Content was indented past the header and capped at 820px, leaving an empty right band on desktop. Now: content lines up with the logo and hero on every page.
+- Desktop (above 1024px): two columns, content plus a sticky 300px sidebar with a call card, the services list (current page marked), "More locations" on state/city pages, and popular guides.
+- Tablet and phone: single full-width column; sidebar hidden (the footer and in-text links already cover it).
+- Audit, readability and uniqueness checks now read only the content column, so the sidebar doesn't count toward word counts.
+- Checked all 133 pages at 1440/1280/1024/768/360: no overflow, content edge aligned with the header on every page.
+
+## Previous — Build 6: City scoring + first 50 metro pages (done)
 - Semrush: 80 more city keywords scored (820 units; 39,180 left), merged with the Build 2 sample of 100 (`research/02-city-demand.csv`, `research/08-city-demand-batch2.csv`). Ranked by value score = searches × CPC (floor $20); suburbs held for Build 7 city pages.
 - 50 metro pages at `/locations/<state>/<city>/` (Dallas, Austin, LA, Las Vegas, San Diego, Atlanta, Houston … Omaha, San Francisco), 800–1,050 words each.
 - Each page: Census ACS housing table for the city (`research/09-metro-acs.json`), county and sample ZIP codes, hand-written "why water damage here is different" with verified local events and landmarks, local problems table linked to services, tips, neighborhoods and suburbs, insurance note linked to the state page, 4 FAQs, service cards, nearby metros.

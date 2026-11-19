@@ -274,6 +274,35 @@ CTA_BAND = f"""<section class="cta-band" aria-label="Call {SITE['brand']}"><div 
 {call_button('btn btn-call btn-lg')}</div></section>"""
 
 
+SIDE_GUIDES = ["what-to-do-when-a-pipe-bursts", "does-homeowners-insurance-cover-water-damage",
+               "water-damage-restoration-process", "water-damage-restoration-cost", "sump-pump-failure"]
+
+
+def sidebar_html(meta, pages_by_path):
+    """Desktop sidebar: call card, services list and popular guides. Stacks below content on small screens."""
+    cur = meta["path"]
+    svc = "".join(
+        f'<li><a href="/services/{x["slug"]}/"' + (' aria-current="page"' if cur == f"/services/{x['slug']}/" else "")
+        + f'>{esc(x["name"])}</a></li>' for x in SERVICES)
+    guides = "".join(
+        f'<li><a href="/blog/{g}/"' + (' aria-current="page"' if cur == f"/blog/{g}/" else "")
+        + f'>{esc(pages_by_path[f"/blog/{g}/"]["crumb"])}</a></li>'
+        for g in SIDE_GUIDES if f"/blog/{g}/" in pages_by_path)
+    loc = ""
+    if meta.get("type") in ("city", "state") and len(meta.get("parents", [])) >= 1:
+        p = meta["parents"][-1]
+        loc = (f'<div class="side-card"><p class="side-title">More locations</p><ul class="side-list">'
+               f'<li><a href="{p[1]}">{esc(p[0])}</a></li><li><a href="/locations/">All states and metros</a></li></ul></div>')
+    return f"""<aside class="sidebar" aria-label="Get help and related pages">
+<div class="side-card side-call"><p class="side-title">Water damage right now?</p>
+<p>Call {SITE['brand']} {SITE['availability']} for water removal, drying and repairs.</p>
+{call_button('btn btn-call btn-block')}</div>
+<div class="side-card"><p class="side-title">Water damage services</p><ul class="side-list">{svc}</ul></div>
+{loc}
+{'<div class="side-card"><p class="side-title">Popular guides</p><ul class="side-list">' + guides + '</ul></div>' if guides else ''}
+</aside>"""
+
+
 def page_html(meta, pages_by_path, css):
     crumbs, crumb_schema = breadcrumb(meta)
     url = BASE + meta["path"]
@@ -330,8 +359,11 @@ def page_html(meta, pages_by_path, css):
 <main id="main">
 {crumbs and f'<div class="wrap">{crumbs}</div>'}
 {head_html}
-<div class="wrap content {meta.get('content_class', 'prose')}">
+<div class="wrap layout">
+<div class="content {meta.get('content_class', 'prose')}">
 {body}
+</div>
+{sidebar_html(meta, pages_by_path)}
 </div>
 {CTA_BAND if meta.get('cta_band', True) else ''}
 </main>

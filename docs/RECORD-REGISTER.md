@@ -61,7 +61,8 @@ A dated log of every step. Newest entries at the bottom of each build. Status: D
 | 55 | 2026-11-19 | 6 | Audit 0 issues (134 pages); FK ≤ 9; uniqueness 75–80%; responsive clean | Done | |
 | 56 | 2026-11-19 | Deploy | `_headers`: noindex on *.pages.dev; deployment settings recorded | Done | Owner chose to create the Pages project himself |
 | 57 | 2026-11-19 | Deploy | Live on drybeacon.pages.dev; 133/133 URLs 200; headers verified; fixed duplicate Cache-Control on assets | Done | Auto-redeploy on push confirmed |
-| 58 | — | 7 | First 100 city pages (suburbs + next metros) | Planned | After deploy |
+| 58 | 2026-11-19 | Fix | Layout fix: content aligned with header; desktop 2-column (content + sticky sidebar: call card, services, locations, popular guides); single column ≤1024px; checks read the content column only | Done | Owner reported left-aligned content |
+| 59 | — | 7 | First 100 city pages (suburbs + next metros) | Planned | Next |
 
 ## Image register
 | File | Source | Used on |

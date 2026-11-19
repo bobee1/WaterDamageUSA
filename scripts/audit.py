@@ -134,7 +134,7 @@ def main():
                 json.loads(block)
             except json.JSONDecodeError as e:
                 problems.append((rel, f"invalid JSON-LD {e}"))
-        main = re.search(r'<div class="wrap content[^"]*">(.*?)</div>\s*(?:<section class="cta-band"|</main>)', raw, re.S)
+        main = re.search(r'<div class="content[^"]*">(.*?)</div>\s*<aside class="sidebar"', raw, re.S)
         hero = re.search(r'<section class="(?:hero|post-head).*?</section>', raw, re.S)
         words = len(re.sub(r"<[^>]+>", " ", (hero.group(0) if hero else "") + (main.group(1) if main else "")).split())
         kind = re.search(r'<meta name="x-page-type" content="(\w+)">', raw)

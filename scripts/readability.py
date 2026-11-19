@@ -25,7 +25,7 @@ def main():
     paras = collections.defaultdict(set); fails = []
     for f in sorted(glob.glob(str(PUB / "**/index.html"), recursive=True)):
         raw = open(f).read(); rel = "/" + str(Path(f).relative_to(PUB)).replace("index.html", "")
-        m = re.search(r'<div class="wrap content[^"]*">(.*?)</div>\s*(?:<section class="cta-band"|</main>)', raw, re.S)
+        m = re.search(r'<div class="content[^"]*">(.*?)</div>\s*<aside class="sidebar"', raw, re.S)
         if not m: continue
         body = re.sub(r"<(svg|table)[\s\S]*?</\1>", " ", m.group(1))
         # link lists (pills, service cards, source lists) are navigation, not prose

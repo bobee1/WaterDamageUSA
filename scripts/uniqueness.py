@@ -9,7 +9,7 @@ PUB = Path(__file__).resolve().parent.parent / "public"
 TYPE = sys.argv[1] if len(sys.argv) > 1 else "state"
 
 def shingles(html):
-    m = re.search(r'<div class="wrap content[^"]*">(.*?)</div>\s*(?:<section class="cta-band"|</main>)', html, re.S)
+    m = re.search(r'<div class="content[^"]*">(.*?)</div>\s*<aside class="sidebar"', html, re.S)
     hero = re.search(r'<section class="hero.*?</section>', html, re.S)
     body = (hero.group(0) if hero else "") + (m.group(1) if m else "")
     for pat in (r'<div class="card">[\s\S]*?</div>', r'<ul class="pills[\s\S]*?</ul>', r'<ul class="state-grid[\s\S]*?</ul>',
