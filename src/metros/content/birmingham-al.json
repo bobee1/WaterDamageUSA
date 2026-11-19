@@ -1,0 +1,51 @@
+{
+ "lead": "Birmingham sits in hilly valleys where creeks rise fast in heavy rain. Older homes, clay soil and spring tornadoes add to the water damage risk across the city.",
+ "risk": "creek flooding, tornado damage and aging plumbing",
+ "risk_short": "creek floods, tornadoes, old pipes",
+ "why": [
+  "Village Creek and Valley Creek wind through low parts of Birmingham, and both have a long history of flooding. Along Village Creek, flooding was bad enough that hundreds of homes were bought out and cleared over the years. Heavy rain on the city's hills runs off quickly. Low streets, basements and crawl spaces near the creeks can fill with water in less than an hour.",
+  "Tornadoes are the other big risk. On April 27, 2011, a violent tornado tore through Pratt City and other western neighborhoods, destroying hundreds of homes. Even weaker storms rip off shingles and drop trees, and rain gets in fast. More than 70% of Birmingham homes were built before 1980, so cast-iron drains, old supply lines and tired roofs are common."
+ ],
+ "image_alt": "Aerial view of a tornado path through houses and woods",
+ "image_caption": "Spring storms and tornadoes can open Birmingham roofs to heavy rain.",
+ "problems": [
+  [
+   "Creek flooding",
+   "Low areas near Village and Valley creeks",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Tornado and wind damage",
+   "Western neighborhoods, wooded hills",
+   "<a href=\"/services/storm-damage-restoration/\">Storm damage restoration</a>"
+  ],
+  [
+   "Cast-iron drain failures",
+   "Pre-1980 homes in Ensley, Forest Park",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Wet basements and crawl spaces",
+   "Hillside homes in Highland Park, Crestwood",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ]
+ ],
+ "tips": [
+  "Know if your home is in a flood zone; many creek areas are.",
+  "Have a plan and a safe room for tornado warnings.",
+  "Have old cast-iron drains checked with a camera.",
+  "Clean gutters so hillside runoff stays away from the foundation."
+ ],
+ "areas": "Calls come from Southside, Highland Park, Avondale, Crestwood, Forest Park, Five Points South, Redmont Park and Ensley, plus Homewood, Hoover and Mountain Brook.",
+ "sources": [
+  [
+   "FEMA: Birmingham Village Creek acquisitions",
+   "https://www.fema.gov/case-study/loss-avoidance-study-birmingham-al-acquisitions"
+  ]
+ ],
+ "faq": {
+  "q": "Does flood insurance cover creek flooding in Birmingham?",
+  "a": "Only a flood policy covers water that rises from a creek or runs in over the ground. A home policy does not. If you live near Village Creek, Valley Creek or another stream, check the flood map. NFIP policies usually take 30 days to start, so do not wait for a storm."
+ },
+ "photo": "4170433"
+}

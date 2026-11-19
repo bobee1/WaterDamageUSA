@@ -16,13 +16,19 @@ Last updated: 2026-11-19
 - Plan approved: one national brand, state → metro → city structure, all 50 states + DC, one toll-free number, Cloudflare free plan.
 - Owner decisions: brand DryFlare; own-business call routing; 24/7; 10+ years in business; legal owner Anjam Javed; toll-free 1-800-555-0199; email added after the domain is bought.
 
-## Current — Build 7 Part 2: 25 city pages (done)
+## Current — Build 7 Part 3: 25 city pages (done)
+- Live: Durham, Augusta, Rochester NY, Birmingham, Riverside, Spokane, Savannah, Rapid City, Lakewood CO, Bakersfield, Allentown, Harrisburg, Wilmington NC, Tallahassee, Syracuse, Santa Ana, Salem OR, Port St. Lucie, Overland Park, Oakland, Melbourne FL, Honolulu, Henderson NV, Flagstaff, Detroit. ("Mobile AL" skipped: its keyword mostly means mobile services.)
+- Each page has its own local angle and checked events, for example: Helene in Augusta (2024), Village Creek buyouts in Birmingham, the 1972 Rapid City flood, Agnes and Lee in Harrisburg, Florence in Wilmington, the Museum Fire floods in Flagstaff (2021), Detroit's June 2021 basement floods, Oakland's sewer lateral rules and Honolulu condo leaks. A fact check fixed one claim: Debby's rain in Savannah (about 10 inches, not over a foot).
+- Linking: Lakewood → Denver, Santa Ana → Los Angeles, Overland Park → Kansas City, Oakland → San Francisco, Henderson → Las Vegas. Honolulu gets links from the ceiling and burst pipe service pages; Tallahassee from Jacksonville.
+- Photos: 12 new Pexels photos added; each page has its own photo. A review sheet caught look-alike shots (one roofing crew, one aerial tornado shoot), which were swapped.
+- Checks: audit 0 issues (209 pages); FK ≤ 8.8; uniqueness ≥ 74.4% (avg 77.1%); 817–917 words; 3+ in-text inbound links each; JSON-LD valid; no overflow at 4 widths; pages ≤ 38 KB.
+
+## Previous — Build 7 Part 2: 25 city pages (done)
 - Live: Fresno, Naperville, Joliet, Daytona Beach, Clearwater, Louisville, Des Moines, Albuquerque, Boulder, Castle Rock, Cape Coral, Naples, Akron, Baton Rouge, New Orleans, Arlington TX, Boca Raton, Ann Arbor, Richmond, Missoula, Ogden, Madison, Lakeland, Springfield MO, Albany NY.
 - Same build rules as Part 1: Census ACS housing table, checked ZIPs, hand-written local risks with verified events (Ian 2022 in Cape Coral, Naples and Daytona; Helene 2024 in Clearwater; Milton 2024 in Lakeland; the 2016 Baton Rouge flood; the 2013 Boulder flood), local problems table, tips, neighborhoods, insurance notes and a city-specific FAQ. Claims I couldn't confirm were cut or softened.
 - Suburbs linked to their hubs: Naperville and Joliet → Chicago; Clearwater → Tampa; Boulder and Castle Rock → Denver; Cape Coral → Fort Myers; Arlington → Dallas; Ogden → Salt Lake City.
 - Each page has its own photo. A review sheet caught near-duplicates from the same shoot (four pages showing the same flooded house, two the same creek), so those photos were swapped out.
 - Checks: audit 0 issues (184 pages); FK ≤ 8.7; uniqueness ≥ 74.4% vs closest (avg 77.1%); 834–891 words; 3+ in-text inbound links each; no overflow at 1440/1024/768/360; pages ≤ 39 KB.
-- Photo library: 245 photos, 89 unused (flood 6, rain 3, repair 8, others more). Parts 3–4 need about 15 more flood/interior photos sourced first.
 
 ## Previous — No repeated photos (done)
 - Every page now has its own photo. 126 state and city pages each have a different Pexels photo matched to their main risk (storm, flood, frozen pipes, mold, ceiling leaks, repairs), with alt text that describes what the photo actually shows.
@@ -60,7 +66,7 @@ Last updated: 2026-11-19
 ## Coming
 | Build | Scope | Needs from owner |
 | --- | --- | --- |
-| 7 | Parts 3–4: 50 more city pages (25 each), starting with Durham, Augusta, Rochester, Birmingham | — |
+| 7 | Part 4: last 25 city pages, starting with Chesapeake, Buffalo, Fort Wayne, Oklahoma City (more flood and indoor photos to source first) | — |
 | Launch | Buy domain, Cloudflare Pages project, env vars, real toll-free number, email, Search Console + analytics | Domain, number, email, Resend key |
 
 ## Deployment

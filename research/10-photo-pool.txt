@@ -244,3 +244,15 @@
 36787115|pipe|Water drop falling from an outdoor tap|
 32042965|pipe|Outdoor water tap with a single drop falling|
 34158878|pipe|Rusty outdoor faucet with a drop at the spout|
+18302377|interior|Empty room with standing water across the floor|
+13865773|flood|Flooded lakeside path with caution tape and palm trees in Sanford, Florida|FL
+13865768|flood|Flooded lakeshore with palm trees and warning signs after a storm|FL
+29334435|flood|Floodwater spreading through woods past a warning sign after heavy rain|
+28447806|flood|Red flood barrier holding back water near homes|
+7924140|flood|Floodwater covering a ground floor beside a staircase|
+19314213|storm|Street covered in storm debris and damaged structures|
+30499666|interior|Room with a collapsed ceiling and debris on the floor|
+6474308|repair|Worker applying joint compound to new drywall|
+5691479|repair|Worker on a ladder plastering a wall in an empty room|
+5691610|repair|Worker painting a ceiling with a long roller|
+3616769|repair|Empty room under renovation with a bare light fixture|

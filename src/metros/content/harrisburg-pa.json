@@ -1,0 +1,45 @@
+{
+ "lead": "Harrisburg sits on the Susquehanna, and the river has flooded the city more than once. Old rowhomes and cold winters add basement leaks and frozen pipes.",
+ "risk": "river flooding, old basements and frozen pipes",
+ "risk_short": "river floods, old basements, frozen pipes",
+ "why": [
+  "The Susquehanna is wide and slow most of the time, but it can rise fast after big storms upstream. In June 1972, the remnants of Hurricane Agnes sent record water into downtown Harrisburg and flooded the Governor's Residence. In September 2011, Tropical Storm Lee pushed the river up again. Shipoke and other low areas along Front Street flooded, and many basements filled.",
+  "Harrisburg also has some of the oldest housing in the state. About 43% of homes were built before 1940, mostly brick rowhomes with stone or brick basements in Midtown, Uptown and Allison Hill. Those basements leak in heavy rain, and old cast-iron drains and clay laterals crack. Winter cold freezes pipes in outside walls and back additions."
+ ],
+ "image_alt": "Red flood barrier holding back water near homes",
+ "image_caption": "Flood barriers help, but low parts of Harrisburg still take on water when the Susquehanna rises.",
+ "problems": [
+  [
+   "River flooding",
+   "Shipoke, Front Street, low Uptown blocks",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Basement seepage",
+   "Rowhomes in Midtown, Allison Hill",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ],
+  [
+   "Sewer backups",
+   "Older homes with clay laterals",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Frozen pipe bursts",
+   "Outside walls and back additions",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Check the flood map for your block; many riverfront areas are mapped.",
+  "Store valuables up high in basements near the river.",
+  "Install a backwater valve if your floor drain has backed up.",
+  "Insulate pipes on outside walls before winter."
+ ],
+ "areas": "Calls come from Midtown, Shipoke, Uptown, Allison Hill, Bellevue Park, Olde Uptown, Riverside and Capitol Heights, plus Camp Hill, Lemoyne and Hershey.",
+ "faq": {
+  "q": "Do I need flood insurance in Harrisburg?",
+  "a": "If you live near the Susquehanna or Paxton Creek, it is worth a close look. Home policies do not cover river or surface flooding. Only a flood policy does, and NFIP policies usually take 30 days to start. Even homes outside the mapped zone flood in big storms."
+ },
+ "photo": "28447806"
+}

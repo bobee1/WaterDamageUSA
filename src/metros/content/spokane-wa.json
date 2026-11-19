@@ -1,0 +1,45 @@
+{
+ "lead": "Spokane has cold winters, old homes on the South Hill and a lot of basements. Frozen pipes, ice dams and windstorms cause most of its water damage.",
+ "risk": "frozen pipes, ice dams and windstorm damage",
+ "risk_short": "frozen pipes, ice dams, windstorms",
+ "why": [
+  "About a quarter of Spokane homes were built before 1940, from the big houses in Browne's Addition to the bungalows of the Garland and Logan areas. Many have stone or brick basements and old supply lines. Winter cold snaps can drop well below zero, and pipes in crawl spaces, outside walls and unheated porches freeze and split. The leak often starts when the pipe thaws, sometimes days later.",
+  "Wind is the other big threat. On November 17, 2015, a powerful windstorm swept the Inland Northwest, toppling thousands of Ponderosa pines and leaving much of Spokane without power for days. Trees fell on roofs and opened them to rain and snow. Heavy snow on poorly insulated roofs also forms ice dams, which push meltwater under shingles and into ceilings."
+ ],
+ "image_alt": "Brick house with deep snow in the front yard",
+ "image_caption": "Deep cold snaps freeze and split pipes in Spokane's older homes.",
+ "problems": [
+  [
+   "Frozen pipe bursts",
+   "Crawl spaces and outside walls citywide",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Ice dam leaks",
+   "Older roofs on the South Hill",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling leak repair</a>"
+  ],
+  [
+   "Tree and wind damage",
+   "Pine-lined streets in Manito, Lincoln Heights",
+   "<a href=\"/services/storm-damage-restoration/\">Storm damage restoration</a>"
+  ],
+  [
+   "Basement seepage",
+   "Old homes in Browne's Addition, Garland",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate pipes in crawl spaces and on outside walls.",
+  "Let faucets drip on nights below 10\u00b0F.",
+  "Add attic insulation and venting to stop ice dams.",
+  "Have tall pines near the house checked by an arborist."
+ ],
+ "areas": "Calls come from Browne's Addition, the South Hill, Peaceful Valley, Hillyard, Logan, Garland, Manito and Lincoln Heights, plus Spokane Valley, Liberty Lake and Cheney.",
+ "faq": {
+  "q": "What should I do if a pipe freezes in my Spokane home?",
+  "a": "Turn off the main water valve first, then open the faucet on that line. Warm the pipe slowly with a hair dryer or space heater, never an open flame. Check for cracks once it thaws. If water has already spread, DryFlare can extract it and dry the walls and floor."
+ },
+ "photo": "30731986"
+}

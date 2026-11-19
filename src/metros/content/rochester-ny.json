@@ -1,0 +1,45 @@
+{
+ "lead": "More than half of Rochester's homes were built before 1940. Old stone basements, aging pipes and hard winters make water damage a year-round job here.",
+ "risk": "old basements, frozen pipes and ice dams",
+ "risk_short": "old basements, frozen pipes, ice dams",
+ "why": [
+  "Rochester has one of the oldest housing stocks of any big U.S. city. About 54% of homes went up before 1940, many with fieldstone or brick basements. Those walls were never built to stay dry. Water seeps in after heavy rain and spring snowmelt, and old clay sewer laterals crack or fill with roots. Galvanized and lead supply lines are still common in older houses.",
+  "Winter is long and cold off Lake Ontario. Pipes in outside walls and unheated porches freeze, and ice dams build up on roofs with poor insulation. Melting snow then backs up under shingles and drips into walls and ceilings. Wind is a risk too. In March 2017, a strong windstorm knocked out power to most of the area and left many homes without heat."
+ ],
+ "image_alt": "Older houses with snow on the roofs and yards",
+ "image_caption": "In Rochester's older homes, frozen pipes and ice dams cause many winter leaks.",
+ "problems": [
+  [
+   "Basement seepage",
+   "Old homes in Corn Hill, South Wedge, Swillburg",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ],
+  [
+   "Frozen pipe bursts",
+   "Outside walls and porches citywide",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Ice dam leaks",
+   "Older roofs in Park Avenue, Highland Park",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling leak repair</a>"
+  ],
+  [
+   "Sewer backups",
+   "Homes with old clay laterals",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate pipes on outside walls and in unheated spaces.",
+  "Add attic insulation and air sealing to stop ice dams.",
+  "Have an old sewer lateral scoped with a camera.",
+  "Keep heat at 55\u00b0F or higher if you leave in winter."
+ ],
+ "areas": "Calls come from Park Avenue, Corn Hill, South Wedge, Charlotte, Maplewood, Highland Park, Swillburg and North Winton Village, plus Greece, Irondequoit and Brighton.",
+ "faq": {
+  "q": "Why does my old Rochester basement get wet every spring?",
+  "a": "Many older Rochester basements have stone or brick walls that let water through. Snowmelt and spring rain soak the soil, and water finds its way in through the walls and floor joints. Good gutters, grading that slopes away and a sump pump help a lot. DryFlare dries out the space when it does happen."
+ },
+ "photo": "35501121"
+}

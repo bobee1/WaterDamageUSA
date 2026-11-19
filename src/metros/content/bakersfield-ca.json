@@ -1,0 +1,45 @@
+{
+ "lead": "Bakersfield's summers are long and hot, and most of its water damage starts inside: AC drain leaks, water heaters and slab pipes. In wet years, the Kern River adds risk.",
+ "risk": "AC drain leaks, water heater failures and slab leaks",
+ "risk_short": "AC leaks, water heaters, slab leaks",
+ "why": [
+  "Air conditioners run hard here for months at a time. In many homes, the AC unit sits in the attic with a drain line that carries away the water it pulls from the air. When that line clogs with algae, the pan overflows and water runs into the ceiling below. Water heaters in garages and closets wear out under hard water, and a failed tank can soak several rooms.",
+  "Most Bakersfield homes sit on slabs, and newer neighborhoods in the southwest and northwest grew fast in the 1990s and 2000s. Copper and plastic lines under those slabs can wear and leak unseen. Wet years bring a different risk. After record Sierra snow in 2023, the Kern River ran high through town for months, a rare sight in a usually dry riverbed."
+ ],
+ "image_alt": "Technician servicing a water heater control panel",
+ "image_caption": "Hard water and long, hot summers wear out water heaters early in Bakersfield.",
+ "problems": [
+  [
+   "AC drain overflows",
+   "Homes with attic air handlers",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling leak repair</a>"
+  ],
+  [
+   "Water heater failures",
+   "Garages and closets citywide",
+   "<a href=\"/services/burst-pipe-water-damage/\">Water heater leak cleanup</a>"
+  ],
+  [
+   "Slab leaks",
+   "Seven Oaks, Stockdale, Riverlakes",
+   "<a href=\"/services/water-extraction/\">Water removal and floor drying</a>"
+  ],
+  [
+   "Supply line leaks",
+   "Kitchens and laundry rooms",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and drying</a>"
+  ]
+ ],
+ "tips": [
+  "Flush the AC drain line with vinegar each spring.",
+  "Put a float switch on the attic AC pan so it shuts off when full.",
+  "Replace a water heater that is 10 to 12 years old.",
+  "Check your meter with every tap off to catch hidden leaks."
+ ],
+ "areas": "Calls come from Downtown, Westchester, Oleander-Sunset, Seven Oaks, Stockdale, Riverlakes, Old Town Kern and College Heights, plus Oildale, Rosedale and Shafter.",
+ "faq": {
+  "q": "Why is water dripping from my Bakersfield ceiling in summer?",
+  "a": "The most common cause is a clogged AC drain line. When it backs up, the drain pan under the attic unit overflows into the ceiling. Turn the AC off and check the pan. DryFlare can dry the ceiling and insulation, and a technician can clear the line."
+ },
+ "photo": "7859953"
+}

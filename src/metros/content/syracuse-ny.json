@@ -1,0 +1,45 @@
+{
+ "lead": "Syracuse is one of the snowiest big cities in America. Deep snow, ice dams and frozen pipes cause most of its water damage, especially in its many old homes.",
+ "risk": "ice dams, frozen pipes and snowmelt flooding",
+ "risk_short": "ice dams, frozen pipes, snowmelt",
+ "why": [
+  "Lake-effect bands off Lake Ontario bury Syracuse in snow most winters, often well over 100 inches a year. Heavy snow on a warm roof melts, runs to the cold edge and freezes again. That builds ice dams, which push water under shingles and into walls and ceilings. Many leaks show up as brown stains or drips near outside walls in the middle of winter.",
+  "About 43% of Syracuse homes were built before 1940, including the big houses on Tipperary Hill, in Strathmore and around the university. Old homes tend to have thin insulation, so pipes in outside walls freeze and split in hard cold. Spring brings snowmelt, and older stone and brick basements take on water. Onondaga Creek can rise into low areas too."
+ ],
+ "image_alt": "Houses with snow-covered porches and evergreens",
+ "image_caption": "In Syracuse, ice dams send meltwater into ceilings and walls every winter.",
+ "problems": [
+  [
+   "Ice dam leaks",
+   "Older homes in Strathmore, Tipperary Hill",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling leak repair</a>"
+  ],
+  [
+   "Frozen pipe bursts",
+   "Outside walls and porches citywide",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Snowmelt basement water",
+   "Stone basements in Eastwood, Sedgwick",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ],
+  [
+   "Mold after hidden leaks",
+   "Walls and attics after winter",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Add attic insulation and air sealing to stop ice dams.",
+  "Rake snow off the lower roof edge after big storms.",
+  "Insulate pipes on outside walls before winter.",
+  "Keep heat at 55\u00b0F or higher if you leave in winter."
+ ],
+ "areas": "Calls come from Downtown, University Hill, Westcott, Tipperary Hill, Strathmore, Eastwood, Sedgwick and Armory Square, plus Liverpool, DeWitt and Camillus.",
+ "faq": {
+  "q": "How do I stop ice dams on my Syracuse home?",
+  "a": "Ice dams form when heat leaks into the attic and melts snow on the roof. The best fix is better attic insulation and air sealing, with good venting. In the short term, rake snow off the roof edge. Do not chip at the ice with tools, since that can damage shingles."
+ },
+ "photo": "30731303"
+}

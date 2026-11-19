@@ -1,0 +1,45 @@
+{
+ "lead": "Oakland has some of the oldest homes in California and hills that send water downhill fast. Atmospheric river storms, old sewer laterals and crawl spaces drive its water damage.",
+ "risk": "winter storm flooding, old sewer laterals and hillside runoff",
+ "risk_short": "winter storms, old laterals, hillside runoff",
+ "why": [
+  "About 37% of Oakland homes were built before 1940, from Victorians in West Oakland to craftsman bungalows in Rockridge and Temescal. Many sit over crawl spaces or short basements, with clay or cast-iron sewer laterals. Those laterals crack and let in roots, and backups come up through basement drains. EBMUD now requires many owners to test and fix their lateral when they sell or remodel.",
+  "Atmospheric river storms bring most of Oakland's water damage. On December 31, 2022, a record downpour flooded streets, freeways and homes across the East Bay. Water from the Oakland Hills rushes down toward the flats in big storms, and hillside homes face mudslides and drainage problems. Lake Merritt and the estuary edge also see high water when storms meet high tides."
+ ],
+ "image_alt": "Rainwater running down a tile roof into the gutter",
+ "image_caption": "Atmospheric river storms overload Oakland roofs, gutters and hillside drains.",
+ "problems": [
+  [
+   "Storm flooding",
+   "Low streets in Fruitvale, near Lake Merritt",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Sewer lateral backups",
+   "Older homes in Rockridge, Temescal",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Hillside runoff and seepage",
+   "Montclair and the Oakland Hills",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ],
+  [
+   "Roof and window leaks",
+   "Older homes citywide",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling leak repair</a>"
+  ]
+ ],
+ "tips": [
+  "Have your sewer lateral tested, especially in a pre-1960 home.",
+  "Clear hillside drains and gutters before the rainy season.",
+  "Install a backwater valve if a basement drain has backed up.",
+  "Store valuables off the floor in basements and crawl spaces."
+ ],
+ "areas": "Calls come from Rockridge, Temescal, Lake Merritt, Fruitvale, Montclair, Piedmont Avenue, Jack London Square and the Oakland Hills, plus Berkeley, Alameda and San Leandro.",
+ "faq": {
+  "q": "What is a sewer lateral, and why does it matter in Oakland?",
+  "a": "The lateral is the pipe that carries waste from your home to the city sewer. In older Oakland homes, it is often clay or cast iron, and it cracks with age and roots. A cracked lateral can back up into your home and let rain into the sewer. EBMUD's program requires many owners to test and repair it."
+ },
+ "photo": "2663254"
+}

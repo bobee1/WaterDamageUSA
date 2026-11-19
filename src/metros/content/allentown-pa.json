@@ -1,0 +1,45 @@
+{
+ "lead": "Allentown is built on limestone, and many of its homes are over 80 years old. Water main breaks, sinkholes and old basements make for unusual water damage.",
+ "risk": "old basements, water main breaks and sinkholes",
+ "risk_short": "old basements, main breaks, sinkholes",
+ "why": [
+  "Much of the Lehigh Valley sits on limestone, a rock that slowly dissolves as water moves through it. In Allentown, leaking water and sewer lines can wash soil into hidden voids, and the ground above can drop without warning. Sinkholes have opened under city streets more than once, sometimes after a water main break. A broken main can also send water into nearby basements.",
+  "About 38% of Allentown homes were built before 1940. Rowhouses and twins in Center City, Old Allentown and the West End often have stone basements, cast-iron drains and aging supply lines. Those basements take on water in heavy rain and spring thaws. Cold winters add frozen pipes, especially in back rooms and porches added on to older houses."
+ ],
+ "image_alt": "Empty room with standing water across the floor",
+ "image_caption": "Many older Allentown homes have stone basements that take on water in heavy rain.",
+ "problems": [
+  [
+   "Basement seepage",
+   "Rowhouses in Center City, Old Allentown",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ],
+  [
+   "Water main and service line breaks",
+   "Older streets citywide",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Sewer backups",
+   "Homes with old cast-iron drains",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Frozen pipe bursts",
+   "Back rooms and enclosed porches",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Report sinking ground or a sudden puddle on the street to the city.",
+  "Have old cast-iron drains scoped with a camera.",
+  "Keep gutters and downspouts clear so water stays off the foundation.",
+  "Insulate pipes in porches and back additions."
+ ],
+ "areas": "Calls come from the West End, Old Allentown, Center City, the East Side, the South Side, Fairgrounds and Mountainville, plus Bethlehem, Whitehall and Emmaus.",
+ "faq": {
+  "q": "Can a water leak cause a sinkhole under my Allentown home?",
+  "a": "It can. Allentown sits on limestone, and a long-running leak from a water or sewer line can wash soil into voids below. Signs include cracks in floors or walls, doors that stick and ground that sinks. Fix the leak fast and call a geotechnical engineer if the ground is moving."
+ },
+ "photo": "18302377"
+}

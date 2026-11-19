@@ -75,7 +75,11 @@ A dated log of every step. Newest entries at the bottom of each build. Status: D
 | 69 | 2026-11-19 | 7.2 | Linking: 8 suburbs attached to hubs (Chicago, Tampa, Denver, Fort Myers, Dallas, Salt Lake City); every new page has 3+ in-text inbound links | Done | |
 | 70 | 2026-11-19 | Photos | 15 more Pexels photos added (3 failed downloads dropped); Part 2 pages each get their own photo; near-duplicates from the same shoot swapped after visual review; repair-photo captions rewritten for basement pages | Done | 245 in library, 89 unused |
 | 71 | 2026-11-19 | 7.2 | Checks: audit 0 issues (184 pages); FK ≤ 8.7; uniqueness ≥ 74.4% (avg 77.1%); JSON-LD valid; no overflow at 4 widths; pages ≤ 39 KB | Done | |
-| 72 | — | 7.3 | Part 3: next 25 cities (Durham → …); source flood/interior photos first | Planned | Next |
+| 72 | 2026-11-19 | 7.3 | Part 3 pages: Durham, Augusta, Rochester, Birmingham, Riverside, Spokane, Savannah, Rapid City, Lakewood, Bakersfield, Allentown, Harrisburg, Wilmington, Tallahassee, Syracuse, Santa Ana, Salem, Port St. Lucie, Overland Park, Oakland, Melbourne, Honolulu, Henderson, Flagstaff, Detroit; Census ACS 2020–2024 and ZIPs checked (Flagstaff 86005 dropped); key events fact-checked, Savannah Debby rainfall corrected | Done | 817–917 words each; Mobile AL skipped (ambiguous keyword) |
+| 73 | 2026-11-19 | 7.3 | Linking: 5 suburbs attached to hubs; Honolulu linked from ceiling and burst pipe service pages; Tallahassee added to Jacksonville's nearby list; every new page has 3+ in-text inbound links | Done | |
+| 74 | 2026-11-19 | Photos | 12 Pexels photos added (257 in library); each Part 3 page has its own photo; look-alike shots from the same shoot swapped after visual review | Done | |
+| 75 | 2026-11-19 | 7.3 | Checks: audit 0 issues (209 pages); FK ≤ 8.8; uniqueness ≥ 74.4%; JSON-LD valid; no overflow at 4 widths; pages ≤ 38 KB | Done | |
+| 76 | — | 7.4 | Part 4: last 25 cities (Chesapeake → …); source flood/indoor photos first | Planned | Next |
 
 ## Image register
 | File | Source | Used on |

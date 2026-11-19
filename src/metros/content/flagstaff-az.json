@@ -1,0 +1,51 @@
+{
+ "lead": "Flagstaff sits at 7,000 feet, so it gets real winters. Frozen pipes, heavy snow and post-wildfire flash floods cause most of its water damage.",
+ "risk": "frozen pipes, snow load leaks and post-fire flash floods",
+ "risk_short": "frozen pipes, snow leaks, flash floods",
+ "why": [
+  "Winter nights in Flagstaff often drop into the single digits, and big storms can drop feet of snow at once. Pipes in crawl spaces, garages and outside walls freeze and split, often when no one is home. Heavy snow sits on roofs for weeks, and ice dams push meltwater into ceilings. About 6% of homes are mobile homes, where water lines under the floor freeze more easily.",
+  "Wildfires have added a new risk. After the 2019 Museum Fire burned the slopes above town, summer monsoon storms in 2021 sent flash floods down Spruce Wash. Water and mud poured into homes in Sunnyside and nearby neighborhoods. Burned slopes shed water fast, and the risk lasts for years after a fire. The city has since built new channels and basins to slow it down."
+ ],
+ "image_alt": "Blue house surrounded by snow at sunrise",
+ "image_caption": "Flagstaff's cold nights freeze pipes in crawl spaces and outside walls.",
+ "problems": [
+  [
+   "Frozen pipe bursts",
+   "Crawl spaces and mobile homes citywide",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Snow and ice dam leaks",
+   "Older roofs in Downtown, Southside",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling leak repair</a>"
+  ],
+  [
+   "Post-fire flash floods",
+   "Sunnyside and homes below burn scars",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Leaks in student rentals",
+   "Homes near NAU",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and drying</a>"
+  ]
+ ],
+ "tips": [
+  "Insulate pipes and keep heat at 55\u00b0F or higher when away.",
+  "Skirt and heat-tape the plumbing on mobile homes.",
+  "Know if your home sits below a burn scar and buy flood insurance.",
+  "Rake heavy snow off the roof edge after big storms."
+ ],
+ "areas": "Calls come from Downtown, Southside, Cheshire, Continental, Country Club, Sunnyside and University Heights, plus Doney Park, Kachina Village and Munds Park.",
+ "sources": [
+  [
+   "NWS Flagstaff: August 2021 flooding",
+   "https://www.weather.gov/fgz/FlagstaffAugust2021"
+  ]
+ ],
+ "faq": {
+  "q": "Do I need flood insurance in Flagstaff?",
+  "a": "If your home sits below a burn scar or near a wash, it is worth a close look. Post-fire flooding can hit homes that never flooded before. Home policies do not cover it. NFIP policies usually take 30 days to start, and there can be exceptions for post-fire flooding, so ask an agent."
+ },
+ "photo": "10957288"
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Savannah is low, flat and close to the ocean. Tropical storms, heavy rain and high tides can flood its streets, and humid air makes mold a fast follow-up.",
+ "risk": "tropical storm flooding, poor drainage and mold",
+ "risk_short": "tropical storms, flooding, mold",
+ "why": [
+  "Much of Savannah sits only a few feet above sea level, and drainage depends on canals that empty into tidal rivers. When heavy rain lands at high tide, that water has nowhere to go. In August 2024, Tropical Storm Debby stalled near the city and dropped about 10 inches of rain in three days, more than twice a normal August. Streets flooded and water reached homes in low neighborhoods.",
+  "Hurricanes add wind to the rain. Matthew in 2016 and Irma in 2017 both brought flooding, fallen trees and power outages to the city. Savannah also has many older homes, with about 16% built before 1940 in and around the Historic and Victorian districts. Raised floors, old pipes and damp crawl spaces stay humid, and mold can start within a day or two of a leak."
+ ],
+ "image_alt": "Floodwater spreading through woods past a warning sign after heavy rain",
+ "image_caption": "Heavy rain at high tide leaves Savannah's low ground underwater fast.",
+ "problems": [
+  [
+   "Rain and tidal flooding",
+   "Low areas in Midtown, Southside",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Hurricane wind and tree damage",
+   "Oak-lined streets citywide",
+   "<a href=\"/services/storm-damage-restoration/\">Storm damage restoration</a>"
+  ],
+  [
+   "Mold after leaks",
+   "Older homes with damp crawl spaces",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ],
+  [
+   "Old pipe leaks",
+   "Historic and Victorian district homes",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and drying</a>"
+  ]
+ ],
+ "tips": [
+  "Know your evacuation zone and your home's flood risk.",
+  "Buy flood insurance early; it usually takes 30 days to start.",
+  "Run AC or dehumidifiers after any leak to stop mold.",
+  "Keep storm drains near your home clear of leaves."
+ ],
+ "areas": "Calls come from the Historic District, Victorian District, Starland, Ardsley Park, Thomas Square, Parkside, Southside and Midtown, plus Pooler, Richmond Hill and Tybee Island.",
+ "faq": {
+  "q": "Why do Savannah streets flood even without a hurricane?",
+  "a": "The city is low and drains into tidal rivers. When a heavy downpour hits at high tide, canals and pipes back up and water pools in low streets. Clearing drains helps, but some areas will flood in any big storm. A flood policy covers water that comes in from outside."
+ },
+ "photo": "29334435"
+}
