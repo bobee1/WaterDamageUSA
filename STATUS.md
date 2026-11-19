@@ -1,6 +1,6 @@
-# DryBeacon — Build Status
+# DryFlare — Build Status
 
-Nationwide water damage restoration site. Brand **DryBeacon**, domain **drybeacon.com** (available on 2026-11-18, not yet purchased).
+Nationwide water damage restoration site. Brand **DryFlare**, domain **dryflare.com** (available on 2026-11-18, not yet purchased).
 Plan: "Nationwide Water Damage Local Services Site — Build Plan" (Claude doc). Rules: "Local Service Site SEO Criteria & AI Prompt" and "Blog Post Criteria & SEO Writing Prompt".
 
 Last updated: 2026-11-19
@@ -9,14 +9,20 @@ Last updated: 2026-11-19
 - Build 5 — Guides hub, 10 guides (1,230–1,642 words, FK 5.0–7.2), 55-term glossary with auto-links, branded featured images, helpful guides on service pages.
 - Build 4 — Locations hub + 51 state pages (Census ACS + FEMA data, insurance and licensing notes, 71–79% unique); service-page local notes and near-you links.
 - Build 1 — Foundation, trust and legal pages: generator (`build.py`), design system, header/footer, mobile call bar, breadcrumbs, base JSON-LD; About, Contact (form → Pages Function → Resend), Privacy, Terms, Disclaimer, Editorial Policy, Accessibility, 404; robots, sitemap, `_headers`, `_redirects`, manifest, icons; 4 Pexels WebP photos; audit 0 issues.
-- Build 1b — Logo set and design system (Design System artifact "DryBeacon"); contrast fixes.
-- Build 1c — Palette B "Graphite + Signal Orange" (brand-dark #1d2329, beacon orange #ff7a1a, accent text #c2410c) to set DryBeacon apart from the owner's city sites.
-- Build 2 — Semrush keyword research (`research/`) and site plan doc "DryBeacon Site Plan — Build 2 Keyword Research"; approved by owner on 2026-11-19.
+- Build 1b — Logo set and design system (Design System artifact "DryFlare"); contrast fixes.
+- Build 1c — Palette B "Graphite + Signal Orange" (brand-dark #1d2329, beacon orange #ff7a1a, accent text #c2410c) to set DryFlare apart from the owner's city sites.
+- Build 2 — Semrush keyword research (`research/`) and site plan doc "DryFlare Site Plan — Build 2 Keyword Research"; approved by owner on 2026-11-19.
 - Build 3 — Home page, services hub and 10 service pages (1,040–1,343 words each); FAQ, Service and business schema; audit 0 issues; reading grade 5.7–8.2; responsive clean. Guide cards and glossary links wait for Build 5.
 - Plan approved: one national brand, state → metro → city structure, all 50 states + DC, one toll-free number, Cloudflare free plan.
-- Owner decisions: brand DryBeacon; own-business call routing; 24/7; 10+ years in business; legal owner Anjam Javed; toll-free 1-800-555-0199; email added after the domain is bought.
+- Owner decisions: brand DryFlare; own-business call routing; 24/7; 10+ years in business; legal owner Anjam Javed; toll-free 1-800-555-0199; email added after the domain is bought.
 
-## Current — Layout fix (done)
+## Current — Rename to DryFlare (done)
+- DryBeacon was already in use by a nationwide water damage site (drybeacon.us), so the brand is now **DryFlare**, domain **dryflare.com** (unregistered as of 2026-11-19; buy it soon).
+- Changed everywhere: page text, titles, schema, canonical URLs, logo and wordmark, favicon and app icons, social image, guide header images, manifest, lead email template.
+- Kept: the drop-and-light icon, colors, layout and all URLs. The Cloudflare Pages project is still named `drybeacon`, so the preview address stays drybeacon.pages.dev (noindexed) until dryflare.com is connected.
+- Checks: audit 0 issues; readability and uniqueness pass; no old-name text left in the built site.
+
+## Previous — Layout fix (done)
 - Content was indented past the header and capped at 820px, leaving an empty right band on desktop. Now: content lines up with the logo and hero on every page.
 - Desktop (above 1024px): two columns, content plus a sticky 300px sidebar with a call card, the services list (current page marked), "More locations" on state/city pages, and popular guides.
 - Tablet and phone: single full-width column; sidebar hidden (the footer and in-text links already cover it).
@@ -38,10 +44,10 @@ Last updated: 2026-11-19
 | Launch | Buy domain, Cloudflare Pages project, env vars, real toll-free number, email, Search Console + analytics | Domain, number, email, Resend key |
 
 ## Deployment
-- Host: Cloudflare Pages, project `drybeacon`, Git-connected to `bobee1/WaterDamageUSA` (branch `main`). Live at https://drybeacon.pages.dev/ since 2026-11-19; pushes to `main` redeploy automatically (confirmed).
+- Host: Cloudflare Pages, project `drybeacon` (old name kept; only the preview URL uses it), Git-connected to `bobee1/WaterDamageUSA` (branch `main`). Live at https://drybeacon.pages.dev/ since 2026-11-19; pushes to `main` redeploy automatically (confirmed).
 - Settings: framework preset None, no build command, build output directory `public`, root directory blank. `functions/` is picked up automatically for the contact form.
 - Live checks (2026-11-19): all 133 sitemap URLs return 200; 404 page returns 404 with noindex; security headers (CSP, HSTS, X-Frame-Options) present; images served as WebP with a 1-year cache; `/services` redirects to `/services/`; contact form endpoint answers (validation works; email sending waits for Resend keys).
-- Staging address `drybeacon.pages.dev` sends `X-Robots-Tag: noindex` (set in `_headers`) so it stays out of search until drybeacon.com is connected.
+- Staging address `drybeacon.pages.dev` sends `X-Robots-Tag: noindex` (set in `_headers`) so it stays out of search until dryflare.com is connected.
 
 ## Open items
 - **Phone number:** 1-800-555-0199 is in the 555-01xx range reserved for fiction and cannot receive calls. Replace `phone_display` / `phone_e164` in `src/site.json` before launch.

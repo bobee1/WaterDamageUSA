@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://drybeacon.com/sitemap.xml
+Sitemap: https://dryflare.com/sitemap.xml

@@ -66,29 +66,29 @@ def page(slug):
     city, ab = m["city"], m["st"]
     disp = f"{city}, {ab}"
     sp = S.state_path(ab)
-    title = f"Water Damage Restoration {city}, {ab} | DryBeacon"
+    title = f"Water Damage Restoration {city}, {ab} | DryFlare"
     if len(title) > 60:
-        title = f"Water Damage Restoration {city} | DryBeacon"
+        title = f"Water Damage Restoration {city} | DryFlare"
     desc = f"Water damage restoration in {disp}: {c['risk_short']}. Water removal, drying, mold and repairs. Call 1-800-555-0199."
     if len(desc) > 155:
         desc = f"Water damage restoration in {disp}: {c['risk_short']}. Call 1-800-555-0199."
     near = [n for n in m["nearby"] if (CDIR / f"{n}.json").exists()]
-    nb = S.pick(slug, [f"DryBeacon also covers nearby {S.join_list([mlink(n) for n in near])}.",
+    nb = S.pick(slug, [f"DryFlare also covers nearby {S.join_list([mlink(n) for n in near])}.",
                        f"Crews also work in {S.join_list([mlink(n) for n in near])}.",
                        f"Help is also available in {S.join_list([mlink(n) for n in near])}."], "nb") if near else ""
     quick = S.pick(slug, [f"Water damage restoration in {disp} means fast water removal, structural drying and repairs.",
                           f"In {city}, water damage restoration covers extraction, drying, mold prevention and rebuild work.",
                           f"Water damage restoration in {city} starts with stopping the water, then drying and repair."], "q")
-    quick += f" The main local risks are {c['risk']}. DryBeacon covers all of {m['county']}, including ZIP codes {', '.join(m['zips'][:3])}."
+    quick += f" The main local risks are {c['risk']}. DryFlare covers all of {m['county']}, including ZIP codes {', '.join(m['zips'][:3])}."
     doi, doiu = st["doi"]
     ins = S.pick(slug, [f'Home insurance in {city} is regulated by the <a href="{doiu}">{doi}</a>. ',
                         f'The <a href="{doiu}">{doi}</a> oversees insurance for {city} homeowners. '], "i")
     ins += c.get("insurance", "") + f" See the {S.link(ab, st['name'] if ab != 'DC' else 'Washington, DC')} page for state flood, licensing and claim notes."
-    cta1 = S.pick(slug, [f"Water inside a {city} home or business? Call DryBeacon {{{{availability}}}}.",
-                         f"Need water out fast in {city}? Call DryBeacon at {{{{phone}}}}."], "c1")
+    cta1 = S.pick(slug, [f"Water inside a {city} home or business? Call DryFlare {{{{availability}}}}.",
+                         f"Need water out fast in {city}? Call DryFlare at {{{{phone}}}}."], "c1")
     tips_h = S.pick(slug, [f"Tips for {city} homeowners", f"Water damage tips for {city} homes", f"How {city} owners can prevent water damage"], "t")
     faq = [
-        {"q": f"Do you cover all of {city}?", "a": f"Yes. DryBeacon takes calls from across {city} and {m['county']}, including {S.join_list(m['hoods'][:5])}, and ZIP codes such as {', '.join(m['zips'])}."},
+        {"q": f"Do you cover all of {city}?", "a": f"Yes. DryFlare takes calls from across {city} and {m['county']}, including {S.join_list(m['hoods'][:5])}, and ZIP codes such as {', '.join(m['zips'])}."},
         {"q": f"How fast should water damage be dried in {city}?", "a": S.pick(slug, [f"Start within 24 to 48 hours. The EPA says that is the window to dry wet materials before mold grows in a {city} home. {c.get('speed_note', '')}".strip(),
                                                                              f"As soon as possible. For {city} homes, the EPA advice is to dry wet materials within 24 to 48 hours to prevent mold. {c.get('speed_note', '')}".strip()], "fq")},
         {"q": f"Does insurance cover water damage in {city}?", "a": f"For {city} homeowners, sudden events like burst pipes are usually covered. Flood from rising water needs a separate flood policy. For claim problems, contact the {doi}."},
@@ -117,7 +117,7 @@ def page(slug):
 
 <h2>Insurance and licensing in {city}</h2>
 <p>{ins}</p>
-{{{{cta:Call DryBeacon for water damage help in {city}: {{{{phone}}}}.}}}}
+{{{{cta:Call DryFlare for water damage help in {city}: {{{{phone}}}}.}}}}
 
 {{{{faq}}}}
 
@@ -125,7 +125,7 @@ def page(slug):
 {{{{services_grid}}}}
 
 <h2>More water damage help near {city}</h2>
-<ul class="pills">{''.join(f'<li><a href="{mpath(n)}">Water damage restoration in {MMETA[n]["city"]}</a></li>' for n in near)}<li><a href="{sp}">All of {st['name'] if ab != 'DC' else 'DC'}</a></li><li><a href="/locations/">All locations</a></li><li><a href="/">DryBeacon home</a></li></ul>
+<ul class="pills">{''.join(f'<li><a href="{mpath(n)}">Water damage restoration in {MMETA[n]["city"]}</a></li>' for n in near)}<li><a href="{sp}">All of {st['name'] if ab != 'DC' else 'DC'}</a></li><li><a href="/locations/">All locations</a></li><li><a href="/">DryFlare home</a></li></ul>
 
 {{{{sources}}}}
 """

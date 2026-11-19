@@ -3,7 +3,7 @@
 // Required environment variables (Cloudflare Pages > Settings > Variables):
 //   RESEND_API_KEY  - Resend API key (secret)
 //   LEAD_TO_EMAIL   - inbox that receives leads
-//   LEAD_FROM_EMAIL - verified sender, e.g. "DryBeacon Leads <leads@drybeacon.com>"
+//   LEAD_FROM_EMAIL - verified sender, e.g. "DryFlare Leads <leads@dryflare.com>"
 
 const json = (body, status = 200) =>
   new Response(JSON.stringify(body), { status, headers: { 'Content-Type': 'application/json' } });

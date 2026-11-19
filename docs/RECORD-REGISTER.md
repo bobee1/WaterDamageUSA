@@ -62,7 +62,8 @@ A dated log of every step. Newest entries at the bottom of each build. Status: D
 | 56 | 2026-11-19 | Deploy | `_headers`: noindex on *.pages.dev; deployment settings recorded | Done | Owner chose to create the Pages project himself |
 | 57 | 2026-11-19 | Deploy | Live on drybeacon.pages.dev; 133/133 URLs 200; headers verified; fixed duplicate Cache-Control on assets | Done | Auto-redeploy on push confirmed |
 | 58 | 2026-11-19 | Fix | Layout fix: content aligned with header; desktop 2-column (content + sticky sidebar: call card, services, locations, popular guides); single column ≤1024px; checks read the content column only | Done | Owner reported left-aligned content |
-| 59 | — | 7 | First 100 city pages (suburbs + next metros) | Planned | Next |
+| 59 | 2026-11-19 | Rename | Brand renamed DryBeacon → DryFlare (another nationwide water damage site uses DryBeacon on drybeacon.us). dryflare.com unregistered per Verisign RDAP; no water damage business found using the name. Text, schema, canonical domain, logo SVGs, icons, social image and 10 guide images regenerated; drop + light mark kept | Done | Cloudflare project stays `drybeacon` (preview URL only) |
+| 60 | — | 7 | First 100 city pages (suburbs + next metros) | Planned | Next |
 
 ## Image register
 | File | Source | Used on |

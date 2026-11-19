@@ -19,7 +19,7 @@ h1{font-size:FS;line-height:1.08;margin:34px 0 0;max-width:900px;font-weight:800
 .f img{height:46px}.f span{font-size:22px;color:#c9d1d9;font-weight:600}
 </style></head><body><div class="c"><div class="arc"></div><div class="arc b"></div><div class="arc c2"></div>
 <span class="cat">CAT</span><h1>TITLE</h1>
-<div class="f"><img src="drybeacon-logo-reversed.svg"><span>Water damage guide</span></div></div></body></html>"""
+<div class="f"><img src="dryflare-logo-reversed.svg"><span>Water damage guide</span></div></div></body></html>"""
 posts = []
 for f in sorted((ROOT / "src" / "pages" / "blog").glob("*.html")):
     m = re.match(r"^---\n(.*?)\n---\n", f.read_text(), re.S); meta = json.loads(m.group(1))

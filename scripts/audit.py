@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Site audit for DryBeacon: run after build.py. Exits 1 if any check fails.
+"""Site audit for DryFlare: run after build.py. Exits 1 if any check fails.
 
 Checks: internal links resolve, unique titles/metas/H1s, length limits, one H1,
 no skipped heading levels, image alt + width/height + WebP + size, banned wording,

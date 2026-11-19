@@ -1,6 +1,6 @@
-# DryBeacon (drybeacon.com)
+# DryFlare (dryflare.com)
 
-Static website for DryBeacon, a nationwide water damage restoration brand. See `STATUS.md` for progress and `docs/RECORD-REGISTER.md` for the step log.
+Static website for DryFlare, a nationwide water damage restoration brand. See `STATUS.md` for progress and `docs/RECORD-REGISTER.md` for the step log.
 
 - `src/site.json`: brand, phone, owner and other site-wide settings (change the phone here only)
 - `src/pages/`: page content (JSON front matter + HTML)

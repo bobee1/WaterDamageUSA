@@ -1,8 +1,8 @@
 {
-  "brand": "DryBeacon",
-  "legal_name": "DryBeacon",
-  "domain": "drybeacon.com",
-  "base_url": "https://drybeacon.com",
+  "brand": "DryFlare",
+  "legal_name": "DryFlare",
+  "domain": "dryflare.com",
+  "base_url": "https://dryflare.com",
   "tagline": "Water damage restoration across the United States",
   "phone_display": "1-800-555-0199",
   "phone_e164": "+18005550199",
@@ -13,6 +13,6 @@
   "routing": "own-business",
   "legal_effective_date": "November 18, 2026",
   "build_date": "2026-11-18",
-  "editorial_byline": "DryBeacon Editorial",
+  "editorial_byline": "DryFlare Editorial",
   "theme_color": "#1d2329"
 }

@@ -1,4 +1,4 @@
-"""State hub pages for DryBeacon.
+"""State hub pages for DryFlare.
 
 Combines three inputs into one page per state (and DC) at /locations/<state>/:
   research/06-state-data.json   Census ACS housing data, top places, FEMA declarations
@@ -165,10 +165,10 @@ def faq(ab, c):
     name = the(ab)
     cities = DATA["cities"][ab]
     if ab == "DC":
-        cover = ("Yes. DryBeacon takes calls from every ward of the District, from Capitol Hill and Georgetown to Anacostia, "
+        cover = ("Yes. DryFlare takes calls from every ward of the District, from Capitol Hill and Georgetown to Anacostia, "
                  "and from nearby Maryland and Virginia suburbs.")
     else:
-        cover = (f"Yes. DryBeacon takes calls from all of {name}, including {join_list(cities[:5])}. "
+        cover = (f"Yes. DryFlare takes calls from all of {name}, including {join_list(cities[:5])}. "
                  f"Small towns and rural areas in every county are covered too.")
     flood_a = (f"Usually not. Most home policies in {name} exclude rising water. They often cover sudden leaks, like a burst pipe. "
                f"Flood needs a separate NFIP or private policy. For claim help, contact the {m['doi'][0]}.")
@@ -203,7 +203,7 @@ def figure(ab, c):
 
 def nearby(ab):
     pills = "".join(f'<li><a href="{state_path(n)}">Water damage restoration in {the(n)}</a></li>' for n in META[ab]["neighbors"])
-    pills += '<li><a href="/locations/">All states</a></li><li><a href="/">DryBeacon home</a></li>'
+    pills += '<li><a href="/locations/">All states</a></li><li><a href="/">DryFlare home</a></li>'
     return f'<ul class="pills">{pills}</ul>'
 
 
@@ -217,20 +217,20 @@ def state_page(ab):
     cities = DATA["cities"][ab]
     disp = "Washington, DC" if ab == "DC" else m["name"]
     h1 = f"Water Damage Restoration in {disp}"
-    title = f"Water Damage Restoration in {disp} | DryBeacon"
+    title = f"Water Damage Restoration in {disp} | DryFlare"
     if len(title) > 60:
-        title = f"Water Damage Restoration {disp} | DryBeacon"
+        title = f"Water Damage Restoration {disp} | DryFlare"
     desc = f"Water damage restoration in {disp}: {c['risk_short']}. Water removal, drying, mold and repairs. Call 1-800-555-0199."
     if len(desc) > 155:
         desc = f"Water damage restoration in {disp}: {c['risk_short']}. Call 1-800-555-0199."
     tips_h = pick(ab, [f"Tips for {short} homeowners", f"Tips for property owners in {short}", f"Practical tips for {short} homes"], "t")
-    cta1 = pick(ab, [f"Water inside a {short} home or business? Call DryBeacon {{{{availability}}}}.",
-                     f"Need water out fast in {short}? Call DryBeacon at {{{{phone}}}}."], "cta")
-    cta2 = f"Call DryBeacon for water damage help anywhere in {short}: {{{{phone}}}}."
+    cta1 = pick(ab, [f"Water inside a {short} home or business? Call DryFlare {{{{availability}}}}.",
+                     f"Need water out fast in {short}? Call DryFlare at {{{{phone}}}}."], "cta")
+    cta2 = f"Call DryFlare for water damage help anywhere in {short}: {{{{phone}}}}."
     areas_h = f"Areas served in {short}" if ab != "DC" else "Neighborhoods served in Washington, DC"
     nb = [link(n, the(n)) for n in m["neighbors"]]
     nb_line = pick(ab, [f" Calls from neighboring {join_list(nb)} are covered too.",
-                        f" DryBeacon also helps owners next door in {join_list(nb)}.",
+                        f" DryFlare also helps owners next door in {join_list(nb)}.",
                         f" Water damage help is also available across the line in {join_list(nb)}."], "nb")
     if ab == "DC":
         areas_p = c["areas"] + nb_line
@@ -238,7 +238,7 @@ def state_page(ab):
         import metros as _M
         mm = _M.metros_in_state(ab)
         metro_line = (" Local pages: " + join_list([_M.mlink(x) for x in mm]) + ".") if mm else ""
-        areas_p = (f"DryBeacon handles water damage calls across {name}. The largest communities are "
+        areas_p = (f"DryFlare handles water damage calls across {name}. The largest communities are "
                    f"{join_list(cities)}. " + c.get("areas", "") + metro_line + nb_line)
     body = f"""<p class="quick"><strong>Quick answer:</strong> {quick_answer(ab, c)}</p>
 

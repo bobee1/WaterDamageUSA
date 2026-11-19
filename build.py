@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""DryBeacon static site generator.
+"""DryFlare static site generator.
 
 Reads src/site.json and src/pages/**/*.html (JSON front matter + HTML body),
 wraps each page in the shared layout, and writes the finished site to public/.
@@ -150,7 +150,7 @@ NAV = [("Services", "/services/"), ("Locations", "/locations/"), ("Guides", "/bl
 
 FOOTER_COLS = [
     ("Services", [(x["name"], f"/services/{x['slug']}/") for x in SERVICES]),
-    ("Company", [("About DryBeacon", "/about/"), ("Locations", "/locations/"), ("Contact", "/contact/"),
+    ("Company", [("About DryFlare", "/about/"), ("Locations", "/locations/"), ("Contact", "/contact/"),
                  ("Editorial policy", "/editorial-policy/"), ("Water damage guides", "/blog/"),
                  ("Glossary", "/glossary/")]),
     ("Legal", [("Privacy policy", "/privacy-policy/"), ("Terms of service", "/terms/"),
@@ -167,7 +167,7 @@ def footer_html(pages_by_path):
 <footer class="site-footer">
   <div class="wrap f-grid">
     <div class="f-brand">
-      <a class="logo" href="/"><img src="/img/brand/drybeacon-logo-reversed.svg" width="198" height="40" alt="{SITE['brand']} home" loading="lazy"></a>
+      <a class="logo" href="/"><img src="/img/brand/dryflare-logo-reversed.svg" width="198" height="40" alt="{SITE['brand']} home" loading="lazy"></a>
       <p>{SITE['brand']} handles water damage restoration calls from homeowners, renters and businesses across the United States, {SITE['availability']}. {SITE['years_in_business']} years in business.</p>
       <p class="f-call">{call_button('btn btn-call btn-sm')}</p>
     </div>
@@ -351,7 +351,7 @@ def page_html(meta, pages_by_path, css):
 <body class="{meta.get('body_class', '')}">
 <a class="skip" href="#main">Skip to content</a>
 <header class="site-header"><div class="wrap h-row">
-<a class="logo" href="/"><img src="/img/brand/drybeacon-logo.svg" width="198" height="40" alt="{SITE['brand']} home"></a>
+<a class="logo" href="/"><img src="/img/brand/dryflare-logo.svg" width="198" height="40" alt="{SITE['brand']} home"></a>
 <button class="menu-btn" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
 <nav id="site-nav" class="site-nav" aria-label="Main"><ul>{nav_html(pages_by_path)}</ul></nav>
 {call_button('btn btn-call btn-sm h-call')}

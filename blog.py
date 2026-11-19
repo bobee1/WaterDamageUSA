@@ -1,4 +1,4 @@
-"""Guides (blog posts), the guides hub and the glossary for DryBeacon.
+"""Guides (blog posts), the guides hub and the glossary for DryFlare.
 
 Posts live in src/pages/blog/<slug>.html with "type": "post" front matter:
   category, published, updated, card, related [2 slugs], image {webp, jpg, alt}, money (path of the page it supports).
@@ -92,7 +92,7 @@ def glossary_html():
 
 
 def glossary_schema(base):
-    return {"@type": "DefinedTermSet", "@id": base + "/glossary/#terms", "name": "DryBeacon water damage glossary",
+    return {"@type": "DefinedTermSet", "@id": base + "/glossary/#terms", "name": "DryFlare water damage glossary",
             "hasDefinedTerm": [{"@type": "DefinedTerm", "@id": f"{base}/glossary/#{t['slug']}", "name": t["term"],
                                 "description": re.sub(r"<[^>]+>", "", t["def"]),
                                 "url": f"{base}/glossary/#{t['slug']}"} for t in GLOSSARY]}
