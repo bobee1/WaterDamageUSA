@@ -16,7 +16,15 @@ Last updated: 2026-11-19
 - Plan approved: one national brand, state → metro → city structure, all 50 states + DC, one toll-free number, Cloudflare free plan.
 - Owner decisions: brand DryFlare; own-business call routing; 24/7; 10+ years in business; legal owner Anjam Javed; toll-free 1-800-555-0199; email added after the domain is bought.
 
-## Current — No repeated photos (done)
+## Current — Build 7 Part 2: 25 city pages (done)
+- Live: Fresno, Naperville, Joliet, Daytona Beach, Clearwater, Louisville, Des Moines, Albuquerque, Boulder, Castle Rock, Cape Coral, Naples, Akron, Baton Rouge, New Orleans, Arlington TX, Boca Raton, Ann Arbor, Richmond, Missoula, Ogden, Madison, Lakeland, Springfield MO, Albany NY.
+- Same build rules as Part 1: Census ACS housing table, checked ZIPs, hand-written local risks with verified events (Ian 2022 in Cape Coral, Naples and Daytona; Helene 2024 in Clearwater; Milton 2024 in Lakeland; the 2016 Baton Rouge flood; the 2013 Boulder flood), local problems table, tips, neighborhoods, insurance notes and a city-specific FAQ. Claims I couldn't confirm were cut or softened.
+- Suburbs linked to their hubs: Naperville and Joliet → Chicago; Clearwater → Tampa; Boulder and Castle Rock → Denver; Cape Coral → Fort Myers; Arlington → Dallas; Ogden → Salt Lake City.
+- Each page has its own photo. A review sheet caught near-duplicates from the same shoot (four pages showing the same flooded house, two the same creek), so those photos were swapped out.
+- Checks: audit 0 issues (184 pages); FK ≤ 8.7; uniqueness ≥ 74.4% vs closest (avg 77.1%); 834–891 words; 3+ in-text inbound links each; no overflow at 1440/1024/768/360; pages ≤ 39 KB.
+- Photo library: 245 photos, 89 unused (flood 6, rain 3, repair 8, others more). Parts 3–4 need about 15 more flood/interior photos sourced first.
+
+## Previous — No repeated photos (done)
 - Every page now has its own photo. 126 state and city pages each have a different Pexels photo matched to their main risk (storm, flood, frozen pipes, mold, ceiling leaks, repairs), with alt text that describes what the photo actually shows.
 - The home, about, contact, water extraction and flood pages no longer share photos.
 - 230 photos in the library (`src/photos.json`); 104 are unused and held for Parts 2–4, so new city pages also get unique photos.
@@ -52,7 +60,7 @@ Last updated: 2026-11-19
 ## Coming
 | Build | Scope | Needs from owner |
 | --- | --- | --- |
-| 7 | Parts 2–4: 75 more city pages (25 each) | — |
+| 7 | Parts 3–4: 50 more city pages (25 each), starting with Durham, Augusta, Rochester, Birmingham | — |
 | Launch | Buy domain, Cloudflare Pages project, env vars, real toll-free number, email, Search Console + analytics | Domain, number, email, Resend key |
 
 ## Deployment

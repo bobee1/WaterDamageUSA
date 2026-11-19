@@ -1,0 +1,51 @@
+{
+ "lead": "Louisville is a river city with old neighborhoods, deep basements and a history of flash floods. The worst came in 2009, when five inches of rain fell in 90 minutes.",
+ "risk": "flash flooding, basement water and sewer backups",
+ "risk_short": "flash floods, basements, sewer backups",
+ "why": [
+  "On the morning of August 4, 2009, storms stalled over central Louisville. Five inches of rain fell in about 90 minutes, and rates hit nearly 9 inches an hour. Water poured into homes, hospitals and the University of Louisville campus. The main public library downtown took about three feet of water in its lower level, and thousands of books were lost.",
+  "More than 60% of Louisville homes were built before 1980, and about 16% before 1940. Old Louisville, the Highlands and Germantown have deep basements and aging sewer lines. In heavy rain, older parts of the sewer system can back up through floor drains. The Ohio River floodwall protects the city from river floods, but it does nothing for water falling inside it."
+ ],
+ "image_alt": "Room with a window frame removed during repairs",
+ "image_caption": "Repairs after a Louisville basement flood often start with removing trim, frames and soaked drywall.",
+ "problems": [
+  [
+   "Flash flooding",
+   "Low streets near Beargrass Creek",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Basement seepage",
+   "Old Louisville, The Highlands, Germantown",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ],
+  [
+   "Sewer backups",
+   "Older homes in the city core",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Frozen pipe bursts",
+   "Pre-1940 homes in cold snaps",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Install a backwater valve if your basement drain has backed up.",
+  "Keep basement items on shelves, not the floor.",
+  "Clean gutters and extend downspouts away from the foundation.",
+  "Add sewer backup coverage to your home policy."
+ ],
+ "areas": "Calls come from Old Louisville, The Highlands, Germantown, Crescent Hill, Clifton, Butchertown, Portland and Beechmont, plus St. Matthews, Jeffersontown and Shively.",
+ "faq": {
+  "q": "Does the floodwall mean my Louisville home won't flood?",
+  "a": "No. The floodwall keeps the Ohio River out, but heavy rain inside the city can still flood streets, overwhelm sewers and fill basements. Flash floods like 2009 hit neighborhoods far from the river. Flood and sewer backup coverage are separate from a standard policy."
+ },
+ "sources": [
+  [
+   "NWS Louisville: Top 10 flash floods",
+   "https://www.weather.gov/lmk/top10flash"
+  ]
+ ],
+ "photo": "5691549"
+}

@@ -1,0 +1,51 @@
+{
+ "lead": "Naples is a small city with almost as many homes as residents. Many sit empty for part of the year, and in 2022 Hurricane Ian's surge reached nearly every building downtown.",
+ "risk": "storm surge, leaks in empty seasonal homes and humidity-driven mold",
+ "risk_short": "storm surge, empty homes, mold",
+ "why": [
+  "Hurricane Ian brought record surge to Naples in September 2022. Water flooded Fifth Avenue South, the heart of downtown, and the city manager said nearly every business took water inside. The Gordon River overflowed, and homes in Lake Park had several feet of water. Damage to homes, businesses and property in the city was later put at more than $1.5 billion.",
+  "The city has about 18,900 housing units for about 19,700 residents. Many homes are second homes and winter residences, so they sit closed up for months. A failed supply line or AC drain can run unnoticed for weeks. In the summer heat and humidity, mold can take hold on wet drywall within a day or two."
+ ],
+ "image_alt": "Storm waves and debris on a beach after a hurricane",
+ "image_caption": "Ian's surge reached nearly every building in downtown Naples in 2022.",
+ "problems": [
+  [
+   "Storm surge flooding",
+   "Old Naples, Aqualane Shores, Port Royal",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Leaks in empty seasonal homes",
+   "Winter residences citywide",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ],
+  [
+   "River flooding",
+   "Lake Park and areas near the Gordon River",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Mold after leaks",
+   "Closed-up homes in summer",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Shut the main water valve before you leave for the season.",
+  "Leave the AC on a humidity setting while you're away.",
+  "Install leak sensors that alert your phone.",
+  "Ask a home watch service to check the house every week or two."
+ ],
+ "areas": "Calls come from Old Naples, Port Royal, Aqualane Shores, Park Shore, The Moorings, Lake Park, Coquina Sands and Royal Harbor, plus North Naples, Pelican Bay and East Naples.",
+ "faq": {
+  "q": "How do I protect my Naples home while I'm away for the summer?",
+  "a": "Shut off the main water valve, set the AC to keep humidity below about 60%, and install leak sensors that send alerts. A weekly home watch visit catches problems early. Check your policy's vacancy rules too, since some limit coverage when a home is empty."
+ },
+ "sources": [
+  [
+   "Naples Daily News: Ian damage estimate (via Yahoo)",
+   "https://news.yahoo.com/damages-buildings-homes-businesses-estimated-234540573.html"
+  ]
+ ],
+ "photo": "19314212"
+}

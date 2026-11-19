@@ -1,0 +1,51 @@
+{
+ "lead": "Madison sits on a narrow isthmus between two lakes. In August 2018, record rain fell west of the city and the lakes rose high enough to back water up through storm sewers.",
+ "risk": "flash flooding, high lake levels and basement water",
+ "risk_short": "flash floods, high lakes, basements",
+ "why": [
+  "On August 20, 2018, a storm stalled over western Dane County and dropped more than 11 inches of rain west of Madison, near the state's 24-hour record. Streets on the west side flooded, and a man died when his car was swept away. Over the next days, the lakes kept rising. Lake Mendota crested more than two feet above its summer maximum, and lake water pushed up through storm drains on the isthmus.",
+  "About half of Madison's homes were built before 1980, and many have basements. When the ground is soaked and the lakes are high, water seeps through foundation walls and backs up through floor drains. Less than half of homes are owner-occupied, and many are rentals near the university. Winters add frozen pipes and ice dams on older roofs."
+ ],
+ "image_alt": "Field covered with muddy floodwater after a storm",
+ "image_caption": "When Madison's lakes run high, water can back up through storm drains on the isthmus.",
+ "problems": [
+  [
+   "Flash flooding",
+   "West side neighborhoods near creeks",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "High lake flooding",
+   "Tenney-Lapham, Marquette, the isthmus",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Basement seepage",
+   "Older homes citywide",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ],
+  [
+   "Ice dam leaks",
+   "Older homes in Vilas and Dudgeon-Monroe",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling leak repair</a>"
+  ]
+ ],
+ "tips": [
+  "Check the city's flash flood risk maps for your street.",
+  "Test your sump pump and add a battery backup.",
+  "Keep basement items on shelves in high-water years.",
+  "Add attic insulation to cut ice dams."
+ ],
+ "areas": "Calls come from the Isthmus, Tenney-Lapham, Marquette, Vilas, Dudgeon-Monroe, Westmorland, Greenbush and Hill Farms, plus Middleton, Fitchburg and Sun Prairie.",
+ "faq": {
+  "q": "Why did water come up through Madison storm drains in 2018?",
+  "a": "After the August rain, the lakes rose well above normal. On the low isthmus, storm sewers drain to the lakes. When lake levels rose higher than the drains, water flowed backward and came up into streets and basements."
+ },
+ "sources": [
+  [
+   "UW\u2013Madison News: High lake levels, August 2018",
+   "https://news.wisc.edu/highwaters/"
+  ]
+ ],
+ "photo": "39457986"
+}

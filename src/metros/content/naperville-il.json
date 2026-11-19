@@ -1,0 +1,51 @@
+{
+ "lead": "Naperville is a city of homeowners and basements. When heavy rain hits, sump pumps and storm sewers are tested fast, and the DuPage River can rise into nearby yards.",
+ "risk": "basement flooding, sump pump failures and river flooding",
+ "risk_short": "basements, sump pumps, river floods",
+ "why": [
+  "Three of four Naperville homes are owner-occupied, and most have basements, many of them finished. That makes the sump pump one of the most important machines in the house. When a pump fails, loses power or gets overwhelmed, water rises over the floor in minutes. Carpet, drywall, furniture and stored items can all be ruined in one storm.",
+  "Naperville knows how bad a storm can get. In July 1996, about 14 inches of rain fell on the city in a day, and nearby Aurora set the Illinois record with 16.94 inches. The DuPage River and its branches flooded neighborhoods, and basements filled across the western suburbs. Big storms since then have been smaller, but they still find weak sump pumps and low window wells."
+ ],
+ "image_alt": "Entryway with tools and materials during repairs",
+ "image_caption": "Rebuilding a finished Naperville basement starts once moisture readings are back to normal.",
+ "problems": [
+  [
+   "Sump pump failures",
+   "Finished basements citywide",
+   "<a href=\"/services/flood-damage-restoration/\">Basement flood cleanup</a>"
+  ],
+  [
+   "River flooding",
+   "Homes near the DuPage River",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Sewer backups",
+   "Older areas near downtown",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Window well leaks",
+   "Basements with open wells",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ]
+ ],
+ "tips": [
+  "Test your sump pump each spring by pouring water into the pit.",
+  "Add a battery backup pump in case the power goes out.",
+  "Install window well covers and keep wells free of leaves.",
+  "Add sewer backup coverage to your policy; it is usually extra."
+ ],
+ "areas": "Calls come from Downtown Naperville, Naper Carriage Hill, Cress Creek, River Run, Ashbury, White Eagle, Tall Grass and Brookdale, plus Aurora, Lisle and Bolingbrook.",
+ "faq": {
+  "q": "Does home insurance cover a sump pump failure in Naperville?",
+  "a": "Not by default. Most policies only cover sump pump and sewer backup damage if you add a water backup endorsement. It is usually cheap compared with a basement cleanup. Check your policy limits too, since finished basements can cost a lot to rebuild."
+ },
+ "sources": [
+  [
+   "NWS Chicago: July 17-18, 1996 flood",
+   "https://www.weather.gov/lot/1996_07_18_Flood"
+  ]
+ ],
+ "photo": "4567374"
+}

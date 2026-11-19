@@ -1,0 +1,51 @@
+{
+ "lead": "Much of New Orleans sits below sea level, inside levees, with pumps doing the work of draining every storm. When rain outpaces the pumps, streets and homes flood fast.",
+ "risk": "street flooding when pumps fall behind, hurricanes and humidity-driven mold",
+ "risk_short": "street floods, hurricanes, mold",
+ "why": [
+  "Every drop of rain in much of New Orleans has to be pumped out. The Sewerage and Water Board has long said its system can clear about an inch of rain in the first hour and half an inch each hour after. On August 5, 2017, more than 9 inches fell in Mid-City in a few hours. Some pumps were down, and water rose over a foot on streets and into homes and businesses.",
+  "New Orleans has some of the oldest housing in the South. About 31% of homes were built before 1940, including raised shotguns and Creole cottages. Their crawl spaces and old wood floors soak up moisture. Hurricanes bring wind, surge and heavy rain, as Katrina showed in 2005. In this heat and humidity, mold starts on wet materials within a day or two."
+ ],
+ "image_alt": "Rain pouring off a metal roof",
+ "image_caption": "When heavy rain outpaces the pumps, New Orleans streets can flood in minutes.",
+ "problems": [
+  [
+   "Street flooding in cloudbursts",
+   "Mid-City, Broadmoor, Gentilly, Lakeview",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Hurricane wind and rain damage",
+   "Homes citywide in tropical storms",
+   "<a href=\"/services/storm-damage-restoration/\">Storm damage restoration</a>"
+  ],
+  [
+   "Mold in older homes",
+   "Raised shotguns and crawl spaces",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ],
+  [
+   "Old plumbing leaks",
+   "Pre-1940 homes in the Marigny and Bywater",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and drying</a>"
+  ]
+ ],
+ "tips": [
+  "Move cars to higher ground when heavy rain is forecast.",
+  "Keep storm drains in front of your house clear of debris.",
+  "Carry flood insurance even if your home has never flooded.",
+  "Run dehumidifiers after any leak; humidity drives mold."
+ ],
+ "areas": "Calls come from the French Quarter, Marigny, Bywater, Uptown, Mid-City, Treme, Gentilly, Lakeview, Broadmoor and Algiers, plus Metairie, Kenner and Chalmette.",
+ "faq": {
+  "q": "Why does New Orleans flood when it rains hard?",
+  "a": "Much of the city is below sea level, so rain cannot drain by gravity. Pumps lift it into canals and out to the lake. Heavy rain can arrive faster than pumps can move it, and any pump or power failure makes it worse. Low streets fill first."
+ },
+ "sources": [
+  [
+   "City of New Orleans: August 5, 2017 flood update",
+   "https://ready.nola.gov/incident/august-flood/updated-city-makes-additional-reminders-following/"
+  ]
+ ],
+ "photo": "18782936"
+}

@@ -1,0 +1,51 @@
+{
+ "lead": "In 1993, floodwater shut down the Des Moines water plant and left the city without tap water for days. Today, old basements and heavy storms cause most of its water damage.",
+ "risk": "basement flooding, river flooding and aging plumbing",
+ "risk_short": "basements, river floods, old pipes",
+ "why": [
+  "On July 11, 1993, the Raccoon River crested at 26.8 feet and flooded the Des Moines Water Works treatment plant. About 250,000 people lost running water. Taps came back after about 12 days, but the water was not declared safe to drink until July 30. The flood also soaked homes and businesses along the Raccoon and Des Moines rivers.",
+  "Des Moines has some of the oldest housing in the Midwest. About 70% of homes were built before 1980 and more than a quarter before 1940. Sherman Hill, Drake and Beaverdale are full of older houses with basements, clay sewer lines and aging plumbing. Heavy spring and summer storms push water through foundation cracks and up through floor drains. Winter cold can split pipes on outside walls."
+ ],
+ "image_alt": "Aerial view of floodwater spreading across farmland and woods",
+ "image_caption": "Heavy storms can send the Raccoon and Des Moines rivers into nearby Des Moines neighborhoods.",
+ "problems": [
+  [
+   "Basement seepage",
+   "Sherman Hill, Drake, Beaverdale",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ],
+  [
+   "River flooding",
+   "Low areas near the Raccoon and Des Moines",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Sewer backups",
+   "Older homes with clay sewer lines",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Frozen pipe bursts",
+   "Pre-1940 homes in cold snaps",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Check whether your home is in a mapped floodplain.",
+  "Have an old sewer line scoped before roots cause a backup.",
+  "Test your sump pump each spring.",
+  "Insulate pipes on outside walls before winter."
+ ],
+ "areas": "Calls come from Sherman Hill, Drake, Beaverdale, Waterbury, Highland Park, the East Village, South of Grand and River Bend, plus West Des Moines, Urbandale and Ankeny.",
+ "faq": {
+  "q": "Is flood insurance worth it in Des Moines?",
+  "a": "If you live near the Raccoon or Des Moines rivers, it is worth pricing. Home insurance does not cover rising water. Even outside mapped flood zones, heavy rain can flood basements, which usually needs separate sewer backup coverage."
+ },
+ "sources": [
+  [
+   "Des Moines Water Works: Remembering the Flood of 1993",
+   "https://cms9files.revize.com/desmoineswater/JulyAugust2023.pdf"
+  ]
+ ],
+ "photo": "36210444"
+}

@@ -71,7 +71,11 @@ A dated log of every step. Newest entries at the bottom of each build. Status: D
 | 65 | 2026-11-19 | Deploy | New Cloudflare Pages project `dryflare`; live at dryflare.pages.dev; Part 1 pages, sitemap (158 URLs) and noindex header verified there | Done | Old `drybeacon` project can be deleted |
 | 66 | 2026-11-19 | Photos | Owner rule: do not repeat photos. 230 Pexels photos sourced (found via Pexels search pages, reviewed on contact sheets, off-topic and foreign-landmark shots dropped), converted to 800px WebP (≤ 168 KB), each with its own accurate alt text (`src/photos.json`, `research/10-photo-pool.txt`). Every state and city page (126) now has its own photo matched to its main risk; location-specific shots (Houston, Savannah, Wabasha MN, North Texas, North Carolina, Pennsylvania, Florida) only on matching pages. Repeats on home, about, contact, water extraction and flood pages replaced. 104 photos held for Parts 2–4 | Done | Blog cards keep each guide's own branded graphic (not a photo) |
 | 67 | 2026-11-19 | Photos | Audit rule added: build fails if any photo (full or 800px version) appears on more than one page | Done | `scripts/audit.py` |
-| 68 | — | 7.2 | Part 2: next 25 cities (Fresno → Ann Arbor) | Planned | Next |
+| 68 | 2026-11-19 | 7.2 | Part 2 pages: Fresno, Naperville, Joliet, Daytona Beach, Clearwater, Louisville, Des Moines, Albuquerque, Boulder, Castle Rock, Cape Coral, Naples, Akron, Baton Rouge, New Orleans, Arlington, Boca Raton, Ann Arbor, Richmond, Missoula, Ogden, Madison, Lakeland, Springfield, Albany; ACS data and ZIPs checked; unverified claims cut (Castle Rock "fastest-growing", Cape Coral wind speed, Richmond floodwall date) | Done | 834–891 words each |
+| 69 | 2026-11-19 | 7.2 | Linking: 8 suburbs attached to hubs (Chicago, Tampa, Denver, Fort Myers, Dallas, Salt Lake City); every new page has 3+ in-text inbound links | Done | |
+| 70 | 2026-11-19 | Photos | 15 more Pexels photos added (3 failed downloads dropped); Part 2 pages each get their own photo; near-duplicates from the same shoot swapped after visual review; repair-photo captions rewritten for basement pages | Done | 245 in library, 89 unused |
+| 71 | 2026-11-19 | 7.2 | Checks: audit 0 issues (184 pages); FK ≤ 8.7; uniqueness ≥ 74.4% (avg 77.1%); JSON-LD valid; no overflow at 4 widths; pages ≤ 39 KB | Done | |
+| 72 | — | 7.3 | Part 3: next 25 cities (Durham → …); source flood/interior photos first | Planned | Next |
 
 ## Image register
 | File | Source | Used on |

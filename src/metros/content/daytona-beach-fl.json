@@ -1,0 +1,51 @@
+{
+ "lead": "Daytona Beach sits between the Atlantic and the Halifax River. In 2022, Ian flooded mainland neighborhoods and Nicole tore at the beachfront six weeks later.",
+ "risk": "hurricane flooding, river backflow and beachfront storm damage",
+ "risk_short": "hurricanes, river backflow, coastal storms",
+ "why": [
+  "Hurricane Ian brought days of rain to Volusia County in September 2022. In Daytona Beach, the worst flooding hit Midtown and Fairway Estates, just east of Nova Road, where water rose three to four feet inside homes. The city's storm pipes drain into the Halifax River. When the river is high from tides, rain or surge, the water has nowhere to go and backs up into low streets.",
+  "Six weeks later, Hurricane Nicole battered the beachside. Waves and erosion damaged condos, hotels and seawalls along the coast. Less than half of Daytona Beach homes are owner-occupied, and many people rent or live in condos. That means leaks often involve a landlord or an association. Summer humidity also means wet drywall can grow mold within a day or two."
+ ],
+ "image_alt": "Suburban house surrounded by floodwater after heavy rain",
+ "image_caption": "In 2022, Ian flooded mainland Daytona Beach neighborhoods with several feet of water.",
+ "problems": [
+  [
+   "Rain and river flooding",
+   "Midtown, Fairway Estates, near the Halifax",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Beachfront storm damage",
+   "Beachside condos and homes",
+   "<a href=\"/services/storm-damage-restoration/\">Storm damage restoration</a>"
+  ],
+  [
+   "Leaks in condos and rentals",
+   "Seabreeze and beachside towers",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling and wall drying</a>"
+  ],
+  [
+   "Mold after leaks",
+   "Humid months citywide",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ]
+ ],
+ "tips": [
+  "Know your elevation; low streets near the Halifax flood first.",
+  "Buy flood insurance early; it usually takes 30 days to start.",
+  "Condo owners: learn what your association's policy covers.",
+  "Run AC or dehumidifiers after any leak to stop mold."
+ ],
+ "areas": "Calls come from Beachside, Downtown, Midtown, Seabreeze, Fairway Estates, Pelican Bay, Indigo Lakes and LPGA, plus Ormond Beach, Holly Hill and Port Orange.",
+ "faq": {
+  "q": "Why did Daytona Beach flood so badly inland during Ian?",
+  "a": "City drainage flows east into the Halifax River. When the river runs high from tide, storm surge or heavy rain, it backs up and low areas fill. Midtown and Fairway Estates sit low compared with the river, so they flooded deepest."
+ },
+ "sources": [
+  [
+   "Daytona Beach News-Journal: Midtown's chronic flooding",
+   "https://news.yahoo.com/low-elevation-makes-daytonas-midtown-100020071.html"
+  ]
+ ],
+ "photo": "28447774"
+}

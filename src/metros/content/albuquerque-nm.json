@@ -1,0 +1,45 @@
+{
+ "lead": "Albuquerque is high desert, but summer monsoons turn its arroyos into rivers in minutes. Flat roofs, swamp coolers and old pipes cause the rest of its water damage.",
+ "risk": "monsoon roof leaks, arroyo flash floods and swamp cooler leaks",
+ "risk_short": "monsoons, flat roofs, swamp coolers",
+ "why": [
+  "Monsoon season runs from mid-June through September. Storms over the Sandia Mountains can send water racing down the city's arroyos, even when it is sunny in town. The Albuquerque Metropolitan Arroyo Flood Control Authority runs a large system of channels and dams to carry that water. But intense storms still flood low streets and push water under doors and into garages.",
+  "Many Albuquerque homes have flat or low-slope roofs, especially pueblo-style houses. When roof drains, canales or scuppers clog, monsoon rain ponds and leaks into ceilings. Swamp coolers are common too, and a stuck float or worn pan can drip into the attic. About 47% of homes were built before 1980, and many still have their original supply lines and drains."
+ ],
+ "image_alt": "Rainwater streaming off a roof during a downpour",
+ "image_caption": "Clogged roof drains during Albuquerque monsoons are a top cause of ceiling damage.",
+ "problems": [
+  [
+   "Flat roof leaks",
+   "Pueblo-style homes citywide",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling leak repair</a>"
+  ],
+  [
+   "Swamp cooler leaks",
+   "Homes with roof coolers",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling and attic drying</a>"
+  ],
+  [
+   "Monsoon flooding",
+   "Low lots near arroyos",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Old plumbing leaks",
+   "Pre-1980 homes in Nob Hill and Ridgecrest",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and drying</a>"
+  ]
+ ],
+ "tips": [
+  "Clear canales, scuppers and roof drains before monsoon season.",
+  "Service the swamp cooler each spring and drain it in fall.",
+  "Keep yard drainage pointed away from the house.",
+  "Never cross a flowing arroyo, on foot or by car."
+ ],
+ "areas": "Calls come from Nob Hill, Old Town, Downtown, the Northeast Heights, Ridgecrest, the North Valley, the Westside and Four Hills, plus Rio Rancho, Corrales and Los Ranchos.",
+ "faq": {
+  "q": "Why does my Albuquerque flat roof leak every monsoon?",
+  "a": "Flat roofs rely on drains, canales and scuppers to move water off. When dust, leaves or nests block them, rain ponds and finds any crack in the roofing. Clearing drains before June and resealing aging roof coatings prevents most leaks."
+ },
+ "photo": "5009575"
+}

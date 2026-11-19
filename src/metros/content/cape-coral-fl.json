@@ -1,0 +1,51 @@
+{
+ "lead": "Cape Coral was built around roughly 400 miles of canals, more than Venice. They make the city a boater's dream, and they carried Hurricane Ian's surge deep into neighborhoods.",
+ "risk": "canal-borne storm surge, hurricane winds and seawall failures",
+ "risk_short": "storm surge, hurricanes, seawalls",
+ "why": [
+  "Developers dug Cape Coral's canals in the late 1950s and 1960s, using the fill to raise home sites just enough to build. The city now has about 409 miles of canals, both saltwater and freshwater. In September 2022, Hurricane Ian made landfall just to the northwest. Its surge pushed up the Gulf-access canals and flooded homes far from open water, while Category 4 winds tore at roofs and pool cages.",
+  "Cape Coral is young and owner-heavy. The median home was built in 2000, and 77% are owner-occupied. Most homes are single-story on concrete slabs, so even a few inches of water reach drywall, cabinets and flooring in every room. Many seawalls are now decades old. Between storms, summer rain, AC drain lines and roof leaks cause most calls."
+ ],
+ "image_alt": "Aerial view of houses with severe roof damage after a hurricane",
+ "image_caption": "Cape Coral's canals carried Ian's surge deep into residential streets in 2022.",
+ "problems": [
+  [
+   "Canal storm surge",
+   "Gulf-access canal homes, Yacht Club, Cape Harbour",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Hurricane roof damage",
+   "Homes citywide in tropical storms",
+   "<a href=\"/services/storm-damage-restoration/\">Storm damage restoration</a>"
+  ],
+  [
+   "Slab home flooding",
+   "Single-story homes on low lots",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ],
+  [
+   "AC drain overflows",
+   "Homes with attic air handlers",
+   "<a href=\"/services/water-mitigation/\">Structural drying</a>"
+  ]
+ ],
+ "tips": [
+  "Know your elevation and flood zone; FEMA maps changed after Ian.",
+  "Buy flood insurance early; it usually takes 30 days to start.",
+  "Have an older seawall inspected before storm season.",
+  "Flush the AC condensate line every few months."
+ ],
+ "areas": "Calls come from the South Cape, Yacht Club, Cape Harbour, Pelican, the Southeast Cape, Northeast Cape, Northwest Cape and Burnt Store, plus North Fort Myers, Matlacha and Pine Island.",
+ "faq": {
+  "q": "Do I need flood insurance in Cape Coral if I'm on a freshwater canal?",
+  "a": "It is worth having. Freshwater canals do not get surge the way Gulf-access canals do, but heavy rain can still flood low lots and streets. Standard home policies never cover rising water. Many Cape Coral lenders require flood coverage in mapped zones anyway."
+ },
+ "sources": [
+  [
+   "Cape Coral Breeze: Canals by the numbers (via AOL)",
+   "https://www.aol.com/cape-coral-more-canals-venice-092011840.html"
+  ]
+ ],
+ "photo": "34680655"
+}

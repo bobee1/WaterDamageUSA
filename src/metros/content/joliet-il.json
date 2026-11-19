@@ -1,0 +1,45 @@
+{
+ "lead": "Joliet mixes century-old homes on the bluffs with newer subdivisions on the west side. Old basements, river flooding and frozen pipes drive most of its water damage.",
+ "risk": "old basements, river flooding and frozen pipes",
+ "risk_short": "old basements, river floods, frozen pipes",
+ "why": [
+  "About 16% of Joliet homes were built before 1940. The Cathedral Area and Upper Bluff are full of large old houses with stone or brick basements. Those walls let water seep in after heavy rain, and old clay sewer lines crack or fill with roots. A backup can push sewage up through a floor drain in the middle of a storm.",
+  "The Des Plaines River runs through the heart of the city, and Hickory Creek and the DuPage River are close by. Big spring and summer storms can push water into low streets and basements nearby. Winters are cold, and pipes on outside walls or in unheated rooms can freeze and split. Newer homes on the west side face the same sump pump risks as the rest of the suburbs."
+ ],
+ "image_alt": "Fallen tree branch on a wet street after a storm",
+ "image_caption": "Heavy storms can send Joliet's rivers and creeks into nearby streets and basements.",
+ "problems": [
+  [
+   "Basement seepage",
+   "Cathedral Area, Upper Bluff",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ],
+  [
+   "Sewer backups",
+   "Homes with old clay laterals",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "River and creek flooding",
+   "Low areas near the Des Plaines and Hickory Creek",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Frozen pipe bursts",
+   "Older homes in cold snaps",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Have an old sewer lateral scoped and roots cleared.",
+  "Install a backwater valve if your floor drain has backed up.",
+  "Insulate pipes on outside walls before winter.",
+  "Test your sump pump and keep a battery backup charged."
+ ],
+ "areas": "Calls come from the Cathedral Area, Upper Bluff, Downtown Joliet, Forest Park, Cunningham and Marycrest, plus Plainfield, Shorewood, Lockport and New Lenox.",
+ "faq": {
+  "q": "Why does water come up through my Joliet basement floor drain?",
+  "a": "In older homes, the floor drain is tied to the sewer line. When heavy rain overloads the system or roots block the lateral, water and sewage back up through the lowest opening. A backwater valve and a cleared lateral are the usual fixes."
+ },
+ "photo": "38239815"
+}

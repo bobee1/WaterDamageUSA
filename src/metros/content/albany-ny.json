@@ -1,0 +1,51 @@
+{
+ "lead": "Albany has some of the oldest housing in the country, with more than 40% of homes built before 1940. Old rowhouses, combined sewers and long winters keep water damage busy.",
+ "risk": "basement backups, ice dams and leaks in old rowhouses",
+ "risk_short": "basement backups, ice dams, old rowhouses",
+ "why": [
+  "About 43% of Albany homes were built before 1940, and nearly 79% before 1980. Center Square, Park South and the Mansion District are full of brick rowhouses with shared walls, flat roofs and stone basements. Water from a neighbor's roof or pipe can cross into the next house. Only about 38% of homes are owner-occupied, so many leaks involve landlords and tenants.",
+  "Like its neighbors, Albany has combined sewers that carry both rain and sewage. In big storms they can overflow, and old house laterals can back up into basements. Under a 2014 agreement, Albany and five nearby communities began a long-term plan to cut those overflows. Winters bring heavy snow, ice dams on older roofs and frozen pipes in unheated spaces."
+ ],
+ "image_alt": "Brick bungalow with a snow-covered roof and yard",
+ "image_caption": "Ice dams and shared-wall leaks are common in Albany's older rowhouses.",
+ "problems": [
+  [
+   "Basement backups",
+   "Older homes on combined sewers",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Ice dam leaks",
+   "Rowhouses and older homes citywide",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling leak repair</a>"
+  ],
+  [
+   "Leaks through shared walls",
+   "Center Square, Park South, Mansion District",
+   "<a href=\"/services/ceiling-water-damage/\">Wall and ceiling drying</a>"
+  ],
+  [
+   "Frozen pipe bursts",
+   "Unheated basements and outside walls",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Install a backwater valve if your basement drain has backed up.",
+  "Have a flat rowhouse roof checked every year.",
+  "Add attic insulation and venting to cut ice dams.",
+  "Renters: report leaks to your landlord in writing."
+ ],
+ "areas": "Calls come from Center Square, Pine Hills, Park South, Arbor Hill, the Mansion District, Helderberg, Delaware Avenue and the South End, plus Troy, Colonie and Guilderland.",
+ "faq": {
+  "q": "Who pays for water damage in an Albany rental?",
+  "a": "The landlord usually pays to fix the building, and the tenant's renters insurance covers their belongings. If a tenant caused the leak, their liability coverage may help. Report leaks in writing and take photos right away."
+ },
+ "sources": [
+  [
+   "NYS DEC: Combined sewer overflows and the Albany Pool",
+   "https://dec.ny.gov/environmental-protection/water/water-quality/combined-sewer-overflow"
+  ]
+ ],
+ "photo": "30731294"
+}

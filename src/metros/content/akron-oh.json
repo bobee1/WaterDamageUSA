@@ -1,0 +1,51 @@
+{
+ "lead": "Akron has some of the oldest housing of any big Ohio city, and parts of it still drain through combined sewers. Basement backups, old pipes and winter freezes cause most water damage here.",
+ "risk": "sewer backups, basement seepage and frozen pipes",
+ "risk_short": "sewer backups, basements, frozen pipes",
+ "why": [
+  "More than 83% of Akron homes were built before 1980, and about a third before 1940. Many are wood-frame houses with block or stone basements, built for the rubber factory workers who filled the city. Those basements leak in heavy rain, and old clay sewer laterals crack and fill with roots. A backup can bring sewage up through a basement floor drain.",
+  "About a quarter of Akron's sewer system was built in the early 1900s as combined sewers, carrying both storm water and sewage. To cut overflows, the city put the Ohio Canal Interceptor Tunnel into service in 2020. It can store more than 25 million gallons during big storms. That helps the rivers, but private sewer laterals and basements still need care. Cold winters add frozen pipes and ice dams."
+ ],
+ "image_alt": "Worker sanding a new drywall ceiling",
+ "image_caption": "After a basement backup in an older Akron home, damaged walls and ceilings are dried and rebuilt.",
+ "problems": [
+  [
+   "Sewer backups",
+   "Older homes with clay laterals",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Basement seepage",
+   "Highland Square, Firestone Park, Kenmore",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ],
+  [
+   "Frozen pipe bursts",
+   "Pre-1940 homes in cold snaps",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Ice dam leaks",
+   "Older homes with poor attic insulation",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling leak repair</a>"
+  ]
+ ],
+ "tips": [
+  "Install a backwater valve if your floor drain has backed up.",
+  "Have your sewer lateral scoped and roots cleared.",
+  "Insulate pipes on outside walls and in crawl spaces.",
+  "Add attic insulation to cut ice dams."
+ ],
+ "areas": "Calls come from Highland Square, Merriman Valley, Firestone Park, Kenmore, North Hill, Ellet, Goodyear Heights and Wallhaven, plus Cuyahoga Falls, Barberton and Tallmadge.",
+ "faq": {
+  "q": "Who fixes a sewer backup in my Akron basement?",
+  "a": "It depends on where the blockage is. The city handles its main sewer lines, but the lateral from your house to the main is usually the owner's. A plumber can scope the line to find the cause. DryFlare cleans and sanitizes the basement and dries what can be saved."
+ },
+ "sources": [
+  [
+   "Akron Ohio Canal Interceptor Tunnel (Tunneling Online)",
+   "https://tunnelingonline.com/akron-ocit-project-makes-final-connection/"
+  ]
+ ],
+ "photo": "6474295"
+}

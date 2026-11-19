@@ -1,0 +1,51 @@
+{
+ "lead": "Richmond's oldest neighborhoods sit in valleys that drain to the James River. In 2004, the remains of Gaston flooded Shockoe Bottom with 10 feet of water.",
+ "risk": "flash flooding, basement water and aging rowhouse plumbing",
+ "risk_short": "flash floods, basements, old plumbing",
+ "why": [
+  "On August 30, 2004, the remnants of Hurricane Gaston stalled over Richmond. Up to 12.6 inches of rain fell in the West End. Shockoe Bottom, the low valley next to downtown, filled with water up to 10 feet deep, and about 20 blocks were condemned. The James River floodwall kept the river out, but runoff from the hills had nowhere to go.",
+  "About 28% of Richmond homes were built before 1940. The Fan, Church Hill and Jackson Ward are full of rowhouses with shared walls, flat roofs and old basements. Water from a neighbor's roof or pipes can cross into the next house. Old cast-iron and clay drains crack with age. Less than half of homes are owner-occupied, so many leaks involve landlords and tenants."
+ ],
+ "image_alt": "Cars stranded on a flooded street after heavy rain",
+ "image_caption": "Runoff from Richmond's hills can flood low valleys like Shockoe Bottom.",
+ "problems": [
+  [
+   "Flash flooding",
+   "Shockoe Bottom and other low valleys",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Basement seepage",
+   "Church Hill, The Fan, Northside",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ],
+  [
+   "Leaks through shared walls",
+   "Rowhouses in The Fan and Jackson Ward",
+   "<a href=\"/services/ceiling-water-damage/\">Wall and ceiling drying</a>"
+  ],
+  [
+   "Flat roof leaks",
+   "Older rowhouses",
+   "<a href=\"/services/storm-damage-restoration/\">Roof leak drying and repair</a>"
+  ]
+ ],
+ "tips": [
+  "Check whether your street sits in a low valley or mapped flood zone.",
+  "Have an old rowhouse roof inspected every year.",
+  "Install a backwater valve if your basement drain has backed up.",
+  "Renters: report leaks to your landlord in writing."
+ ],
+ "areas": "Calls come from The Fan, the Museum District, Church Hill, Shockoe Bottom, Carytown, Jackson Ward, Northside, Manchester and Forest Hill, plus Henrico, Chesterfield and Midlothian.",
+ "faq": {
+  "q": "Does the floodwall protect Shockoe Bottom from all flooding?",
+  "a": "No. It holds back the James River, but it cannot stop heavy rain falling on the city. In 2004, runoff from the surrounding hills flooded the Bottom from the inside. Flood insurance is worth having in any low part of Richmond."
+ },
+ "sources": [
+  [
+   "Hurricane Gaston (2004), Wikipedia",
+   "https://en.wikipedia.org/wiki/Hurricane_Gaston_(2004)"
+  ]
+ ],
+ "photo": "28447763"
+}

@@ -1,0 +1,45 @@
+{
+ "lead": "Castle Rock has grown fast, and most of its homes are newer. Hail, frozen pipes and leaks in finished basements cause most of its water damage.",
+ "risk": "hail roof damage, frozen pipes and basement leaks",
+ "risk_short": "hail, frozen pipes, basements",
+ "why": [
+  "Half of Castle Rock's homes were built in 2007 or later, and almost 80% are owner-occupied. Many have finished basements with bedrooms and media rooms. When a water heater, sump pump or supply line fails down there, carpet, drywall and furniture soak up the water fast. Newer homes also have more hoses and fittings, from ice makers to laundry rooms, that can fail.",
+  "The town sits high on the Palmer Divide, where storms often build in summer. Hail cracks shingles and skylights and dents gutters, and the next rain finds the damage. Winters bring sharp cold snaps, and pipes in garages, crawl spaces and outside walls can freeze. Some areas also have expansive clay soils that shift foundations and stress pipes."
+ ],
+ "image_alt": "Roofer working at the edge of a house roof",
+ "image_caption": "Summer hail on the Palmer Divide often means roof repairs and leak checks in Castle Rock.",
+ "problems": [
+  [
+   "Hail roof leaks",
+   "Crystal Valley Ranch, The Meadows, Castle Oaks",
+   "<a href=\"/services/storm-damage-restoration/\">Storm repair and drying</a>"
+  ],
+  [
+   "Finished basement leaks",
+   "Newer homes citywide",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ],
+  [
+   "Frozen pipe bursts",
+   "Garages and outside walls",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Sump pump failures",
+   "Homes with basement sump pits",
+   "<a href=\"/services/flood-damage-restoration/\">Basement flood cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Get a roof inspection after every hailstorm.",
+  "Put a leak alarm near the water heater and sump pit.",
+  "Keep the heat at 55\u00b0F or higher when you travel in winter.",
+  "Disconnect hoses and shut outdoor valves in fall."
+ ],
+ "areas": "Calls come from Downtown Castle Rock, The Meadows, Crystal Valley Ranch, Castle Oaks, Founders Village, Red Hawk, Plum Creek and Terrain, plus Castle Pines, Parker and Larkspur.",
+ "faq": {
+  "q": "Does insurance cover hail damage on my Castle Rock roof?",
+  "a": "Usually, yes, under the wind and hail part of your policy. Many Colorado policies have a separate, higher deductible for hail. File soon after the storm and photograph damage, since water leaks that start later can be harder to tie to the hail."
+ },
+ "photo": "38524253"
+}

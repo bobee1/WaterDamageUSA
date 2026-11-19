@@ -1,0 +1,51 @@
+{
+ "lead": "Fresno is hot, dry and full of homes built in the 1960s to 1980s. Slab leaks, failing water heaters and roof coolers cause most of its water damage, not floods.",
+ "risk": "slab leaks, aging plumbing and leaking roof coolers",
+ "risk_short": "slab leaks, old pipes, roof coolers",
+ "why": [
+  "About half of Fresno homes were built before 1980. Many sit on concrete slabs with copper or galvanized pipe run underneath. Years of heat, ground movement and mineral-heavy well water wear those lines down. A slab leak can run for weeks, warming the floor and soaking carpet pad before anyone notices. Swollen baseboards and a musty smell are common first signs.",
+  "Fresno only finished putting water meters on every home in December 2012. Before that, most homes paid a flat rate, so a hidden leak never showed up on a bill. Today the meters help catch leaks sooner. Summer heat brings another risk. Many homes still run evaporative coolers on the roof, and a stuck float or cracked pan can drip into the attic and stain ceilings."
+ ],
+ "image_alt": "Rusted pipe dripping water above a lawn",
+ "image_caption": "In Fresno, hidden slab and supply line leaks cause more water damage than storms.",
+ "problems": [
+  [
+   "Slab leaks",
+   "1960s to 1980s homes in Sunnyside, Fig Garden",
+   "<a href=\"/services/water-extraction/\">Water removal and floor drying</a>"
+  ],
+  [
+   "Roof cooler leaks",
+   "Homes with evaporative coolers",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling leak repair</a>"
+  ],
+  [
+   "Water heater failures",
+   "Garages and closets citywide",
+   "<a href=\"/services/burst-pipe-water-damage/\">Water heater leak cleanup</a>"
+  ],
+  [
+   "Galvanized pipe leaks",
+   "Pre-1970 homes in the Tower District",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and drying</a>"
+  ]
+ ],
+ "tips": [
+  "Check your smart meter reading with all taps off to spot hidden leaks.",
+  "Service a roof evaporative cooler each spring and drain it in fall.",
+  "Flush the water heater once a year to clear sediment.",
+  "Feel for warm spots on floors; they can point to a slab leak."
+ ],
+ "areas": "Calls come from the Tower District, Fig Garden, Sunnyside, Woodward Park, Downtown, McLane, Bullard and Roosevelt, plus Clovis, Madera and Sanger.",
+ "faq": {
+  "q": "How can I tell if my Fresno home has a slab leak?",
+  "a": "Common signs are a warm spot on the floor, the sound of running water with taps off, damp carpet or swollen baseboards, and a meter that keeps moving when nothing is on. A plumber can confirm it with pressure and acoustic tests. DryFlare then dries the floor and walls."
+ },
+ "sources": [
+  [
+   "City of Fresno: Water meters",
+   "https://www.fresno.gov/publicutilities/water-quality/"
+  ]
+ ],
+ "photo": "4406597"
+}

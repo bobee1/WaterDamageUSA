@@ -1,0 +1,51 @@
+{
+ "lead": "Ann Arbor has old homes, many students and a long history of basement backups. After floods in 1998 and 2000, thousands of homes got sump pumps that now need care.",
+ "risk": "basement backups, sump pump failures and ice dams",
+ "risk_short": "basement backups, sump pumps, ice dams",
+ "why": [
+  "Heavy rain in August 1998 and June 2000 sent sewage into basements across Ann Arbor. The problem was rainwater from house footing drains flowing into the sanitary sewer and overloading it. In 2001 the city started a footing drain disconnection program. Many homes were fitted with sump pumps that now carry that water outside. When a pump fails or loses power, the basement floods.",
+  "About 63% of Ann Arbor homes were built before 1980, and about 15% before 1940. The Old West Side, Burns Park and Kerrytown have older houses with basements and aging pipes. Less than half of homes are owner-occupied, and many are student rentals where small leaks may go unreported. Michigan winters also bring frozen pipes and ice dams."
+ ],
+ "image_alt": "Opened wall with exposed wiring during repairs",
+ "image_caption": "After an Ann Arbor basement floods, walls are opened so the framing can dry before repairs.",
+ "problems": [
+  [
+   "Sump pump failures",
+   "Homes from the footing drain program",
+   "<a href=\"/services/flood-damage-restoration/\">Basement flood cleanup</a>"
+  ],
+  [
+   "Sewer backups",
+   "Older areas in heavy rain",
+   "<a href=\"/services/sewage-cleanup/\">Sewage cleanup</a>"
+  ],
+  [
+   "Ice dam leaks",
+   "Old West Side, Burns Park",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling leak repair</a>"
+  ],
+  [
+   "Leaks in student rentals",
+   "Kerrytown, Lower Town, near campus",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and drying</a>"
+  ]
+ ],
+ "tips": [
+  "Test your sump pump every spring and fall.",
+  "Add a battery backup pump for power outages.",
+  "Add attic insulation and venting to prevent ice dams.",
+  "Landlords: show tenants where the main shutoff is."
+ ],
+ "areas": "Calls come from the Old West Side, Burns Park, Kerrytown, Water Hill, Lower Town, Northside, Ann Arbor Hills and Bryant, plus Ypsilanti, Saline and Dexter.",
+ "faq": {
+  "q": "My Ann Arbor home has a sump pump from the city program. What should I check?",
+  "a": "Test it by pouring water into the pit and making sure it switches on and pumps out. Check the discharge line outside for clogs or ice. Add a battery backup or alarm, since a failed pump in a storm is the most common cause of flooded basements."
+ },
+ "sources": [
+  [
+   "City of Ann Arbor: Footing Drain Disconnection program",
+   "https://www.a2gov.org:443/news/Pages/article.aspx?i=37"
+  ]
+ ],
+ "photo": "3614763"
+}

@@ -1,0 +1,51 @@
+{
+ "lead": "In September 2013, Boulder got more rain in one day than it usually sees in months. Creek floods, basements and hail still drive much of the city's water damage.",
+ "risk": "creek flash floods, basement water and hail damage",
+ "risk_short": "creek floods, basements, hail",
+ "why": [
+  "On September 12, 2013, Boulder measured 9.08 inches of rain, nearly double its old one-day record of 4.80 inches from 1919. More than 17 inches fell in a week. Boulder Creek and its tributaries tore through neighborhoods, and water poured into basements across the city. It was a reminder that the creeks running out of the foothills can rise with very little warning.",
+  "About 55% of Boulder homes were built before 1980, and many have basements, some finished. Water finds its way in through window wells, foundation cracks and floor drains during heavy storms. Spring and summer hail cracks roofs and skylights. Less than half of homes are owner-occupied, and many are student rentals near the university, where leaks may not be reported quickly."
+ ],
+ "image_alt": "Muddy floodwater rushing through a creek after heavy rain",
+ "image_caption": "Boulder's creeks can rise fast when heavy rain falls on the foothills.",
+ "problems": [
+  [
+   "Creek flooding",
+   "Homes near Boulder Creek and its tributaries",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Basement flooding",
+   "Mapleton Hill, Whittier, Martin Acres",
+   "<a href=\"/services/flood-damage-restoration/\">Basement flood cleanup</a>"
+  ],
+  [
+   "Hail roof leaks",
+   "Table Mesa, North Boulder, Gunbarrel",
+   "<a href=\"/services/storm-damage-restoration/\">Storm repair and drying</a>"
+  ],
+  [
+   "Leaks in rentals",
+   "University Hill student housing",
+   "<a href=\"/services/ceiling-water-damage/\">Ceiling and wall drying</a>"
+  ]
+ ],
+ "tips": [
+  "Check the city's flood maps; many homes sit near a creek.",
+  "Add window well covers and keep wells clear.",
+  "Get a roof check after hail, even with no leak yet.",
+  "Renters: report leaks to your landlord right away."
+ ],
+ "areas": "Calls come from Mapleton Hill, Whittier, University Hill, Newlands, Table Mesa, Martin Acres, Gunbarrel and North Boulder, plus Louisville, Lafayette and Longmont.",
+ "faq": {
+  "q": "Could a 2013-style flood happen again in Boulder?",
+  "a": "Yes. The city has improved creek channels and warning systems since 2013, but extreme rain on the foothills can still flood creeks and basements. Boulder has many mapped flood zones, so check yours and consider flood insurance."
+ },
+ "sources": [
+  [
+   "NWS Boulder: September 2013 floods",
+   "https://www.weather.gov/bou/Number1September2013Floods"
+  ]
+ ],
+ "photo": "39457988"
+}

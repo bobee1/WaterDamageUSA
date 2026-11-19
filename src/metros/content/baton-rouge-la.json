@@ -1,0 +1,51 @@
+{
+ "lead": "In August 2016, a stalled storm dropped more than two feet of rain around Baton Rouge. Tens of thousands of buildings flooded, many far outside mapped flood zones.",
+ "risk": "river and flash flooding, humidity-driven mold and storm damage",
+ "risk_short": "flooding, mold, storms",
+ "why": [
+  "Rain fell for days in mid-August 2016. The Baton Rouge airport recorded 17.15 inches in three days, and nearby Watson got 31.39 inches. The Amite and Comite rivers set record crests, the Amite nearly five feet above its old record. Estimates put the number of homes and businesses flooded across the region at 50,000 to 75,000. Many owners had no flood insurance because they were not in a high-risk zone.",
+  "About 58% of Baton Rouge homes were built before 1980. Many sit on slabs or low crawl spaces, so even shallow water reaches floors and walls. South Louisiana heat and humidity mean wet drywall and insulation can grow mold within a day or two. Hurricanes and tropical storms add wind damage and heavy rain from June through November."
+ ],
+ "image_alt": "Black-and-white photo of a house surrounded by floodwater",
+ "image_caption": "The 2016 flood reached tens of thousands of buildings around Baton Rouge.",
+ "problems": [
+  [
+   "River and flash flooding",
+   "Areas near the Amite and Comite rivers",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Mold after water damage",
+   "Humid months citywide",
+   "<a href=\"/services/mold-remediation/\">Mold remediation</a>"
+  ],
+  [
+   "Hurricane roof damage",
+   "Homes citywide in tropical storms",
+   "<a href=\"/services/storm-damage-restoration/\">Storm damage restoration</a>"
+  ],
+  [
+   "Slab and crawl space leaks",
+   "Pre-1980 homes in Mid City, Southdowns",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and drying</a>"
+  ]
+ ],
+ "tips": [
+  "Buy flood insurance even outside a mapped high-risk zone.",
+  "Keep a home inventory with photos for any claim.",
+  "Run AC or dehumidifiers right after any leak.",
+  "Clear gutters and drains before hurricane season."
+ ],
+ "areas": "Calls come from the Garden District, Spanish Town, Mid City, Capital Heights, Southdowns, Old Goodwood, Bocage and Sherwood Forest, plus Central, Denham Springs and Zachary.",
+ "faq": {
+  "q": "I'm not in a flood zone in Baton Rouge. Do I need flood insurance?",
+  "a": "It is strongly worth considering. In 2016, many flooded homes were outside high-risk zones and had no flood coverage. Policies outside high-risk zones are often cheaper. Standard home insurance never covers rising water."
+ },
+ "sources": [
+  [
+   "NWS New Orleans: August 2016 record flooding",
+   "https://www.weather.gov/lix/August2016Flood"
+  ]
+ ],
+ "photo": "28447778"
+}

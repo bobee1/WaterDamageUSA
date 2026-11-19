@@ -229,3 +229,18 @@
 15798784|repair|Sunny room with materials laid out for repairs|
 5691681|repair|Dusty windowsill and tools during repairs|
 7937304|repair|Unfinished rooms with new plaster walls|
+28447774|flood|Suburban house surrounded by floodwater after heavy rain|
+28447775|flood|Black-and-white photo of a home with floodwater rising around it|
+28447778|flood|Black-and-white photo of a house surrounded by floodwater|
+28447777|flood|Black-and-white photo of a house and yard affected by flooding|
+28447763|flood|Cars stranded on a flooded street after heavy rain|
+39457986|flood|Field covered with muddy floodwater after a storm|
+39457990|flood|Swollen river overflowing its banks in a city during a rainstorm|
+36237047|storm|Damaged house with a broken roof and exposed interior|
+38239815|storm|Fallen tree branch on a wet street after a storm|
+15206136|pipe|Leaking plastic pipe with water dripping outdoors|
+35137859|pipe|Rustic outdoor faucet dripping water|
+34197979|pipe|Black-and-white photo of a rusty outdoor faucet dripping|
+36787115|pipe|Water drop falling from an outdoor tap|
+32042965|pipe|Outdoor water tap with a single drop falling|
+34158878|pipe|Rusty outdoor faucet with a drop at the spout|

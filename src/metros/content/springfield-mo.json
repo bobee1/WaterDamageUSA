@@ -1,0 +1,51 @@
+{
+ "lead": "Springfield is built on Ozarks limestone full of caves and sinkholes. Water drains underground in ways it doesn't elsewhere, and heavy storms can flood sinkholes and basements fast.",
+ "risk": "sinkhole flooding, basement water and storm damage",
+ "risk_short": "sinkholes, basements, storms",
+ "why": [
+  "The city estimates there are about 360 mapped sinkholes in Springfield and more than 2,500 in Greene County. Rain here often drains down through sinkholes instead of across the ground. When a sinkhole clogs or a big storm overwhelms it, water ponds and can reach nearby homes. New sinkholes can also open with little warning. Standard home insurance often does not cover sinkhole damage.",
+  "About 58% of Springfield homes were built before 1980. Rountree, Phelps Grove and Midtown have older houses with basements, clay sewer lines and aging plumbing. Less than half of homes are owner-occupied, and many are rentals near Missouri State. Spring storms bring hail and wind, and winter cold snaps can freeze pipes in crawl spaces."
+ ],
+ "image_alt": "Room with windows removed and tools on a workbench",
+ "image_caption": "After water damage in an older Springfield home, rooms are stripped and dried before rebuilding.",
+ "problems": [
+  [
+   "Sinkhole flooding",
+   "Homes near mapped sinkholes",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Basement seepage",
+   "Rountree, Phelps Grove, Midtown",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ],
+  [
+   "Hail and wind roof leaks",
+   "Homes citywide each spring",
+   "<a href=\"/services/storm-damage-restoration/\">Storm repair and drying</a>"
+  ],
+  [
+   "Frozen crawl space pipes",
+   "Older homes in cold snaps",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ]
+ ],
+ "tips": [
+  "Check the city's sinkhole map before you buy or build.",
+  "Never fill a sinkhole yourself; ask the city for an inspection.",
+  "Keep gutters and downspouts draining away from the house.",
+  "Ask your agent whether your policy covers sinkhole collapse."
+ ],
+ "areas": "Calls come from Rountree, Phelps Grove, Midtown, Commercial Street, Downtown, Galloway, Southern Hills and Bissett, plus Nixa, Ozark and Republic.",
+ "faq": {
+  "q": "Is sinkhole damage covered by home insurance in Missouri?",
+  "a": "Often not. Many standard policies exclude earth movement, including sinkholes, unless you add coverage. Water damage from a sudden pipe burst is usually covered. If your home is near a mapped sinkhole, ask your agent what options exist."
+ },
+ "sources": [
+  [
+   "KSMU: Springfield sinkholes",
+   "https://www.ksmu.org/news/2020-06-17/sinkhole-in-rountree-neighborhood-swallows-mailbox-leaving-homeowner-to-seek-solution"
+  ]
+ ],
+ "photo": "5691507"
+}

@@ -1,0 +1,51 @@
+{
+ "lead": "Missoula sits where the Clark Fork meets the Bitterroot. Big snowmelt years can push both rivers into low neighborhoods, and long cold winters freeze pipes across the city.",
+ "risk": "spring river flooding, frozen pipes and basement water",
+ "risk_short": "river floods, frozen pipes, basements",
+ "why": [
+  "In May 2018, heavy snowpack melted fast and the Clark Fork rose higher than it had in about 40 years. Water flooded streets and homes in the low Orchard Homes area west of town. Around 60 homes were ordered evacuated, and some families were out of their houses for weeks. After that flood, officials lowered the river level at which they expect damage to begin.",
+  "Winters in Missoula are long and cold. Pipes in crawl spaces, garages and outside walls can freeze and split when temperatures plunge. About 13% of homes were built before 1940, many in the University District and on the Northside, with old basements and drain lines. About 4% are mobile homes, where frozen lines under the floor are a common winter problem."
+ ],
+ "image_alt": "Green farm trailer standing in floodwater",
+ "image_caption": "Spring snowmelt can push the Clark Fork into low Missoula neighborhoods.",
+ "problems": [
+  [
+   "Spring river flooding",
+   "Orchard Homes and low areas near the Clark Fork",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Frozen pipe bursts",
+   "Crawl spaces and outside walls",
+   "<a href=\"/services/burst-pipe-water-damage/\">Burst pipe cleanup</a>"
+  ],
+  [
+   "Basement seepage",
+   "University District, Northside",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ],
+  [
+   "Frozen lines under mobile homes",
+   "Parks across the valley",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and subfloor drying</a>"
+  ]
+ ],
+ "tips": [
+  "Watch spring river forecasts in big snow years.",
+  "Use heat tape on exposed pipes and keep crawl spaces closed in winter.",
+  "Keep the heat at 55\u00b0F or higher when you travel.",
+  "Check the city and county floodplain maps before buying."
+ ],
+ "areas": "Calls come from the University District, Rattlesnake, Northside, Westside, Lewis and Clark, Franklin to the Fort, Grant Creek and the South Hills, plus Lolo, Frenchtown and East Missoula.",
+ "faq": {
+  "q": "Does home insurance cover spring flooding in Missoula?",
+  "a": "No. River and snowmelt flooding need a separate flood policy. Most flood policies take 30 days to start, so buy one well before spring runoff. Burst pipes from a sudden freeze are usually covered by a standard home policy."
+ },
+ "sources": [
+  [
+   "Montana Public Radio: Flood roundup, May 10, 2018",
+   "https://www.mtpr.org/post/montana-flood-news-roundup-may-10-2018"
+  ]
+ ],
+ "photo": "17654210"
+}

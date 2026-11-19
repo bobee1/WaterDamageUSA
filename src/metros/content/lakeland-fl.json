@@ -1,0 +1,51 @@
+{
+ "lead": "Lakeland is an inland city of lakes and older neighborhoods, with many mobile homes. In 2024, Hurricane Milton crossed Polk County and brought some of the worst damage the city has seen.",
+ "risk": "hurricane wind and rain, lake flooding and leaks in mobile homes",
+ "risk_short": "hurricanes, lake flooding, mobile homes",
+ "why": [
+  "Hurricane Milton made landfall in October 2024 and was still a Category 2 storm as it passed over Polk County. Lakeland got about a foot of rain in 24 hours, and lakes and canals overflowed into streets and yards. About 85,000 Lakeland Electric customers lost power. City officials said the damage was some of the worst the community had seen, on the scale of Hurricane Irma in 2017.",
+  "About 15% of Lakeland homes are mobile or manufactured homes, a very high share for a city its size. In these homes, water lines run under the floor, and leaks can rot the subfloor before anyone notices. Strong winds can also peel back roofs and siding. Older neighborhoods like Dixieland and Lake Morton have homes from the early 1900s with aging plumbing."
+ ],
+ "image_alt": "Exterior of a house with walls and roof torn open by a storm",
+ "image_caption": "Milton's wind and rain caused some of the worst damage Lakeland has seen.",
+ "problems": [
+  [
+   "Hurricane wind and rain damage",
+   "Homes citywide in tropical storms",
+   "<a href=\"/services/storm-damage-restoration/\">Storm damage restoration</a>"
+  ],
+  [
+   "Lake and canal flooding",
+   "Low lots near Lake Parker and Lake Bonny",
+   "<a href=\"/services/flood-damage-restoration/\">Flood cleanup</a>"
+  ],
+  [
+   "Leaks under mobile homes",
+   "Parks across the city",
+   "<a href=\"/services/water-damage-repair/\">Leak repair and subfloor drying</a>"
+  ],
+  [
+   "Old plumbing leaks",
+   "Dixieland, Lake Morton, Beacon Hill",
+   "<a href=\"/services/water-extraction/\">Water removal and drying</a>"
+  ]
+ ],
+ "tips": [
+  "Mobile home owners: check tie-downs before hurricane season.",
+  "Look under the home for drips and soft floor spots twice a year.",
+  "Know how close your home sits to lake flood levels.",
+  "Photograph each room before storm season for your claim."
+ ],
+ "areas": "Calls come from Downtown, Dixieland, Lake Morton, Lake Hollingsworth, Beacon Hill, Grasslands, Lake Gibson and the Lake Parker area, plus Auburndale, Mulberry and Plant City.",
+ "faq": {
+  "q": "Can a mobile home in Lakeland be dried after a leak or storm?",
+  "a": "Often, yes, if you act fast. Many mobile homes have particleboard subfloors that swell when they stay wet. Crews pull back flooring, dry the floor deck and check the belly wrap underneath. Badly swollen sections may need replacing."
+ },
+ "sources": [
+  [
+   "City of Lakeland: Hurricane Milton restoration update",
+   "https://lakelandgov.net/news/posts/2024/october/public-notice-city-of-lakeland-hurricane-milton-restoration-update-october-16-2024/"
+  ]
+ ],
+ "photo": "16105712"
+}
