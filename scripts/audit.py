@@ -113,8 +113,8 @@ def main():
             if not (img.get("width") and img.get("height")):
                 problems.append((rel, f"img missing width/height {img.get('src')}"))
             src = img.get("src", "")
-            if not src.endswith(".webp"):
-                problems.append((rel, f"img not WebP {src}"))
+            if not (src.endswith(".webp") or src.startswith("/img/brand/") and src.endswith(".svg")):
+                problems.append((rel, f"img not WebP (or brand SVG) {src}"))
             imgf = PUB / src.lstrip("/")
             if not imgf.is_file():
                 problems.append((rel, f"img file missing {src}"))

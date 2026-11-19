@@ -17,6 +17,12 @@ Last updated: 2026-11-18
 - Audit (`scripts/audit.py`): 0 issues. One pending link target: `/` (home page ships in Build 3).
 - Responsive check at 360 / 768 / 1280 px: no horizontal scroll, no console errors.
 
+## Current — Build 1b: Logo and design system (done)
+- Logo set (`src/static/img/brand/`): full-color lockup, reversed, one-color, mark, small mark, app icons. Header and footer use the lockups.
+- Favicon, apple-touch icon, PWA icons and default social image regenerated from the new logo.
+- Design system published as the "DryBeacon" Design System artifact (tokens, brand book, logo rules, 9 components). Site CSS variables use the same token names.
+- Accessibility fixes: focus outline and form field borders now meet 3:1 contrast.
+
 ## Coming
 | Build | Scope | Needs from owner |
 | --- | --- | --- |

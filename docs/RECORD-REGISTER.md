@@ -16,7 +16,12 @@ A dated log of every step. Newest entries at the bottom of each build. Status: D
 | 10 | 2026-11-18 | 1 | Audit script + run | Done | 0 issues; home page `/` pending (Build 3) |
 | 11 | 2026-11-18 | 1 | Responsive check 360/768/1280 | Done | No horizontal scroll, no console errors |
 | 12 | 2026-11-18 | 1 | Committed and pushed to GitHub | Done | Branch `main` |
-| 13 | — | 2 | Semrush keyword research + site plan for approval | Planned | Next build |
+| 13 | 2026-11-18 | 1b | Logo designed: drop + beacon light + signal arcs; Inter Display ExtraBold wordmark outlined | Done | 8 SVGs in `src/static/img/brand/`, built by `scripts/make_logo.py` |
+| 14 | 2026-11-18 | 1b | Favicon, app icons, social image regenerated from the logo | Done | `scripts/make_brand_png.py` |
+| 15 | 2026-11-18 | 1b | Design tokens: site CSS variables renamed to match the design system | Done | One source of truth for colors, radius, shadow, font |
+| 16 | 2026-11-18 | 1b | Contrast fixes: focus ring (dark blue on light grounds), form borders #73859a | Done | Both now pass 3:1 |
+| 17 | 2026-11-18 | 1b | DryBeacon Design System artifact published | Done | Tokens, brand book, logos, 9 components, cover |
+| 18 | — | 2 | Semrush keyword research + site plan for approval | Planned | Next build |
 
 ## Image register
 | File | Source | Used on |

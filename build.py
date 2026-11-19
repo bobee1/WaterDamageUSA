@@ -55,12 +55,6 @@ def esc(s: str) -> str:
 ICON_PHONE = ('<svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="currentColor">'
               '<path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.6a1 1 0 0 1-.25 1z"/></svg>')
 
-LOGO = ('<svg aria-hidden="true" width="34" height="34" viewBox="0 0 64 64">'
-        '<rect width="64" height="64" rx="14" fill="#0b2545"/>'
-        '<path d="M32 12c-7 10-14 18-14 27a14 14 0 0 0 28 0c0-9-7-17-14-27z" fill="#e8f1fb"/>'
-        '<path d="M32 30c-3 4-6 7-6 11a6 6 0 0 0 12 0c0-4-3-7-6-11z" fill="#1d6fd6"/>'
-        '<path d="M8 20l8 4M56 20l-8 4M32 4v5" stroke="#f5b301" stroke-width="4" stroke-linecap="round"/></svg>')
-
 
 def call_button(cls="btn btn-call", label=None):
     label = label or f"Call {SITE['phone_display']}"
@@ -98,7 +92,7 @@ def footer_html(pages_by_path):
 <footer class="site-footer">
   <div class="wrap f-grid">
     <div class="f-brand">
-      <a class="logo logo-light" href="/">{LOGO}<span>{SITE['brand']}</span></a>
+      <a class="logo" href="/"><img src="/img/brand/drybeacon-logo-reversed.svg" width="198" height="40" alt="{SITE['brand']} home" loading="lazy"></a>
       <p>{SITE['brand']} handles water damage restoration calls from homeowners, renters and businesses across the United States, {SITE['availability']}. {SITE['years_in_business']} years in business.</p>
       <p class="f-call">{call_button('btn btn-call btn-sm')}</p>
     </div>
@@ -214,7 +208,7 @@ def page_html(meta, pages_by_path, css):
 <body class="{meta.get('body_class', '')}">
 <a class="skip" href="#main">Skip to content</a>
 <header class="site-header"><div class="wrap h-row">
-<a class="logo" href="/" aria-label="{SITE['brand']} home">{LOGO}<span>{SITE['brand']}</span></a>
+<a class="logo" href="/"><img src="/img/brand/drybeacon-logo.svg" width="198" height="40" alt="{SITE['brand']} home"></a>
 <button class="menu-btn" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
 <nav id="site-nav" class="site-nav" aria-label="Main"><ul>{nav_html(pages_by_path)}</ul></nav>
 {call_button('btn btn-call btn-sm h-call')}
