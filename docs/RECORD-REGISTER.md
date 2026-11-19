@@ -28,7 +28,15 @@ A dated log of every step. Newest entries at the bottom of each build. Status: D
 | 22 | 2026-11-19 | 2 | Semrush: question keywords for guides | Done | `research/04-guide-keywords.csv` |
 | 23 | 2026-11-19 | 2 | SERP and competitor analysis (3 SERPs, 2 domains' top pages) | Done | `research/05-competitors.csv` |
 | 24 | 2026-11-19 | 2 | Site plan written for owner approval | Done | Claude doc "DryBeacon Site Plan — Build 2 Keyword Research" |
-| 25 | — | 3 | Home page, services hub and 10 service pages | Planned | Starts after plan approval |
+| 25 | 2026-11-19 | 3 | Owner approved the Build 2 plan | Done | "Build 3" go-ahead; no doc comments or edits |
+| 26 | 2026-11-19 | 3 | Semrush top-10 SERPs for 10 service keywords | Done | Burst pipe SERP is plumber/DIY intent, so the page targets "burst pipe water damage" + "frozen pipe burst" |
+| 27 | 2026-11-19 | 3 | Competitor benchmarks (SERVPRO ~240 words, BELFOR ~600, 1-800 Water Damage ~1,400) | Done | Term gaps: IICRC categories/classes, equipment, insurance, DIY vs pro |
+| 28 | 2026-11-19 | 3 | Primary sources verified | Done | EPA (mold, flood cleanup), FEMA/FloodSmart, American Red Cross (frozen pipes), ANSI/IICRC S500 by name |
+| 29 | 2026-11-19 | 3 | 6 more Pexels photos converted to WebP; 2 SVG illustrations | Done | Drying setup diagram; water categories diagram |
+| 30 | 2026-11-19 | 3 | Generator: service registry, cards, CTA boxes, FAQ + Service + business schema, sources, footer services | Done | `src/services.json`, `build.py` |
+| 31 | 2026-11-19 | 3 | Home page (1,506 words), services hub, 10 service pages (1,040–1,343 words) | Done | Keyword map from the approved plan |
+| 32 | 2026-11-19 | 3 | Audit 0 issues; readability FK 5.7–8.2 on money pages; no repeated paragraphs; responsive 360/768/1280 clean | Done | `scripts/audit.py`, `scripts/readability.py` |
+| 33 | — | 4 | Locations hub + 51 state hubs | Planned | Next build |
 
 ## Image register
 | File | Source | Used on |
@@ -36,6 +44,13 @@ A dated log of every step. Newest entries at the bottom of each build. Status: D
 | flooded-home-yard-after-heavy-rain(.webp, -800) | Pexels photo 28447774 | About hero |
 | flooded-room-standing-water(.webp, -800) | Pexels photo 18302377 | Contact hero |
 | leaking-pipe-dripping-water(.webp, -800) | Pexels photo 15206136 | About (figure) |
-| collapsed-ceiling-after-water-leak(.webp, -800) | Pexels photo 30499666 | Reserved for ceiling/roof leak service page |
+| collapsed-ceiling-after-water-leak(.webp, -800) | Pexels photo 30499666 | Ceiling water damage page |
+| flooded-neighborhood-flood-barrier(.webp, -800) | Pexels photo 28447806 | Home hero, flood page |
+| floodwater-inside-building-stairs(.webp, -800) | Pexels photo 7924140 | Flood damage restoration hero |
+| drywall-repair-after-water-damage(.webp, -800) | Pexels photo 6474308 | Water damage repair |
+| mold-spots-on-wall-after-leak(.webp, -800) | Pexels photo 18063447 | Mold remediation |
+| storm-damaged-roof-and-window(.webp, -800) | Pexels photo 36237047 | Storm damage restoration |
+| commercial-office-floor(.webp, -800) | Pexels photo 5483233 | Commercial water damage |
+| Inline SVG: drying setup, water categories | Original illustrations | Water mitigation, sewage cleanup |
 
 Pexels license: free to use, no attribution required. Credits are not shown on the site.

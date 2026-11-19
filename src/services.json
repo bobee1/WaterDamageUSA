@@ -1,0 +1,12 @@
+[
+  {"slug": "water-extraction", "name": "Water removal & extraction", "card": "Pumps and extractors pull standing water out of floors, carpet and basements fast."},
+  {"slug": "water-mitigation", "name": "Water mitigation & structural drying", "card": "Air movers and dehumidifiers dry walls, floors and framing, checked with moisture meters."},
+  {"slug": "water-damage-repair", "name": "Water damage repair", "card": "Drywall, flooring, trim and cabinets rebuilt once the structure is dry."},
+  {"slug": "flood-damage-restoration", "name": "Flood damage restoration", "card": "Cleanup of floodwater, mud and soaked materials after storms and rising water."},
+  {"slug": "burst-pipe-water-damage", "name": "Burst pipe water damage", "card": "Water removal and drying after frozen, corroded or broken supply lines."},
+  {"slug": "sewage-cleanup", "name": "Sewage cleanup", "card": "Safe removal of sewage backups and toilet overflows, then cleaning and disinfection."},
+  {"slug": "mold-remediation", "name": "Mold remediation", "card": "Containment, HEPA filtration and removal of moldy materials after a leak."},
+  {"slug": "ceiling-water-damage", "name": "Ceiling water damage repair", "card": "Stains, sagging drywall and leaks from roofs, bathrooms and AC lines."},
+  {"slug": "storm-damage-restoration", "name": "Storm damage restoration", "card": "Tarping, board-up, water removal and drying after wind, hail and heavy rain."},
+  {"slug": "commercial-water-damage", "name": "Commercial water damage", "card": "Water damage cleanup for offices, stores, rentals and other business properties."}
+]

@@ -16,6 +16,8 @@ SRC = ROOT / "src"
 OUT = ROOT / "public"
 SITE = json.loads((SRC / "site.json").read_text())
 BASE = SITE["base_url"]
+SERVICES = json.loads((SRC / "services.json").read_text())
+SVC = {x["slug"]: x for x in SERVICES}
 
 # ---------------------------------------------------------------- helpers
 
@@ -61,6 +63,58 @@ def call_button(cls="btn btn-call", label=None):
     return f'<a class="{cls}" href="tel:{SITE["phone_e164"]}">{ICON_PHONE}<span>{esc(label)}</span></a>'
 
 
+
+# ---------------------------------------------------------------- content components
+
+def svc_cards(slugs, pages_by_path, heading_level=3):
+    out = []
+    for slug in slugs:
+        x = SVC[slug]
+        path = f"/services/{slug}/"
+        title = esc(x["name"])
+        h = f'<a href="{path}">{title}</a>' if path in pages_by_path else title
+        out.append(f'<div class="card"><h{heading_level}>{h}</h{heading_level}><p>{esc(x["card"])}</p></div>')
+    return '<div class="cards">' + "".join(out) + "</div>"
+
+
+def cta_box(text):
+    return (f'<aside class="cta-box" aria-label="Call {SITE["brand"]}"><p>{text}</p>'
+            f'{call_button("btn btn-call")}</aside>')
+
+
+def faq_html(meta):
+    items = meta.get("faq", [])
+    if not items:
+        return ""
+    title = meta.get("faq_title", "Frequently asked questions")
+    qa = "".join(f'<h3>{esc(f["q"])}</h3><p>{f["a"]}</p>' for f in items)
+    return f'<h2 id="faq">{esc(title)}</h2><div class="faq">{qa}</div>'
+
+
+def sources_html(meta):
+    src = meta.get("sources", [])
+    if not src:
+        return ""
+    lis = "".join(f'<li><a href="{u}" target="_blank" rel="noopener">{esc(t)}</a></li>' for t, u in src)
+    return (f'<h2 id="sources">Sources</h2><ul class="sources">{lis}</ul>'
+            f'<p class="reviewed">Last reviewed {esc(meta.get("reviewed", SITE["legal_effective_date"]))} by {SITE["editorial_byline"]}. '
+            f'General information, not legal, insurance or professional advice. '
+            f'Read our <a href="/editorial-policy/">editorial policy</a>.</p>')
+
+
+def expand_components(body, meta, pages_by_path):
+    body = body.replace("{{services_grid}}", svc_cards([x["slug"] for x in SERVICES], pages_by_path))
+    body = re.sub(r"\{\{related:([\w,-]+)\}\}",
+                  lambda m: svc_cards(m.group(1).split(","), pages_by_path), body)
+    body = re.sub(r"\{\{cta:(.+?)\}\}", lambda m: cta_box(m.group(1)), body)
+    body = body.replace("{{faq}}", faq_html(meta))
+    body = body.replace("{{sources}}", sources_html(meta))
+    return body
+
+
+def strip_tags(h):
+    return re.sub(r"<[^>]+>", "", h)
+
 # ---------------------------------------------------------------- layout pieces
 
 def nav_html(pages_by_path):
@@ -75,6 +129,7 @@ NAV = [("Services", "/services/"), ("Locations", "/locations/"), ("Guides", "/bl
        ("About", "/about/"), ("Contact", "/contact/")]
 
 FOOTER_COLS = [
+    ("Services", [(x["name"], f"/services/{x['slug']}/") for x in SERVICES]),
     ("Company", [("About DryBeacon", "/about/"), ("Contact", "/contact/"),
                  ("Editorial policy", "/editorial-policy/"), ("Water damage guides", "/blog/"),
                  ("Glossary", "/glossary/")]),
@@ -137,6 +192,34 @@ def schema_graph(meta, crumb_schema):
             "url": BASE + meta["path"], "name": meta["title"], "description": meta["description"],
             "isPartOf": {"@id": BASE + "/#website"}, "about": {"@id": org_id},
             "inLanguage": "en-US", "dateModified": meta.get("updated", SITE["build_date"])}
+    if meta.get("about"):
+        page["about"] = [{"@id": org_id}] + [{"@type": "Thing", "name": a[0], "sameAs": a[1]} for a in meta["about"]]
+    if meta.get("mentions"):
+        page["mentions"] = [{"@type": "Thing", "name": a[0], "sameAs": a[1]} for a in meta["mentions"]]
+    if meta.get("sources"):
+        page["citation"] = [u for _, u in meta["sources"]]
+    if meta.get("service"):
+        sv = meta["service"]
+        graph.append({"@type": "Service", "@id": BASE + meta["path"] + "#service", "name": sv["name"],
+                      "serviceType": sv.get("serviceType", sv["name"]), "description": meta["description"],
+                      "provider": {"@id": BASE + "/#business"}, "url": BASE + meta["path"],
+                      "areaServed": {"@type": "Country", "name": "United States"},
+                      "availableChannel": {"@type": "ServiceChannel", "servicePhone": {"@type": "ContactPoint",
+                          "telephone": SITE["phone_e164"], "contactType": "customer service", "areaServed": "US"}}})
+        page["mainEntity"] = {"@id": BASE + meta["path"] + "#service"}
+    if meta.get("faq"):
+        graph.append({"@type": "FAQPage", "@id": BASE + meta["path"] + "#faq", "mainEntity": [
+            {"@type": "Question", "name": f["q"], "acceptedAnswer": {"@type": "Answer", "text": strip_tags(f["a"])}}
+            for f in meta["faq"]]})
+    if meta.get("home") or meta.get("service"):
+        graph.append({"@type": "HomeAndConstructionBusiness", "@id": BASE + "/#business", "name": SITE["brand"],
+                      "url": BASE + "/", "telephone": SITE["phone_e164"], "image": BASE + "/img/logo-512.png",
+                      "description": "Water damage restoration company taking calls 24/7 from homes and businesses across the United States.",
+                      "parentOrganization": {"@id": org_id},
+                      "areaServed": {"@type": "Country", "name": "United States", "sameAs": "https://en.wikipedia.org/wiki/United_States"},
+                      "hasOfferCatalog": {"@type": "OfferCatalog", "name": "Water damage services", "itemListElement": [
+                          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": x["name"], "url": f"{BASE}/services/{x['slug']}/"}}
+                          for x in SERVICES]}})
     if meta.get("hero"):
         page["primaryImageOfPage"] = {"@type": "ImageObject", "url": BASE + meta["hero"]["src"]}
     if crumb_schema:
@@ -176,7 +259,7 @@ def page_html(meta, pages_by_path, css):
     url = BASE + meta["path"]
     robots = "noindex,follow" if meta.get("noindex") else "index,follow,max-image-preview:large"
     og_img = BASE + (meta["hero"]["src_og"] if meta.get("hero", {}).get("src_og") else "/img/og-default.jpg")
-    body = tokens(meta["body"])
+    body = tokens(expand_components(tokens(meta["body"]), meta, pages_by_path))
     return f"""<!DOCTYPE html>
 <html lang="en-US">
 <head>
@@ -187,6 +270,7 @@ def page_html(meta, pages_by_path, css):
 <link rel="canonical" href="{url}">
 <meta name="robots" content="{robots}">
 <meta name="theme-color" content="{SITE['theme_color']}">
+<meta name="x-page-type" content="{meta.get('type', 'other')}">
 <meta property="og:type" content="{meta.get('og_type', 'website')}">
 <meta property="og:site_name" content="{SITE['brand']}">
 <meta property="og:title" content="{esc(meta['title'])}">
@@ -202,7 +286,7 @@ def page_html(meta, pages_by_path, css):
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
 <style>{css}</style>
-<script type="application/ld+json">{schema_graph(meta, crumb_schema)}</script>
+<script type="application/ld+json">{tokens(schema_graph(meta, crumb_schema))}</script>
 <script src="/js/site.js" defer></script>
 </head>
 <body class="{meta.get('body_class', '')}">

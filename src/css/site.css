@@ -81,6 +81,20 @@ th{background:var(--surface-soft);color:var(--brand-dark)}
 .form button{justify-self:start;cursor:pointer;font:inherit}
 .hp{position:absolute;left:-5000px}
 .form-status{font-weight:600;min-height:1.4em}
+/* service page components */
+.cta-box{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px 20px;background:var(--brand-dark);color:#fff;border-radius:var(--radius-md);padding:18px 22px;margin:26px 0}
+.cta-box p{margin:0;font-weight:700;font-size:1.08rem;max-width:52ch}
+.faq h3{font-size:1.1rem;margin:1.3em 0 .3em}
+.sources{font-size:.95rem}
+.reviewed{font-size:.92rem;color:var(--ink-muted)}
+.checklist{list-style:none;padding-left:0}
+.checklist li{position:relative;padding-left:30px}
+.checklist li::before{content:"";position:absolute;left:4px;top:.5em;width:12px;height:7px;border-left:3px solid var(--brand-accent);border-bottom:3px solid var(--brand-accent);transform:rotate(-45deg)}
+.illus{margin:22px 0;background:var(--surface-soft);border:1px solid var(--line);border-radius:var(--radius-md);padding:16px}
+.illus svg{width:100%;height:auto;display:block}
+.lede-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;align-items:start}
+.card h3 a{color:var(--brand-dark);text-decoration:none}
+.card h3 a:hover{text-decoration:underline}
 /* call band */
 .cta-band{background:var(--brand-dark);color:#eeebe7;text-align:center;padding:40px 0}
 .cta-title{font-size:1.6rem;font-weight:800;color:#fff;margin:0 0 6px}
@@ -88,7 +102,7 @@ th{background:var(--surface-soft);color:var(--brand-dark)}
 /* footer */
 .site-footer{background:var(--footer-bg);color:var(--footer-ink);padding:44px 0 90px;font-size:.95rem}
 .site-footer a{color:#ffffff}
-.f-grid{display:grid;grid-template-columns:2fr 1fr 1fr;gap:32px}
+.f-grid{display:grid;grid-template-columns:1.5fr 1.3fr 1fr 1fr;gap:32px}
 .f-title{font-size:1rem;color:#fff;margin:0 0 10px}
 .f-grid ul{list-style:none;padding:0;margin:0}
 .f-grid li{margin:6px 0}
@@ -96,6 +110,7 @@ th{background:var(--surface-soft);color:var(--brand-dark)}
 .mobile-call{display:none}
 /* responsive */
 @media (max-width:900px){
+.lede-grid{grid-template-columns:1fr}
 .hero.has-img .hero-grid{grid-template-columns:1fr}
 .hero-img img{max-height:300px}
 .f-grid{grid-template-columns:1fr 1fr}

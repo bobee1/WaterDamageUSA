@@ -62,6 +62,9 @@ class Page(HTMLParser):
             self.text.append(data)
 
 
+WORDS = {}
+
+
 def main():
     # Pages scheduled for a later build (see STATUS.md). Links to them are reported, not failed.
     pending_file = ROOT / "docs" / "pending-pages.txt"
@@ -131,6 +134,15 @@ def main():
                 json.loads(block)
             except json.JSONDecodeError as e:
                 problems.append((rel, f"invalid JSON-LD {e}"))
+        main = re.search(r'<div class="wrap content[^"]*">(.*?)</div>\s*(?:<section class="cta-band"|</main>)', raw, re.S)
+        hero = re.search(r'<section class="hero.*?</section>', raw, re.S)
+        words = len(re.sub(r"<[^>]+>", " ", (hero.group(0) if hero else "") + (main.group(1) if main else "")).split())
+        kind = re.search(r'<meta name="x-page-type" content="(\w+)">', raw)
+        kind = kind.group(1) if kind else "other"
+        limits = {"home": (1200, 1800), "service": (1000, 1700), "hub": (300, 1200)}
+        if kind in limits and not limits[kind][0] <= words <= limits[kind][1]:
+            problems.append((rel, f"{kind} page has {words} words (want {limits[kind][0]}-{limits[kind][1]})"))
+        WORDS[rel] = (kind, words)
         if len(raw.encode()) > 100_000:
             problems.append((rel, f"HTML {len(raw)//1024} KB > 100 KB"))
         if not is404 and 'rel="canonical"' not in raw:
@@ -142,6 +154,9 @@ def main():
                 problems.append((", ".join(v), f"duplicate {label}"))
 
     print(f"Audited {len(files)} pages")
+    for r, (k, w) in sorted(WORDS.items()):
+        if k in ("home", "service", "hub"):
+            print(f"  words {w:5d}  {k:8s} {r}")
     for path in sorted(pending_hits):
         print(f"PENDING link target (scheduled in a later build): {path}")
     for where, what in problems:

@@ -14,7 +14,7 @@ Last updated: 2026-11-18
 - Pages: About, Contact (form → Cloudflare Pages Function → Resend), Privacy Policy, Terms of Service, Disclaimer, Editorial Policy, Accessibility, 404.
 - Utility: `robots.txt`, `sitemap.xml`, `_headers` (security headers + CSP + caching), `_redirects`, web manifest, favicon/app icons, default social image.
 - Images: 4 Pexels photos converted to WebP (2 sizes each, all under 200 KB).
-- Audit (`scripts/audit.py`): 0 issues. One pending link target: `/` (home page ships in Build 3).
+- Audit (`scripts/audit.py`): 0 issues.
 - Responsive check at 360 / 768 / 1280 px: no horizontal scroll, no console errors.
 
 ## Current — Build 1b: Logo and design system (done)
@@ -32,10 +32,16 @@ Last updated: 2026-11-18
 - Key findings: national terms KD 48–67; city terms mostly KD 10–40 with CPCs up to $256 (Frisco TX); city clusters run about 5x the exact phrase; state terms only 30–480/mo.
 - Plan for approval (Claude doc "DryBeacon Site Plan — Build 2 Keyword Research"): home + 10 service pages keyword map, city page rule (20+ searches/mo or inside a 300+ metro), Phase 1 priority list, first 10 guides, sitemap for Builds 3–5.
 
+## Current — Build 3: Home page, services hub and 10 service pages (done)
+- Home targets "water damage restoration" (1,506 words): quick answer, services grid, how it works, process, cost factors, warning signs, first steps, 7 FAQs, sources.
+- Services hub + 10 service pages (1,040–1,343 words each, longer than the benchmarked competitor pages): quick answer, checklist, cause tables, step-by-step process, cost factors, DIY vs pro, insurance notes, 5–6 FAQs, sources, related services.
+- Schema: Organization, WebSite, HomeAndConstructionBusiness (no address), Service, FAQPage, BreadcrumbList, WebPage with about/mentions/citation.
+- Checks: audit 0 issues; reading grade 5.7–8.2 on money pages; no repeated 14+ word paragraphs; no horizontal scroll at 360/768/1280; no console errors.
+- Not yet added (by design, waits for later builds): "near you" location links on service pages (Build 4), "Helpful guides" cards and glossary links (Build 5).
+
 ## Coming
 | Build | Scope | Needs from owner |
 | --- | --- | --- |
-| 3 | Home page + Services hub + 10 service pages (per approved keyword map) | Plan approval |
 | 4 | Locations hub + 51 state hub pages | — |
 | 5 | Glossary (50+ terms) + Guides hub + first 10 guides | — |
 | 6 | Master city dataset (Census, NOAA, FEMA, EPA) + 50 metro hub pages | Data files (the workspace can't reach Census/NOAA directly) |
